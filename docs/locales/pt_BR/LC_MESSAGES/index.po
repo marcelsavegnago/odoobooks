@@ -3,29 +3,32 @@
 # This file is distributed under the same license as the Odoo package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, 2018.
 #
-#, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: Odoo 12.0\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-11-30 11:27-0200\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
+"PO-Revision-Date: 2018-11-30 11:37-0200\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Generated-By: Babel 2.3.4\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: pt_BR\n"
+"X-Generator: Poedit 2.2\n"
 
 #: ../../index.rst:11
 msgid "Odoo Online Book"
-msgstr ""
+msgstr "Odoo Livro Online"
 
 #: ../../index.rst:12
 msgid ""
-"This book is dedicated for entrepreneur who wants to implement all-in-one"
-" business application out-of-the box for their business."
+"This book is dedicated for entrepreneur who wants to implement all-in-"
+"one business application out-of-the box for their business."
 msgstr ""
+"Este livro é dedicado ao empreendedor que deseja implementar o "
+"aplicativo de negócios tudo em um para seus negócios."
 
 #: ../../index.rst:15
 msgid ""
@@ -44,14 +47,13 @@ msgstr ""
 
 #: ../../index.rst:24
 msgid ""
-"You can subscribe to `Youtube "
-"<https://www.youtube.com/c/MantavyaGajjar>`_ channel to receive an "
-"instance update about the new videos and pages on this book."
+"You can subscribe to `Youtube <https://www.youtube.com/c/"
+"MantavyaGajjar>`_ channel to receive an instance update about the new "
+"videos and pages on this book."
 msgstr ""
 
 #: ../../index.rst:27
 msgid ""
-"Search the topics by :ref:`genindex` or start reading the book by "
-":ref:`toc`."
+"Search the topics by :ref:`genindex` or start reading the book by :ref:"
+"`toc`."
 msgstr ""
-
