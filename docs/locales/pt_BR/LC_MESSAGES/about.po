@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: Odoo 12.0\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-11-30 11:27-0200\n"
-"PO-Revision-Date: 2018-11-30 14:48-0200\n"
+"PO-Revision-Date: 2018-11-30 16:16-0200\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -40,7 +40,7 @@ msgstr ""
 
 #: ../../about.rst:28
 msgid "Why this book?"
-msgstr ""
+msgstr "Porque este livro?"
 
 #: ../../about.rst:30
 msgid ""
@@ -51,10 +51,17 @@ msgid ""
 "its stable version every 12 to 15 months. The aim of this book is to "
 "guide you through step-by-step configuration for business problems."
 msgstr ""
+"Depois de escrever `Odoo 10 Implementation Cookbook <https://www."
+"packtpub.com/application-development/odoo-10-implementation-"
+"cookbook>`__, eu percebi que é muito difícil ter as últimas e mais "
+"recentes atualizações. livro impresso de cada versão para o aplicativo "
+"de negócios em rápida evolução. Odoo libera sua versão estável a cada 12 "
+"a 15 meses. O objetivo deste livro é guiá-lo através da configuração "
+"passo-a-passo para problemas de negócios."
 
 #: ../../about.rst:39
 msgid "Credits"
-msgstr ""
+msgstr "Créditos"
 
 #: ../../about.rst:41
 msgid ""
@@ -62,10 +69,13 @@ msgid ""
 "many pages/topics of this book was actually taken from https://www.odoo."
 "com/documentation."
 msgstr ""
+"Obrigado a todos os contribuidores do projeto Odoo Official "
+"Documentation, pois muitas páginas / tópicos deste livro foram tirados "
+"de https://www.odoo.com/documentation."
 
 #: ../../about.rst:46
 msgid "License"
-msgstr ""
+msgstr "Licença"
 
 #: ../../about.rst:48
 msgid ""
@@ -75,20 +85,27 @@ msgid ""
 "License. Please credits to https://odoobooks.com when using page(s) from "
 "Odoo Online Book."
 msgstr ""
+"Todas as páginas, imagens e vídeos do Odoo Books são livres para usar "
+"modificar e reutilizar no blog, fórum, plataforma de suporte, etc. Eles "
+"são fornecidos sob licença Creative Commons Attribution-NonCommercial-"
+"ShareAlike 4.0 Internacional. Por favor créditos para https://odoobooks."
+"com ao usar página (s) de Odoo Online Book."
 
 #: ../../about.rst:58
 msgid "Creative Commons License"
-msgstr ""
+msgstr "Creative Commons License"
 
 #: ../../about.rst:60
 msgid ""
 "Odoo Book is licensed under a Creative Commons Attribution-NonCommercial-"
 "ShareAlike 4.0 International License."
 msgstr ""
+"O Odoo Book está licenciado sob uma Licença Internacional Creative "
+"Commons Attribution-NonCommercial-ShareAlike 4.0."
 
 #: ../../about.rst:64
 msgid "Updates"
-msgstr ""
+msgstr "Atualizações"
 
 #: ../../about.rst:65
 msgid ""
@@ -96,16 +113,21 @@ msgid ""
 "MantavyaGajjar>`_ channel to receive an instance update about the new "
 "videos and pages on this book."
 msgstr ""
+"Você pode se inscrever no canal `Youtube <https://www.youtube.com/c/"
+"MantavyaGajjar>`_ para receber uma atualização de instância sobre os "
+"novos vídeos e páginas deste livro."
 
 #: ../../about.rst:68
 msgid ""
 "You can follow `Twitter <https://www.twitter.com/mantavyagajjar>`_ "
 "channel to get the updates about the book."
 msgstr ""
+"Você pode seguir o canal `Twitter <https://www.twitter.com/"
+"mantavyagajjar>`_ para obter as atualizações sobre o livro."
 
 #: ../../about.rst:72
 msgid "About the Author"
-msgstr ""
+msgstr "Sobre o Autor"
 
 #: ../../about.rst:74
 msgid ""
@@ -116,6 +138,13 @@ msgid ""
 "he started working for Axelor and TinyERP at Ahmadabad. He has initiated "
 "web client for TinyERP and mobile application project for Odoo."
 msgstr ""
+"Mantavya Gajjar tem mais de 12 anos de experiência em Odoo, a partir de "
+"TinyERP e OpenERP. Ele começou sua carreira como desenvolvedor, ele "
+"desenvolveu muitos novos recursos em TinyERP, OpenERP e Odoo. Ele tem "
+"graduação e pós-graduação em aplicações de computador de Gujarat "
+"Vidyapith. Em junho de 2006, ele começou a trabalhar para a Axelor e a "
+"TinyERP em Ahmedabad. Ele iniciou o Web client para TinyERP e o projeto "
+"de aplicativo móvel para o Odoo."
 
 #: ../../about.rst:81
 msgid ""
@@ -129,6 +158,15 @@ msgid ""
 "(Ahmadabad, Gujarat) is called the Hub of Odoo Developers, and over a "
 "thousand Odoo developers are available only in Gujarat."
 msgstr ""
+"Ele foi o primeiro funcionário internacional nomeado para estabelecer "
+"uma filial do TinyERP na Índia (Ahmadabad, Gujarat). Ele fez de tudo, "
+"desde registrar uma empresa jurídica até a instalação do escritório "
+"físico e recrutamento na Índia. Ele entrevistou mais de oito mil "
+"candidatos nos últimos 12 anos e selecionou e treinou mais de trezentos "
+"funcionários para a filial indiana. A maioria dos profissionais que "
+"trabalham em Odoo, na Índia, são treinados por ele. Como resultado, hoje "
+"a Índia (Ahmadabad, Gujarat) é chamada de Hub of Odoo Developers, e mais "
+"de mil desenvolvedores Odoo estão disponíveis apenas em Gujarat."
 
 #: ../../about.rst:91
 msgid ""
@@ -140,10 +178,18 @@ msgid ""
 "He also plays the role of a trustee member and treasurer at Gujarat "
 "Vidyapith Computer Science Alumni Association."
 msgstr ""
+"Mantavya está ativamente envolvida com muitas universidades na "
+"preparação e revisão do plano de estudos para os cursos de Computer "
+"Applications e Computer Science. Ele revisou milhares de projetos de "
+"estudantes acadêmicos. Como ex-aluno da Associação de Antigos Alunos da "
+"Ciência da Computação de Gujarat Vidyapith, ele contribui com seu tempo "
+"livre para várias atividades sociais. Ele também desempenha o papel de "
+"um membro fiduciário e tesoureiro da Gujarat Vidyapith Computer Science "
+"Alumni Association."
 
 #: ../../about.rst:100
 msgid "About the Reviewer"
-msgstr ""
+msgstr "Sobre o revisor"
 
 #: ../../about.rst:102
 msgid ""
@@ -155,6 +201,14 @@ msgid ""
 "7.0, 8.0, 9.0, 10.0, and 11.0. He has worked as a functional consultant "
 "(business analyst), training manager, and project manager."
 msgstr ""
+"Nikunj Jani obteve um mestrado em aplicações de computador em Gujarat, "
+"na Índia. Ele começou sua carreira em 2007 como engenheiro de software "
+"com um MNC chamado SATYAM COMPUTERS. Em 2009, ele se juntou à TinyERP, "
+"uma divisão da Odoo, SA na Índia como líder de equipe. Durante seu "
+"mandato de 8 + anos com Odoo, ele trabalhou com várias versões, "
+"incluindo 5.0, 6.0, 6.1, 7.0, 8.0, 9.0, 10.0 e 11.0. Ele trabalhou como "
+"consultor funcional (analista de negócios), gerente de treinamento e "
+"gerente de projetos."
 
 #: ../../about.rst:110
 msgid ""
@@ -163,6 +217,11 @@ msgid ""
 "enthusiast who has given 35+ international functional trainings/"
 "consultancies to Odoo partners, prospects, and end customers."
 msgstr ""
+"Atualmente, ele é o proprietário do produto e lidera uma equipe de "
+"testes e usabilidade em Odoo (Índia) para as próximas versões. Nikunj é "
+"um entusiasta do código aberto que já deu mais de 35 treinamentos / "
+"consultorias funcionais internacionais para parceiros, prospectos e "
+"clientes finais da Odoo."
 
 #: ../../about.rst:115
 msgid ""
@@ -170,10 +229,13 @@ msgid ""
 "include training, consultancy, analysis, project management, usability, "
 "and testing new features of Odoo."
 msgstr ""
+"Nikunj tem um total de 10 anos de experiência em TI, e suas "
+"especialidades incluem treinamento, consultoria, análise, gerenciamento "
+"de projetos, usabilidade e testes de novos recursos do Odoo."
 
 #: ../../about.rst:120
 msgid "Preface"
-msgstr ""
+msgstr "Prefácio"
 
 #: ../../about.rst:122
 msgid ""
@@ -182,10 +244,14 @@ msgid ""
 "this approach you can configure your Odoo online instance or Odoo.sh or "
 "locally installed Odoo on your server."
 msgstr ""
+"O livro online Odoo aborda as melhores práticas de implementação e "
+"abordagem para configurar os aplicativos de negócios prontos para o uso. "
+"Com essa abordagem, você pode configurar sua instância on-line do Odoo "
+"ou o Odoo.sh ou o Odoo instalado localmente em seu servidor."
 
 #: ../../about.rst:129
 msgid "Page structure"
-msgstr ""
+msgstr "Estrutura da página"
 
 #: ../../about.rst:131
 msgid ""
@@ -194,10 +260,15 @@ msgid ""
 "divides in the specific sections, each sections give you enough "
 "information to solve the business problem. The major sections as below."
 msgstr ""
+"Cada página única deste livro tem o business case em tempo real e como "
+"essa empresa pode ser configurada com os recursos padrão do Odoo. A "
+"página divide nas seções específicas, cada seção fornece informações "
+"suficientes para resolver o problema de negócios. As principais seções "
+"abaixo."
 
 #: ../../about.rst:137
 msgid "Problem statement"
-msgstr ""
+msgstr "Declaração do problema"
 
 #: ../../about.rst:139
 msgid ""
@@ -206,18 +277,23 @@ msgid ""
 "where it uses and which business requires to deal with such situation. "
 "Most of the problem statement are “how to ..” questions."
 msgstr ""
+"A página tem uma declaração de problema de linha única, como \"Crie "
+"minha primeira cotação\", forneça informações resumidas sobre a situação "
+"da empresa, onde ela é usada e quais empresas precisam lidar com essa "
+"situação. A maior parte da declaração do problema é \"como fazer\" "
+"perguntas."
 
 #: ../../about.rst:145
 msgid "Business case"
-msgstr ""
+msgstr "Caso de negócio"
 
 #: ../../about.rst:147
 msgid "This section gives you a real-life business case."
-msgstr ""
+msgstr "Esta seção oferece um caso de negócios da vida real."
 
 #: ../../about.rst:150
 msgid "Configuration"
-msgstr ""
+msgstr "Configuração"
 
 #: ../../about.rst:152
 msgid ""
@@ -225,10 +301,13 @@ msgid ""
 "fit the real-life business problem in Odoo using the standard features. "
 "Some of the page give you steps to configure the options."
 msgstr ""
+"estas seções fornecem uma configuração passo-a-passo, que ajuda você a "
+"ajustar o problema de negócios da vida real no Odoo usando os recursos "
+"padrão. Algumas das páginas fornecem etapas para configurar as opções."
 
 #: ../../about.rst:157
 msgid "Video"
-msgstr ""
+msgstr "Vídeo"
 
 #: ../../about.rst:159
 msgid ""
@@ -238,18 +317,24 @@ msgid ""
 "used in this book at `Youtube <https://www.youtube.com/c/"
 "MantavyaGajjar>`_."
 msgstr ""
+"Esta seção fornece um link no PDF ou vídeos incorporados no livro on-"
+"line, que mostra as etapas detalhadas de configuração e as etapas para "
+"executar o caso de negócios. Você pode ter acesso a todos os vídeos "
+"usados neste livro em `Youtube <https://www.youtube.com/c/"
+"MantavyaGajjar> `_."
 
 #: ../../about.rst:165
 msgid "See also"
-msgstr ""
+msgstr "Veja também"
 
 #: ../../about.rst:167
 msgid "This section has the useful links to the related business cases."
 msgstr ""
+"Esta seção tem os links úteis para os casos de negócios relacionados."
 
 #: ../../about.rst:170
 msgid "Conventions"
-msgstr ""
+msgstr "Convenções"
 
 #: ../../about.rst:172
 msgid ""
@@ -258,6 +343,10 @@ msgid ""
 "or static information available on the screen while *Italic text* always "
 "represents the value."
 msgstr ""
+"Existem diferentes estilos de texto, usados para diferenciar as "
+"informações, como **Texto em negrito** usado para nomear qualquer rótulo "
+"de tela, menus ou informações estáticas disponíveis na tela enquanto "
+"*Texto em itálico* sempre representa o valor."
 
 #: ../../about.rst:177
 msgid ""
@@ -265,3 +354,6 @@ msgid ""
 "understand the topics explain about the which business features and "
 "configuration."
 msgstr ""
+"As imagens são usadas para ilustrar a confirmação ou o resultado, você "
+"pode entender os tópicos que explicam sobre quais recursos e "
+"configurações de negócios."
