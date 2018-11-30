@@ -1,0 +1,59 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) Mantavya Gajjar
+# This file is distributed under the same license as the Odoo package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2018.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Odoo 12.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2018-11-30 11:27-0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.3.4\n"
+
+#: ../../toc.rst:4
+msgid "Table of Content"
+msgstr ""
+
+#: ../../toc.rst:5
+msgid ""
+"This book is dedicated for entrepreneur who wants to implement all-in-one"
+" business application out-of-the box for their business."
+msgstr ""
+
+#: ../../toc.rst:8
+msgid ""
+"**Odoo Book** is an online book written based on Community and Enterprise"
+" Edition. This book covers best implementation practice for most used "
+"applications such as Sales, Purchase, Inventory, Financial Accounting and"
+" Manufacturing."
+msgstr ""
+
+#: ../../toc.rst:13
+msgid ""
+"Please comment on the page below, if you have any question related to "
+"that topic. You can also send an email to mail@mantavyagajjar.in to "
+"propose new topics you would like to have on the book."
+msgstr ""
+
+#: ../../toc.rst:17
+msgid ""
+"You can subscribe to `Youtube "
+"<https://www.youtube.com/c/MantavyaGajjar>`_ channel to receive an "
+"instance update about the new videos and pages on this book."
+msgstr ""
+
+#: ../../toc.rst:20
+msgid ":ref:`toc`"
+msgstr ""
+
+#: ../../toc.rst:21
+msgid ":ref:`genindex`"
+msgstr ""
+

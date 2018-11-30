@@ -1,0 +1,611 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) Mantavya Gajjar
+# This file is distributed under the same license as the Odoo package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2018.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Odoo 12.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2018-11-30 11:27-0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.3.4\n"
+
+#: ../../inventory/amendment_delivery_order.rst:7
+msgid ""
+"How to amendment products on delivery order? (Installed only inventory "
+"application)"
+msgstr ""
+
+#: ../../inventory/amendment_delivery_order.rst:10
+#: ../../inventory/automatic_inventory_valuation/cost_of_goods_sold_kit_product.rst:10
+#: ../../inventory/automatic_inventory_valuation/cost_of_goods_sold_kit_product_enterprise.rst:10
+#: ../../inventory/automatic_inventory_valuation/standard_costing.rst:10
+#: ../../inventory/bom_stock.rst:11 ../../inventory/control_receipt.rst:12
+#: ../../inventory/delivery_address.rst:13
+#: ../../inventory/inventory_costing/average_costing.rst:38
+#: ../../inventory/inventory_costing/costing_at_averagr_price.rst:41
+#: ../../inventory/inventory_costing/fifo_costing_method.rst:35
+#: ../../inventory/inventory_costing/standard_costing.rst:37
+#: ../../inventory/inventory_valuation/manual_valuation_average_costing.rst:70
+#: ../../inventory/inventory_valuation/manual_valuation_fifo_costing.rst:40
+#: ../../inventory/inventory_valuation/manual_valuation_standard_costing.rst:70
+#: ../../inventory/minimum_stock_rule.rst:12
+#: ../../inventory/put_away_strategy.rst:12
+#: ../../inventory/setup/opening-inventory.rst:15
+msgid "Video"
+msgstr ""
+
+#: ../../inventory/amendment_delivery_order.rst:11
+msgid "Access the video at https://www.youtube.com/watch?v=qakpa5hy83k"
+msgstr ""
+
+#: ../../inventory/automatic_inventory_valuation/cost_of_goods_sold_kit_product.rst:7
+msgid ""
+"Compute cost of goods sold for a kit product using real price costing - "
+"Odoo 10.0 community"
+msgstr ""
+
+#: ../../inventory/automatic_inventory_valuation/cost_of_goods_sold_kit_product.rst:11
+msgid "Access the video at https://www.youtube.com/watch?v=6-KYnZOTO9A"
+msgstr ""
+
+#: ../../inventory/automatic_inventory_valuation/cost_of_goods_sold_kit_product_enterprise.rst:7
+msgid "Compute cost of goods sold for a kit product using standard costing method"
+msgstr ""
+
+#: ../../inventory/automatic_inventory_valuation/cost_of_goods_sold_kit_product_enterprise.rst:11
+#: ../../inventory/automatic_inventory_valuation/standard_costing.rst:11
+msgid "Access the video at https://www.youtube.com/watch?v=Ee-fR9o6tSk"
+msgstr ""
+
+#: ../../inventory/automatic_inventory_valuation/standard_costing.rst:7
+msgid "Automatic cost of cost goods sold when using standard costing method"
+msgstr ""
+
+#: ../../inventory/bom_stock.rst:8
+msgid "Compute stock for the kit product based on the component stock"
+msgstr ""
+
+#: ../../inventory/bom_stock.rst:12
+msgid "Access the video at https://www.youtube.com/watch?v=m7wjxc3Mbck"
+msgstr ""
+
+#: ../../inventory/control_receipt.rst:9
+msgid "How to control product received? (Receive entirely & partially)"
+msgstr ""
+
+#: ../../inventory/control_receipt.rst:13
+msgid "Access the video at https://www.youtube.com/watch?v=tpUsy1XNQak"
+msgstr ""
+
+#: ../../inventory/delivery_address.rst:10
+msgid "How to use different invoice and delivery addresses?"
+msgstr ""
+
+#: ../../inventory/delivery_address.rst:14
+msgid "Access the video at https://www.youtube.com/watch?v=fHp5-UUpt_U"
+msgstr ""
+
+#: ../../inventory/index.rst:7
+msgid "Inventory Management"
+msgstr ""
+
+#: ../../inventory/index.rst:10
+msgid "Setup"
+msgstr ""
+
+#: ../../inventory/index.rst:17
+msgid "Product & Stock"
+msgstr ""
+
+#: ../../inventory/index.rst:25
+msgid "Delivery Order"
+msgstr ""
+
+#: ../../inventory/index.rst:33
+msgid "Incoming Shipment"
+msgstr ""
+
+#: ../../inventory/index.rst:41
+msgid "Inventory Costing"
+msgstr ""
+
+#: ../../inventory/index.rst:48
+msgid "Inventory Valuation (Anglo-Saxons)"
+msgstr ""
+
+#: ../../inventory/index.rst:55
+msgid "Automatic Inventory Valuation (Anglo-Saxons)"
+msgstr ""
+
+#: ../../inventory/inventory_costing/average_costing.rst:7
+msgid ""
+"Compute sell price and margin based on product cost price (AVCO costing "
+"method)"
+msgstr ""
+
+#: ../../inventory/inventory_costing/average_costing.rst:8
+msgid ""
+"The most common business case where you want to decide the sell price "
+"based on your cost of of the product purchase price."
+msgstr ""
+
+#: ../../inventory/inventory_costing/average_costing.rst:12
+#: ../../inventory/inventory_costing/costing_at_averagr_price.rst:13
+#: ../../inventory/inventory_costing/standard_costing.rst:10
+#: ../../inventory/setup/opening-inventory.rst:11
+msgid "Business case"
+msgstr ""
+
+#: ../../inventory/inventory_costing/average_costing.rst:13
+msgid ""
+"The **My Company** is a distributor of *Laptop*, they purchase a laptop "
+"form the default supplier and sell to retail customers, there are "
+"sometime frequent price change, so **My Company** wants to setup the "
+"inventory costing and based on cost they can define the product they add "
+"35% margin and sell to their customers."
+msgstr ""
+
+#: ../../inventory/inventory_costing/average_costing.rst:19
+#: ../../inventory/inventory_costing/costing_at_averagr_price.rst:20
+#: ../../inventory/inventory_costing/fifo_costing_method.rst:15
+#: ../../inventory/inventory_costing/standard_costing.rst:19
+msgid "Configuration"
+msgstr ""
+
+#: ../../inventory/inventory_costing/average_costing.rst:20
+#: ../../inventory/inventory_costing/costing_at_averagr_price.rst:21
+#: ../../inventory/inventory_costing/fifo_costing_method.rst:16
+#: ../../inventory/inventory_costing/standard_costing.rst:20
+msgid ""
+"Install **Sales Management**, **Purchase Management** & **Accounting and "
+"Finance** apps"
+msgstr ""
+
+#: ../../inventory/inventory_costing/average_costing.rst:23
+#: ../../inventory/inventory_costing/costing_at_averagr_price.rst:24
+#: ../../inventory/inventory_costing/fifo_costing_method.rst:19
+#: ../../inventory/inventory_costing/standard_costing.rst:23
+msgid "Create a product *Laptop*"
+msgstr ""
+
+#: ../../inventory/inventory_costing/average_costing.rst:25
+#: ../../inventory/inventory_costing/costing_at_averagr_price.rst:26
+#: ../../inventory/inventory_costing/fifo_costing_method.rst:21
+msgid "Set the Internal Category to *All / Saleable*"
+msgstr ""
+
+#: ../../inventory/inventory_costing/average_costing.rst:27
+#: ../../inventory/inventory_costing/costing_at_averagr_price.rst:28
+#: ../../inventory/inventory_costing/fifo_costing_method.rst:23
+msgid ""
+"Set **Costing Method** to     *Average Cost (AVCO)* on *All / Saleable* "
+"category"
+msgstr ""
+
+#: ../../inventory/inventory_costing/average_costing.rst:29
+#: ../../inventory/inventory_costing/costing_at_averagr_price.rst:30
+#: ../../inventory/inventory_costing/fifo_costing_method.rst:25
+#: ../../inventory/inventory_costing/standard_costing.rst:29
+msgid "Define *Default Supplier* as a vendor with the cost price of *Laptop*."
+msgstr ""
+
+#: ../../inventory/inventory_costing/average_costing.rst:31
+msgid ""
+"Activate the **Multiple Sales Prices per Product** and **Margins** under "
+"the Sales / Configuration / Settings."
+msgstr ""
+
+#: ../../inventory/inventory_costing/average_costing.rst:34
+msgid ""
+"Change existing price list *Public Pricelist* and add new pricelist item,"
+" they increase the Laptop price by 35%."
+msgstr ""
+
+#: ../../inventory/inventory_costing/average_costing.rst:39
+msgid "Access the video at https://www.youtube.com/watch?v=SQC26XH-ebQ"
+msgstr ""
+
+#: ../../inventory/inventory_costing/costing_at_averagr_price.rst:7
+msgid "Compute the cost of product (average costing)"
+msgstr ""
+
+#: ../../inventory/inventory_costing/costing_at_averagr_price.rst:8
+msgid ""
+"The average costing method help you to decide the product sell price, "
+"each time you purchase the product new cost will be updated based on the "
+"existing stock and purchased stock value."
+msgstr ""
+
+#: ../../inventory/inventory_costing/costing_at_averagr_price.rst:14
+msgid ""
+"The **My Company** is a distributor of *Laptop*, they purchase a laptop "
+"form the default supplier and sell to retail customers, there are "
+"sometime frequent price change, so **My Company** wants to setup the "
+"inventory costing and based on average cost method."
+msgstr ""
+
+#: ../../inventory/inventory_costing/costing_at_averagr_price.rst:32
+msgid ""
+"Purchse 3 unit of Laptop at different rates, the product will be computed"
+" on each reception by doing an average based on the purchase price."
+msgstr ""
+
+#: ../../inventory/inventory_costing/costing_at_averagr_price.rst:35
+msgid ""
+"Assumed that you have a 10 unit of laptop cost of 8500 (the inventory "
+"value will be same as the cost), you purchase new 10 laptop at the price "
+"of 830 each. The new cost price will be computed by an averga of total "
+"cost vs units. 840 = (8500 + 8300) / 20 (10 existing stock + 10 new "
+"purchase)"
+msgstr ""
+
+#: ../../inventory/inventory_costing/costing_at_averagr_price.rst:42
+msgid "Access the video at https://www.youtube.com/watch?v=QjdRX6El-4M"
+msgstr ""
+
+#: ../../inventory/inventory_costing/costing_at_averagr_price.rst:52
+#: ../../inventory/inventory_costing/fifo_costing_method.rst:46
+msgid ":doc:`standard_costing`"
+msgstr ""
+
+#: ../../inventory/inventory_costing/costing_at_averagr_price.rst:53
+#: ../../inventory/inventory_costing/standard_costing.rst:49
+msgid ":doc:`fifo_costing_method`"
+msgstr ""
+
+#: ../../inventory/inventory_costing/costing_at_averagr_price.rst:54
+#: ../../inventory/inventory_costing/fifo_costing_method.rst:48
+#: ../../inventory/inventory_costing/standard_costing.rst:50
+msgid ":doc:`average_costing`"
+msgstr ""
+
+#: ../../inventory/inventory_costing/fifo_costing_method.rst:7
+msgid "Compute the cost of product (first in first out method)"
+msgstr ""
+
+#: ../../inventory/inventory_costing/fifo_costing_method.rst:8
+msgid ""
+"The fifo costing method help you to compute the accurate profit in the "
+"profit and loss account based on the all the purchase expense and sell "
+"price. You can add the landed cost (the cost of transportation) if you do"
+" a real time inventory valuation with fifo costing method. Each time you "
+"remove the products from warehouse the cost will be computed on the "
+"product **Cost** field"
+msgstr ""
+
+#: ../../inventory/inventory_costing/fifo_costing_method.rst:27
+msgid ""
+"Purchase 3 unit of Laptop at different rates, the product will be "
+"computed on each reception by doing an average based on the purchase "
+"price."
+msgstr ""
+
+#: ../../inventory/inventory_costing/fifo_costing_method.rst:30
+msgid ""
+"The FIFO is same as the Real price costing, follows the accounting FIFO "
+"and not forcing for warehouse FIFO removal strategy."
+msgstr ""
+
+#: ../../inventory/inventory_costing/fifo_costing_method.rst:36
+msgid "Access the video at https://www.youtube.com/watch?v=a8UXCiETC38"
+msgstr ""
+
+#: ../../inventory/inventory_costing/fifo_costing_method.rst:47
+#: ../../inventory/inventory_costing/standard_costing.rst:48
+msgid ":doc:`costing_at_averagr_price`"
+msgstr ""
+
+#: ../../inventory/inventory_costing/standard_costing.rst:7
+msgid "Compute the cost of product (standard price)"
+msgstr ""
+
+#: ../../inventory/inventory_costing/standard_costing.rst:11
+msgid ""
+"The **My Company** is a distributor of *Laptop*, they purchase a laptop "
+"form the default supplier and sell to retail customers, they do not "
+"maintain the stock, they always purchase on demand so **Standard "
+"pricing** is perfect costing method for them. Some times they benefit or "
+"loss if they have stock and product price change as they directly change "
+"the product cost price which impact on their inventory value."
+msgstr ""
+
+#: ../../inventory/inventory_costing/standard_costing.rst:25
+msgid "Set the Internal Category to *All / Saleable*."
+msgstr ""
+
+#: ../../inventory/inventory_costing/standard_costing.rst:27
+msgid "Default costing method on the category is Standard pricing."
+msgstr ""
+
+#: ../../inventory/inventory_costing/standard_costing.rst:31
+msgid ""
+"Purchse 2 unit of Laptop at different rate then the Standard price, "
+"inventory value will be computed based on the product Standard price "
+"field."
+msgstr ""
+
+#: ../../inventory/inventory_costing/standard_costing.rst:34
+msgid "This method is less useful in the real-life."
+msgstr ""
+
+#: ../../inventory/inventory_costing/standard_costing.rst:38
+msgid "Access the video at https://www.youtube.com/watch?v=TEHOwOjrRWM"
+msgstr ""
+
+#: ../../inventory/inventory_valuation/manual_valuation_average_costing.rst:6
+msgid ""
+"Compute the inventory valuation and cost of goods sold using average "
+"costing method"
+msgstr ""
+
+#: ../../inventory/inventory_valuation/manual_valuation_average_costing.rst:8
+#: ../../inventory/inventory_valuation/manual_valuation_fifo_costing.rst:8
+#: ../../inventory/inventory_valuation/manual_valuation_standard_costing.rst:8
+msgid ""
+"The manual inventory valuation method suggest that the valuation of an "
+"inventory has to be manage manually in financial accounting. The periodic"
+" journal entry has to be passed on regular internal so keep updated the "
+"valuation in balance sheet and cost of goods sold in profit and loss "
+"account."
+msgstr ""
+
+#: ../../inventory/inventory_valuation/manual_valuation_average_costing.rst:14
+#: ../../inventory/inventory_valuation/manual_valuation_fifo_costing.rst:14
+#: ../../inventory/inventory_valuation/manual_valuation_standard_costing.rst:14
+msgid "On every regular internal an accounting entry has to be passed as below:"
+msgstr ""
+
+#: ../../inventory/inventory_valuation/manual_valuation_average_costing.rst:17
+#: ../../inventory/inventory_valuation/manual_valuation_average_costing.rst:47
+#: ../../inventory/inventory_valuation/manual_valuation_average_costing.rst:62
+#: ../../inventory/inventory_valuation/manual_valuation_fifo_costing.rst:17
+#: ../../inventory/inventory_valuation/manual_valuation_standard_costing.rst:17
+#: ../../inventory/inventory_valuation/manual_valuation_standard_costing.rst:47
+#: ../../inventory/inventory_valuation/manual_valuation_standard_costing.rst:62
+msgid "**Description**"
+msgstr ""
+
+#: ../../inventory/inventory_valuation/manual_valuation_average_costing.rst:17
+#: ../../inventory/inventory_valuation/manual_valuation_average_costing.rst:47
+#: ../../inventory/inventory_valuation/manual_valuation_average_costing.rst:62
+#: ../../inventory/inventory_valuation/manual_valuation_fifo_costing.rst:17
+#: ../../inventory/inventory_valuation/manual_valuation_standard_costing.rst:17
+#: ../../inventory/inventory_valuation/manual_valuation_standard_costing.rst:47
+#: ../../inventory/inventory_valuation/manual_valuation_standard_costing.rst:62
+msgid "**Debit**"
+msgstr ""
+
+#: ../../inventory/inventory_valuation/manual_valuation_average_costing.rst:17
+#: ../../inventory/inventory_valuation/manual_valuation_average_costing.rst:47
+#: ../../inventory/inventory_valuation/manual_valuation_average_costing.rst:62
+#: ../../inventory/inventory_valuation/manual_valuation_fifo_costing.rst:17
+#: ../../inventory/inventory_valuation/manual_valuation_standard_costing.rst:17
+#: ../../inventory/inventory_valuation/manual_valuation_standard_costing.rst:47
+#: ../../inventory/inventory_valuation/manual_valuation_standard_costing.rst:62
+msgid "**Credit**"
+msgstr ""
+
+#: ../../inventory/inventory_valuation/manual_valuation_average_costing.rst:19
+#: ../../inventory/inventory_valuation/manual_valuation_average_costing.rst:49
+#: ../../inventory/inventory_valuation/manual_valuation_average_costing.rst:64
+#: ../../inventory/inventory_valuation/manual_valuation_fifo_costing.rst:19
+#: ../../inventory/inventory_valuation/manual_valuation_standard_costing.rst:19
+#: ../../inventory/inventory_valuation/manual_valuation_standard_costing.rst:49
+#: ../../inventory/inventory_valuation/manual_valuation_standard_costing.rst:64
+msgid "Inventory Valuation"
+msgstr ""
+
+#: ../../inventory/inventory_valuation/manual_valuation_average_costing.rst:19
+#: ../../inventory/inventory_valuation/manual_valuation_average_costing.rst:21
+#: ../../inventory/inventory_valuation/manual_valuation_average_costing.rst:49
+#: ../../inventory/inventory_valuation/manual_valuation_average_costing.rst:51
+#: ../../inventory/inventory_valuation/manual_valuation_average_costing.rst:64
+#: ../../inventory/inventory_valuation/manual_valuation_average_costing.rst:66
+#: ../../inventory/inventory_valuation/manual_valuation_fifo_costing.rst:19
+#: ../../inventory/inventory_valuation/manual_valuation_fifo_costing.rst:21
+#: ../../inventory/inventory_valuation/manual_valuation_standard_costing.rst:19
+#: ../../inventory/inventory_valuation/manual_valuation_standard_costing.rst:21
+#: ../../inventory/inventory_valuation/manual_valuation_standard_costing.rst:49
+#: ../../inventory/inventory_valuation/manual_valuation_standard_costing.rst:51
+#: ../../inventory/inventory_valuation/manual_valuation_standard_costing.rst:64
+#: ../../inventory/inventory_valuation/manual_valuation_standard_costing.rst:66
+msgid "800"
+msgstr ""
+
+#: ../../inventory/inventory_valuation/manual_valuation_average_costing.rst:21
+#: ../../inventory/inventory_valuation/manual_valuation_fifo_costing.rst:21
+#: ../../inventory/inventory_valuation/manual_valuation_standard_costing.rst:21
+msgid "Cost of Goods Sold"
+msgstr ""
+
+#: ../../inventory/inventory_valuation/manual_valuation_average_costing.rst:24
+#: ../../inventory/inventory_valuation/manual_valuation_fifo_costing.rst:24
+#: ../../inventory/inventory_valuation/manual_valuation_standard_costing.rst:24
+msgid "To compute the cost of goods sold use the below formula"
+msgstr ""
+
+#: ../../inventory/inventory_valuation/manual_valuation_average_costing.rst:26
+#: ../../inventory/inventory_valuation/manual_valuation_fifo_costing.rst:26
+#: ../../inventory/inventory_valuation/manual_valuation_standard_costing.rst:26
+msgid ""
+"``COGS = Inventory Valuation as per Balance sheet - Inventory Valuation "
+"as per Inventory``"
+msgstr ""
+
+#: ../../inventory/inventory_valuation/manual_valuation_average_costing.rst:30
+#: ../../inventory/inventory_valuation/manual_valuation_fifo_costing.rst:30
+#: ../../inventory/inventory_valuation/manual_valuation_standard_costing.rst:30
+msgid "Product Cost price"
+msgstr ""
+
+#: ../../inventory/inventory_valuation/manual_valuation_average_costing.rst:32
+msgid ""
+"As your inventory costing method is average, you are allowed to change "
+"the cost price of the product, assumed that you increase the cost price."
+msgstr ""
+
+#: ../../inventory/inventory_valuation/manual_valuation_average_costing.rst:35
+#: ../../inventory/inventory_valuation/manual_valuation_standard_costing.rst:35
+msgid ""
+"Make sure you change the cost price on the product once your valuation is"
+" equal for inventory and balance sheet, else you may have a wrong cost of"
+" goods sold entry."
+msgstr ""
+
+#: ../../inventory/inventory_valuation/manual_valuation_average_costing.rst:39
+#: ../../inventory/inventory_valuation/manual_valuation_standard_costing.rst:39
+msgid ""
+"When you see a COGS is having a negative value it means that your value "
+"of the inventory increased in warehouse this should be reflect in the "
+"balance sheet too."
+msgstr ""
+
+#: ../../inventory/inventory_valuation/manual_valuation_average_costing.rst:43
+#: ../../inventory/inventory_valuation/manual_valuation_standard_costing.rst:43
+msgid ""
+"To increase the value in balance sheet you have to pass below journal "
+"entry"
+msgstr ""
+
+#: ../../inventory/inventory_valuation/manual_valuation_average_costing.rst:51
+#: ../../inventory/inventory_valuation/manual_valuation_average_costing.rst:66
+#: ../../inventory/inventory_valuation/manual_valuation_standard_costing.rst:51
+#: ../../inventory/inventory_valuation/manual_valuation_standard_costing.rst:66
+msgid "Inventory Valuation Difference"
+msgstr ""
+
+#: ../../inventory/inventory_valuation/manual_valuation_average_costing.rst:54
+#: ../../inventory/inventory_valuation/manual_valuation_standard_costing.rst:54
+msgid ""
+"Or, when you see a COGS is having a positive value it means that your "
+"value of the inventory decreased in warehouse and this should be reflect "
+"in the balance sheet too."
+msgstr ""
+
+#: ../../inventory/inventory_valuation/manual_valuation_average_costing.rst:58
+#: ../../inventory/inventory_valuation/manual_valuation_standard_costing.rst:58
+msgid ""
+"To decrease the value in balance sheet you have to pass below journal "
+"entry"
+msgstr ""
+
+#: ../../inventory/inventory_valuation/manual_valuation_average_costing.rst:71
+msgid "Access the video at https://www.youtube.com/watch?v=aHa8jjJsEKA"
+msgstr ""
+
+#: ../../inventory/inventory_valuation/manual_valuation_average_costing.rst:81
+#: ../../inventory/inventory_valuation/manual_valuation_fifo_costing.rst:51
+#: ../../inventory/inventory_valuation/manual_valuation_standard_costing.rst:81
+msgid ":doc:`../inventory_costing/standard_costing`"
+msgstr ""
+
+#: ../../inventory/inventory_valuation/manual_valuation_average_costing.rst:82
+#: ../../inventory/inventory_valuation/manual_valuation_fifo_costing.rst:52
+#: ../../inventory/inventory_valuation/manual_valuation_standard_costing.rst:82
+msgid ":doc:`../inventory_costing/fifo_costing_method`"
+msgstr ""
+
+#: ../../inventory/inventory_valuation/manual_valuation_average_costing.rst:83
+#: ../../inventory/inventory_valuation/manual_valuation_fifo_costing.rst:53
+#: ../../inventory/inventory_valuation/manual_valuation_standard_costing.rst:83
+msgid ":doc:`../inventory_costing/average_costing`"
+msgstr ""
+
+#: ../../inventory/inventory_valuation/manual_valuation_average_costing.rst:84
+#: ../../inventory/inventory_valuation/manual_valuation_fifo_costing.rst:54
+msgid ":doc:`../inventory_valuation/manual_valuation_standard_costing`"
+msgstr ""
+
+#: ../../inventory/inventory_valuation/manual_valuation_average_costing.rst:85
+#: ../../inventory/inventory_valuation/manual_valuation_standard_costing.rst:84
+msgid ":doc:`../inventory_valuation/manual_valuation_fifo_costing`"
+msgstr ""
+
+#: ../../inventory/inventory_valuation/manual_valuation_fifo_costing.rst:6
+msgid ""
+"Compute the inventory valuation and cost of goods sold using fifo costing"
+" method"
+msgstr ""
+
+#: ../../inventory/inventory_valuation/manual_valuation_fifo_costing.rst:32
+msgid ""
+"The cost price on the product page always display the cost of last unit "
+"sold or consumed or scrapped from the stock. If you change that manually "
+"it will not make any changes in the system."
+msgstr ""
+
+#: ../../inventory/inventory_valuation/manual_valuation_fifo_costing.rst:36
+msgid ""
+"Hide the product cost field, if all of your products have FIFO as the "
+"inventory costing method, even-users will never get confused."
+msgstr ""
+
+#: ../../inventory/inventory_valuation/manual_valuation_fifo_costing.rst:41
+msgid "Access the video at https://www.youtube.com/watch?v=_TFhth_Uzc4"
+msgstr ""
+
+#: ../../inventory/inventory_valuation/manual_valuation_fifo_costing.rst:55
+#: ../../inventory/inventory_valuation/manual_valuation_standard_costing.rst:85
+msgid ":doc:`../inventory_valuation/manual_valuation_average_costing`"
+msgstr ""
+
+#: ../../inventory/inventory_valuation/manual_valuation_standard_costing.rst:6
+msgid ""
+"Compute the inventory valuation and cost of goods sold using standard "
+"costing"
+msgstr ""
+
+#: ../../inventory/inventory_valuation/manual_valuation_standard_costing.rst:32
+msgid ""
+"As your inventory costing method is standards, you are allowed to change "
+"the cost price of the product, assumed that you increase the cost price."
+msgstr ""
+
+#: ../../inventory/inventory_valuation/manual_valuation_standard_costing.rst:71
+msgid "Access the video at https://www.youtube.com/watch?v=pVsdiEl6OJw"
+msgstr ""
+
+#: ../../inventory/minimum_stock_rule.rst:9
+msgid "How to setup a minimum stock rule?"
+msgstr ""
+
+#: ../../inventory/minimum_stock_rule.rst:13
+msgid "Access the video at https://www.youtube.com/watch?v=4oN_81i1Qfs"
+msgstr ""
+
+#: ../../inventory/put_away_strategy.rst:9
+msgid ""
+"How to transfer dairy products to fridge (cold storage) when it arrives "
+"to inventory?"
+msgstr ""
+
+#: ../../inventory/put_away_strategy.rst:13
+msgid "Access the video at https://www.youtube.com/watch?v=zdybPdzdVNw"
+msgstr ""
+
+#: ../../inventory/setup/opening-inventory.rst:6
+msgid "Import the opening stock in warehouse"
+msgstr ""
+
+#: ../../inventory/setup/opening-inventory.rst:7
+msgid ""
+"The page explain you the process to import the opening stock when you "
+"want to start using an inventory application."
+msgstr ""
+
+#: ../../inventory/setup/opening-inventory.rst:12
+msgid "The *My Company* wants to import the current opening stock into inventory."
+msgstr ""
+
+#: ../../inventory/setup/opening-inventory.rst:16
+msgid "Access the video at https://www.youtube.com/watch?v=9BtcovM4W2A"
+msgstr ""
+

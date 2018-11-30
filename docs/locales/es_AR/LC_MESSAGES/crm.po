@@ -1,0 +1,1273 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) Mantavya Gajjar
+# This file is distributed under the same license as the Odoo package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2018.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Odoo 12.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2018-11-30 11:27-0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.3.4\n"
+
+#: ../../crm/acquire_leads/convert_lead.rst:6
+msgid "Convert leads into opportunities"
+msgstr ""
+
+#: ../../crm/acquire_leads/convert_lead.rst:8
+msgid ""
+"Opportunity is a qualified lead, specific deal has met certain criteria "
+"which indicate a high value to the business, or a high probability of "
+"closing but when you have details of your visitors, it is just a lead. "
+"You have to get the enough details form you visitors, if matches with "
+"your business interest you can convert them into opportunity."
+msgstr ""
+
+#: ../../crm/acquire_leads/convert_lead.rst:14
+msgid ""
+"You can collect the leads instead of creating an opportunity and setup "
+"the process to qualify those leads before you convert them into "
+"opportunity."
+msgstr ""
+
+#: ../../crm/acquire_leads/convert_lead.rst:19
+#: ../../crm/marketing_activity/active_lost_leads.rst:18
+#: ../../crm/marketing_activity/track_visitor.rst:21
+#: ../../crm/marketing_activity/visitor_to_opportunitie_conversion.rst:20
+#: ../../crm/organize_sales/assign_opportunities_automatic.rst:15
+#: ../../crm/organize_sales/lost_opportunities.rst:13
+#: ../../crm/organize_sales/multiple_sales_team.rst:15
+msgid "Business case"
+msgstr ""
+
+#: ../../crm/acquire_leads/convert_lead.rst:21
+msgid ""
+"Assumed that **My company** is collecting contacts of all the visitors, "
+"through contact us page or visitor tracking system. Create an leads from "
+"the contact information and qualify them before converting them into an "
+"opportunities."
+msgstr ""
+
+#: ../../crm/acquire_leads/convert_lead.rst:27
+#: ../../crm/acquire_leads/generate_lead_from_webstie.rst:13
+#: ../../crm/marketing_activity/active_lost_leads.rst:24
+#: ../../crm/marketing_activity/assign_leads_based_on_score.rst:16
+#: ../../crm/marketing_activity/lead_score_based_on_page_visited.rst:14
+#: ../../crm/marketing_activity/track_visitor.rst:31
+#: ../../crm/marketing_activity/visitor_to_opportunitie_conversion.rst:30
+#: ../../crm/organize_sales/assign_opportunities_automatic.rst:23
+#: ../../crm/organize_sales/multiple_sales_team.rst:22
+msgid "Configuration"
+msgstr ""
+
+#: ../../crm/acquire_leads/convert_lead.rst:29
+msgid ""
+"By default you have an opportunity created in the sales channel, you can "
+"have a leads when someone contact you on the website contact us page or "
+"send an email to sales@mycompany.com, to activate leads goto **CRM / "
+"Configuration / Settings** and activate the **Leads** feature."
+msgstr ""
+
+#: ../../crm/acquire_leads/convert_lead.rst:34
+#: ../../crm/acquire_leads/generate_from_email.rst:12
+#: ../../crm/acquire_leads/generate_lead_from_webstie.rst:18
+#: ../../crm/marketing_activity/active_lost_leads.rst:31
+#: ../../crm/marketing_activity/assign_leads_based_on_score.rst:21
+#: ../../crm/marketing_activity/lead_score_based_on_page_visited.rst:19
+#: ../../crm/marketing_activity/track_visitor.rst:37
+#: ../../crm/marketing_activity/visitor_to_opportunitie_conversion.rst:36
+#: ../../crm/organize_sales/assign_opportunities_automatic.rst:28
+#: ../../crm/organize_sales/lost_opportunities.rst:28
+#: ../../crm/organize_sales/multiple_sales_team.rst:34
+#: ../../crm/organize_sales/plan_activities.rst:17
+msgid "|image0|"
+msgstr ""
+
+#: ../../crm/acquire_leads/convert_lead.rst:36
+msgid ""
+"You will now have a new submenu **Leads** under **Pipeline** where they "
+"will aggregate."
+msgstr ""
+
+#: ../../crm/acquire_leads/convert_lead.rst:40
+msgid "Qualify Leads"
+msgstr ""
+
+#: ../../crm/acquire_leads/convert_lead.rst:42
+msgid ""
+"Send the mass mail on new leads received everyday, prepare a good "
+"description of your product service details in an email and try to get "
+"more information from leads and their expectations from your products or "
+"service."
+msgstr ""
+
+#: ../../crm/acquire_leads/convert_lead.rst:47
+#: ../../crm/acquire_leads/generate_from_email.rst:27
+#: ../../crm/acquire_leads/generate_lead_from_webstie.rst:26
+#: ../../crm/marketing_activity/active_lost_leads.rst:45
+#: ../../crm/marketing_activity/assign_leads_based_on_score.rst:41
+#: ../../crm/marketing_activity/lead_score_based_on_page_visited.rst:28
+#: ../../crm/marketing_activity/track_visitor.rst:50
+#: ../../crm/marketing_activity/visitor_to_opportunitie_conversion.rst:58
+#: ../../crm/organize_sales/assign_opportunities_automatic.rst:37
+#: ../../crm/organize_sales/lost_opportunities.rst:41
+#: ../../crm/organize_sales/multiple_sales_team.rst:45
+#: ../../crm/organize_sales/plan_activities.rst:25
+msgid "|image1|"
+msgstr ""
+
+#: ../../crm/acquire_leads/convert_lead.rst:49
+msgid ""
+"Define a good subject, include your product / service name into the [ ] "
+"square bracket, that make sure that your email will not go to the spam."
+msgstr ""
+
+#: ../../crm/acquire_leads/convert_lead.rst:53
+msgid ""
+"You can convert those leads into the opportunity, when your visitor reply"
+" to your email which was sent in mass mail."
+msgstr ""
+
+#: ../../crm/acquire_leads/convert_lead.rst:57
+msgid "Convert lead into an opportunity"
+msgstr ""
+
+#: ../../crm/acquire_leads/convert_lead.rst:59
+msgid ""
+"The leads can be converted to an opportunity either manually or automatic"
+" depending on the volume of leads you have."
+msgstr ""
+
+#: ../../crm/acquire_leads/convert_lead.rst:63
+msgid "Manual conversion"
+msgstr ""
+
+#: ../../crm/acquire_leads/convert_lead.rst:65
+msgid ""
+"Every day review your leads having reply from the prospects and convert "
+"all those leads into an opportunities. You can apply filter **Unread "
+"Messages**"
+msgstr ""
+
+#: ../../crm/acquire_leads/convert_lead.rst:69
+#: ../../crm/acquire_leads/generate_lead_from_webstie.rst:37
+#: ../../crm/marketing_activity/active_lost_leads.rst:60
+#: ../../crm/marketing_activity/lead_score_based_on_page_visited.rst:42
+#: ../../crm/marketing_activity/track_visitor.rst:63
+#: ../../crm/marketing_activity/visitor_to_opportunitie_conversion.rst:70
+#: ../../crm/organize_sales/assign_opportunities_automatic.rst:54
+#: ../../crm/organize_sales/lost_opportunities.rst:48
+#: ../../crm/organize_sales/multiple_sales_team.rst:55
+#: ../../crm/organize_sales/plan_activities.rst:31
+msgid "|image2|"
+msgstr ""
+
+#: ../../crm/acquire_leads/convert_lead.rst:71
+msgid ""
+"Open the wizard Convert to Opportunity wizard form the Action menu and "
+"you are ready to convert selected leads into opportunities."
+msgstr ""
+
+#: ../../crm/acquire_leads/convert_lead.rst:74
+#: ../../crm/acquire_leads/generate_lead_from_webstie.rst:50
+#: ../../crm/marketing_activity/active_lost_leads.rst:86
+#: ../../crm/marketing_activity/lead_score_based_on_page_visited.rst:67
+#: ../../crm/marketing_activity/visitor_to_opportunitie_conversion.rst:76
+#: ../../crm/organize_sales/assign_opportunities_automatic.rst:70
+#: ../../crm/organize_sales/lost_opportunities.rst:57
+#: ../../crm/organize_sales/multiple_sales_team.rst:61
+#: ../../crm/organize_sales/plan_activities.rst:39
+msgid "|image3|"
+msgstr ""
+
+#: ../../crm/acquire_leads/convert_lead.rst:76
+msgid ""
+"**Apply duplication** option will be selected automatically when system "
+"detect the duplicate leads in the system based on the email or phone "
+"number, duplicated leads will be displayed below form."
+msgstr ""
+
+#: ../../crm/acquire_leads/convert_lead.rst:80
+msgid ""
+"You can change the **Sales channel** if you would like to transfer the "
+"opportunity in other channel. You can choose either you would like to "
+"link the opportunity with customer by selecting existing or create a new "
+"or leave empty. You can create a customer later at the time of create a "
+"proposal for them."
+msgstr ""
+
+#: ../../crm/acquire_leads/convert_lead.rst:86
+msgid ""
+"The **Salesman** has to be assigned manually while converting leads into "
+"opportunity."
+msgstr ""
+
+#: ../../crm/acquire_leads/convert_lead.rst:90
+msgid "Automatic conversion"
+msgstr ""
+
+#: ../../crm/acquire_leads/convert_lead.rst:92
+msgid ""
+"The automatic conversion and assignation of the opportunity can be done "
+"with the help of Lead Score application. You have to install and "
+"configure the scoring rules and assignation rules in order to convert "
+"leads into opportunity and assign to the correct member in the team."
+msgstr ""
+
+#: ../../crm/acquire_leads/convert_lead.rst:97
+msgid ""
+"You can define domain on the sales channel which will fetch leads "
+"accordingly and convert it into the opportunity. The domain may include "
+"lead scores, page visited by visitor, and other information such as "
+"country, city, availability of the email or phone."
+msgstr ""
+
+#: ../../crm/acquire_leads/convert_lead.rst:102
+#: ../../crm/marketing_activity/assign_leads_based_on_score.rst:58
+msgid ""
+"Please go through **Automatic leads assignation to team members** topic "
+"in Customer Relationship Management section."
+msgstr ""
+
+#: ../../crm/acquire_leads/generate_from_email.rst:6
+#: ../../crm/marketing_activity/assign_leads_based_on_score.rst:28
+msgid "Generate leads/opportunities from emails"
+msgstr ""
+
+#: ../../crm/acquire_leads/generate_from_email.rst:8
+msgid ""
+"Every sales channel is capable create lead/opportunity form the incoming "
+"emails. You can define the email alias when that receive an email the "
+"lead/opportunity will be created in that sales channel."
+msgstr ""
+
+#: ../../crm/acquire_leads/generate_from_email.rst:14
+msgid ""
+"By default, any email sent to *sales@mycompany.com* will create an "
+"opportunity in the pipeline of the default sales channel."
+msgstr ""
+
+#: ../../crm/acquire_leads/generate_from_email.rst:18
+msgid "Configure email aliases"
+msgstr ""
+
+#: ../../crm/acquire_leads/generate_from_email.rst:20
+msgid ""
+"Each sales channel can have its own email alias, to generate "
+"leads/opportunities automatically assigned to it. It is useful if you "
+"manage several sales teams with specific business processes."
+msgstr ""
+
+#: ../../crm/acquire_leads/generate_from_email.rst:24
+msgid ""
+"You will find the configuration of sales channels under **Configuration /"
+" Sales Channels**."
+msgstr ""
+
+#: ../../crm/acquire_leads/generate_from_email.rst:30
+#: ../../crm/acquire_leads/generate_lead_from_webstie.rst:73
+#: ../../crm/organize_sales/assign_opportunities_automatic.rst:87
+#: ../../crm/organize_sales/lost_opportunities.rst:66
+#: ../../crm/organize_sales/plan_activities.rst:64
+#: ../../crm/organize_sales/plan_activities.rst:74
+msgid "Video"
+msgstr ""
+
+#: ../../crm/acquire_leads/generate_from_email.rst:31
+msgid "Access the video at https://www.youtube.com/watch?v=79OehLEHOYU"
+msgstr ""
+
+#: ../../crm/acquire_leads/generate_lead_from_webstie.rst:6
+#: ../../crm/marketing_activity/assign_leads_based_on_score.rst:30
+msgid "Generate leads/opportunities from your website contact page"
+msgstr ""
+
+#: ../../crm/acquire_leads/generate_lead_from_webstie.rst:8
+msgid ""
+"Automating the lead/opportunity generation will considerably improve your"
+" efficiency. Any visitor using the contact form on your website will "
+"create a lead/opportunity in the pipeline."
+msgstr ""
+
+#: ../../crm/acquire_leads/generate_lead_from_webstie.rst:15
+msgid ""
+"To activate the contact us page on your website you have to install the "
+"Contact Form application form the Apps."
+msgstr ""
+
+#: ../../crm/acquire_leads/generate_lead_from_webstie.rst:21
+#: ../../crm/acquire_leads/generate_lead_from_webstie.rst:45
+msgid "Contact us page"
+msgstr ""
+
+#: ../../crm/acquire_leads/generate_lead_from_webstie.rst:23
+msgid ""
+"You benefit from ready-to-use contact form on your Odoo website that will"
+" generate leads/opportunities automatically."
+msgstr ""
+
+#: ../../crm/acquire_leads/generate_lead_from_webstie.rst:29
+msgid "Default sales team"
+msgstr ""
+
+#: ../../crm/acquire_leads/generate_lead_from_webstie.rst:31
+msgid ""
+"Contact form creates an lead/opportunity into the specific sales channel,"
+" to change that specific sales channel, go to **Website / Configuration /"
+" Settings** under **Communication** section you will find the **Contact "
+"Form** info and where to change the default **Sales Channel** or "
+"**Salesperson**."
+msgstr ""
+
+#: ../../crm/acquire_leads/generate_lead_from_webstie.rst:39
+msgid ""
+"If the same visitors uses the contact form twice, the second information "
+"will be added to the first lead/opportunity in the chatter."
+msgstr ""
+
+#: ../../crm/acquire_leads/generate_lead_from_webstie.rst:47
+msgid ""
+"Let’s go and fill some information into the contact us page and submit "
+"the form."
+msgstr ""
+
+#: ../../crm/acquire_leads/generate_lead_from_webstie.rst:52
+msgid ""
+"Submit for form, visitor will get the **thank you** page having the "
+"emergency contact detail in case if they would like to connect quickly "
+"before sales people contact them."
+msgstr ""
+
+#: ../../crm/acquire_leads/generate_lead_from_webstie.rst:57
+msgid "Opportunity in the sales pipe"
+msgstr ""
+
+#: ../../crm/acquire_leads/generate_lead_from_webstie.rst:59
+msgid ""
+"The opportunity will be created in the default sales channel set on the "
+"configuration."
+msgstr ""
+
+#: ../../crm/acquire_leads/generate_lead_from_webstie.rst:62
+#: ../../crm/marketing_activity/lead_score_based_on_page_visited.rst:83
+#: ../../crm/marketing_activity/visitor_to_opportunitie_conversion.rst:86
+#: ../../crm/organize_sales/assign_opportunities_automatic.rst:84
+#: ../../crm/organize_sales/lost_opportunities.rst:63
+#: ../../crm/organize_sales/multiple_sales_team.rst:68
+#: ../../crm/organize_sales/plan_activities.rst:51
+msgid "|image4|"
+msgstr ""
+
+#: ../../crm/acquire_leads/generate_lead_from_webstie.rst:65
+msgid "Formatting the phone or mobile numbers"
+msgstr ""
+
+#: ../../crm/acquire_leads/generate_lead_from_webstie.rst:67
+msgid ""
+"Validate contact (phone,mobile) numbers and normalize them on leads and "
+"contacts, use the national format for your company country."
+msgstr ""
+
+#: ../../crm/acquire_leads/generate_lead_from_webstie.rst:70
+#: ../../crm/marketing_activity/visitor_to_opportunitie_conversion.rst:100
+#: ../../crm/organize_sales/multiple_sales_team.rst:77
+msgid "|image5|"
+msgstr ""
+
+#: ../../crm/acquire_leads/generate_lead_from_webstie.rst:74
+msgid "Access the video at https://www.youtube.com/watch?v=Q4FujRKnUHM"
+msgstr ""
+
+#: ../../crm/index.rst:7
+msgid "Customer Relationship Management"
+msgstr ""
+
+#: ../../crm/index.rst:10
+msgid "Organize the pipeline"
+msgstr ""
+
+#: ../../crm/index.rst:17
+msgid "Acquire leads"
+msgstr ""
+
+#: ../../crm/index.rst:24
+msgid "Marketing Activity"
+msgstr ""
+
+#: ../../crm/marketing_activity/active_lost_leads.rst:6
+msgid "Email marketing on the lost activity to reactive them"
+msgstr ""
+
+#: ../../crm/marketing_activity/active_lost_leads.rst:8
+msgid ""
+"Massmail is a great tool to send the bulk emails to your contacts. "
+"Reactive the old leads could bring your a business, nothing wrong to send"
+" them an email which could reactive opportunities from them lost once."
+msgstr ""
+
+#: ../../crm/marketing_activity/active_lost_leads.rst:13
+msgid ""
+"The correct reason required on the old leads before you send email to "
+"them, like discount on the product/service to only those customers who "
+"lost actually because of the budget."
+msgstr ""
+
+#: ../../crm/marketing_activity/active_lost_leads.rst:20
+#, python-format
+msgid ""
+"Let’s send the offer to have 20% discount on the product/service, who "
+"actually lost because they did not have a budget."
+msgstr ""
+
+#: ../../crm/marketing_activity/active_lost_leads.rst:26
+msgid ""
+"**Email Marketing** is a separate app required to be installed "
+"separately, this app is not limited to use with the CRM or Sales, It can "
+"be used to send the email in bulk for Recruitment, Mailing List, "
+"Participants of the Event, etc."
+msgstr ""
+
+#: ../../crm/marketing_activity/active_lost_leads.rst:34
+msgid "Create mass mail"
+msgstr ""
+
+#: ../../crm/marketing_activity/active_lost_leads.rst:36
+msgid ""
+"Create a mass mail from the Email Marketing / Mailings, you need an "
+"attractive subject, choose *Leads / Opportunity* in the **Recipients** "
+"field, below that you can actually defines the criteria to choose the "
+"leads / opportunities which will receive the email from this mass "
+"mailing."
+msgstr ""
+
+#: ../../crm/marketing_activity/active_lost_leads.rst:42
+msgid ""
+"I choose all the leads which was Lost and the reason for mark as lost "
+"because, they do not have Not enough budget."
+msgstr ""
+
+#: ../../crm/marketing_activity/active_lost_leads.rst:48
+msgid "Send Emails"
+msgstr ""
+
+#: ../../crm/marketing_activity/active_lost_leads.rst:50
+msgid ""
+"The process of sending an email takes time based on the number of email "
+"to send and how fast your email service provider."
+msgstr ""
+
+#: ../../crm/marketing_activity/active_lost_leads.rst:54
+msgid "Test before you send"
+msgstr ""
+
+#: ../../crm/marketing_activity/active_lost_leads.rst:56
+msgid ""
+"It is advisable to check how email looks in your mailbox before you send "
+"it to the prospects, you can check by sending a copy of the email to your"
+" own email account by clicking on **Test** button."
+msgstr ""
+
+#: ../../crm/marketing_activity/active_lost_leads.rst:63
+msgid "Send to all"
+msgstr ""
+
+#: ../../crm/marketing_activity/active_lost_leads.rst:65
+msgid ""
+"If you found the email looks well on your mailbox, you can send email to "
+"all the leads/opportunities who are selected on the mailing."
+msgstr ""
+
+#: ../../crm/marketing_activity/active_lost_leads.rst:68
+msgid ""
+"By default email marketing will be scheduled for the specific date and "
+"time and will be processed accordingly. Emails will be generated and "
+"queued in the system, automatic scheduler will process that email queue "
+"and send those emails."
+msgstr ""
+
+#: ../../crm/marketing_activity/active_lost_leads.rst:73
+msgid ""
+"Some mail marketing may take time to send the emails depending on the "
+"email providers, some email may go to spam if if your provider does not "
+"configure well or the subject and content of the email looks like a spam "
+"mail."
+msgstr ""
+
+#: ../../crm/marketing_activity/active_lost_leads.rst:79
+msgid "Statistics"
+msgstr ""
+
+#: ../../crm/marketing_activity/active_lost_leads.rst:81
+msgid ""
+"Statistics will be enabled as soon as schedule start processing the "
+"email, you can actually see the number of email sent, bounced, opened by "
+"the receiver, replied on that email or number of user clicks on the link "
+"if you attached any links in the email."
+msgstr ""
+
+#: ../../crm/marketing_activity/assign_leads_based_on_score.rst:6
+msgid "Assign leads based on scoring"
+msgstr ""
+
+#: ../../crm/marketing_activity/assign_leads_based_on_score.rst:8
+msgid ""
+"With Leads Scoring you can automatically rank your leads based on "
+"selected criterias. See how you can *measure the score for an opportunity"
+" based on the user behaviour on website.*"
+msgstr ""
+
+#: ../../crm/marketing_activity/assign_leads_based_on_score.rst:12
+msgid ""
+"For example you could score customers from your country higher or the "
+"ones that visited specific pages on your website."
+msgstr ""
+
+#: ../../crm/marketing_activity/assign_leads_based_on_score.rst:18
+#: ../../crm/organize_sales/assign_opportunities_automatic.rst:25
+msgid ""
+"Install a module **Lead Scoring** under your **Apps** page available in "
+"Odoo Enterprise only."
+msgstr ""
+
+#: ../../crm/marketing_activity/assign_leads_based_on_score.rst:24
+msgid "Generate Leads"
+msgstr ""
+
+#: ../../crm/marketing_activity/assign_leads_based_on_score.rst:26
+msgid "Leads/Opportunities can be generated through the below listed methods"
+msgstr ""
+
+#: ../../crm/marketing_activity/assign_leads_based_on_score.rst:33
+#: ../../crm/marketing_activity/lead_score_based_on_page_visited.rst:34
+msgid "Create scoring rules"
+msgstr ""
+
+#: ../../crm/marketing_activity/assign_leads_based_on_score.rst:35
+#: ../../crm/marketing_activity/lead_score_based_on_page_visited.rst:36
+msgid ""
+"You now have a new menu in your **CRM** app called **Leads Management / "
+"Scoring Rules** where you can manage your scoring rules. Here's an "
+"example for a *Pricing Page Score*, you can modify for whatever criteria "
+"you wish to score your leads on. You can add as many criterias as you "
+"wish."
+msgstr ""
+
+#: ../../crm/marketing_activity/assign_leads_based_on_score.rst:43
+msgid ""
+"Every hour every lead without a score will be automatically scanned and "
+"assigned their right score according to your scoring rules."
+msgstr ""
+
+#: ../../crm/marketing_activity/assign_leads_based_on_score.rst:47
+msgid "Assign leads"
+msgstr ""
+
+#: ../../crm/marketing_activity/assign_leads_based_on_score.rst:49
+msgid ""
+"Once the scores computed, leads can have enough information to classify "
+"that it is belongs to which sales team. Lead be assigned to specific "
+"teams using the same domain mechanism. To do so go to **CRM / Leads "
+"Management / Team Assignation** and apply a specific domain on each team."
+msgstr ""
+
+#: ../../crm/marketing_activity/assign_leads_based_on_score.rst:55
+msgid ""
+"This domain may include lead scores, page visited by visitor, and other "
+"information such as country, city, availability of the email or phone."
+msgstr ""
+
+#: ../../crm/marketing_activity/lead_score_based_on_page_visited.rst:6
+msgid ""
+"Measure the score for an opportunity based on the user behavior on your "
+"website"
+msgstr ""
+
+#: ../../crm/marketing_activity/lead_score_based_on_page_visited.rst:8
+msgid ""
+"Tracking your website pages will give you much more information about the"
+" interests of your website visitors. Every tracked page they visit will "
+"be recorded on your lead/opportunity if they use the contact form on your"
+" website."
+msgstr ""
+
+#: ../../crm/marketing_activity/lead_score_based_on_page_visited.rst:16
+msgid ""
+"To use this feature, install the module **Lead Scoring** under your Apps "
+"page available in Odoo Enterprise only."
+msgstr ""
+
+#: ../../crm/marketing_activity/lead_score_based_on_page_visited.rst:22
+msgid "Track a webpage"
+msgstr ""
+
+#: ../../crm/marketing_activity/lead_score_based_on_page_visited.rst:24
+msgid ""
+"You can track any static page you want on your website under the "
+"**Promote tab** you will find **Optimize SEO**. There you will see a "
+"**Track Page** checkbox to track this page."
+msgstr ""
+
+#: ../../crm/marketing_activity/lead_score_based_on_page_visited.rst:30
+msgid ""
+"You have to visit all the pages and enabled this option for individual "
+"pages you want to track on your website."
+msgstr ""
+
+#: ../../crm/marketing_activity/lead_score_based_on_page_visited.rst:44
+msgid ""
+"Every hour a new leads without a score will be automatically scanned and "
+"assigned their right score according to your scoring rules."
+msgstr ""
+
+#: ../../crm/marketing_activity/lead_score_based_on_page_visited.rst:47
+msgid ""
+"You can select **Event-based rule** for new rule you are about to create "
+"if you want to apply on all the existing leads which was previously "
+"computed."
+msgstr ""
+
+#: ../../crm/marketing_activity/lead_score_based_on_page_visited.rst:51
+msgid ""
+"**Value** on the score rules will be count cumulative to compute the "
+"leads/opportunities score when more then one rule found applied for the "
+"lead/opportunity."
+msgstr ""
+
+#: ../../crm/marketing_activity/lead_score_based_on_page_visited.rst:56
+msgid "See visited pages in opportunities"
+msgstr ""
+
+#: ../../crm/marketing_activity/lead_score_based_on_page_visited.rst:58
+msgid ""
+"Now each time a lead is created from the contact page it will keep track "
+"of the pages visited by that visitor. You have two ways to see those "
+"pages, on the top right corner of your lead/opportunity you can see a "
+"**Page Views** button but also further down you will see them in the "
+"chatter too."
+msgstr ""
+
+#: ../../crm/marketing_activity/lead_score_based_on_page_visited.rst:64
+msgid ""
+"Both will update if the viewers comes back to your website and visits "
+"more pages."
+msgstr ""
+
+#: ../../crm/marketing_activity/lead_score_based_on_page_visited.rst:69
+msgid ""
+"The feature will not repeat multiple viewings of the same pages in the "
+"chatter. Your customers will no longer be able to keep any secrets from "
+"you!"
+msgstr ""
+
+#: ../../crm/marketing_activity/lead_score_based_on_page_visited.rst:74
+msgid "Compute Score"
+msgstr ""
+
+#: ../../crm/marketing_activity/lead_score_based_on_page_visited.rst:76
+msgid ""
+"The scheduler executes every hours and compute the score for newly added "
+"lead/opportunity."
+msgstr ""
+
+#: ../../crm/marketing_activity/lead_score_based_on_page_visited.rst:79
+msgid ""
+"The **Scoring rules** will be applied those are matching with the "
+"lead/opportunities details and score will be the summation of values from"
+" all those rules."
+msgstr ""
+
+#: ../../crm/marketing_activity/track_visitor.rst:6
+msgid "Which marketing platform bring more visitors"
+msgstr ""
+
+#: ../../crm/marketing_activity/track_visitor.rst:8
+#: ../../crm/marketing_activity/visitor_to_opportunitie_conversion.rst:8
+msgid ""
+"The biggest challenge for every business is *how do I drive more traffic "
+"to my online store?*, If you able to get the visitor you can convert them"
+" into customers. There are many ways to increase the visitors, advertise "
+"on the social media marketing is one of the proven way to get attract "
+"move visitor."
+msgstr ""
+
+#: ../../crm/marketing_activity/track_visitor.rst:14
+msgid ""
+"But the questions is *which social media can bring more visitor and where"
+" to invest?*, depending on your product and consumer you should choose "
+"the social media platform to invest for the marketing, still it is worth "
+"to track which marketing platform bring how many users on your website."
+msgstr ""
+
+#: ../../crm/marketing_activity/track_visitor.rst:23
+msgid ""
+"The *My Company* is running a electronic ecommerce store, they want to "
+"invest in the paid marketing on different social media platform such as "
+"Facebook, Pinterest, Instagram and Google."
+msgstr ""
+
+#: ../../crm/marketing_activity/track_visitor.rst:27
+msgid ""
+"The want to see which marketing platform drives how many new users so "
+"that they can focus more on the platform which brings more traffic."
+msgstr ""
+
+#: ../../crm/marketing_activity/track_visitor.rst:33
+#: ../../crm/marketing_activity/visitor_to_opportunitie_conversion.rst:32
+msgid ""
+"Assumed that the **Website Builder** and **eCommerce** applications are "
+"already installed. What we need is an Link tracker application which is "
+"supporting application to the website."
+msgstr ""
+
+#: ../../crm/marketing_activity/track_visitor.rst:39
+msgid ""
+"Install the Website Link Tracker application if it is not installed "
+"automatically."
+msgstr ""
+
+#: ../../crm/marketing_activity/track_visitor.rst:43
+#: ../../crm/marketing_activity/visitor_to_opportunitie_conversion.rst:79
+msgid "Create a link to share"
+msgstr ""
+
+#: ../../crm/marketing_activity/track_visitor.rst:45
+#: ../../crm/marketing_activity/visitor_to_opportunitie_conversion.rst:81
+msgid ""
+"You can share any website page from your website with the link tracker, "
+"It can be a Product, Shop, Home Page, Job Post or News from the Blogs. To"
+" create a sharable link that generates statistics, visit that page and go"
+" to **Promote / Track this Page**."
+msgstr ""
+
+#: ../../crm/marketing_activity/track_visitor.rst:52
+#: ../../crm/marketing_activity/visitor_to_opportunitie_conversion.rst:88
+msgid ""
+"Click on the **Get tracked link** button will generate the link that can "
+"be share and that link generates the statistical analysis, such as how "
+"many people visited by date, and form which country."
+msgstr ""
+
+#: ../../crm/marketing_activity/track_visitor.rst:56
+msgid ""
+"To generate the correct statistics, you have to set up Odoo correctly on "
+"reverse proxy and GeoIP data on Nginx. If not configure correctly you may"
+" get the number of visits but not the country information."
+msgstr ""
+
+#: ../../crm/marketing_activity/track_visitor.rst:61
+msgid "The statistics will be looks as below."
+msgstr ""
+
+#: ../../crm/marketing_activity/visitor_to_opportunitie_conversion.rst:6
+msgid "Measure which marketing campaign creates more opportunities"
+msgstr ""
+
+#: ../../crm/marketing_activity/visitor_to_opportunitie_conversion.rst:14
+msgid ""
+"But the questions is *which social media can bring more opportunities to "
+"me?*, depending on your product and consumer you should choose the social"
+" media platform to invest for the marketing, still it is worth to track "
+"which marketing platform bring how many users on your website."
+msgstr ""
+
+#: ../../crm/marketing_activity/visitor_to_opportunitie_conversion.rst:22
+msgid ""
+"The *My Company* is running a electronic eCommerce store, they want to "
+"invest in the paid marketing on different social media platform such as "
+"Facebook, Pinterest, Instagram and Google."
+msgstr ""
+
+#: ../../crm/marketing_activity/visitor_to_opportunitie_conversion.rst:26
+msgid ""
+"The want to see *which marketing platform how many new opportunities?* so"
+" that they can focus more on the platform which brings more business."
+msgstr ""
+
+#: ../../crm/marketing_activity/visitor_to_opportunitie_conversion.rst:38
+msgid ""
+"Install the **Website Link Tracker** application if it is not installed "
+"automatically."
+msgstr ""
+
+#: ../../crm/marketing_activity/visitor_to_opportunitie_conversion.rst:42
+msgid "Contact us form"
+msgstr ""
+
+#: ../../crm/marketing_activity/visitor_to_opportunitie_conversion.rst:44
+msgid ""
+"Install the contact us form on the website, so that when user fill the "
+"contact detail to get more information about the product, you can have an"
+" opportunity created in the CRM application."
+msgstr ""
+
+#: ../../crm/marketing_activity/visitor_to_opportunitie_conversion.rst:48
+msgid ""
+"Generate leads/opportunities from your website contact page - "
+"https://odoobooks.com/en/11.0/crm/generate_lead_from_webstie.html"
+msgstr ""
+
+#: ../../crm/marketing_activity/visitor_to_opportunitie_conversion.rst:52
+msgid "Form Builder"
+msgstr ""
+
+#: ../../crm/marketing_activity/visitor_to_opportunitie_conversion.rst:54
+msgid ""
+"It would be great if you will be able to add the contact us form on any "
+"other webpages in your website, it will allows user to make a quick "
+"contact to you."
+msgstr ""
+
+#: ../../crm/marketing_activity/visitor_to_opportunitie_conversion.rst:60
+msgid ""
+"As soon as the application installed you will see a new widget on the "
+"website called Form Builder."
+msgstr ""
+
+#: ../../crm/marketing_activity/visitor_to_opportunitie_conversion.rst:64
+msgid "Add contact us form on product page"
+msgstr ""
+
+#: ../../crm/marketing_activity/visitor_to_opportunitie_conversion.rst:66
+msgid ""
+"You can add the contact us page on the frequently sold product page, "
+"which help us to generate the leads. Drag and drop the **Form builder** "
+"widget, select the option Create a lead."
+msgstr ""
+
+#: ../../crm/marketing_activity/visitor_to_opportunitie_conversion.rst:72
+msgid ""
+"The default fields will be added to the screen, **Opportunity**, you can "
+"change the label to **Subject** and add additional fields from the widget"
+" customization option, such as Name, Email and Mobile."
+msgstr ""
+
+#: ../../crm/marketing_activity/visitor_to_opportunitie_conversion.rst:93
+msgid "Creating an opportunities"
+msgstr ""
+
+#: ../../crm/marketing_activity/visitor_to_opportunitie_conversion.rst:95
+msgid ""
+"Visitor visit the page through the link you shared on the **Google "
+"Searching**, the visitor will be tracked and same information will be "
+"attached to the **Campaign**, **Medium** and **Source**, when "
+"opportunities created."
+msgstr ""
+
+#: ../../crm/marketing_activity/visitor_to_opportunitie_conversion.rst:103
+msgid "Campaign Analysis"
+msgstr ""
+
+#: ../../crm/marketing_activity/visitor_to_opportunitie_conversion.rst:105
+msgid ""
+"The number of opportunities can be grouped by the **Source** and "
+"**Medium** to check which platform bring how many opportunities coming "
+"from which marketing platform."
+msgstr ""
+
+#: ../../crm/marketing_activity/visitor_to_opportunitie_conversion.rst:109
+#: ../../crm/organize_sales/multiple_sales_team.rst:89
+msgid "|image6|"
+msgstr ""
+
+#: ../../crm/marketing_activity/visitor_to_opportunitie_conversion.rst:111
+msgid ""
+"Can be analysed in detail by applying group by **Source** and then "
+"**Medium**. It will give us more clear view on from where the "
+"opportunities coming from."
+msgstr ""
+
+#: ../../crm/marketing_activity/visitor_to_opportunitie_conversion.rst:115
+msgid "|image7|"
+msgstr ""
+
+#: ../../crm/organize_sales/assign_opportunities_automatic.rst:6
+msgid "Automatic leads assignation to team members"
+msgstr ""
+
+#: ../../crm/organize_sales/assign_opportunities_automatic.rst:8
+msgid ""
+"There are multiple sales people working within the sales team, the number"
+" of leads increased you have to increased the number of people to work "
+"on. The problem starts for the team manager to assign the leads to them "
+"when team grows, let’s see how you can make the team manager life easy "
+"with automatic leads assignation."
+msgstr ""
+
+#: ../../crm/organize_sales/assign_opportunities_automatic.rst:17
+msgid ""
+"The company have a increased the team size to process the maximum leads "
+"per day as they start getting many new leads. They would like to first "
+"convert leads into opportunity and assign to the team members within "
+"team."
+msgstr ""
+
+#: ../../crm/organize_sales/assign_opportunities_automatic.rst:31
+msgid "Qualification step before creating an opportunity"
+msgstr ""
+
+#: ../../crm/organize_sales/assign_opportunities_automatic.rst:33
+msgid ""
+"The default sales activity is managed with the opportunity pipeline, you "
+"can change that to add the qualification stage before creating an "
+"opportunity."
+msgstr ""
+
+#: ../../crm/organize_sales/assign_opportunities_automatic.rst:39
+msgid ""
+"Assumed that you start getting leads into the team, by default all those "
+"leads are unassigned."
+msgstr ""
+
+#: ../../crm/organize_sales/assign_opportunities_automatic.rst:43
+#: ../../crm/organize_sales/multiple_sales_team.rst:37
+msgid "Add members to your sales channel"
+msgstr ""
+
+#: ../../crm/organize_sales/assign_opportunities_automatic.rst:45
+msgid ""
+"You can add members to the sales team; that way those members will see "
+"the pipeline structure of the sales team when opening it. Any "
+"lead/opportunity assigned to them will link to the sales team. Therefore,"
+" you can only be a member of one channel."
+msgstr ""
+
+#: ../../crm/organize_sales/assign_opportunities_automatic.rst:50
+msgid ""
+"You can define maximum leads that should be assigned to the member within"
+" 30 days, this will ease the process of assigning the leads to the member"
+" easily."
+msgstr ""
+
+#: ../../crm/organize_sales/assign_opportunities_automatic.rst:56
+msgid ""
+"You can also add the specific domain on each user to be sure that each "
+"user get the specific leads to work on based on their expertise or "
+"country, etc…"
+msgstr ""
+
+#: ../../crm/organize_sales/assign_opportunities_automatic.rst:60
+msgid ""
+"You can define the size of batch using system parameters "
+"*website_crm_score.bundle_size* that defines the number of leads going to"
+" be process on each lead assignation schedule."
+msgstr ""
+
+#: ../../crm/organize_sales/assign_opportunities_automatic.rst:65
+msgid "Activate the lead assignation scheduler"
+msgstr ""
+
+#: ../../crm/organize_sales/assign_opportunities_automatic.rst:67
+msgid ""
+"Enable into the debug mode and goto Schedule Action form home screen, "
+"just type the word."
+msgstr ""
+
+#: ../../crm/organize_sales/assign_opportunities_automatic.rst:72
+msgid ""
+"Search for the *Crm Score: lead assignation* and **Switch On** the "
+"schedule action, it will automatically process 50 leads every day. If you"
+" want to assign frequent you can switch to Hours instead of Days."
+msgstr ""
+
+#: ../../crm/organize_sales/assign_opportunities_automatic.rst:76
+msgid ""
+"You can check leads assignation manually by clicking on the Run Manually "
+"button on the schedule action."
+msgstr ""
+
+#: ../../crm/organize_sales/assign_opportunities_automatic.rst:79
+msgid ""
+"As soon as the number of leads increase, on each schedule action you have"
+" to process more leads, you can do it by setting the system parameters. "
+"Create a new system parameters with key *website_crm_score.bundle_size* "
+"and set the value."
+msgstr ""
+
+#: ../../crm/organize_sales/assign_opportunities_automatic.rst:88
+msgid ""
+"Access the video at "
+"https://drive.google.com/file/d/1EJsfk3MtppcdyzhB_xCvHqC05ZNkPSRj/preview"
+msgstr ""
+
+#: ../../crm/organize_sales/lost_opportunities.rst:6
+msgid "Manage lost opportunities"
+msgstr ""
+
+#: ../../crm/organize_sales/lost_opportunities.rst:8
+msgid ""
+"While working with your opportunities, you might lose some of them. You "
+"may want to keep track of those opportunities with the reasons you lost "
+"them and also the ways to recover them in the future."
+msgstr ""
+
+#: ../../crm/organize_sales/lost_opportunities.rst:15
+msgid ""
+"The company planning to revised the price of the product they are selling"
+" and they would like to make a test offer or announcement about the to "
+"the opportunity who lost because of the reason “\\ *Too Expensive*\\ ”."
+msgstr ""
+
+#: ../../crm/organize_sales/lost_opportunities.rst:21
+msgid "Mark an opportunity as lost"
+msgstr ""
+
+#: ../../crm/organize_sales/lost_opportunities.rst:23
+msgid ""
+"While in your pipeline, select any opportunity you have to mark as lort, "
+"you will see a **Mark Lost** button, by clicking on that you have to "
+"select the lost reason, that can then select an existing **Lost Reason** "
+"or create a new one right there."
+msgstr ""
+
+#: ../../crm/organize_sales/lost_opportunities.rst:30
+msgid ""
+"You will find your **Lost Reasons** under **Configuration / Lost "
+"Reasons**. You can manage the reasons from if you want to better organize"
+" the lost reason."
+msgstr ""
+
+#: ../../crm/organize_sales/lost_opportunities.rst:35
+msgid "Retrieve lost opportunities"
+msgstr ""
+
+#: ../../crm/organize_sales/lost_opportunities.rst:37
+msgid ""
+"To retrieve lost opportunities and do actions on them (send an email, "
+"make a feedback call, etc.), select the **Lost** filter in the search "
+"bar."
+msgstr ""
+
+#: ../../crm/organize_sales/lost_opportunities.rst:43
+msgid ""
+"You will then see all your lost opportunities. If you want to refine them"
+" further, you can add a filter on the **Lost Reason**."
+msgstr ""
+
+#: ../../crm/organize_sales/lost_opportunities.rst:46
+msgid "For Example, *Too Expensive*."
+msgstr ""
+
+#: ../../crm/organize_sales/lost_opportunities.rst:51
+msgid "Restore lost opportunities"
+msgstr ""
+
+#: ../../crm/organize_sales/lost_opportunities.rst:53
+msgid ""
+"From the kanban view with the filter(s) in place, you can select any "
+"opportunity you wish and work on it as usual. You can also restore it by "
+"clicking on **Archived**."
+msgstr ""
+
+#: ../../crm/organize_sales/lost_opportunities.rst:59
+msgid ""
+"You can switch to **List View** select the opportunities you want to "
+"restore, from Action click on Unarchive to restore multiple opportunities"
+" at once."
+msgstr ""
+
+#: ../../crm/organize_sales/lost_opportunities.rst:67
+msgid ""
+"Access the video at "
+"https://drive.google.com/file/d/1Q_3SkHgHap_a7zUXGTyjDaaYVzotqOxa/preview"
+msgstr ""
+
+#: ../../crm/organize_sales/multiple_sales_team.rst:7
+msgid "Manage multiple sales teams"
+msgstr ""
+
+#: ../../crm/organize_sales/multiple_sales_team.rst:9
+msgid ""
+"You can spread your sales activities into the multiple sale teams "
+"depending on the product, service or region, the purpose of setting "
+"different sales team might also be to setup the different sales process "
+"too."
+msgstr ""
+
+#: ../../crm/organize_sales/multiple_sales_team.rst:17
+msgid ""
+"The company have a different customer segments **retailer** and "
+"**distributors** and they wants to manage through different set of people"
+" as the business rules are different along with the sales tactics."
+msgstr ""
+
+#: ../../crm/organize_sales/multiple_sales_team.rst:24
+msgid "Assumed that the **CRM** application is installed."
+msgstr ""
+
+#: ../../crm/organize_sales/multiple_sales_team.rst:27
+msgid "Create a new sales channel"
+msgstr ""
+
+#: ../../crm/organize_sales/multiple_sales_team.rst:29
+msgid ""
+"To create a new **Sales Channel,** goto **Configuration / Sales "
+"Channels** under the **CRM** Application. There you can set an email "
+"alias to it, every message sent to that email address will create a "
+"lead/opportunity under that sale team."
+msgstr ""
+
+#: ../../crm/organize_sales/multiple_sales_team.rst:39
+msgid ""
+"You can add members to any channel; that way those members will see the "
+"pipeline structure of the sales channel when opening it. Any "
+"lead/opportunity assigned to them will link to the sales channel. "
+"Therefore, you can only be a member of one channel. This will ease the "
+"process review of the team manager."
+msgstr ""
+
+#: ../../crm/organize_sales/multiple_sales_team.rst:48
+msgid "Channel specific sales stages"
+msgstr ""
+
+#: ../../crm/organize_sales/multiple_sales_team.rst:50
+msgid ""
+"To jump to the stages for the specific sales challen goto **Reporting / "
+"Sales Channels** under the **CRM** Application, click on the Pipeline to "
+"see the sales process for the specific sales team. The default stages "
+"will be looking as below."
+msgstr ""
+
+#: ../../crm/organize_sales/multiple_sales_team.rst:57
+msgid ""
+"Click on the **Add new column** to create a new stage in the sales team, "
+"lets create **Qualified Sponsor** stage and drag and drop between the "
+"**Qualified** and **Proposition** stage."
+msgstr ""
+
+#: ../../crm/organize_sales/multiple_sales_team.rst:63
+msgid ""
+"The stage can be set for the specific team by adding **Team** on the "
+"configuration of that stage. Click on the gear icon to **Edit Stage**, by"
+" default this stage will be available to all the sales channel, when no "
+"**Team** set on stage."
+msgstr ""
+
+#: ../../crm/organize_sales/multiple_sales_team.rst:71
+msgid "Sales channel dashboard"
+msgstr ""
+
+#: ../../crm/organize_sales/multiple_sales_team.rst:73
+msgid ""
+"To see the operations and results of all the sales channel at a glance, "
+"the sales manager has an access to the **Sales Channel Dashboard** under "
+"**Reporting**."
+msgstr ""
+
+#: ../../crm/organize_sales/multiple_sales_team.rst:79
+msgid ""
+"It is shared with the whole ecosystem so every revenue stream is included"
+" in it: Sales, eCommerce, PoS, etc."
+msgstr ""
+
+#: ../../crm/organize_sales/multiple_sales_team.rst:83
+msgid "Sales pipe for specific channel"
+msgstr ""
+
+#: ../../crm/organize_sales/multiple_sales_team.rst:85
+msgid ""
+"Click on the **Pipeline** button on sales channel to see the sales pipe "
+"for any specific channel, you will find all of its opportunities related "
+"to that sales channel."
+msgstr ""
+
+#: ../../crm/organize_sales/multiple_sales_team.rst:91
+msgid ""
+"Lead score is an application which help you to assign the leads to the "
+"respective team members with in team."
+msgstr ""
+
+#: ../../crm/organize_sales/plan_activities.rst:8
+msgid "Get organized by planning activities"
+msgstr ""
+
+#: ../../crm/organize_sales/plan_activities.rst:10
+msgid ""
+"Planning activities is the perfect way to keep on track of your work. Get"
+" reminded of what needs to be done and schedule the next activities to "
+"undertake."
+msgstr ""
+
+#: ../../crm/organize_sales/plan_activities.rst:14
+msgid ""
+"Your activities are available wherever you are in Odoo. It is easy to "
+"manage the priorities of your work."
+msgstr ""
+
+#: ../../crm/organize_sales/plan_activities.rst:20
+msgid "Track activities"
+msgstr ""
+
+#: ../../crm/organize_sales/plan_activities.rst:22
+msgid ""
+"Activities can be tracked on every single document, Here is an example "
+"for opportunities:"
+msgstr ""
+
+#: ../../crm/organize_sales/plan_activities.rst:27
+msgid ""
+"You can have a activities which are due, or to be performed today or in "
+"future, this can be tracked on two places, kanban card or below the form "
+"view."
+msgstr ""
+
+#: ../../crm/organize_sales/plan_activities.rst:34
+msgid "Schedule next activity"
+msgstr ""
+
+#: ../../crm/organize_sales/plan_activities.rst:36
+msgid ""
+"Activities can be planned and managed from the chatters or from the "
+"kanban views on opportunity card."
+msgstr ""
+
+#: ../../crm/organize_sales/plan_activities.rst:41
+msgid ""
+"The first activity can be schedule or new activity can be scheduled as "
+"soon as you complete the first one."
+msgstr ""
+
+#: ../../crm/organize_sales/plan_activities.rst:45
+msgid "Set your activity types"
+msgstr ""
+
+#: ../../crm/organize_sales/plan_activities.rst:47
+msgid ""
+"A number of generic activities types are available by default in Odoo "
+"(e.g. call, email, meeting, etc.). If you would like to set new ones, go "
+"to **Settings / General settings / Activity** types."
+msgstr ""
+
+#: ../../crm/organize_sales/plan_activities.rst:53
+msgid ""
+"The next activity “\\ *Call*\\ ” will be propose, when you fill finish "
+"the “\\ *Email*\\ ” activity."
+msgstr ""
+
+#: ../../crm/organize_sales/plan_activities.rst:57
+msgid "Schedule meetings"
+msgstr ""
+
+#: ../../crm/organize_sales/plan_activities.rst:59
+msgid ""
+"Activities are planned for specific days. If you need to set hours, go "
+"with the Meeting activity type. When scheduling one, the calendar will "
+"simply open to let you select a time slot."
+msgstr ""
+
+#: ../../crm/organize_sales/plan_activities.rst:65
+msgid "Access the video at https://www.youtube.com/watch?v=zO5u0EjzlkY"
+msgstr ""
+
+#: ../../crm/organize_sales/plan_activities.rst:75
+msgid ""
+"Access the video at https://drive.google.com/file/d/1RNEIbZ_Gn-"
+"jGGgWjBxFDbXrOTaGMszmY/preview"
+msgstr ""
+

@@ -1,0 +1,2444 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) Mantavya Gajjar
+# This file is distributed under the same license as the Odoo package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2018.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Odoo 12.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2018-11-30 11:27-0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.3.4\n"
+
+#: ../../sales/customer_portal/confirm_and_pay_online.rst:9
+msgid "Confirm quotation online and pay Invoice through customer portal"
+msgstr ""
+
+#: ../../sales/customer_portal/confirm_and_pay_online.rst:12
+#: ../../sales/customer_portal/online_approval.rst:11
+#: ../../sales/customer_portal/online_payment.rst:11
+#: ../../sales/delivery/add_margin_to_delivery_price.rst:10
+#: ../../sales/delivery/delivery_based_on_weight.rst:63
+#: ../../sales/delivery/free_delivery.rst:59
+#: ../../sales/delivery/restrict_delivery_area.rst:10
+#: ../../sales/inventory/make_to_order.rst:11
+#: ../../sales/invoicing/credit_note_from_order.rst:11
+#: ../../sales/invoicing/invoice_on_deliver_qty.rst:11
+#: ../../sales/invoicing/invoice_on_order_qty.rst:11
+#: ../../sales/invoicing/pro-forma.rst:11
+#: ../../sales/invoicing/single_order_for_multiple_orders.rst:11
+#: ../../sales/pricelist_discount/adapt_price_based_on_customer_location.rst:152
+#: ../../sales/pricelist_discount/adapt_price_based_on_customer_segment.rst:115
+#: ../../sales/pricelist_discount/apply_manual_discount.rst:68
+#: ../../sales/pricelist_discount/compute_and_apply_discount_from_pricelist.rst:115
+#: ../../sales/pricelist_discount/product_price_per_company.rst:10
+#: ../../sales/product_tax/price_including_tax.rst:12
+#: ../../sales/product_tax/price_including_tax_and_excluding_tax.rst:12
+#: ../../sales/quotation/apply_default_tax.rst:49
+#: ../../sales/quotation/compute_sales_margin.rst:68
+#: ../../sales/quotation/create_my_first_quotation.rst:119
+#: ../../sales/quotation/sections_on_sales_orders.rst:77
+#: ../../sales/quotation/send_quotation_by_email.rst:79
+#: ../../sales/quotation/set_default_terms_and_conditions.rst:87
+#: ../../sales/quotation_template/online_customer_approval_and_payment_on_quotation.rst:122
+#: ../../sales/quotation_template/online_customer_approval_on_quotation.rst:79
+#: ../../sales/quotation_template/quick_create_quotation_using_quotation_template.rst:105
+#: ../../sales/service/invoice_based_on_timesheet.rst:12
+#: ../../sales/service/invoice_milestones.rst:101
+#: ../../sales/subscription/sell_subscription_through_ecommerce_platform.rst:12
+#: ../../sales/subscription/sell_subscription_throught_sales_quotation.rst:10
+#: ../../sales/subscription/setup_recurring_invoice.rst:10
+#: ../../sales/unit_of_measure/pricelist_for_uom.rst:11
+#: ../../sales/unit_of_measure/product_packaging.rst:9
+#: ../../sales/unit_of_measure/product_unit_of_measure.rst:11
+msgid "Video"
+msgstr ""
+
+#: ../../sales/customer_portal/confirm_and_pay_online.rst:13
+msgid "Access the video at https://www.youtube.com/watch?v=m0ydtBqPrwY"
+msgstr ""
+
+#: ../../sales/customer_portal/online_approval.rst:8
+msgid "Ask your customer to approve a quotation through portal"
+msgstr ""
+
+#: ../../sales/customer_portal/online_approval.rst:12
+msgid "Access the video at https://www.youtube.com/watch?v=IEl0v3968kk"
+msgstr ""
+
+#: ../../sales/customer_portal/online_payment.rst:8
+msgid "Ask your customer to pay online payment on quotation through portal"
+msgstr ""
+
+#: ../../sales/customer_portal/online_payment.rst:12
+msgid "Access the video at https://www.youtube.com/watch?v=DZ6OsPzM-G4"
+msgstr ""
+
+#: ../../sales/delivery/add_margin_to_delivery_price.rst:7
+msgid "Manage delivery price fluctuation, apply margin on the delivery charges"
+msgstr ""
+
+#: ../../sales/delivery/add_margin_to_delivery_price.rst:11
+msgid "Access the video at https://www.youtube.com/watch?v=_lA0QgoXnt0"
+msgstr ""
+
+#: ../../sales/delivery/delivery_based_on_weight.rst:8
+msgid "Calculate shipping rates based on product weight"
+msgstr ""
+
+#: ../../sales/delivery/delivery_based_on_weight.rst:9
+#: ../../sales/delivery/free_delivery.rst:10
+msgid ""
+"Odoo can handle various delivery methods, but it is not activated by "
+"default. Delivery methods can be used for normal sale of you can also use"
+" for your e-commerce order."
+msgstr ""
+
+#: ../../sales/delivery/delivery_based_on_weight.rst:12
+#: ../../sales/delivery/free_delivery.rst:13
+msgid ""
+"Delivery methods allow you to manage the transport company, the price and"
+" the destination."
+msgstr ""
+
+#: ../../sales/delivery/delivery_based_on_weight.rst:14
+#: ../../sales/delivery/free_delivery.rst:15
+msgid ""
+"You can even integrate Odoo with external shippers to compute the real "
+"price and the packagings."
+msgstr ""
+
+#: ../../sales/delivery/delivery_based_on_weight.rst:17
+#: ../../sales/delivery/free_delivery.rst:18
+#: ../../sales/pricelist_discount/adapt_price_based_on_customer_location.rst:32
+#: ../../sales/pricelist_discount/adapt_price_based_on_customer_segment.rst:37
+#: ../../sales/pricelist_discount/apply_manual_discount.rst:19
+#: ../../sales/pricelist_discount/compute_and_apply_discount_from_pricelist.rst:28
+#: ../../sales/quotation/apply_default_tax.rst:20
+#: ../../sales/quotation/change_your_quotation_layout.rst:21
+#: ../../sales/quotation/compute_sales_margin.rst:16
+#: ../../sales/quotation/create_my_first_quotation.rst:22
+#: ../../sales/quotation/sections_on_sales_orders.rst:21
+#: ../../sales/quotation/send_quotation_by_email.rst:25
+#: ../../sales/quotation/set_default_terms_and_conditions.rst:54
+#: ../../sales/quotation_template/increase_your_sales_with_suggested_products.rst:21
+#: ../../sales/quotation_template/online_customer_approval_and_payment_on_quotation.rst:26
+#: ../../sales/quotation_template/online_customer_approval_on_quotation.rst:22
+#: ../../sales/quotation_template/quick_create_quotation_using_quotation_template.rst:22
+#: ../../sales/service/invoice_milestones.rst:37
+msgid "Configuration"
+msgstr ""
+
+#: ../../sales/delivery/delivery_based_on_weight.rst:18
+#: ../../sales/delivery/free_delivery.rst:19
+msgid ""
+"Activate the Shipping Costs feature form ``Sales / Configuration / "
+"Settings``."
+msgstr ""
+
+#: ../../sales/delivery/delivery_based_on_weight.rst:24
+#: ../../sales/delivery/free_delivery.rst:25
+msgid ""
+"Activating the Shipping Costs will install the Inventory application if "
+"it was not installed previously."
+msgstr ""
+
+#: ../../sales/delivery/delivery_based_on_weight.rst:27
+#: ../../sales/delivery/free_delivery.rst:28
+msgid "Setup the delivery charges"
+msgstr ""
+
+#: ../../sales/delivery/delivery_based_on_weight.rst:28
+msgid ""
+"Let's assume that you deliver the product to your customer through postal"
+" service and the service changres you based on weight. Postal service "
+"deliver to all over the USA at $20 fixed rates if the weight upto 1kg, "
+"when weight is above 1kg, they charge $8 for every 1kg."
+msgstr ""
+
+#: ../../sales/delivery/delivery_based_on_weight.rst:35
+msgid ""
+"Goto ``Sales / Configure / Delivery Methods`` and create a new method "
+"*Postal Delivery*, select *Based on Rule* for **Provide** as the delivery"
+" cost is based on the weight and create a two rules."
+msgstr ""
+
+#: ../../sales/delivery/delivery_based_on_weight.rst:43
+msgid "Setup product weight"
+msgstr ""
+
+#: ../../sales/delivery/delivery_based_on_weight.rst:44
+msgid ""
+"Do not forget to add the correct product weight while creating the "
+"products."
+msgstr ""
+
+#: ../../sales/delivery/delivery_based_on_weight.rst:50
+msgid "Compute and set the product weight including weight of delivery package."
+msgstr ""
+
+#: ../../sales/delivery/delivery_based_on_weight.rst:53
+#: ../../sales/delivery/free_delivery.rst:49
+msgid "Adding delivery cost to the quotation"
+msgstr ""
+
+#: ../../sales/delivery/delivery_based_on_weight.rst:54
+#: ../../sales/delivery/free_delivery.rst:50
+msgid ""
+"You can now choose the Delivery Method on your sale order. If you want to"
+" invoice the price of the delivery charge on the sale order, click on Set"
+" price, it will add a line with the name of the delivery method as a "
+"product."
+msgstr ""
+
+#: ../../sales/delivery/delivery_based_on_weight.rst:64
+msgid "Access the video at https://www.youtube.com/watch?v=o1QOCiWOnwk"
+msgstr ""
+
+#: ../../sales/delivery/free_delivery.rst:9
+msgid "Free delivery if order total is more then $2000"
+msgstr ""
+
+#: ../../sales/delivery/free_delivery.rst:29
+msgid ""
+"Let's assume that you deliver the product at fixed $50 and you deliver "
+"for free when total order value is more than $2000."
+msgstr ""
+
+#: ../../sales/delivery/free_delivery.rst:35
+msgid ""
+"Goto ``Sales / Configure / Delivery Methods`` rename the existing method "
+"*Free delivery charges* to *Delivery charges* add the $50 in the **Fixed "
+"Price**."
+msgstr ""
+
+#: ../../sales/delivery/free_delivery.rst:38
+msgid ""
+"If you have a multiple delivery methods having a fixed price, please "
+"create a saparate Delivery Product for each method."
+msgstr ""
+
+#: ../../sales/delivery/free_delivery.rst:41
+msgid "Setup product price"
+msgstr ""
+
+#: ../../sales/delivery/free_delivery.rst:42
+msgid "Do not forget to add the correct product price when creating the products."
+msgstr ""
+
+#: ../../sales/delivery/free_delivery.rst:60
+msgid "Access the video at https://www.youtube.com/watch?v=JPpUPbTeJD0"
+msgstr ""
+
+#: ../../sales/delivery/restrict_delivery_area.rst:7
+msgid "Different delivery price based on the area (zip code, state or country)"
+msgstr ""
+
+#: ../../sales/delivery/restrict_delivery_area.rst:11
+msgid "Access the video at https://www.youtube.com/watch?v=YObEk9PpXfQ"
+msgstr ""
+
+#: ../../sales/index.rst:8
+msgid "Sales and Invoicing"
+msgstr ""
+
+#: ../../sales/index.rst:15
+msgid "Sales Quotation"
+msgstr ""
+
+#: ../../sales/index.rst:22
+msgid "Quotation Template"
+msgstr ""
+
+#: ../../sales/index.rst:29
+msgid "Discounts and Pricelist"
+msgstr ""
+
+#: ../../sales/index.rst:36
+msgid "Unit of Measure"
+msgstr ""
+
+#: ../../sales/index.rst:43
+msgid "Product and Tax"
+msgstr ""
+
+#: ../../sales/index.rst:51
+msgid "Invoicing"
+msgstr ""
+
+#: ../../sales/index.rst:59
+msgid "Delivery Charges"
+msgstr ""
+
+#: ../../sales/index.rst:66
+msgid "Manage Inventory"
+msgstr ""
+
+#: ../../sales/index.rst:73
+msgid "Service Product"
+msgstr ""
+
+#: ../../sales/index.rst:80
+msgid "Subscription"
+msgstr ""
+
+#: ../../sales/index.rst:87
+msgid "Customer Portal"
+msgstr ""
+
+#: ../../sales/introduction.rst:5
+msgid "Introduction"
+msgstr ""
+
+#: ../../sales/inventory/make_to_order.rst:8
+msgid "Create a purchase order for products based on sales order"
+msgstr ""
+
+#: ../../sales/inventory/make_to_order.rst:12
+msgid "Access the video at https://www.youtube.com/watch?v=76d-yIrcRKs"
+msgstr ""
+
+#: ../../sales/invoicing/credit_note_from_order.rst:8
+msgid "Create credit note from sales order, when customer return the product"
+msgstr ""
+
+#: ../../sales/invoicing/credit_note_from_order.rst:12
+msgid "Access the video at https://www.youtube.com/watch?v=ujgz8Bx5xqk"
+msgstr ""
+
+#: ../../sales/invoicing/invoice_on_deliver_qty.rst:8
+msgid ""
+"Create Invoice based on the delivered quantity, when inventory app is not"
+" installed"
+msgstr ""
+
+#: ../../sales/invoicing/invoice_on_deliver_qty.rst:12
+msgid "Access the video at https://www.youtube.com/watch?v=KWzwLfzqhnw"
+msgstr ""
+
+#: ../../sales/invoicing/invoice_on_order_qty.rst:8
+msgid "Create Invoice for the ordered quantity"
+msgstr ""
+
+#: ../../sales/invoicing/invoice_on_order_qty.rst:12
+msgid "Access the video at https://www.youtube.com/watch?v=7bXoYgFEyxc"
+msgstr ""
+
+#: ../../sales/invoicing/pro-forma.rst:8
+msgid "Send Pro-Forma Invoice to your customers"
+msgstr ""
+
+#: ../../sales/invoicing/pro-forma.rst:12
+msgid "Access the video at https://www.youtube.com/watch?v=4ew-PmcTdmo"
+msgstr ""
+
+#: ../../sales/invoicing/single_order_for_multiple_orders.rst:8
+msgid "Create single invoice from multiple sales orders"
+msgstr ""
+
+#: ../../sales/invoicing/single_order_for_multiple_orders.rst:12
+msgid "Access the video at https://www.youtube.com/watch?v=oU-qvZ7Ly7I"
+msgstr ""
+
+#: ../../sales/pricelist_discount/adapt_price_based_on_customer_location.rst:6
+msgid ""
+"Adapt product price based on customer country or location (e.g. Price in "
+"€ or $)"
+msgstr ""
+
+#: ../../sales/pricelist_discount/adapt_price_based_on_customer_location.rst:8
+msgid ""
+"An international sales and distribution business network required "
+"accurate price conversion or the price rules according to the customer’s "
+"country. During quotation process some business prefer to have the rate "
+"conversion while some business wants to define the price based on the "
+"geographic locations irrespective of currency conversion. You can "
+"configure both business case using the pricelist."
+msgstr ""
+
+#: ../../sales/pricelist_discount/adapt_price_based_on_customer_location.rst:16
+#: ../../sales/pricelist_discount/adapt_price_based_on_customer_segment.rst:16
+#: ../../sales/pricelist_discount/apply_manual_discount.rst:13
+#: ../../sales/pricelist_discount/compute_and_apply_discount_from_pricelist.rst:18
+#: ../../sales/quotation/apply_default_tax.rst:15
+#: ../../sales/quotation/change_your_quotation_layout.rst:15
+#: ../../sales/quotation/create_my_first_quotation.rst:14
+#: ../../sales/quotation/sections_on_sales_orders.rst:14
+#: ../../sales/quotation/send_quotation_by_email.rst:19
+#: ../../sales/quotation/set_default_terms_and_conditions.rst:39
+#: ../../sales/quotation_template/increase_your_sales_with_suggested_products.rst:14
+#: ../../sales/quotation_template/online_customer_approval_and_payment_on_quotation.rst:17
+#: ../../sales/quotation_template/online_customer_approval_on_quotation.rst:13
+#: ../../sales/quotation_template/quick_create_quotation_using_quotation_template.rst:13
+msgid "Business case"
+msgstr ""
+
+#: ../../sales/pricelist_discount/adapt_price_based_on_customer_location.rst:18
+msgid ""
+"Odoo wants to apply pricing rules for the customer irrespective of the "
+"currency conversion based on the customer location. They divide whole "
+"world into three different region and specific price for each region."
+msgstr ""
+
+#: ../../sales/pricelist_discount/adapt_price_based_on_customer_location.rst:23
+#: ../../sales/pricelist_discount/adapt_price_based_on_customer_segment.rst:24
+msgid "**Product**"
+msgstr ""
+
+#: ../../sales/pricelist_discount/adapt_price_based_on_customer_location.rst:23
+msgid "**America (USD)**"
+msgstr ""
+
+#: ../../sales/pricelist_discount/adapt_price_based_on_customer_location.rst:23
+msgid "**Europe & Middle East (EUR)**"
+msgstr ""
+
+#: ../../sales/pricelist_discount/adapt_price_based_on_customer_location.rst:23
+msgid "**ASIA (USD)**"
+msgstr ""
+
+#: ../../sales/pricelist_discount/adapt_price_based_on_customer_location.rst:27
+msgid "Odoo Enterprise (Users)"
+msgstr ""
+
+#: ../../sales/pricelist_discount/adapt_price_based_on_customer_location.rst:27
+msgid "28"
+msgstr ""
+
+#: ../../sales/pricelist_discount/adapt_price_based_on_customer_location.rst:27
+msgid "24"
+msgstr ""
+
+#: ../../sales/pricelist_discount/adapt_price_based_on_customer_location.rst:27
+msgid "16"
+msgstr ""
+
+#: ../../sales/pricelist_discount/adapt_price_based_on_customer_location.rst:34
+msgid ""
+"Assumed that the **Sales Management** application installed, "
+"**Invoicing** application will be installed as an dependant of the sales "
+"application."
+msgstr ""
+
+#: ../../sales/pricelist_discount/adapt_price_based_on_customer_location.rst:39
+msgid "Multi Currency"
+msgstr ""
+
+#: ../../sales/pricelist_discount/adapt_price_based_on_customer_location.rst:41
+msgid ""
+"You need a multiple currency support, to prepare a quotation in foreign "
+"currency. **Multi-Currencies** feature can be activated from **Invoicing "
+"/ Configuration / Settings** available under the **Currencies** section."
+msgstr ""
+
+#: ../../sales/pricelist_discount/adapt_price_based_on_customer_location.rst:45
+#: ../../sales/pricelist_discount/adapt_price_based_on_customer_segment.rst:53
+#: ../../sales/pricelist_discount/apply_manual_discount.rst:32
+#: ../../sales/pricelist_discount/compute_and_apply_discount_from_pricelist.rst:59
+#: ../../sales/quotation/apply_default_tax.rst:26
+#: ../../sales/quotation/change_your_quotation_layout.rst:27
+#: ../../sales/quotation/sections_on_sales_orders.rst:32
+#: ../../sales/quotation/send_quotation_by_email.rst:35
+#: ../../sales/quotation/set_default_terms_and_conditions.rst:65
+#: ../../sales/quotation_template/increase_your_sales_with_suggested_products.rst:33
+#: ../../sales/quotation_template/online_customer_approval_and_payment_on_quotation.rst:51
+#: ../../sales/quotation_template/online_customer_approval_on_quotation.rst:44
+#: ../../sales/quotation_template/quick_create_quotation_using_quotation_template.rst:32
+msgid "|image0|"
+msgstr ""
+
+#: ../../sales/pricelist_discount/adapt_price_based_on_customer_location.rst:47
+msgid ""
+"Select **Automatic Currency Rate** to get the accurate currency "
+"conversion rate when you do want a currency conversion to prepare the "
+"quotation, set *Daily* for the **Internal** field, the rate can be "
+"updated from different exchange services such as *European Central Bank*,"
+" *Federal Tax Administration* or *Mexican Bank*."
+msgstr ""
+
+#: ../../sales/pricelist_discount/adapt_price_based_on_customer_location.rst:54
+#: ../../sales/pricelist_discount/adapt_price_based_on_customer_segment.rst:44
+msgid "Pricelist"
+msgstr ""
+
+#: ../../sales/pricelist_discount/adapt_price_based_on_customer_location.rst:56
+msgid ""
+"To setup the price based on the customer segment or country, you have to "
+"enable the **Multiple Sales Prices per Product** feature available under "
+"the **Sales / Configuration / Settings** under the **Pricing** section. "
+"Keep the default option **Multiple prices per product (e.g. customer "
+"segments, currencies)** selected under the **Sales Pricelist** option."
+msgstr ""
+
+#: ../../sales/pricelist_discount/adapt_price_based_on_customer_location.rst:62
+#: ../../sales/pricelist_discount/adapt_price_based_on_customer_segment.rst:63
+#: ../../sales/pricelist_discount/apply_manual_discount.rst:53
+#: ../../sales/pricelist_discount/compute_and_apply_discount_from_pricelist.rst:78
+#: ../../sales/quotation/apply_default_tax.rst:34
+#: ../../sales/quotation/create_my_first_quotation.rst:42
+#: ../../sales/quotation/sections_on_sales_orders.rst:41
+#: ../../sales/quotation/send_quotation_by_email.rst:57
+#: ../../sales/quotation/set_default_terms_and_conditions.rst:76
+#: ../../sales/quotation_template/increase_your_sales_with_suggested_products.rst:45
+#: ../../sales/quotation_template/online_customer_approval_and_payment_on_quotation.rst:71
+#: ../../sales/quotation_template/online_customer_approval_on_quotation.rst:56
+#: ../../sales/quotation_template/quick_create_quotation_using_quotation_template.rst:54
+msgid "|image1|"
+msgstr ""
+
+#: ../../sales/pricelist_discount/adapt_price_based_on_customer_location.rst:64
+msgid ""
+"To create a new pricelist goto Sales / Catalog / Pricelist, create a "
+"three different pricelist, set the Currency field on each pricelist. "
+"Let’s create a pricelist for european and middle east customers where we "
+"offer the price in EUR (€)."
+msgstr ""
+
+#: ../../sales/pricelist_discount/adapt_price_based_on_customer_location.rst:69
+#: ../../sales/pricelist_discount/adapt_price_based_on_customer_segment.rst:89
+#: ../../sales/pricelist_discount/compute_and_apply_discount_from_pricelist.rst:91
+#: ../../sales/quotation/apply_default_tax.rst:43
+#: ../../sales/quotation/create_my_first_quotation.rst:62
+#: ../../sales/quotation/sections_on_sales_orders.rst:66
+#: ../../sales/quotation/send_quotation_by_email.rst:65
+#: ../../sales/quotation_template/online_customer_approval_and_payment_on_quotation.rst:83
+#: ../../sales/quotation_template/quick_create_quotation_using_quotation_template.rst:64
+msgid "|image2|"
+msgstr ""
+
+#: ../../sales/pricelist_discount/adapt_price_based_on_customer_location.rst:71
+msgid ""
+"Enter *EMEA Pricelist* in the **Name** field\\ *,* select *EUR* in the "
+"**Currency** field and add the *Europe* in the **Country Group** field."
+msgstr ""
+
+#: ../../sales/pricelist_discount/adapt_price_based_on_customer_location.rst:74
+msgid ""
+"The country group is used to assign pricelist automatically when customer"
+" is being created. So, even if your salesman forget to assign pricelist "
+"the system will assign automatically when customer’s country is set on "
+"the customer."
+msgstr ""
+
+#: ../../sales/pricelist_discount/adapt_price_based_on_customer_location.rst:80
+#: ../../sales/pricelist_discount/adapt_price_based_on_customer_segment.rst:56
+msgid "Product"
+msgstr ""
+
+#: ../../sales/pricelist_discount/adapt_price_based_on_customer_location.rst:82
+msgid ""
+"Let’s create the product *Laptop*, goto **Sales / Catalog / Products** to"
+" create the product, enter **Name**, set **Image** and **Sales Price**, "
+"the country specific price or currency specific price can be defined "
+"under the **Sales** tab."
+msgstr ""
+
+#: ../../sales/pricelist_discount/adapt_price_based_on_customer_location.rst:87
+#: ../../sales/pricelist_discount/adapt_price_based_on_customer_segment.rst:99
+#: ../../sales/pricelist_discount/compute_and_apply_discount_from_pricelist.rst:108
+#: ../../sales/quotation/create_my_first_quotation.rst:90
+#: ../../sales/quotation/sections_on_sales_orders.rst:74
+#: ../../sales/quotation_template/online_customer_approval_and_payment_on_quotation.rst:103
+#: ../../sales/quotation_template/quick_create_quotation_using_quotation_template.rst:79
+msgid "|image3|"
+msgstr ""
+
+#: ../../sales/pricelist_discount/adapt_price_based_on_customer_location.rst:89
+msgid ""
+"Select the Pricelist and enter the Price, the price enter is respective "
+"of the currency defined on the pricelist (i.e. in this case we have "
+"defined 24 USD and 18 EUR)."
+msgstr ""
+
+#: ../../sales/pricelist_discount/adapt_price_based_on_customer_location.rst:93
+msgid ""
+"You can create a multiple lines for the same pricelist, in case you want "
+"to offer a special price to customers, when they buy more than 1 "
+"quantity."
+msgstr ""
+
+#: ../../sales/pricelist_discount/adapt_price_based_on_customer_location.rst:97
+msgid ""
+"The **Start Date** and **End Date** is used to limit the offer for a "
+"specific dates, assume that you want to offer a special price for the "
+"*Christmas* (i.e. **Start Date** to *20/12/2018* and **End Date** to "
+"*31/12/2018*)"
+msgstr ""
+
+#: ../../sales/pricelist_discount/adapt_price_based_on_customer_location.rst:103
+#: ../../sales/pricelist_discount/adapt_price_based_on_customer_segment.rst:83
+msgid "Customer"
+msgstr ""
+
+#: ../../sales/pricelist_discount/adapt_price_based_on_customer_location.rst:105
+msgid ""
+"Create a customer, enter the name, city, country and other contact "
+"details such as email and mobile and save the customer detail, as soon as"
+" you save the customer the pricelist will be assigned on the customer "
+"automatically based on the customer’s country, review the pricelist set "
+"on the customer form under the **Sales & Purchases** tab."
+msgstr ""
+
+#: ../../sales/pricelist_discount/adapt_price_based_on_customer_location.rst:111
+#: ../../sales/quotation/create_my_first_quotation.rst:108
+#: ../../sales/quotation_template/online_customer_approval_and_payment_on_quotation.rst:111
+#: ../../sales/quotation_template/quick_create_quotation_using_quotation_template.rst:99
+msgid "|image4|"
+msgstr ""
+
+#: ../../sales/pricelist_discount/adapt_price_based_on_customer_location.rst:113
+msgid ""
+"However, you can change it manually, if system detect wrong pricelist, "
+"you may choose same country on more than one country group which was "
+"assigned to different pricelists."
+msgstr ""
+
+#: ../../sales/pricelist_discount/adapt_price_based_on_customer_location.rst:118
+#: ../../sales/pricelist_discount/apply_manual_discount.rst:35
+#: ../../sales/pricelist_discount/compute_and_apply_discount_from_pricelist.rst:98
+#: ../../sales/quotation/set_default_terms_and_conditions.rst:70
+#: ../../sales/quotation_template/quick_create_quotation_using_quotation_template.rst:74
+msgid "Create a quotation"
+msgstr ""
+
+#: ../../sales/pricelist_discount/adapt_price_based_on_customer_location.rst:120
+msgid ""
+"Let’s send a quotation to your european customer, create the quotation "
+"from **Sales / Orders / Quotation**, pricelist will be set on the "
+"quotation and currency of the quotation will be changed accordingly, the "
+"product price will be appeared accordingly, when you add products on the "
+"quotation."
+msgstr ""
+
+#: ../../sales/pricelist_discount/adapt_price_based_on_customer_location.rst:126
+msgid "|image5|"
+msgstr ""
+
+#: ../../sales/pricelist_discount/adapt_price_based_on_customer_location.rst:128
+msgid ""
+"Create a quotation for *China Export*, add *10* quantity of *Enterprise "
+"Contract (Users)*, 14 EUR */user* applied as we prepare the quotation in "
+"EUR currency."
+msgstr ""
+
+#: ../../sales/pricelist_discount/adapt_price_based_on_customer_location.rst:132
+#: ../../sales/pricelist_discount/adapt_price_based_on_customer_segment.rst:109
+msgid ""
+"Now, a salesman can create quotations quickly regardless of the customer "
+"type and price offered to them, of course a correct pricelist have to be "
+"configured when you create customer, it can be reviewed later depending "
+"on the turnover."
+msgstr ""
+
+#: ../../sales/pricelist_discount/adapt_price_based_on_customer_location.rst:138
+msgid "Price based on currency conversion"
+msgstr ""
+
+#: ../../sales/pricelist_discount/adapt_price_based_on_customer_location.rst:140
+msgid ""
+"Remove all the lines on the product **Pricing** and set correct **Sales "
+"Price** on the product form."
+msgstr ""
+
+#: ../../sales/pricelist_discount/adapt_price_based_on_customer_location.rst:143
+msgid "|image6|"
+msgstr ""
+
+#: ../../sales/pricelist_discount/adapt_price_based_on_customer_location.rst:145
+msgid ""
+"The price defined on the product is respective to the company currency "
+"(USD). Let’s create a quotation for the same customer and see what price "
+"will be proposed by the pricelist."
+msgstr ""
+
+#: ../../sales/pricelist_discount/adapt_price_based_on_customer_location.rst:149
+msgid "|image7|"
+msgstr ""
+
+#: ../../sales/pricelist_discount/adapt_price_based_on_customer_location.rst:153
+msgid "Access the video at https://www.youtube.com/watch?v=wDFaS7p4btE"
+msgstr ""
+
+#: ../../sales/pricelist_discount/adapt_price_based_on_customer_segment.rst:6
+msgid ""
+"Adapt product price based on customer segment (e.g. Retailer or "
+"Distributor)"
+msgstr ""
+
+#: ../../sales/pricelist_discount/adapt_price_based_on_customer_segment.rst:8
+msgid ""
+"Sales and distribution business works on the margin basics, the "
+"percentage of margin are fixed for the distributors based on their "
+"turnover. The MRP of the product is decided included the margins for the "
+"retailers, stockist, distributors. In this section you will see how "
+"pricelist can help you to achieve to define the product price based on "
+"the customer type (retailer and distributors)."
+msgstr ""
+
+#: ../../sales/pricelist_discount/adapt_price_based_on_customer_segment.rst:18
+msgid ""
+"The *My Company* sells the electronic products such as *Computers*, "
+"*Laptops*, and *Printers*, they want to set up the pricing rules for "
+"their *Retailer* and *Distributors*. The price they would like to offer "
+"are as below:"
+msgstr ""
+
+#: ../../sales/pricelist_discount/adapt_price_based_on_customer_segment.rst:24
+msgid "**Sales Price (MRP)**"
+msgstr ""
+
+#: ../../sales/pricelist_discount/adapt_price_based_on_customer_segment.rst:24
+msgid "**Distributors (Price)**"
+msgstr ""
+
+#: ../../sales/pricelist_discount/adapt_price_based_on_customer_segment.rst:24
+msgid "**Retailer (Price)**"
+msgstr ""
+
+#: ../../sales/pricelist_discount/adapt_price_based_on_customer_segment.rst:27
+msgid "Laptops"
+msgstr ""
+
+#: ../../sales/pricelist_discount/adapt_price_based_on_customer_segment.rst:27
+msgid "1099"
+msgstr ""
+
+#: ../../sales/pricelist_discount/adapt_price_based_on_customer_segment.rst:27
+msgid "900"
+msgstr ""
+
+#: ../../sales/pricelist_discount/adapt_price_based_on_customer_segment.rst:27
+#: ../../sales/pricelist_discount/adapt_price_based_on_customer_segment.rst:29
+msgid "999"
+msgstr ""
+
+#: ../../sales/pricelist_discount/adapt_price_based_on_customer_segment.rst:29
+msgid "Desktop"
+msgstr ""
+
+#: ../../sales/pricelist_discount/adapt_price_based_on_customer_segment.rst:29
+msgid "740"
+msgstr ""
+
+#: ../../sales/pricelist_discount/adapt_price_based_on_customer_segment.rst:29
+#: ../../sales/pricelist_discount/adapt_price_based_on_customer_segment.rst:33
+msgid "799"
+msgstr ""
+
+#: ../../sales/pricelist_discount/adapt_price_based_on_customer_segment.rst:31
+msgid "Printer"
+msgstr ""
+
+#: ../../sales/pricelist_discount/adapt_price_based_on_customer_segment.rst:31
+msgid "499"
+msgstr ""
+
+#: ../../sales/pricelist_discount/adapt_price_based_on_customer_segment.rst:31
+msgid "330"
+msgstr ""
+
+#: ../../sales/pricelist_discount/adapt_price_based_on_customer_segment.rst:31
+msgid "399"
+msgstr ""
+
+#: ../../sales/pricelist_discount/adapt_price_based_on_customer_segment.rst:33
+msgid "Tablet"
+msgstr ""
+
+#: ../../sales/pricelist_discount/adapt_price_based_on_customer_segment.rst:33
+msgid "620"
+msgstr ""
+
+#: ../../sales/pricelist_discount/adapt_price_based_on_customer_segment.rst:33
+msgid "699"
+msgstr ""
+
+#: ../../sales/pricelist_discount/adapt_price_based_on_customer_segment.rst:39
+msgid ""
+"Assumed that the **Sales Management** application installed, let’s see "
+"what are the other configuration you have to do before you execute the "
+"business case."
+msgstr ""
+
+#: ../../sales/pricelist_discount/adapt_price_based_on_customer_segment.rst:46
+msgid ""
+"To setup the customer segment specific price you have to enable the "
+"feature called **Multiple Sales Prices per Product** available under the "
+"**Sales / Configuration / Settings**. Keep the default option selected "
+"**Multiple prices per product (e.g. customer segments, currencies)** "
+"under the **Sales Pricelist** option, using that you can define the "
+"customer segment specific pricelist."
+msgstr ""
+
+#: ../../sales/pricelist_discount/adapt_price_based_on_customer_segment.rst:58
+msgid ""
+"Let’s create the products you are selling, to create the products go to "
+"**Sales / Catalog / Products**, create a product, enter the **Name**, set"
+" **Image** and **Sales Price**, the customer specific price you can "
+"define under the **Sales** tab."
+msgstr ""
+
+#: ../../sales/pricelist_discount/adapt_price_based_on_customer_segment.rst:65
+msgid ""
+"Create a pricelist if not created before, enter the name of the pricelist"
+" (i.e. Retailer Pricelist) and click on **Create “Retailer Pricelist”** "
+"link, enter the **Price** and **Min. Quantity**, keep the Min. Quantity "
+"to 1 by default if you don’t want to put the constraint on the minimum "
+"order quantity."
+msgstr ""
+
+#: ../../sales/pricelist_discount/adapt_price_based_on_customer_segment.rst:71
+msgid ""
+"You can create a multiple lines for the same pricelist (i.e. *Distributor"
+" Pricelist*) in case you want to offer a special price to the "
+"distributor, when they buy more than 1 quantity. (i.e. **Distributors** "
+"can get the *Laptop* at *790* price, if they order minimum *5* or more "
+"quantities)"
+msgstr ""
+
+#: ../../sales/pricelist_discount/adapt_price_based_on_customer_segment.rst:77
+msgid ""
+"The **Start Date** and **End Date** is used to limit the offer for a "
+"specific dates, assume that you want to offer a special price for the "
+"Christmas (i.e. **Start Date** to *20/12/2018* and **End Date** to "
+"*31/12/2018*)"
+msgstr ""
+
+#: ../../sales/pricelist_discount/adapt_price_based_on_customer_segment.rst:85
+msgid ""
+"The customers can be defined as a distributor or retailer by setting the "
+"specific pricelist on them. Pricelist can be set on the customer form "
+"under the **Sales & Purchases** tab."
+msgstr ""
+
+#: ../../sales/pricelist_discount/adapt_price_based_on_customer_segment.rst:92
+msgid "Create sale order"
+msgstr ""
+
+#: ../../sales/pricelist_discount/adapt_price_based_on_customer_segment.rst:94
+msgid ""
+"Let’s send a quotation to your customer, create the quotation from "
+"**Sales / Orders / Quotation**, depending on the customer the pricelist "
+"will be set on the quotation and the product price will be appeared "
+"accordingly, when you add pdoructs on the quotation."
+msgstr ""
+
+#: ../../sales/pricelist_discount/adapt_price_based_on_customer_segment.rst:101
+msgid ""
+"Create a quotation for *China Export* (Distributor), add *50* quantity of"
+" Laptop, the special price *790/unit* applied as we prepare the quotation"
+" for more than *5* quantity."
+msgstr ""
+
+#: ../../sales/pricelist_discount/adapt_price_based_on_customer_segment.rst:105
+msgid ""
+"Pricelist can be changed on the quotation after selecting a customer. The"
+" pricelist selected on the quotation have the higher priority over the "
+"pricelist assigned to the customer."
+msgstr ""
+
+#: ../../sales/pricelist_discount/adapt_price_based_on_customer_segment.rst:116
+msgid "Access the video at https://www.youtube.com/watch?v=VKVrz2o3j1M"
+msgstr ""
+
+#: ../../sales/pricelist_discount/apply_manual_discount.rst:6
+msgid "Apply discount on quotation"
+msgstr ""
+
+#: ../../sales/pricelist_discount/apply_manual_discount.rst:8
+msgid ""
+"Allowing discounts on quotations is a common sales practice to improve "
+"the chances to convert the prospect into a customer, adding discounts on "
+"the quotation encourage the prospect to close the deal quickly."
+msgstr ""
+
+#: ../../sales/pricelist_discount/apply_manual_discount.rst:15
+#, python-format
+msgid ""
+"My company would like to send a quotation for an *iPad Mini* at a sales "
+"price of *320 USD* per *iPad* at a **5% discounted** price."
+msgstr ""
+
+#: ../../sales/pricelist_discount/apply_manual_discount.rst:21
+msgid "Assumed that the **Sales Management** application installed."
+msgstr ""
+
+#: ../../sales/pricelist_discount/apply_manual_discount.rst:24
+msgid "Discounts"
+msgstr ""
+
+#: ../../sales/pricelist_discount/apply_manual_discount.rst:26
+#, python-format
+msgid ""
+"In this business case, we would like to offer 5% discount to our customer"
+" on the sale price."
+msgstr ""
+
+#: ../../sales/pricelist_discount/apply_manual_discount.rst:29
+msgid ""
+"**Discounts** feature can be activated from **Configuration / Settings** "
+", under the **Pricing** section."
+msgstr ""
+
+#: ../../sales/pricelist_discount/apply_manual_discount.rst:37
+msgid ""
+"Quotation can be created from **Sales / Order / Quotations**, click on "
+"**CREATE** button to create a new quotation, select customer and add "
+"product *iPad Mini* on the quotation, the default price you will see is "
+"320$."
+msgstr ""
+
+#: ../../sales/pricelist_discount/apply_manual_discount.rst:43
+msgid "Apply discount"
+msgstr ""
+
+#: ../../sales/pricelist_discount/apply_manual_discount.rst:45
+#, python-format
+msgid ""
+"By default the discount will not be applied as we choose to apply manual "
+"discount, to apply 5% discount enter 5 in the **Discount (%)** field for "
+"iPad Mini product in the sales order line."
+msgstr ""
+
+#: ../../sales/pricelist_discount/apply_manual_discount.rst:49
+msgid ""
+"The discount should be entered between 0 to 100, it computes discount in "
+"percentage. The price will change automatically when you enter the "
+"discount."
+msgstr ""
+
+#: ../../sales/pricelist_discount/apply_manual_discount.rst:56
+msgid "Printing quotation"
+msgstr ""
+
+#: ../../sales/pricelist_discount/apply_manual_discount.rst:58
+msgid ""
+"Discount column will be appeared on the quotation when you have applied "
+"discount on any of the product on quotation. Don’t be surprised if you "
+"don’t see the discount column on the quotation, which means that you have"
+" not applied discount on any of the product on quotation as you don’t "
+"want to offer discount to your customer."
+msgstr ""
+
+#: ../../sales/pricelist_discount/apply_manual_discount.rst:64
+msgid ""
+"All the taxes applicable on the product will be computed on the "
+"discounted product price (i.e. Taxes will be computed on **Subtotal**)"
+msgstr ""
+
+#: ../../sales/pricelist_discount/apply_manual_discount.rst:69
+msgid "Access the video at https://www.youtube.com/watch?v=YrX7iwpbDyg"
+msgstr ""
+
+#: ../../sales/pricelist_discount/compute_and_apply_discount_from_pricelist.rst:7
+msgid "Compute and apply discount automatically based on the pricelist"
+msgstr ""
+
+#: ../../sales/pricelist_discount/compute_and_apply_discount_from_pricelist.rst:9
+msgid ""
+"Allowing discounts on quotations is a common sales practice to improve "
+"the chances to convert the prospect into a customer, when you are not "
+"offering discount to all the customers, keep it manual and offer when "
+"customer demands.In case you have to apply discount for specific customer"
+" or products every time, it is quite difficult for salesman to remember "
+"those products or customer and apply the discount manually on each "
+"quotation."
+msgstr ""
+
+#: ../../sales/pricelist_discount/compute_and_apply_discount_from_pricelist.rst:20
+msgid ""
+"The trading company “\\ *My Company*\\ ” manufactures the *Computer Desk*"
+" and selling to their distributors and to retail customers."
+msgstr ""
+
+#: ../../sales/pricelist_discount/compute_and_apply_discount_from_pricelist.rst:23
+msgid ""
+"They sell to retail customer at a public price of 3200 but when they sell"
+" to distributors the price would be 2240, and they show the percentage of"
+" the discount which was offered on the public price."
+msgstr ""
+
+#: ../../sales/pricelist_discount/compute_and_apply_discount_from_pricelist.rst:30
+msgid "Assumed that you have installed the **Sales Management** application."
+msgstr ""
+
+#: ../../sales/pricelist_discount/compute_and_apply_discount_from_pricelist.rst:33
+msgid "Discount"
+msgstr ""
+
+#: ../../sales/pricelist_discount/compute_and_apply_discount_from_pricelist.rst:35
+msgid ""
+"By applying discount on the quotation, the product price will get "
+"decreased, the discount will be visible to the customer on quotation, "
+"this will encourage the customer to close the deal quickly."
+msgstr ""
+
+#: ../../sales/pricelist_discount/compute_and_apply_discount_from_pricelist.rst:39
+msgid ""
+"The discount feature has to be enabled to show the percentage of the "
+"discount offered to the customer on quotation, it can be activated from "
+"**Sales / Configuration / Settings**."
+msgstr ""
+
+#: ../../sales/pricelist_discount/compute_and_apply_discount_from_pricelist.rst:44
+msgid "Product Pricing"
+msgstr ""
+
+#: ../../sales/pricelist_discount/compute_and_apply_discount_from_pricelist.rst:46
+msgid ""
+"You need a pricelist to apply the product price based on the business "
+"rules such as discount or periodically price variations for a product(s)."
+" Let’s go to **Sales / Configuration / Settings** and activate the "
+"**Multiple Sales Prices per Product options** as of now we will keep the "
+"**Multiple prices per product (e.g. customer segments, currencies)** "
+"option selected by default."
+msgstr ""
+
+#: ../../sales/pricelist_discount/compute_and_apply_discount_from_pricelist.rst:53
+msgid ""
+"Let’s create a *Distributor Pricelist,* the Public Pricelist available as"
+" a default, the pricelist can be accessed from **Sales / Catalog / "
+"Pricelists**. Create pricelist name it as *Distributor Pricelist* and "
+"change the **Discount Policy** to *Show public price & discount to the "
+"customer*."
+msgstr ""
+
+#: ../../sales/pricelist_discount/compute_and_apply_discount_from_pricelist.rst:61
+msgid ""
+"The discount policy decides, whether the discount will be computed based "
+"on the pricelist and will be visible to customer on quotation or not. "
+"When you choose *Discount included in the price* the product price will "
+"be computed by applying the discount (%) and discount will not be visible"
+" to customer on quotation."
+msgstr ""
+
+#: ../../sales/pricelist_discount/compute_and_apply_discount_from_pricelist.rst:67
+msgid ""
+"The *Discount included in the price* option can be used to apply the "
+"price variation such as commodity price, it may decrease or increased."
+msgstr ""
+
+#: ../../sales/pricelist_discount/compute_and_apply_discount_from_pricelist.rst:72
+msgid "Create a product"
+msgstr ""
+
+#: ../../sales/pricelist_discount/compute_and_apply_discount_from_pricelist.rst:74
+msgid ""
+"Let’s create the product and define the pricing rules so depending on the"
+" customer the price will be applied automatically. The **Pricing** rules "
+"can be applied under the **Sales** tab on product form."
+msgstr ""
+
+#: ../../sales/pricelist_discount/compute_and_apply_discount_from_pricelist.rst:80
+msgid ""
+"I have created two pricing rules, one for *Distributor Priclist* and "
+"another for *Public Pricelist*. The customer which do not comes under any"
+" of those pricing rules the **Sales Price** defined on the product will "
+"be applied in that case."
+msgstr ""
+
+#: ../../sales/pricelist_discount/compute_and_apply_discount_from_pricelist.rst:86
+msgid "Create a customer"
+msgstr ""
+
+#: ../../sales/pricelist_discount/compute_and_apply_discount_from_pricelist.rst:88
+msgid ""
+"Create a customer *China Export* of type distributor, we will offer the "
+"*Computer Desk* to them at a special price."
+msgstr ""
+
+#: ../../sales/pricelist_discount/compute_and_apply_discount_from_pricelist.rst:93
+msgid ""
+"To define this customer as a distributor, select the *Distributor "
+"Pricelist (USD)* in **Sales Pricelist** field available under the **Sales"
+" & Purchase** tab."
+msgstr ""
+
+#: ../../sales/pricelist_discount/compute_and_apply_discount_from_pricelist.rst:100
+msgid ""
+"Create a quotation from **Sales / Orders / Quotations**, select the "
+"*China Export* as a customer, a *Distributor Pricelist (USD)* will be "
+"selected automatically on the quotation. Now add the product *Computer "
+"Desk* on the order lines, **Unit Price** will be set to *3200* but "
+"**Subtotal** computed and shows *2240* as an automatic *30%* discount "
+"computed and set on the **Discount** field based on the *Distributor "
+"Pricelist*."
+msgstr ""
+
+#: ../../sales/pricelist_discount/compute_and_apply_discount_from_pricelist.rst:110
+#, python-format
+msgid ""
+"The 30% is computed based on the difference between price offered to "
+"distributors and the product **Sales Price**. *I.e. 3200 - 2240 = 960 "
+"which is 30% of the 3200 price*."
+msgstr ""
+
+#: ../../sales/pricelist_discount/compute_and_apply_discount_from_pricelist.rst:116
+msgid "Access the video at https://www.youtube.com/watch?v=W1rD3cnD9lw"
+msgstr ""
+
+#: ../../sales/pricelist_discount/product_price_per_company.rst:7
+msgid "Define the product sales price per company"
+msgstr ""
+
+#: ../../sales/pricelist_discount/product_price_per_company.rst:11
+msgid "Access the video at https://www.youtube.com/watch?v=NrMybYWXZ_w"
+msgstr ""
+
+#: ../../sales/product_tax/price_including_tax.rst:9
+msgid "Manage prices for Business to Customer (tax included)"
+msgstr ""
+
+#: ../../sales/product_tax/price_including_tax.rst:13
+msgid "Access the video at https://www.youtube.com/watch?v=SRsMh0vqM2w"
+msgstr ""
+
+#: ../../sales/product_tax/price_including_tax_and_excluding_tax.rst:9
+msgid "Manage product prices for B2B (tax excluded) and B2C (tax included)"
+msgstr ""
+
+#: ../../sales/product_tax/price_including_tax_and_excluding_tax.rst:13
+msgid "Access the video at https://www.youtube.com/watch?v=S6yNzHBEyOI"
+msgstr ""
+
+#: ../../sales/quotation/apply_default_tax.rst:7
+msgid "Apply default taxes on products or sales order"
+msgstr ""
+
+#: ../../sales/quotation/apply_default_tax.rst:9
+msgid ""
+"Taxes applied in your country are installed automatically for most "
+"localizations. Default taxes set in orders and invoices come from each "
+"product’s Invoicing tab. Such taxes are used when you sell to companies "
+"that are in the same country/state than you."
+msgstr ""
+
+#: ../../sales/quotation/apply_default_tax.rst:17
+msgid "Let’s set the default sales and purchase tax to Tax 15.00%."
+msgstr ""
+
+#: ../../sales/quotation/apply_default_tax.rst:22
+msgid ""
+"All the new products created in the Odoo take the default tax set in the "
+"**Accounting/Invoicing** settings. To change the default taxes set for "
+"any new product created, goto **Invoicing / Configuration / Settings**."
+msgstr ""
+
+#: ../../sales/quotation/apply_default_tax.rst:29
+msgid "Create new product"
+msgstr ""
+
+#: ../../sales/quotation/apply_default_tax.rst:31
+msgid ""
+"Let’s create a new product, the default tax which was applied should be "
+"applied on this product."
+msgstr ""
+
+#: ../../sales/quotation/apply_default_tax.rst:37
+msgid "Create sales order"
+msgstr ""
+
+#: ../../sales/quotation/apply_default_tax.rst:39
+msgid ""
+"Let’s create a new order and select the same product on the order line, "
+"the tax which was set on the products should be applied on the sales "
+"order line tax field."
+msgstr ""
+
+#: ../../sales/quotation/apply_default_tax.rst:45
+msgid ""
+"Now, your salesman do not have to remember that what taxes to be applied "
+"on which product."
+msgstr ""
+
+#: ../../sales/quotation/apply_default_tax.rst:50
+msgid "Access the video at https://www.youtube.com/watch?v=o9sVx6AIg5Q"
+msgstr ""
+
+#: ../../sales/quotation/change_your_quotation_layout.rst:7
+msgid "Change your quotation layout"
+msgstr ""
+
+#: ../../sales/quotation/change_your_quotation_layout.rst:9
+msgid ""
+"All the legal documents such as sales order or invoice required to be "
+"printed on the company letterhead with header and footer. You can choose "
+"a document layout from 4 different layouts available in Odoo according to"
+" your need."
+msgstr ""
+
+#: ../../sales/quotation/change_your_quotation_layout.rst:17
+msgid ""
+"Let’s switch to the beautiful layout. So, not only quotation but all the "
+"legal document will be printed with the same layout."
+msgstr ""
+
+#: ../../sales/quotation/change_your_quotation_layout.rst:23
+msgid ""
+"The quotation layout can be changed from the **Settings / General "
+"Settings** under the **Document Template** section you can change the "
+"document layout."
+msgstr ""
+
+#: ../../sales/quotation/change_your_quotation_layout.rst:29
+msgid ""
+"Enter the company information such as name, address, currency and logo. "
+"Bottom of the popup windows you can choose the layout for all your legal "
+"document which will be printed with header and footer."
+msgstr ""
+
+#: ../../sales/quotation/change_your_quotation_layout.rst:33
+msgid ""
+"Do not forget to select the company logo, you can click on Preview link "
+"to check how it looks before you choose."
+msgstr ""
+
+#: ../../sales/quotation/change_your_quotation_layout.rst:36
+msgid "Choose the appropriate layout and apply the setting."
+msgstr ""
+
+#: ../../sales/quotation/change_your_quotation_layout.rst:39
+msgid "Print quotation"
+msgstr ""
+
+#: ../../sales/quotation/change_your_quotation_layout.rst:41
+msgid ""
+"The default layout will be switched to the selected one on the "
+"configuration, now your quotation will be printed with the new layout. "
+"|image1|"
+msgstr ""
+
+#: ../../sales/quotation/compute_sales_margin.rst:8
+msgid "Compute margin on sale order"
+msgstr ""
+
+#: ../../sales/quotation/compute_sales_margin.rst:9
+msgid ""
+"Some business wants the realtime computation of the margins so that sales"
+" manager or person can propose the best price to the customer."
+msgstr ""
+
+#: ../../sales/quotation/compute_sales_margin.rst:12
+msgid ""
+"Let's take the business case, sales manager check the margin on order and"
+" decide whether we can allow additional discount to the customer or not."
+msgstr ""
+
+#: ../../sales/quotation/compute_sales_margin.rst:17
+msgid "Install the **Sales Management** application."
+msgstr ""
+
+#: ../../sales/quotation/compute_sales_margin.rst:23
+msgid ""
+"If you want to check Margin feature for *Average Cost (AVCO)* install "
+"**Purchase Management**. Installation of sales and purchase will install "
+"other applications such as **Inventory Management** and **Invoicing "
+"Management**."
+msgstr ""
+
+#: ../../sales/quotation/compute_sales_margin.rst:28
+msgid "Margins"
+msgstr ""
+
+#: ../../sales/quotation/compute_sales_margin.rst:29
+msgid ""
+"Go to ``Sales / Configuration / Settings`` select **Margins** and apply "
+"the setting. This will show margins on orders."
+msgstr ""
+
+#: ../../sales/quotation/compute_sales_margin.rst:37
+msgid "Products"
+msgstr ""
+
+#: ../../sales/quotation/compute_sales_margin.rst:38
+msgid ""
+"Enter the product **Sales Price** and **Cost** accordingly, enter the "
+"latest sales and cost price."
+msgstr ""
+
+#: ../../sales/quotation/compute_sales_margin.rst:45
+msgid ""
+"I have entered $1200 sales price and $900 cost price, also defined the "
+"$900 purchase price on the vendor pricelist."
+msgstr ""
+
+#: ../../sales/quotation/compute_sales_margin.rst:48
+msgid ""
+"Product **Cost** will be computed automatically when you set the product "
+"costing method to *Average Cost (AVCO)* or *First in First Out (FIFO)*. "
+"The FIFO method does not give you correct costing in some case."
+msgstr ""
+
+#: ../../sales/quotation/compute_sales_margin.rst:53
+msgid "Create Sales order"
+msgstr ""
+
+#: ../../sales/quotation/compute_sales_margin.rst:54
+msgid ""
+"Let's create a quotation, select the customer on quotation and product on"
+" order line. The margin will be computed as soon as you select the "
+"product, the difference between **Unit Price** and **Cost** is margin. "
+"The **Margin** be computed based on the difference for each lines on sale"
+" order."
+msgstr ""
+
+#: ../../sales/quotation/compute_sales_margin.rst:63
+msgid ""
+"Now, it will be easy for the sales manager to check what's the margin on "
+"quotation. For **SO004** it is 25%, its a good deal to go with, let's "
+"move forward and confirm the order."
+msgstr ""
+
+#: ../../sales/quotation/compute_sales_margin.rst:69
+msgid "Access the video at https://www.youtube.com/watch?v=d2QuTYjziI8"
+msgstr ""
+
+#: ../../sales/quotation/create_my_first_quotation.rst:6
+msgid "Create your first quotation"
+msgstr ""
+
+#: ../../sales/quotation/create_my_first_quotation.rst:8
+msgid ""
+"Quotations are documents sent to prospects to offer an estimated price "
+"for a particular set of products or services. The prospects can accept "
+"the quotation, in which case the seller will have to issue a sales order,"
+" or refuse it."
+msgstr ""
+
+#: ../../sales/quotation/create_my_first_quotation.rst:16
+#, python-format
+msgid ""
+"For example, *My Company* sells electronic products and a client *John "
+"Deo* showed interest in buying 3 *iPads* to facilitate their operations. "
+"I would like to send them a quotation for those *iPads* with a sales "
+"price of *320 USD* per *iPad* with a **5% discount**."
+msgstr ""
+
+#: ../../sales/quotation/create_my_first_quotation.rst:24
+msgid ""
+"Install the **Sales Management** application. In order to be able to "
+"issue quotation, you’ll need to install the **Sales Management** "
+"application from the **Apps** in the Odoo backend."
+msgstr ""
+
+#: ../../sales/quotation/create_my_first_quotation.rst:28
+msgid "|Sales Management Application|"
+msgstr ""
+
+#: ../../sales/quotation/create_my_first_quotation.rst:31
+msgid "Discounts on sales order line"
+msgstr ""
+
+#: ../../sales/quotation/create_my_first_quotation.rst:33
+msgid ""
+"Allowing discounts on quotations is a common sales practice to improve "
+"the chances to convert the prospect into a customer."
+msgstr ""
+
+#: ../../sales/quotation/create_my_first_quotation.rst:36
+#, python-format
+msgid ""
+"In our business case, we want to grant 5% discount to our customer *John "
+"Deo* on the sale price. To enable the feature, go into the **Sales** "
+"application, select **Configuration / Settings** and, under **Pricing** "
+"section, select it and **APPLY** to allow manual discounts on order "
+"lines."
+msgstr ""
+
+#: ../../sales/quotation/create_my_first_quotation.rst:45
+msgid "Create your quotation"
+msgstr ""
+
+#: ../../sales/quotation/create_my_first_quotation.rst:47
+msgid ""
+"To create your first quotation, go to **Sales / Quotations** and click on"
+" **CREATE**. Then, complete your quotation as follows:"
+msgstr ""
+
+#: ../../sales/quotation/create_my_first_quotation.rst:51
+msgid "Customer and Products"
+msgstr ""
+
+#: ../../sales/quotation/create_my_first_quotation.rst:53
+msgid ""
+"The basic elements to add to any quotation are the prospects or customer "
+"(the person you will send your quotation to) and the products you want to"
+" sell."
+msgstr ""
+
+#: ../../sales/quotation/create_my_first_quotation.rst:57
+msgid ""
+"From the quotation view, choose the prospect from the **Customer** drop-"
+"down list and under **Order Lines**, click on **Add an item** and select "
+"your product. Do not forget to manually add the number of items under "
+"**Ordered Quantity** and the **Discount** if applicable."
+msgstr ""
+
+#: ../../sales/quotation/create_my_first_quotation.rst:64
+#, python-format
+msgid ""
+"To apply 5% discount enter 5 in the **Discount (%)**. The discount should"
+" be entered between 0 to 100, it computes discount in percentage."
+msgstr ""
+
+#: ../../sales/quotation/create_my_first_quotation.rst:67
+msgid ""
+"If you don’t have any customer or product created before on your Odoo "
+"instance yet, you can create them on the fly directly from your "
+"quotations:"
+msgstr ""
+
+#: ../../sales/quotation/create_my_first_quotation.rst:74
+msgid "To add a new customer, click on the **Customer** drop-down menu and"
+msgstr ""
+
+#: ../../sales/quotation/create_my_first_quotation.rst:72
+msgid ""
+"click on **Create and edit**. In this new window, you will be able to "
+"record all the customer details, such as the address, website, phone "
+"number and person of contact."
+msgstr ""
+
+#: ../../sales/quotation/create_my_first_quotation.rst:80
+msgid "To add a new product, under **Order Line**, click on **Add an item**,"
+msgstr ""
+
+#: ../../sales/quotation/create_my_first_quotation.rst:77
+msgid ""
+"click on **Create and Edit** on the drop-down list of **Product** field. "
+"You will be able to record your product information (product type, cost, "
+"sale price, invoicing policy, etc.) along with a picture."
+msgstr ""
+
+#: ../../sales/quotation/create_my_first_quotation.rst:83
+#: ../../sales/quotation/set_default_terms_and_conditions.rst:20
+msgid "Taxes"
+msgstr ""
+
+#: ../../sales/quotation/create_my_first_quotation.rst:85
+msgid ""
+"To parameter taxes, simply go on the **Taxes** field of the order line "
+"and click on **Create and Edit**. Fill in the details (for example if you"
+" are subject to a 15% taxe on your sales, simply fill in the right amount"
+" in percentage) and save."
+msgstr ""
+
+#: ../../sales/quotation/create_my_first_quotation.rst:93
+msgid "Terms and conditions"
+msgstr ""
+
+#: ../../sales/quotation/create_my_first_quotation.rst:95
+msgid ""
+"You can select the expiration date of your quotation and add your "
+"company’s terms and conditions directly in your quotation (see picture "
+"below)."
+msgstr ""
+
+#: ../../sales/quotation/create_my_first_quotation.rst:100
+msgid "Preview quotation"
+msgstr ""
+
+#: ../../sales/quotation/create_my_first_quotation.rst:102
+msgid ""
+"You can check the quotation before you send to the customer by email, "
+"click on the **PRINT** button (upper left corner). You will see the popup"
+" window that ask for company master details such as address, contact, "
+"email, VAT number, and report layout you want to set for your company."
+msgstr ""
+
+#: ../../sales/quotation/create_my_first_quotation.rst:110
+msgid ""
+"Click on the **SAVE** button to apply the settings, now you are ready to "
+"print your first quotation. Click on the **PRINT** button again, you will"
+" get the printable PDF version of your quotation."
+msgstr ""
+
+#: ../../sales/quotation/create_my_first_quotation.rst:114
+msgid ""
+"Update your company’s details (address, website, logo, etc) can be "
+"changed later by clicking on the link **Change Document Template** under "
+"the **Settings / General Settings**."
+msgstr ""
+
+#: ../../sales/quotation/create_my_first_quotation.rst:120
+msgid "Access the video at https://www.youtube.com/watch?v=OTfJhgRTPVw"
+msgstr ""
+
+#: ../../sales/quotation/sections_on_sales_orders.rst:6
+msgid ""
+"Sections on sales orders, sort products in sections with subtotals and "
+"page-breaks"
+msgstr ""
+
+#: ../../sales/quotation/sections_on_sales_orders.rst:8
+msgid ""
+"Some business who delivers products and services, they need to prepare a "
+"quotation that differentiate the products based on Service and Material "
+"part. This section will help customer to understand what the total cost "
+"of the Material and Service separately."
+msgstr ""
+
+#: ../../sales/quotation/sections_on_sales_orders.rst:16
+msgid ""
+"Let’s take an example of the trading and service company who wants to "
+"send the quotation for Air-condition, related material to install it and "
+"Installation service."
+msgstr ""
+
+#: ../../sales/quotation/sections_on_sales_orders.rst:23
+msgid "Assumed **Sales Management** application is installed."
+msgstr ""
+
+#: ../../sales/quotation/sections_on_sales_orders.rst:26
+msgid "Sections on sales orders"
+msgstr ""
+
+#: ../../sales/quotation/sections_on_sales_orders.rst:28
+msgid ""
+"Goto **Sales / Configuration / Settings** and enable **Sections on Sales "
+"Orders** feature that allows to create sections, sort products in "
+"sections with subtotals and page-breaks."
+msgstr ""
+
+#: ../../sales/quotation/sections_on_sales_orders.rst:35
+msgid "Configure the sections"
+msgstr ""
+
+#: ../../sales/quotation/sections_on_sales_orders.rst:37
+msgid ""
+"The two sections *Service* and *Material* are available by default, you "
+"can configure those sections from **Sales / Configuration / Report Layout"
+" Categories**."
+msgstr ""
+
+#: ../../sales/quotation/sections_on_sales_orders.rst:43
+msgid ""
+"There are 4 parameters available which can configure each section, that "
+"decided how section will be printed on reports."
+msgstr ""
+
+#: ../../sales/quotation/sections_on_sales_orders.rst:46
+msgid "**Name** - name of the section to be displayed on the report"
+msgstr ""
+
+#: ../../sales/quotation/sections_on_sales_orders.rst:49
+msgid "**Add subtotal** - if selected, the subtotal will be displayed for"
+msgstr ""
+
+#: ../../sales/quotation/sections_on_sales_orders.rst:49
+msgid "section"
+msgstr ""
+
+#: ../../sales/quotation/sections_on_sales_orders.rst:54
+msgid "**Add pagebreak** - if selected, once this section print on page, the"
+msgstr ""
+
+#: ../../sales/quotation/sections_on_sales_orders.rst:52
+msgid ""
+"next section will be printed on the next page. Uncheck **Add pagebreak** "
+"in *Service* section, if you would like to see all the section on single "
+"page."
+msgstr ""
+
+#: ../../sales/quotation/sections_on_sales_orders.rst:57
+msgid "**Sequence** - decided the order of the section to be printed on the"
+msgstr ""
+
+#: ../../sales/quotation/sections_on_sales_orders.rst:57
+msgid "report"
+msgstr ""
+
+#: ../../sales/quotation/sections_on_sales_orders.rst:60
+msgid "Create a sales order"
+msgstr ""
+
+#: ../../sales/quotation/sections_on_sales_orders.rst:62
+msgid ""
+"Create a sales order, select customer and products such as *Split Air "
+"Conditioner - 1.5T*, *Copper pipe* and *Installation Service*, beside "
+"each product you have to select this product comes into which section."
+msgstr ""
+
+#: ../../sales/quotation/sections_on_sales_orders.rst:69
+msgid "Print sales order"
+msgstr ""
+
+#: ../../sales/quotation/sections_on_sales_orders.rst:71
+msgid ""
+"You are ready to print your sales order by sections with subtotals for "
+"each sections."
+msgstr ""
+
+#: ../../sales/quotation/sections_on_sales_orders.rst:78
+msgid "Access the video at https://www.youtube.com/watch?v=2sOuEdYRSmE"
+msgstr ""
+
+#: ../../sales/quotation/send_quotation_by_email.rst:6
+#: ../../sales/quotation_template/quick_create_quotation_using_quotation_template.rst:85
+msgid "Send quotation by email"
+msgstr ""
+
+#: ../../sales/quotation/send_quotation_by_email.rst:8
+msgid ""
+"Quotations are documents sent to customers to offer an estimated price "
+"for a particular set of goods or services. The customer can accept the "
+"quotation, in which case the seller will have to issue a sales order, or "
+"refuse it."
+msgstr ""
+
+#: ../../sales/quotation/send_quotation_by_email.rst:13
+msgid ""
+"In traditional business process people use to send the quotation by "
+"courier, it is not efficient way as it delays the negotiation and "
+"quotation confirmation process, Odoo allows you to send the quotation by "
+"email and real-time discuss through email on the quotation."
+msgstr ""
+
+#: ../../sales/quotation/send_quotation_by_email.rst:21
+msgid ""
+"Let’s send your first quotation by email, so that customer can view and "
+"start negotiation on the quotation."
+msgstr ""
+
+#: ../../sales/quotation/send_quotation_by_email.rst:27
+msgid ""
+"You don’t need any configuration when you are using Odoo online. Email "
+"feature is already configure and working out-of-the-box on Odoo online "
+"platform."
+msgstr ""
+
+#: ../../sales/quotation/send_quotation_by_email.rst:31
+msgid ""
+"You need to configure the external email server, if you are not using "
+"Odoo online platform, to be precise you need to configure an incoming and"
+" outgoing mail servers."
+msgstr ""
+
+#: ../../sales/quotation/send_quotation_by_email.rst:37
+msgid ""
+"Tip: If you configure only Outgoing Email Servers you will be able to "
+"send the quotation but not receive any feedback from prospects through "
+"email"
+msgstr ""
+
+#: ../../sales/quotation/send_quotation_by_email.rst:42
+msgid "Email address on customer"
+msgstr ""
+
+#: ../../sales/quotation/send_quotation_by_email.rst:44
+msgid ""
+"Make sure you have entered the correct email address in the **Email** "
+"field, when you create a new customer."
+msgstr ""
+
+#: ../../sales/quotation/send_quotation_by_email.rst:48
+msgid "Send by mail"
+msgstr ""
+
+#: ../../sales/quotation/send_quotation_by_email.rst:50
+msgid ""
+"Assumed that the quotation is prepared and ready to be shared with "
+"prospect, click on the **SEND BY EMAIL** button to send the quotation by "
+"email, automatic email will be prepared based on the predefined template "
+"which prepare the beautiful email with content and attachment on the "
+"email, review the email content, you can also add the content if you wish"
+" and send by clicking on the **SEND** button."
+msgstr ""
+
+#: ../../sales/quotation/send_quotation_by_email.rst:60
+msgid "Enter email address"
+msgstr ""
+
+#: ../../sales/quotation/send_quotation_by_email.rst:62
+msgid ""
+"You may be asked to enter the email address before send an email, if you "
+"have not entered the email at the time of creating the customer."
+msgstr ""
+
+#: ../../sales/quotation/send_quotation_by_email.rst:67
+msgid ""
+"Enter the valid email address and you are ready to send the quotation by "
+"email."
+msgstr ""
+
+#: ../../sales/quotation/send_quotation_by_email.rst:71
+msgid "Chatter"
+msgstr ""
+
+#: ../../sales/quotation/send_quotation_by_email.rst:73
+msgid ""
+"All the communication made to this quotation can be tracked in chatter, "
+"messages send to customer or received from the customer are available "
+"below quotation. All the communication history will be preserved and "
+"available when quotation gets converted to sales order."
+msgstr ""
+
+#: ../../sales/quotation/send_quotation_by_email.rst:80
+msgid "Access the video at https://www.youtube.com/watch?v=TUcNeJ4CSVg"
+msgstr ""
+
+#: ../../sales/quotation/set_default_terms_and_conditions.rst:6
+msgid "Set default terms and condition on quotation"
+msgstr ""
+
+#: ../../sales/quotation/set_default_terms_and_conditions.rst:8
+msgid ""
+"Every quotation issued to the prospect need to have terms and conditions,"
+" those terms and conditions are accepted by the customer at the time of "
+"accepting the quotation."
+msgstr ""
+
+#: ../../sales/quotation/set_default_terms_and_conditions.rst:12
+msgid ""
+"The most common terms and conditions includes the payment terms, delivery"
+" date, and tax clarification, there are many other points as below can be"
+" included in the terms and conditions:"
+msgstr ""
+
+#: ../../sales/quotation/set_default_terms_and_conditions.rst:16
+msgid "Acceptance"
+msgstr ""
+
+#: ../../sales/quotation/set_default_terms_and_conditions.rst:18
+msgid "Payment Terms"
+msgstr ""
+
+#: ../../sales/quotation/set_default_terms_and_conditions.rst:22
+msgid "Warranty"
+msgstr ""
+
+#: ../../sales/quotation/set_default_terms_and_conditions.rst:24
+msgid "Claims"
+msgstr ""
+
+#: ../../sales/quotation/set_default_terms_and_conditions.rst:26
+msgid "Returns"
+msgstr ""
+
+#: ../../sales/quotation/set_default_terms_and_conditions.rst:28
+msgid "Shipment"
+msgstr ""
+
+#: ../../sales/quotation/set_default_terms_and_conditions.rst:30
+msgid "Security Interest"
+msgstr ""
+
+#: ../../sales/quotation/set_default_terms_and_conditions.rst:32
+msgid "Cancellation"
+msgstr ""
+
+#: ../../sales/quotation/set_default_terms_and_conditions.rst:34
+msgid "Indemnification"
+msgstr ""
+
+#: ../../sales/quotation/set_default_terms_and_conditions.rst:36
+msgid "Governing Law"
+msgstr ""
+
+#: ../../sales/quotation/set_default_terms_and_conditions.rst:41
+msgid ""
+"Let’s take an example of the trading company, they need to define the "
+"terms and conditions required by their nature of business, the terms and "
+"conditions should be applied to all the quotation created by any "
+"salesman. They want to set the below point as a default terms and "
+"conditions:"
+msgstr ""
+
+#: ../../sales/quotation/set_default_terms_and_conditions.rst:47
+msgid "Delivery of the goods will take 10 working days"
+msgstr ""
+
+#: ../../sales/quotation/set_default_terms_and_conditions.rst:49
+msgid "Other taxes such as octroi will be charges extra"
+msgstr ""
+
+#: ../../sales/quotation/set_default_terms_and_conditions.rst:51
+msgid "100% payment should be released at the time of confirmation"
+msgstr ""
+
+#: ../../sales/quotation/set_default_terms_and_conditions.rst:56
+msgid "Assumed that the **Sales Management** application is already installed."
+msgstr ""
+
+#: ../../sales/quotation/set_default_terms_and_conditions.rst:59
+msgid "Default terms and conditions"
+msgstr ""
+
+#: ../../sales/quotation/set_default_terms_and_conditions.rst:61
+msgid ""
+"Let’s go to Sales / Configuration / Settings, enable the default terms "
+"and conditions and enter all the conditions those required to be set by "
+"default on all the quotation."
+msgstr ""
+
+#: ../../sales/quotation/set_default_terms_and_conditions.rst:67
+msgid "Click on **SAVE** to apply the settings."
+msgstr ""
+
+#: ../../sales/quotation/set_default_terms_and_conditions.rst:72
+msgid ""
+"Goto **Sales / Orders / Quotations** and create a new quotation, you will"
+" notice that quotation is empty but the default terms and conditions are "
+"set on it."
+msgstr ""
+
+#: ../../sales/quotation/set_default_terms_and_conditions.rst:78
+msgid ""
+"The salesman can make the changes as per the requirement but you can be "
+"sure that salesman will never forget to add the default terms and "
+"conditions."
+msgstr ""
+
+#: ../../sales/quotation/set_default_terms_and_conditions.rst:82
+msgid ""
+"The payment terms will be added automatically at the end of every "
+"quotation as a part of the terms and conditions in the printed quotation "
+"if any."
+msgstr ""
+
+#: ../../sales/quotation/set_default_terms_and_conditions.rst:88
+msgid "Access the video at https://www.youtube.com/watch?v=wnOTS1Bm8xI"
+msgstr ""
+
+#: ../../sales/quotation_template/increase_your_sales_with_suggested_products.rst:6
+msgid "Increase your sales with suggested products"
+msgstr ""
+
+#: ../../sales/quotation_template/increase_your_sales_with_suggested_products.rst:8
+msgid ""
+"The use of suggested products is an attempt to offer related and useful "
+"products to your client. For instance, a client purchasing a cell phone "
+"could be shown accessories like a protective case, a screen cover, and a "
+"headset."
+msgstr ""
+
+#: ../../sales/quotation_template/increase_your_sales_with_suggested_products.rst:16
+msgid ""
+"The consulting company want to add the suggested product such as "
+"*Software training program* on the quotation when they make a quotation "
+"for *Offshore Projects*."
+msgstr ""
+
+#: ../../sales/quotation_template/increase_your_sales_with_suggested_products.rst:23
+msgid ""
+"Assumed that the **Sales Management** application is installed and "
+"quotation template is configured well for the *Offshore Project*."
+msgstr ""
+
+#: ../../sales/quotation_template/increase_your_sales_with_suggested_products.rst:27
+msgid "Suggested products"
+msgstr ""
+
+#: ../../sales/quotation_template/increase_your_sales_with_suggested_products.rst:29
+msgid ""
+"Open the Offshore Project quotation template, add the product(s) under "
+"the **Suggested Product** tab on quotation template. In our case let’s "
+"add the Software training program as a service product."
+msgstr ""
+
+#: ../../sales/quotation_template/increase_your_sales_with_suggested_products.rst:36
+msgid "Send the quotation"
+msgstr ""
+
+#: ../../sales/quotation_template/increase_your_sales_with_suggested_products.rst:38
+msgid ""
+"Prepare and send the quotation to customer by email. Customer can see the"
+" quotation a full product or service detailed specification along with "
+"the quoted price, and suggested products at the end. If customer find "
+"valuable products or service in suggested products they can directly add "
+"them in to quotation by themself before they approve and pay quotation "
+"online."
+msgstr ""
+
+#: ../../sales/quotation_template/online_customer_approval_and_payment_on_quotation.rst:6
+msgid "Online customer approval and payment on quotation"
+msgstr ""
+
+#: ../../sales/quotation_template/online_customer_approval_and_payment_on_quotation.rst:8
+#: ../../sales/quotation_template/online_customer_approval_on_quotation.rst:8
+msgid ""
+"Sending an online quotation can speed up the negotiation process, "
+"customer can negotiate and approve the quotation online, this can boost "
+"up your sales process and minimise the sales cycle."
+msgstr ""
+
+#: ../../sales/quotation_template/online_customer_approval_and_payment_on_quotation.rst:12
+msgid ""
+"Getting online approval on quotation is good but getting paid online is "
+"great, it will be really cool to get online payment from the customer "
+"along with the approval of quotation."
+msgstr ""
+
+#: ../../sales/quotation_template/online_customer_approval_and_payment_on_quotation.rst:19
+msgid ""
+"The service company who is selling the *Support pack* which is service "
+"offered at fixed price. As soon as customer make the online payment, they"
+" can start getting the support by sending support request. The company "
+"wants to get the online payment instead of signature from the customer to"
+" start the support service."
+msgstr ""
+
+#: ../../sales/quotation_template/online_customer_approval_and_payment_on_quotation.rst:28
+#: ../../sales/quotation_template/online_customer_approval_on_quotation.rst:24
+msgid ""
+"Assumed that you have installed **Sales Management** application, "
+"configure the quotation template for the support packs."
+msgstr ""
+
+#: ../../sales/quotation_template/online_customer_approval_and_payment_on_quotation.rst:32
+msgid "Online payment"
+msgstr ""
+
+#: ../../sales/quotation_template/online_customer_approval_and_payment_on_quotation.rst:34
+msgid ""
+"The **Confirmation Mode** on the quotation template available on the "
+"**Configuration** tab is set to *Online Signature* by default, change it "
+"to *Online Payment*. The customer have to pay online to confirm the "
+"quotation by themselves."
+msgstr ""
+
+#: ../../sales/quotation_template/online_customer_approval_and_payment_on_quotation.rst:40
+msgid "Accept online payment"
+msgstr ""
+
+#: ../../sales/quotation_template/online_customer_approval_and_payment_on_quotation.rst:42
+msgid ""
+"Installing the **Sales Management** application also installed the "
+"**Invoicing** application, the payment acquire needs to be activated from"
+" the list of payment acquires (payment gateways) available in Odoo. All "
+"the payment acquires can be found and activated from **Invoicing / "
+"Configuration / Payment Acquirers**.Install and configure the payment "
+"acquirer, which suits your requirement."
+msgstr ""
+
+#: ../../sales/quotation_template/online_customer_approval_and_payment_on_quotation.rst:49
+msgid "I have installed and configure the *Authorised.net* payment acquirer."
+msgstr ""
+
+#: ../../sales/quotation_template/online_customer_approval_and_payment_on_quotation.rst:53
+msgid ""
+"Do not forget to **Publish** configured payment acquire to force customer"
+" to pay by that and unpublish other acquire such as **Wire Transfer**."
+msgstr ""
+
+#: ../../sales/quotation_template/online_customer_approval_and_payment_on_quotation.rst:57
+msgid ""
+"I have also made change to **Payment Flow** from *Redirect to the "
+"acquirer website* to *Payment from Odoo* as i want to process the payment"
+" directly from Odoo without redirecting to acquirer website. You can "
+"switch to **Production** as soon as everything configured and working "
+"properly."
+msgstr ""
+
+#: ../../sales/quotation_template/online_customer_approval_and_payment_on_quotation.rst:64
+#: ../../sales/quotation_template/online_customer_approval_on_quotation.rst:37
+msgid "Create and send quotation by email"
+msgstr ""
+
+#: ../../sales/quotation_template/online_customer_approval_and_payment_on_quotation.rst:66
+msgid ""
+"Create a quotation select customer, select quotation template. Before you"
+" send the quotation to customer make sure that **Confirmation Mode** is "
+"set to *Online Payment* on quotation under the **Other Information** tab."
+msgstr ""
+
+#: ../../sales/quotation_template/online_customer_approval_and_payment_on_quotation.rst:73
+#: ../../sales/quotation_template/online_customer_approval_on_quotation.rst:46
+msgid ""
+"You can change the **Confirmation Mode** for each quotation regardless of"
+" the configuration on quotation template."
+msgstr ""
+
+#: ../../sales/quotation_template/online_customer_approval_and_payment_on_quotation.rst:77
+msgid "Accept and pay online"
+msgstr ""
+
+#: ../../sales/quotation_template/online_customer_approval_and_payment_on_quotation.rst:79
+msgid ""
+"Customer can review the quotation online, once it suite their need that "
+"can accept the quotation by clicking on the **Accept Order** and make the"
+" online payment on the quotation."
+msgstr ""
+
+#: ../../sales/quotation_template/online_customer_approval_and_payment_on_quotation.rst:85
+msgid ""
+"The quotation accepted and paid by the customer online will convert "
+"quotation to sales order in backend."
+msgstr ""
+
+#: ../../sales/quotation_template/online_customer_approval_and_payment_on_quotation.rst:88
+msgid ""
+"Make sure that customer has correct contract details before they process "
+"for the online payment. Some payment acquirer required complete customer "
+"details."
+msgstr ""
+
+#: ../../sales/quotation_template/online_customer_approval_and_payment_on_quotation.rst:92
+msgid ""
+"Customer can accept and pay online quotation which are not expired yet. "
+"The expiration date will be computed on quotation based on the number of "
+"days defined on quotation template in **Quotation expires after** field. "
+"However the specific **Expiration Date** can be set on the quotation "
+"manually before you send the quotation by email."
+msgstr ""
+
+#: ../../sales/quotation_template/online_customer_approval_and_payment_on_quotation.rst:98
+msgid ""
+"The quotation converted to sales order and It will automatically triggers"
+" the next business process in backend such as creating a delivery order, "
+"manufacturing order or create a task or project in the project management"
+" depending on your configuration."
+msgstr ""
+
+#: ../../sales/quotation_template/online_customer_approval_and_payment_on_quotation.rst:105
+msgid ""
+"The Transaction is attached to the confirmed sales order, you can click "
+"on the transaction and get the status and reference about the online "
+"payment made by customer. It is set to **Done** and **Acquirer "
+"Reference** number is available on the transaction when payment was "
+"successfully processed."
+msgstr ""
+
+#: ../../sales/quotation_template/online_customer_approval_and_payment_on_quotation.rst:114
+#: ../../sales/quotation_template/online_customer_approval_on_quotation.rst:71
+msgid "Reject quotation"
+msgstr ""
+
+#: ../../sales/quotation_template/online_customer_approval_and_payment_on_quotation.rst:116
+#: ../../sales/quotation_template/online_customer_approval_on_quotation.rst:73
+msgid ""
+"The quotation will be set to **Cancelled** state in the backend once it "
+"has been rejected by the customer online, however it can be reset to "
+"draft modified and send it back to the customer when you are in "
+"negotiation process."
+msgstr ""
+
+#: ../../sales/quotation_template/online_customer_approval_and_payment_on_quotation.rst:123
+msgid "Access the video at https://www.youtube.com/watch?v=tpL2EgXAaZ4"
+msgstr ""
+
+#: ../../sales/quotation_template/online_customer_approval_on_quotation.rst:6
+msgid "Online customer approval on quotation"
+msgstr ""
+
+#: ../../sales/quotation_template/online_customer_approval_on_quotation.rst:15
+msgid ""
+"The service company who is selling the *Support pack* which is service "
+"offered at fixed price. As soon as customer accept the proposal, customer"
+" can start sending the support requests. The company wants to get the "
+"online signature from the customer and customer can release the payment "
+"based on the payment terms."
+msgstr ""
+
+#: ../../sales/quotation_template/online_customer_approval_on_quotation.rst:28
+msgid "Online signature"
+msgstr ""
+
+#: ../../sales/quotation_template/online_customer_approval_on_quotation.rst:30
+msgid ""
+"The **Confirmation Mode** on the quotation template available on the "
+"**Confirmation** tab is set to *Online Signature* by default. The "
+"customer can confirm the quotation by themselves by signing the "
+"quotation. Keep it as it is when you just want the online signature form "
+"customer."
+msgstr ""
+
+#: ../../sales/quotation_template/online_customer_approval_on_quotation.rst:39
+msgid ""
+"Create a quotation select customer, select quotation template. Before you"
+" send the quotation to customer make sure that **Confirmation Mode** is "
+"set to *Online signature* on quotation under the **Other Information** "
+"tab."
+msgstr ""
+
+#: ../../sales/quotation_template/online_customer_approval_on_quotation.rst:50
+msgid "Accept quotation"
+msgstr ""
+
+#: ../../sales/quotation_template/online_customer_approval_on_quotation.rst:52
+msgid ""
+"Customer can review the quotation online, once it suits his/her need than"
+" he/she can accept the quotation by clicking on the **Accept Order** and "
+"signing the quotation online."
+msgstr ""
+
+#: ../../sales/quotation_template/online_customer_approval_on_quotation.rst:58
+msgid ""
+"The quotation accepted and signed by the customer will be confirmed and "
+"converted to sales order in backend. It will automatically triggers the "
+"next business process in backend such as creating a delivery order, "
+"manufacturing order or create a task or project in the project management"
+" depending on your configuration."
+msgstr ""
+
+#: ../../sales/quotation_template/online_customer_approval_on_quotation.rst:64
+msgid ""
+"Customer can accept and sign online quotation which are not expired yet. "
+"The expiration date will be computed on quotation based on the number of "
+"days defined on quotation template in **Quotation expires after** field. "
+"However the specific **Expiration Date** can be set on the quotation "
+"manually before you send the quotation by email."
+msgstr ""
+
+#: ../../sales/quotation_template/online_customer_approval_on_quotation.rst:80
+msgid "Access the video at https://www.youtube.com/watch?v=LZjN1fdVSO4"
+msgstr ""
+
+#: ../../sales/quotation_template/quick_create_quotation_using_quotation_template.rst:6
+msgid "Create quick quotation using quotation template"
+msgstr ""
+
+#: ../../sales/quotation_template/quick_create_quotation_using_quotation_template.rst:8
+msgid ""
+"If you often sell the same products or services, you can save a lot of "
+"time by creating standard quotation templates. By using a quotation "
+"template you can send a complete quotation in no time."
+msgstr ""
+
+#: ../../sales/quotation_template/quick_create_quotation_using_quotation_template.rst:15
+msgid ""
+"The service company who is selling the offshore projects to their "
+"customers with standard set of service products such as Project manager "
+"days, Developer days, and Project setup fee. The developers days are "
+"minimum to 20 days and project manager are one third of the developer "
+"days."
+msgstr ""
+
+#: ../../sales/quotation_template/quick_create_quotation_using_quotation_template.rst:24
+msgid "Assumed that **Sales Management** application is installed."
+msgstr ""
+
+#: ../../sales/quotation_template/quick_create_quotation_using_quotation_template.rst:27
+msgid "Quotation template"
+msgstr ""
+
+#: ../../sales/quotation_template/quick_create_quotation_using_quotation_template.rst:29
+msgid ""
+"Quotation template is a great feature that allows user to create offers "
+"with group of products those are sold together."
+msgstr ""
+
+#: ../../sales/quotation_template/quick_create_quotation_using_quotation_template.rst:35
+msgid "Create a products"
+msgstr ""
+
+#: ../../sales/quotation_template/quick_create_quotation_using_quotation_template.rst:37
+msgid ""
+"Create the list of products that you are going to sale together, in our "
+"business case the list of products of type service are as below:"
+msgstr ""
+
+#: ../../sales/quotation_template/quick_create_quotation_using_quotation_template.rst:40
+msgid "Offshore Project Setup Fee"
+msgstr ""
+
+#: ../../sales/quotation_template/quick_create_quotation_using_quotation_template.rst:42
+msgid "Project Manager Consulting Days"
+msgstr ""
+
+#: ../../sales/quotation_template/quick_create_quotation_using_quotation_template.rst:44
+msgid "Developer Days"
+msgstr ""
+
+#: ../../sales/quotation_template/quick_create_quotation_using_quotation_template.rst:47
+msgid "Create your quotation template"
+msgstr ""
+
+#: ../../sales/quotation_template/quick_create_quotation_using_quotation_template.rst:49
+msgid ""
+"The quotation templates can be found under **Sales / Configuration / "
+"Quotation Template**, create or edit an existing template. Enter the "
+"appropriate name of the template and select the list of product(s) and "
+"their quantity as well as the expiration time for the quotation."
+msgstr ""
+
+#: ../../sales/quotation_template/quick_create_quotation_using_quotation_template.rst:56
+msgid ""
+"You can also specify discount,if discount option is activated in the "
+"Sales settings."
+msgstr ""
+
+#: ../../sales/quotation_template/quick_create_quotation_using_quotation_template.rst:59
+msgid ""
+"You can edit the customer interface of the template that they see to "
+"accept or pay the quotation. This lets you describe your company, "
+"services and products. When you click on **Edit Template** you will be "
+"brought to the quotation template editor."
+msgstr ""
+
+#: ../../sales/quotation_template/quick_create_quotation_using_quotation_template.rst:66
+msgid ""
+"The quotation template editor lets you edit the description content "
+"thanks to drag & drop of building blocks. To describe your products add a"
+" content block in the zone dedicated to each product."
+msgstr ""
+
+#: ../../sales/quotation_template/quick_create_quotation_using_quotation_template.rst:70
+msgid ""
+"The description set for the products will be used in all quotations "
+"templates containing those products."
+msgstr ""
+
+#: ../../sales/quotation_template/quick_create_quotation_using_quotation_template.rst:76
+msgid ""
+"When creating a quotation, you have to select a template, product in that"
+" template will be added to your quotation."
+msgstr ""
+
+#: ../../sales/quotation_template/quick_create_quotation_using_quotation_template.rst:81
+msgid ""
+"You can select a template to be suggested by default in the Sales "
+"settings."
+msgstr ""
+
+#: ../../sales/quotation_template/quick_create_quotation_using_quotation_template.rst:87
+msgid ""
+"You have to send the quotation by email, so that the quotation can be "
+"viewed, accept or reject or paid online by the customer."
+msgstr ""
+
+#: ../../sales/quotation_template/quick_create_quotation_using_quotation_template.rst:91
+msgid "Quotation viewed by customer"
+msgstr ""
+
+#: ../../sales/quotation_template/quick_create_quotation_using_quotation_template.rst:93
+msgid ""
+"As a salesman you can start the follow-up on the quotation as soon as you"
+" see that a quotation viewed by customer. Everytime customer open the "
+"quotation preview you will have a message in chatter, this features of "
+"the quotation template help salesman to understand the customer interest "
+"on quotation."
+msgstr ""
+
+#: ../../sales/quotation_template/quick_create_quotation_using_quotation_template.rst:101
+msgid ""
+"Please remove the attached quotation (pdf file) at the time sending "
+"quotation by mail, if you want your customer should open the quotation "
+"preview."
+msgstr ""
+
+#: ../../sales/quotation_template/quick_create_quotation_using_quotation_template.rst:106
+msgid "Access the video at https://www.youtube.com/watch?v=dbcFx0lgU4E"
+msgstr ""
+
+#: ../../sales/service/invoice_based_on_timesheet.rst:9
+msgid "Create task from sales order and invoice based on timesheet"
+msgstr ""
+
+#: ../../sales/service/invoice_based_on_timesheet.rst:13
+msgid "Access the video at https://www.youtube.com/watch?v=NTgArimc5MI"
+msgstr ""
+
+#: ../../sales/service/invoice_milestones.rst:8
+msgid "Create an invoice at milestone completion for a project"
+msgstr ""
+
+#: ../../sales/service/invoice_milestones.rst:10
+msgid ""
+"There are different kind of service sales: prepaid volume of hours/days "
+"(e.g. support contract), billing based on time and material (e.g. billing"
+" consulting hours) or a fixed price contract (e.g. a project)."
+msgstr ""
+
+#: ../../sales/service/invoice_milestones.rst:14
+msgid ""
+"Milestone invoicing can be used for expensive or large scale projects, "
+"with each milestone representing a clear sequence of work that will "
+"incrementally build up to the completion of the contract. For example, a "
+"marketing agency hired for a new product launch could break down a "
+"project into the following milestones, each of them considered as one "
+"service with a fixed price on the sale order :"
+msgstr ""
+
+#: ../../sales/service/invoice_milestones.rst:21
+msgid "Milestone 1 : Marketing strategy audit - 5 000 euros"
+msgstr ""
+
+#: ../../sales/service/invoice_milestones.rst:22
+msgid "Milestone 2 : Brand Identity - 10 000 euros"
+msgstr ""
+
+#: ../../sales/service/invoice_milestones.rst:23
+msgid "Milestone 3 : Campaign launch & PR - 8 500 euros"
+msgstr ""
+
+#: ../../sales/service/invoice_milestones.rst:25
+msgid ""
+"In this case, an invoice will be sent to the customer each time a "
+"milestone will be successfully reached. That invoicing method is "
+"comfortable both for the company which is ensured to get a steady cash "
+"flow throughout the project lifetime and for the client who can monitor "
+"the project’s progress and pay in several times."
+msgstr ""
+
+#: ../../sales/service/invoice_milestones.rst:31
+#, python-format
+msgid ""
+"You can also use milestones to invoice percentages of the entire project."
+" For example, for a million euros project, your company might require a "
+"15% upfront payment, 30% at the midpoint and the balance at the contract "
+"conclusion. In that case, each payment will be considered as one "
+"milestone."
+msgstr ""
+
+#: ../../sales/service/invoice_milestones.rst:38
+msgid ""
+"In order to sell services and to send invoices, you need to install the "
+"Sales application, from the Apps icon."
+msgstr ""
+
+#: ../../sales/service/invoice_milestones.rst:41
+msgid ""
+"In Odoo, each milestone of your project is considered as a product. From "
+"the Sales application, use the menu Sales ‣ Products, create a new "
+"product with the following setup:"
+msgstr ""
+
+#: ../../sales/service/invoice_milestones.rst:45
+msgid "Name: Strategy audit"
+msgstr ""
+
+#: ../../sales/service/invoice_milestones.rst:46
+msgid "Product Type: Service"
+msgstr ""
+
+#: ../../sales/service/invoice_milestones.rst:47
+msgid ""
+"Invoicing Policy: Delivered Quantities, since you will invoice your "
+"milestone after it has been delivered"
+msgstr ""
+
+#: ../../sales/service/invoice_milestones.rst:49
+msgid ""
+"Track Service: Manually set quantities on order, as you complete each "
+"milestone, you will manually update their quantity from the Delivered tab"
+" on your sale order"
+msgstr ""
+
+#: ../../sales/service/invoice_milestones.rst:57
+msgid "Apply the same configuration for the others milestones."
+msgstr ""
+
+#: ../../sales/service/invoice_milestones.rst:60
+msgid "Quotations and sale orders"
+msgstr ""
+
+#: ../../sales/service/invoice_milestones.rst:61
+msgid ""
+"Now that your milestones (or products) are created, you can create a "
+"quotation or a sale order with each line corresponding to one milestone. "
+"For each line, set the Ordered Quantity to 1 as each milestone is "
+"completed once. Once the quotation is confirmed and transformed into a "
+"sale order, you will be able to change the delivered quantities when the "
+"corresponding milestone has been achieved."
+msgstr ""
+
+#: ../../sales/service/invoice_milestones.rst:72
+msgid "Invoice milestones"
+msgstr ""
+
+#: ../../sales/service/invoice_milestones.rst:73
+msgid ""
+"Let’s assume that your first milestone (the strategy audit) has been "
+"successfully delivered and you want to invoice it to your customer. On "
+"the sale order, click on Edit and set the Delivered Quantity of the "
+"related product to 1."
+msgstr ""
+
+#: ../../sales/service/invoice_milestones.rst:77
+msgid ""
+"As soon as the above modification has been saved, you will notice that "
+"the color of the line has changed to blue, meaning that the service can "
+"now be invoiced. In the same time, the invoice status of the SO has "
+"changed from Nothing To Invoice to To Invoice"
+msgstr ""
+
+#: ../../sales/service/invoice_milestones.rst:82
+msgid ""
+"Click on Create invoice and, in the new window that pops up, select "
+"Invoiceable lines and validate. It will create a new invoice (in draft "
+"status) with only the strategy audit product as invoiceable."
+msgstr ""
+
+#: ../../sales/service/invoice_milestones.rst:90
+msgid ""
+"In order to be able to invoice a product, you need to set up the "
+"Accounting application and to configure an accounting journal and a chart"
+" of account. Click on the following link to learn more: How to setup Odoo"
+" Accounting?"
+msgstr ""
+
+#: ../../sales/service/invoice_milestones.rst:94
+msgid ""
+"Back on your sale order, you will notice that the Invoiced column of your"
+" order line has been updated accordingly and that the Invoice Status is "
+"back to Nothing to Invoice."
+msgstr ""
+
+#: ../../sales/service/invoice_milestones.rst:98
+msgid "Follow the same workflow to invoice your remaining milestones."
+msgstr ""
+
+#: ../../sales/service/invoice_milestones.rst:102
+msgid "Access the video at https://www.youtube.com/watch?v=m7Fmq0H3qo8"
+msgstr ""
+
+#: ../../sales/subscription/sell_subscription_through_ecommerce_platform.rst:9
+msgid ""
+"Sell subscription through eCommerce platform, receive payment through "
+"card (auto-debit)"
+msgstr ""
+
+#: ../../sales/subscription/sell_subscription_through_ecommerce_platform.rst:13
+msgid "Access the video at https://www.youtube.com/watch?v=P0O6rTA1kec"
+msgstr ""
+
+#: ../../sales/subscription/sell_subscription_throught_sales_quotation.rst:7
+msgid "Sell subscriptions through sales quotation"
+msgstr ""
+
+#: ../../sales/subscription/sell_subscription_throught_sales_quotation.rst:11
+msgid "Access the video at https://www.youtube.com/watch?v=r9kVUJo_k5E"
+msgstr ""
+
+#: ../../sales/subscription/setup_recurring_invoice.rst:7
+msgid "Set up recurring invoice, that help you to invoice regularly"
+msgstr ""
+
+#: ../../sales/subscription/setup_recurring_invoice.rst:11
+msgid "Access the video at https://www.youtube.com/watch?v=iHardy2xBLU"
+msgstr ""
+
+#: ../../sales/unit_of_measure/pricelist_for_uom.rst:8
+msgid ""
+"Sell and purchase products in different units of measure, and apply "
+"better pricing"
+msgstr ""
+
+#: ../../sales/unit_of_measure/pricelist_for_uom.rst:12
+msgid "Access the video at https://www.youtube.com/watch?v=Ui6_-GInV9w"
+msgstr ""
+
+#: ../../sales/unit_of_measure/product_packaging.rst:6
+msgid "Selling products by multiple of unit # per package"
+msgstr ""
+
+#: ../../sales/unit_of_measure/product_packaging.rst:10
+msgid "Access the video at https://www.youtube.com/watch?v=MbPbJSv-fdI"
+msgstr ""
+
+#: ../../sales/unit_of_measure/product_unit_of_measure.rst:8
+msgid "Sale and purchase in different unit of measure"
+msgstr ""
+
+#: ../../sales/unit_of_measure/product_unit_of_measure.rst:12
+msgid "Access the video at https://www.youtube.com/watch?v=x33djiothAc"
+msgstr ""
+

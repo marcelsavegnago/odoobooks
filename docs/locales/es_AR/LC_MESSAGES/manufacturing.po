@@ -1,0 +1,757 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) Mantavya Gajjar
+# This file is distributed under the same license as the Odoo package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2018.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Odoo 12.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2018-11-30 11:27-0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.3.4\n"
+
+#: ../../manufacturing/bom_stock.rst:8
+msgid "Compute stock for the kit product based on the component stock"
+msgstr ""
+
+#: ../../manufacturing/bom_stock.rst:11
+#: ../../manufacturing/factory_location.rst:12
+#: ../../manufacturing/liquid_product_stock.rst:11
+#: ../../manufacturing/subcontracting.rst:230
+#: ../../manufacturing/subcontracting_dropship.rst:256
+#: ../../manufacturing/subcontractor.rst:182
+#: ../../manufacturing/wooden_mrp.rst:11
+msgid "Video"
+msgstr ""
+
+#: ../../manufacturing/bom_stock.rst:12
+msgid "Access the video at https://www.youtube.com/watch?v=m7wjxc3Mbck"
+msgstr ""
+
+#: ../../manufacturing/factory_location.rst:9
+msgid "How to issue material to factory location to start manufacturing order?"
+msgstr ""
+
+#: ../../manufacturing/factory_location.rst:13
+msgid "Access the video at https://www.youtube.com/watch?v=3MuhLtDM7tM"
+msgstr ""
+
+#: ../../manufacturing/index.rst:9
+msgid "Manufacturing"
+msgstr ""
+
+#: ../../manufacturing/index.rst:12
+msgid "Inventory"
+msgstr ""
+
+#: ../../manufacturing/index.rst:21
+msgid "By-Products"
+msgstr ""
+
+#: ../../manufacturing/index.rst:28
+msgid "Subcontracting"
+msgstr ""
+
+#: ../../manufacturing/liquid_product_stock.rst:8
+msgid "Manage stock of liquid products in warehouse (unit vs ml)"
+msgstr ""
+
+#: ../../manufacturing/liquid_product_stock.rst:12
+msgid "Access the video at https://www.youtube.com/watch?v=4zIxKotfyw4"
+msgstr ""
+
+#: ../../manufacturing/subcontracting.rst:8
+msgid "Setup subcontracting in manufacturing process"
+msgstr ""
+
+#: ../../manufacturing/subcontracting.rst:9
+#: ../../manufacturing/subcontracting_dropship.rst:9
+msgid ""
+"Most manufacturing companies outsource some part of the job contracting "
+"work to other manufacturing companies to get the best expertise "
+"methodology and resource to produce the world class product (i.e Most "
+"reputed companies smart phones are assembled in China is the best example"
+" of the subcontracting)"
+msgstr ""
+
+#: ../../manufacturing/subcontracting.rst:14
+msgid ""
+"In this document we will show you steps to setup the subcontracting "
+"business flow, Issue the raw material to your contractor and get the "
+"semi-finished product which will be consumed later to prepare the final "
+"product in our factory."
+msgstr ""
+
+#: ../../manufacturing/subcontracting.rst:18
+msgid ""
+"Let’s take an example of Table, to produce the table we need 1 table top "
+"and table frame, 4 lags and some consumable like bracket and bolt, "
+"assumed that table is laminated by third party contractor where we supply"
+" wood sheet and lamination sheet to prepare the laminated table top."
+msgstr ""
+
+#: ../../manufacturing/subcontracting.rst:27
+#: ../../manufacturing/subcontracting_dropship.rst:30
+#: ../../manufacturing/subcontractor.rst:30
+msgid "Configuration"
+msgstr ""
+
+#: ../../manufacturing/subcontracting.rst:28
+#: ../../manufacturing/subcontracting_dropship.rst:31
+msgid ""
+"Install manufacturing, purchase, inventory applications in order to "
+"create the full subcontracting flow."
+msgstr ""
+
+#: ../../manufacturing/subcontracting.rst:32
+#: ../../manufacturing/subcontracting_dropship.rst:35
+msgid "Create location"
+msgstr ""
+
+#: ../../manufacturing/subcontracting.rst:33
+#: ../../manufacturing/subcontracting_dropship.rst:36
+msgid ""
+"By default production is the location where all the manufacturing order "
+"processed, all the material issued from stock location to Production "
+"location, and once production completed the final product pushed back to "
+"the stock location."
+msgstr ""
+
+#: ../../manufacturing/subcontracting.rst:37
+#: ../../manufacturing/subcontracting_dropship.rst:40
+msgid ""
+"We need seperate location which is not part of our warehouse, we will "
+"called it subcontracting. It will be easy to track the material issued to"
+" the subcontractor, also we can define reorder level on that location."
+msgstr ""
+
+#: ../../manufacturing/subcontracting.rst:41
+#: ../../manufacturing/subcontracting_dropship.rst:44
+msgid ""
+"You can enable the multi location from ``Inventory / Configuration / "
+"Settings``, select Storage Locations and apply the setting."
+msgstr ""
+
+#: ../../manufacturing/subcontracting.rst:44
+#: ../../manufacturing/subcontracting_dropship.rst:47
+msgid ""
+"To create the location go to ``Inventory / Configuration / Location``, "
+"create an internal location named as Contractor under the WH."
+msgstr ""
+
+#: ../../manufacturing/subcontracting.rst:51
+#: ../../manufacturing/subcontracting_dropship.rst:54
+msgid "Enable routes"
+msgstr ""
+
+#: ../../manufacturing/subcontracting.rst:52
+#: ../../manufacturing/subcontracting_dropship.rst:55
+msgid ""
+"Inventory route plays a key role to create the subcontracting flow, using"
+" routes we are able make the custom flow for the inventory, like Issue "
+"material to contractor and receive finished material form contractor."
+msgstr ""
+
+#: ../../manufacturing/subcontracting.rst:56
+#: ../../manufacturing/subcontracting_dropship.rst:59
+msgid ""
+"To create the custom route go to ``Inventory / Configuration / Settings``"
+" and select Multi-Step Routes, Storage Locations will be selected "
+"automatically."
+msgstr ""
+
+#: ../../manufacturing/subcontracting.rst:62
+#: ../../manufacturing/subcontracting_dropship.rst:65
+msgid ""
+"Let’s create a two different routes, which can be selectable on the "
+"product routes"
+msgstr ""
+
+#: ../../manufacturing/subcontracting.rst:64
+#: ../../manufacturing/subcontracting_dropship.rst:67
+msgid ""
+"Material - select this route on the product which can be issued to the "
+"contractor"
+msgstr ""
+
+#: ../../manufacturing/subcontracting.rst:65
+#: ../../manufacturing/subcontracting_dropship.rst:68
+msgid ""
+"Subcontracting - select this route when you want contractor to be product"
+" and send it to our warehouse (stock location)"
+msgstr ""
+
+#: ../../manufacturing/subcontracting.rst:69
+msgid "Material Route"
+msgstr ""
+
+#: ../../manufacturing/subcontracting.rst:70
+#: ../../manufacturing/subcontracting_dropship.rst:73
+#: ../../manufacturing/subcontracting_dropship.rst:89
+msgid ""
+"Material route, select Product and Product Category under the Applicable "
+"On options."
+msgstr ""
+
+#: ../../manufacturing/subcontracting.rst:75
+#: ../../manufacturing/subcontracting_dropship.rst:78
+msgid ""
+"Create a Procurement that applied on the Contractor location and ask our "
+"Stock location to fulfill the requirement by stock transfer."
+msgstr ""
+
+#: ../../manufacturing/subcontracting.rst:82
+#: ../../manufacturing/subcontracting_dropship.rst:104
+msgid "Subcontracting Route"
+msgstr ""
+
+#: ../../manufacturing/subcontracting.rst:83
+#: ../../manufacturing/subcontracting_dropship.rst:105
+msgid ""
+"Same way create second route “Subcontracting” that create a manufacturing"
+" order at contractor location when we need that semi-finished material in"
+" our stock."
+msgstr ""
+
+#: ../../manufacturing/subcontracting.rst:89
+#: ../../manufacturing/subcontracting_dropship.rst:111
+msgid ""
+"Create a procurement rules that applied on WH/Stock location and ask "
+"WH/Contractor location to fulfil by creating a manufacturing order. This "
+"configuration will create the manufacturing order at Contractor location "
+"and looking for the material at WH/Contractor location and once Tabletop "
+"produced it will be pushed to WH/Stock location."
+msgstr ""
+
+#: ../../manufacturing/subcontracting.rst:98
+#: ../../manufacturing/subcontracting_dropship.rst:120
+msgid ""
+"To separate the contractor’s manufacturing orders form the normal "
+"manufacturing orders you should create a new operation type which will be"
+" appeared on the warehouse dashboard."
+msgstr ""
+
+#: ../../manufacturing/subcontracting.rst:106
+#: ../../manufacturing/subcontracting_dropship.rst:128
+#: ../../manufacturing/subcontractor.rst:85
+msgid "Products"
+msgstr ""
+
+#: ../../manufacturing/subcontracting.rst:107
+#: ../../manufacturing/subcontracting_dropship.rst:129
+msgid ""
+"Let's create the Tabletop product and select the correct route on this "
+"product, select Subcontracting as this product is manufactured but at "
+"contractor location, we just need to supply them wooden and lamination "
+"sheet."
+msgstr ""
+
+#: ../../manufacturing/subcontracting.rst:114
+msgid ""
+"When you create a Wooden and Lamination sheet select the Material and Buy"
+" routs on those products."
+msgstr ""
+
+#: ../../manufacturing/subcontracting.rst:120
+msgid ""
+"When this products required at contractor location it will create the "
+"delivery order in our warehouse and when this product required in our "
+"warehouse we will buy it from the vendors."
+msgstr ""
+
+#: ../../manufacturing/subcontracting.rst:124
+msgid ""
+"Define the vendor under the purchase tab and define the re-order level "
+"for both location WH/Stock and WH/Contractor depending on the needs."
+msgstr ""
+
+#: ../../manufacturing/subcontracting.rst:127
+#: ../../manufacturing/subcontracting_dropship.rst:153
+msgid ""
+"Define the other raw material such as lags, table frame, bracket and bolt"
+" as stockable and define respective vendors and re-order level for each "
+"products. The bolt can be defined as consumable with the minimum stock "
+"level."
+msgstr ""
+
+#: ../../manufacturing/subcontracting.rst:132
+#: ../../manufacturing/subcontracting_dropship.rst:158
+#: ../../manufacturing/subcontractor.rst:108
+msgid "Bill of Material"
+msgstr ""
+
+#: ../../manufacturing/subcontracting.rst:133
+#: ../../manufacturing/subcontracting_dropship.rst:159
+msgid ""
+"Define two different bill or material one for Tabletop and second for the"
+" Table (final product)."
+msgstr ""
+
+#: ../../manufacturing/subcontracting.rst:139
+#: ../../manufacturing/subcontracting_dropship.rst:165
+msgid ""
+"Once you define the bill of material for Table it will be looking as "
+"below, print the BOM Structure form Print manu on the Table’s bill of "
+"material."
+msgstr ""
+
+#: ../../manufacturing/subcontracting.rst:146
+#: ../../manufacturing/subcontracting_dropship.rst:172
+msgid "Cost Structure"
+msgstr ""
+
+#: ../../manufacturing/subcontracting.rst:147
+#: ../../manufacturing/subcontracting_dropship.rst:173
+msgid ""
+"Make sure that you have configure the correct cost on each product to "
+"compute the cost of the finished and semi-finished raw material."
+msgstr ""
+
+#: ../../manufacturing/subcontracting.rst:153
+#: ../../manufacturing/subcontracting_dropship.rst:179
+msgid ""
+"Let’s add a new consumable product on the Table top bill of material to "
+"include the cost of contractor, I have considered that to produce each "
+"table top contractor will charge us $5 as a service and delivery charges."
+msgstr ""
+
+#: ../../manufacturing/subcontracting.rst:157
+#: ../../manufacturing/subcontracting_dropship.rst:183
+msgid ""
+"I have added that cost to the my Table top bill of material, and cost "
+"computed based on the components and service is not $80."
+msgstr ""
+
+#: ../../manufacturing/subcontracting.rst:163
+#: ../../manufacturing/subcontracting_dropship.rst:189
+msgid ""
+"You can also install the Product extension to track sales and purchases "
+"app to compute the cost of the product based on the cost of material "
+"consumed."
+msgstr ""
+
+#: ../../manufacturing/subcontracting.rst:170
+#: ../../manufacturing/subcontracting_dropship.rst:196
+#: ../../manufacturing/subcontractor.rst:121
+msgid "Reorder Rules"
+msgstr ""
+
+#: ../../manufacturing/subcontracting.rst:171
+#: ../../manufacturing/subcontracting_dropship.rst:197
+msgid ""
+"Make sure that you defined the reorder rules for each product "
+"respectively to the locations. The reorder rules have to be defined for "
+"both WH/Stock and WH/Contractor location."
+msgstr ""
+
+#: ../../manufacturing/subcontracting.rst:178
+#: ../../manufacturing/subcontracting_dropship.rst:204
+msgid ""
+"Run the Scheduler from Inventory application, you should get the first "
+"request for quotation under the Purchase application as below."
+msgstr ""
+
+#: ../../manufacturing/subcontracting.rst:184
+#: ../../manufacturing/subcontracting_dropship.rst:210
+msgid ""
+"Confirm the purchase and receive the raw material to have the seamless "
+"test for the subcontracting business flow."
+msgstr ""
+
+#: ../../manufacturing/subcontracting.rst:188
+#: ../../manufacturing/subcontracting_dropship.rst:214
+msgid "Manufacturing order"
+msgstr ""
+
+#: ../../manufacturing/subcontracting.rst:189
+#: ../../manufacturing/subcontracting_dropship.rst:215
+msgid ""
+"Everything is setup and now we are ready to test our first manufacturing "
+"order that triggers subcontracting flow. Create the manufacturing order "
+"for 1 Table, save and check on Check Availability button."
+msgstr ""
+
+#: ../../manufacturing/subcontracting.rst:196
+#: ../../manufacturing/subcontracting_dropship.rst:222
+msgid "All the material except Tabletop will be marked as available."
+msgstr ""
+
+#: ../../manufacturing/subcontracting.rst:198
+#: ../../manufacturing/subcontracting_dropship.rst:224
+msgid ""
+"Go to Inventory application and run the scheduler 2 times, you will "
+"notice after each scheduler run you will see the updates on the "
+"dashboard. First time it will create the manufacturing order at "
+"Subcontracting options and then delivery order on the Delivery operation."
+msgstr ""
+
+#: ../../manufacturing/subcontracting.rst:206
+#: ../../manufacturing/subcontracting_dropship.rst:232
+msgid ""
+"Open the delivery order and process it, as soon as you process the "
+"manufacturing order at Contractor location will be ready to process."
+msgstr ""
+
+#: ../../manufacturing/subcontracting.rst:212
+#: ../../manufacturing/subcontracting_dropship.rst:238
+msgid ""
+"Process and manufacturing the set it mask as done. When contractor’s "
+"manufacturing order processed and mark as done, the Tabletop will be "
+"marked as received in our warehouse and we are ready to process the order"
+" for the Table in our factory."
+msgstr ""
+
+#: ../../manufacturing/subcontracting.rst:219
+#: ../../manufacturing/subcontracting_dropship.rst:245
+msgid ""
+"Finally produce the table and set this manufacturing order as done by "
+"clicking on the Mark as Done button. Check the inventory level it has be "
+"looking as below."
+msgstr ""
+
+#: ../../manufacturing/subcontracting.rst:226
+#: ../../manufacturing/subcontracting_dropship.rst:252
+msgid "Contractor Bill"
+msgstr ""
+
+#: ../../manufacturing/subcontracting.rst:227
+#: ../../manufacturing/subcontracting_dropship.rst:253
+msgid "Receive the vendor bill and create it manully."
+msgstr ""
+
+#: ../../manufacturing/subcontracting.rst:231
+msgid "Access the video at https://www.youtube.com/watch?v=mms3U_2T8Nc"
+msgstr ""
+
+#: ../../manufacturing/subcontracting_dropship.rst:8
+msgid "Setup subcontracting in manufacturing process (Dropship Material)"
+msgstr ""
+
+#: ../../manufacturing/subcontracting_dropship.rst:14
+msgid ""
+"In this document we will show you steps to setup the subcontracting "
+"business flow, Issue some raw material to your contractor from your "
+"warehouse and some raw material ask your vendor to make the direct "
+"delivery to contractor location."
+msgstr ""
+
+#: ../../manufacturing/subcontracting_dropship.rst:18
+msgid ""
+"Contractor will produce the semi-finished product which will be consumed "
+"later to prepare the final product in our factory."
+msgstr ""
+
+#: ../../manufacturing/subcontracting_dropship.rst:21
+msgid ""
+"Let’s take an example of Table, to produce the table we need 1 table top "
+"and table frame, 4 lags and some consumable like bracket and bolt, "
+"assumed that table is laminated by third party contractor where we supply"
+" wood sheet and lamination sheet will be supplied by our vendor directly "
+"to prepare the laminated table top."
+msgstr ""
+
+#: ../../manufacturing/subcontracting_dropship.rst:72
+msgid "Material Route (Buy and Deliver)"
+msgstr ""
+
+#: ../../manufacturing/subcontracting_dropship.rst:84
+msgid ""
+"Material Route (Buy and Deliver) route first check the material at "
+"WH/Stock location and buy when enought stock is not availale."
+msgstr ""
+
+#: ../../manufacturing/subcontracting_dropship.rst:88
+msgid "Material Route (Dropship)"
+msgstr ""
+
+#: ../../manufacturing/subcontracting_dropship.rst:94
+msgid ""
+"Create a Procurement that perform the Buy opertion when stock or product "
+"is not available at WH/Contractor location."
+msgstr ""
+
+#: ../../manufacturing/subcontracting_dropship.rst:100
+msgid ""
+"Material Route (Dropship) route first check the material at WH/Stock "
+"location and buy when enought stock is not availale."
+msgstr ""
+
+#: ../../manufacturing/subcontracting_dropship.rst:136
+msgid ""
+"When you create a Wooden sheet select the Material (Buy -> Deliver) and "
+"Buy routes."
+msgstr ""
+
+#: ../../manufacturing/subcontracting_dropship.rst:141
+msgid "When you create a Lamination sheet select the Material (Dropship) route."
+msgstr ""
+
+#: ../../manufacturing/subcontracting_dropship.rst:146
+msgid ""
+"Depanding on the product routes will be applied, delivery and purchase "
+"order will be create for the Wooden sheet while Lamination sheet will "
+"create the purchase order and direct delivery form vendor location."
+msgstr ""
+
+#: ../../manufacturing/subcontracting_dropship.rst:150
+msgid ""
+"Define the vendor under the purchase tab and define the re-order level "
+"for location WH/Stock and WH/Contractor depending on the needs."
+msgstr ""
+
+#: ../../manufacturing/subcontracting_dropship.rst:257
+msgid "Access the video at https://www.youtube.com/watch?v=esoHqzckMxI"
+msgstr ""
+
+#: ../../manufacturing/subcontractor.rst:10
+msgid "Subcontracting process for contractors"
+msgstr ""
+
+#: ../../manufacturing/subcontractor.rst:11
+msgid ""
+"Like the we :ref:`setup subcontracting in manufacturing process "
+"<subcontracting>` for companies who outsource the contracting work, the "
+"contractor need the setup at other side, he get the requirement form "
+"factory to perform the some part of the final product. The outsourcing "
+"company send the raw material to build the product and pay for the job "
+"work done."
+msgstr ""
+
+#: ../../manufacturing/subcontractor.rst:17
+msgid ""
+"In this document we will show you steps to setup the subcontracting "
+"business flow for the contractors, get the raw material to and produce "
+"the semi-finished product delivery the product get paid for the job work "
+"done."
+msgstr ""
+
+#: ../../manufacturing/subcontractor.rst:21
+msgid ""
+"Let’s take an example of Table, to produce the table we need 1 table top "
+"and table frame, 4 lags and some consumable like bracket and bolt, "
+"assumed that tabletop is laminated by third party contractor by us, we "
+"get the wood sheet and lamination sheet to prepare the laminated table "
+"top."
+msgstr ""
+
+#: ../../manufacturing/subcontractor.rst:31
+msgid ""
+"Install **Sales Management**, **Mathanufacturing** applications, the "
+"**Inventory Management** and **Invoicing** applications will be installed"
+" automatically."
+msgstr ""
+
+#: ../../manufacturing/subcontractor.rst:35
+msgid "Setup Inventory"
+msgstr ""
+
+#: ../../manufacturing/subcontractor.rst:36
+msgid ""
+"In order to setup the contractors workflow the multiple warehouse and "
+"some custom routes is required, lets enable them from the **Inventory** "
+"application. Go to ``Inventory / Configuration / Settings`` and activate "
+"the *Multi-Warehouses* and *Multi-Step Routes* the *Storage Locations* "
+"will be selected automatically."
+msgstr ""
+
+#: ../../manufacturing/subcontractor.rst:45
+msgid "Create Warehouse"
+msgstr ""
+
+#: ../../manufacturing/subcontractor.rst:46
+msgid ""
+"In order to separate the internal and outsource manufacturing orders we "
+"need to setup the other warehouse, the default warehouse we will use as "
+"an internal and new warehouse we will setup as a **Factory** where we "
+"will process all the outsourcing orders."
+msgstr ""
+
+#: ../../manufacturing/subcontractor.rst:54
+msgid ""
+"You should get the 8 inventory operations on the Inventory dashboard, 4 "
+"operations for each warehouse. i.e. *Receipts*, *Internal Transfer*, "
+"*Delivery Orders* and *Manufacturing*."
+msgstr ""
+
+#: ../../manufacturing/subcontractor.rst:58
+msgid ""
+"Make sure that you keep selected for *Manufacture in this Warehouse* "
+"field on the warehouse."
+msgstr ""
+
+#: ../../manufacturing/subcontractor.rst:62
+msgid "Create Material Route"
+msgstr ""
+
+#: ../../manufacturing/subcontractor.rst:63
+msgid ""
+"The contractor flow is same as the standard manufacturing process, where "
+"we create a manufacturing order and buy the material on demand through "
+"purchase process. In this process we have to ask customer who provide us "
+"the manufacturing job, the material we will get we do not have to pay for"
+" it as it does not come through purchase process."
+msgstr ""
+
+#: ../../manufacturing/subcontractor.rst:69
+msgid ""
+"We will create a new route *Material* which should be selected on the "
+"product, which is going to be supplied by the customer along with the "
+"contracting order."
+msgstr ""
+
+#: ../../manufacturing/subcontractor.rst:72
+msgid ""
+"Go to ``Inventory / Configuration / Routes``, create a new route called "
+"*Material*"
+msgstr ""
+
+#: ../../manufacturing/subcontractor.rst:77
+msgid ""
+"Create a *Procurement Rules* that moves the material from *Vendor "
+"Location* to *Factory Stock* location, select *Factory: Receipts* on "
+"**Operation Type** as an incoming shipment should be created under that "
+"operation."
+msgstr ""
+
+#: ../../manufacturing/subcontractor.rst:86
+msgid ""
+"Let’s create the *Tabletop* product, it is *Stockable Product* product, "
+"select the *Manufacturing* and *Make to Order* routes. The manufacturing "
+"order for the tabletop will be created when we have a job order."
+msgstr ""
+
+#: ../../manufacturing/subcontractor.rst:93
+msgid ""
+"The **Sales Price** on the *Tabletop* product is actually the cost of the"
+" production and not the cost Tabletop. When we sell the *Tabletop* we "
+"actually sell the job work to produce the *Tabletop*."
+msgstr ""
+
+#: ../../manufacturing/subcontractor.rst:97
+msgid ""
+"Set the **Manufacturing Lead Time** to *5* and **Customer Lead Time** to "
+"7. This will used to compute the schedule dates for the manufacturing "
+"order, delivery order."
+msgstr ""
+
+#: ../../manufacturing/subcontractor.rst:101
+msgid ""
+"Create a Wooden and Lamination sheet and select the *Material* and *Make "
+"to Order* routes on those products."
+msgstr ""
+
+#: ../../manufacturing/subcontractor.rst:109
+msgid ""
+"Define the bill or material for *Tabletop*, that consume *Wooden sheet* "
+"and *Laminated sheet* as a raw material."
+msgstr ""
+
+#: ../../manufacturing/subcontractor.rst:115
+msgid ""
+"During the manufacturing, contractor cares about the cost of the service "
+"and resources such as electricity and manpower and machine. Set the cost "
+"of the material to 0 and add those cost as a consumable product on the "
+"bill of material. At the end of the manufacturing process you will get "
+"the exact cost of the job work."
+msgstr ""
+
+#: ../../manufacturing/subcontractor.rst:122
+msgid ""
+"We don't need any reorder rules as all the material will be procured on "
+"demand from the customer."
+msgstr ""
+
+#: ../../manufacturing/subcontractor.rst:126
+msgid "Sale Order"
+msgstr ""
+
+#: ../../manufacturing/subcontractor.rst:127
+msgid ""
+"Let's assume that we receive the work order to prepare the 10 *Tabletop* "
+"form *China Export*."
+msgstr ""
+
+#: ../../manufacturing/subcontractor.rst:133
+msgid ""
+"You will find two Delivery attached to the Sales order, one is the actual"
+" delivery order while second it the incoming shipment which ask for the "
+"material to supply form the customer to build the Tabletop."
+msgstr ""
+
+#: ../../manufacturing/subcontractor.rst:137
+msgid ""
+"The *Unit price* is the price for the job work to produce for each table."
+" Make sure that you change the **Warehouse** to *Factory* as we process "
+"all the outsourcing work in that warehouse."
+msgstr ""
+
+#: ../../manufacturing/subcontractor.rst:144
+msgid ""
+"Confirm the order, it creates the *Delivery Order* and *Manufacturing* "
+"order and *Receipts* in the Factory warehouse."
+msgstr ""
+
+#: ../../manufacturing/subcontractor.rst:151
+msgid "Manufacturing Order"
+msgstr ""
+
+#: ../../manufacturing/subcontractor.rst:152
+msgid ""
+"The sales order creates the delivery order, that triggers manufacturing "
+"order and that triggers reception order. The complete flow is triggered "
+"through Make to order route so you have *SO001* in **Source Document** on"
+" delivery, manufacturing and incoming shipment."
+msgstr ""
+
+#: ../../manufacturing/subcontractor.rst:160
+msgid ""
+"When you have a multiple orders from different customers, manufacturing "
+"orders will be ready to produce only for the customer who supply the "
+"material."
+msgstr ""
+
+#: ../../manufacturing/subcontractor.rst:166
+msgid ""
+"Let's process the incoming shipment at reception and process the "
+"manufacturing order. The delivery order will be ready when manufacturing "
+"order completed."
+msgstr ""
+
+#: ../../manufacturing/subcontractor.rst:170
+msgid "Job work Invoice"
+msgstr ""
+
+#: ../../manufacturing/subcontractor.rst:171
+msgid ""
+"You are ready to prepare the send the invoice for the job work once the "
+"delivery done. Create an invoice and send it to customer, this is the an "
+"invoice for the job work and not for the selling of the Tabletop."
+msgstr ""
+
+#: ../../manufacturing/subcontractor.rst:178
+msgid ""
+"You can set the Invoicing Policy on the Tabletop product that takes care "
+"for the invoicing process."
+msgstr ""
+
+#: ../../manufacturing/subcontractor.rst:183
+msgid "Access the video at https://www.youtube.com/watch?v=JPHB5_DiZfI"
+msgstr ""
+
+#: ../../manufacturing/wooden_mrp.rst:8
+msgid ""
+"Wooden, Glass or Plastic sheet consumption during the manufacturing "
+"process"
+msgstr ""
+
+#: ../../manufacturing/wooden_mrp.rst:12
+msgid "Access the video at https://www.youtube.com/watch?v=o-aQaXeQe6A"
+msgstr ""
+

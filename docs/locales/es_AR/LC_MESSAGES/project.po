@@ -1,0 +1,101 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) Mantavya Gajjar
+# This file is distributed under the same license as the Odoo package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2018.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Odoo 12.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2018-11-30 11:27-0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.3.4\n"
+
+#: ../../project/access_timesheet_on_portal.rst:10
+msgid "How to allow the customer to view timesheet on their task and projects?"
+msgstr ""
+
+#: ../../project/access_timesheet_on_portal.rst:13
+#: ../../project/awasome_timesheet.rst:12
+#: ../../project/customer_feedback.rst:11
+#: ../../project/default_project_stages.rst:11
+#: ../../project/service_contract.rst:13 ../../project/task_from_sales.rst:12
+#: ../../project/timesheet.rst:12
+msgid "Video"
+msgstr ""
+
+#: ../../project/access_timesheet_on_portal.rst:14
+#: ../../project/customer_feedback.rst:12
+msgid "Access the video at https://www.youtube.com/watch?v=cBRQ73hEHog"
+msgstr ""
+
+#: ../../project/awasome_timesheet.rst:9
+msgid "Record time spent using Awesome Timesheet - Chrome plugin"
+msgstr ""
+
+#: ../../project/awasome_timesheet.rst:13
+msgid "Access the video at https://www.youtube.com/watch?v=OvLfGJdCPGA"
+msgstr ""
+
+#: ../../project/customer_feedback.rst:8
+msgid "How to gather feedback from customers?"
+msgstr ""
+
+#: ../../project/default_project_stages.rst:8
+msgid "Create default stages in the project created through Sales order"
+msgstr ""
+
+#: ../../project/default_project_stages.rst:12
+msgid "Access the video at https://www.youtube.com/watch?v=IjfQBadSHs4"
+msgstr ""
+
+#: ../../project/index.rst:5
+msgid "Project Management"
+msgstr ""
+
+#: ../../project/index.rst:8
+msgid "Project & Task"
+msgstr ""
+
+#: ../../project/index.rst:17
+msgid "Timesheet"
+msgstr ""
+
+#: ../../project/index.rst:25
+msgid "Helpdesk"
+msgstr ""
+
+#: ../../project/index.rst:32
+msgid "Customer Portal"
+msgstr ""
+
+#: ../../project/service_contract.rst:10
+msgid "Managing service tickets and service contracts"
+msgstr ""
+
+#: ../../project/service_contract.rst:14
+msgid "Access the video at https://www.youtube.com/watch?v=4TRq5HeLprk"
+msgstr ""
+
+#: ../../project/task_from_sales.rst:9
+msgid "How to create task from sales order and invoice based on timesheet?"
+msgstr ""
+
+#: ../../project/task_from_sales.rst:13
+msgid "Access the video at https://www.youtube.com/watch?v=NTgArimc5MI"
+msgstr ""
+
+#: ../../project/timesheet.rst:9
+msgid "How to record time spent on Task and Project?"
+msgstr ""
+
+#: ../../project/timesheet.rst:13
+msgid "Access the video at https://www.youtube.com/watch?v=ScMYXe2N004"
+msgstr ""
+

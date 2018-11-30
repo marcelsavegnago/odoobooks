@@ -1,0 +1,527 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) Mantavya Gajjar
+# This file is distributed under the same license as the Odoo package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2018.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Odoo 12.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2018-11-30 11:27-0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.3.4\n"
+
+#: ../../odoo/00_introduction.rst:12
+msgid "Introduction"
+msgstr ""
+
+#: ../../odoo/00_introduction.rst:14
+msgid ""
+"**Odoo** (On Demand Open Object) is an open source suite of business "
+"applications; it became the world's most downloaded and used business "
+"application software, with more than 5 million users worldwide. According"
+" to Wikipedia, Odoo is an all-in-one management software that offers a "
+"range of business applications that form a complete suite of enterprise "
+"management applications. The Odoo solution is ideal for SMEs, but fits "
+"both small and large companies alike. Odoo is an all-in-one business "
+"software capable of covering all business needs, including CRM, "
+"website/e-commerce, billing, accounting, manufacturing, warehouse, "
+"project management, and inventory, all seamlessly integrated."
+msgstr ""
+
+#: ../../odoo/00_introduction.rst:16
+msgid ""
+"In 2005, Fabien Pinckaers, the Founder and CEO of Odoo, started to "
+"develop his first software product, TinyERP. Later in the beginning of "
+"2009 it was renamed to OpenERP, in May 2014, the company was renamed "
+"Odoo, a name that has no restrictions and can allow the company to grow "
+"in whichever direction."
+msgstr ""
+
+#: ../../odoo/00_introduction.rst:18
+msgid ""
+"Odoo offers two different versions of the solution; Odoo Enterprise and "
+"Odoo Community Edition. The community edition is free to download and can"
+" be used anywhere. The Enterprise edition comes with many out of the box "
+"applications, unlimited support software support, migration service. The "
+"Enterprise edition can be available as Odoo Online SaaS (Software as a "
+"Service) or on Odoo.sh or you can install on your private server too."
+msgstr ""
+
+#: ../../odoo/00_introduction.rst:20
+msgid ""
+"The Odoo Online version is hosted on a cloud, and the first app is "
+"offered for free for unlimited users. After the first app, there is a "
+"fixed monthly subscription fee for the number of apps installed and the "
+"number of users. The Community version is the open source version and "
+"available for free to use on your own server."
+msgstr ""
+
+#: ../../odoo/00_introduction.rst:22
+msgid ""
+"Today, more and more companies are choosing to host their business "
+"application on an Odoo online cloud platform, it is too costly for the "
+"companies to host their business application on local hardware. This "
+"approach requires not only a lot of capital to buy hardware and software "
+"licenses, but also creates a lot of responsibilities and risk in backing "
+"up data and ensuring stability of the business application."
+msgstr ""
+
+#: ../../odoo/00_introduction.rst:24
+msgid ""
+"Let’s see, how to implement the most useful business application with "
+"step-by-step configurations on Odoo online platform or your own server."
+msgstr ""
+
+#: ../../odoo/01_create_instance.rst:12
+msgid "Create first Odoo instance"
+msgstr ""
+
+#: ../../odoo/01_create_instance.rst:14
+msgid ""
+"Accessing the Odoo online SaaS version could be very simple across all "
+"its different platform available. To start using the Odoo online version "
+"you need web browser."
+msgstr ""
+
+#: ../../odoo/01_create_instance.rst:18
+msgid ""
+"Odoo is a web based business application designed to run on various "
+"modern web browsers. Supported web browsers included"
+msgstr ""
+
+#: ../../odoo/01_create_instance.rst:21
+msgid "Google Chrome (recommended)"
+msgstr ""
+
+#: ../../odoo/01_create_instance.rst:22
+msgid "Firefox"
+msgstr ""
+
+#: ../../odoo/01_create_instance.rst:23
+msgid "Safari"
+msgstr ""
+
+#: ../../odoo/01_create_instance.rst:26
+msgid "Signup at odoo.com"
+msgstr ""
+
+#: ../../odoo/01_create_instance.rst:27
+msgid ""
+"Make sure that before create a new instance, you have an account at "
+"odoo.com, if not please create an account, visit "
+"https://www.odoo.com/web/signup to create a new account."
+msgstr ""
+
+#: ../../odoo/01_create_instance.rst:36
+msgid "Create an instance"
+msgstr ""
+
+#: ../../odoo/01_create_instance.rst:37
+msgid ""
+"You can start with one application, the first application you start is "
+"free for unlimited users or you can continue the additional applications "
+"on the monthly subscription basics."
+msgstr ""
+
+#: ../../odoo/01_create_instance.rst:41
+msgid ""
+"Login into odoo.com, open the link https://accounts.odoo.com/trial and "
+"choose your first application you would like to start with, I choose CRM "
+"application to start with."
+msgstr ""
+
+#: ../../odoo/01_create_instance.rst:48
+msgid ""
+"You will be asked to enter your name, email and phone number, the company"
+" name decide what will be your sub-domain on odoo.com. I have entered "
+"**My Company**, the subdomain allocated me is my-company.odoo.com, "
+"however you can change the subdomain by clicking on it."
+msgstr ""
+
+#: ../../odoo/01_create_instance.rst:57
+msgid "Activate an instance"
+msgstr ""
+
+#: ../../odoo/01_create_instance.rst:58
+msgid ""
+"The first screen you will get on successful instance creation is your "
+"home screen. The list of apps will be installed and appeared based on "
+"first selected app."
+msgstr ""
+
+#: ../../odoo/01_create_instance.rst:65
+msgid ""
+"The instance has to be activated with in 4 hours to keep it running "
+"forever, else it will be expired in next 4 hours and you may lose changes"
+" made to an instance."
+msgstr ""
+
+#: ../../odoo/01_create_instance.rst:69
+msgid ""
+"You may lose the data and instance, if you have not activated within 4 "
+"hours. If you not receive an email, click on ``Activate by email`` link "
+"to resend the activation email."
+msgstr ""
+
+#: ../../odoo/01_create_instance.rst:74 ../../odoo/03_duplicate_instance.rst:25
+#: ../../odoo/04_debug_mode.rst:35
+msgid "Video"
+msgstr ""
+
+#: ../../odoo/01_create_instance.rst:75
+msgid ""
+"Let’s see how to get start with the first free application, activate it "
+"and start using the Odoo online instance. Access the video at "
+"https://www.youtube.com/watch?v=fAi-NGirE44"
+msgstr ""
+
+#: ../../odoo/02_odoo_mobile.rst:12
+msgid "Access Odoo on your mobile phone or tablet"
+msgstr ""
+
+#: ../../odoo/02_odoo_mobile.rst:14
+msgid ""
+"The first Odoo mobile application was launched with the release on Odoo "
+"10. Beginning of the Odoo 9, Odoo have started to adapt the mobile "
+"compatible design which will perfect for the desktop and mobile view, "
+"different types of views and menus are designed to flow and format "
+"properly on mobiles and tablets."
+msgstr ""
+
+#: ../../odoo/02_odoo_mobile.rst:16
+msgid ""
+"Odoo has also released an iOS mobile application along with the release "
+"of Odoo version 11. Today Odoo support mobile application for Android and"
+" iOS both mobile based operating systems. You can download the Odoo "
+"official mobile application from their respective apps stores for Android"
+" download it form Google Play store and for iOS download it form Apple "
+"apps store."
+msgstr ""
+
+#: ../../odoo/02_odoo_mobile.rst:18
+msgid ""
+"Odoo mobile application is not support with the Odoo community version. "
+"Only Odoo Enterprise and Odoo Online versions are compatible with Android"
+" and iOS mobile applications."
+msgstr ""
+
+#: ../../odoo/02_odoo_mobile.rst:20
+msgid ""
+"Let’s see the installation of mobile application on Android based mobile,"
+" connect it with the Odoo online platform or locally hosted instance and "
+"get an access to all the Odoo applications on your mobile."
+msgstr ""
+
+#: ../../odoo/03_duplicate_instance.rst:11
+msgid "Duplicate an Odoo instance"
+msgstr ""
+
+#: ../../odoo/03_duplicate_instance.rst:13
+msgid ""
+"It is advisable to make a duplicate copy of the production database "
+"before you change the configuration or try to implement  the new feature."
+" You can be sure that production environment will remain stable while "
+"working with the test instance. On Odoo online you can create as many as "
+"test instance you want. You can create a test instance:"
+msgstr ""
+
+#: ../../odoo/03_duplicate_instance.rst:15
+msgid "Before you change anything using Studio App"
+msgstr ""
+
+#: ../../odoo/03_duplicate_instance.rst:16
+msgid "To get a test drive for the new features"
+msgstr ""
+
+#: ../../odoo/03_duplicate_instance.rst:17
+msgid "To Test the complex configuration"
+msgstr ""
+
+#: ../../odoo/03_duplicate_instance.rst:18
+msgid "To test the user acceptance, before you push new feature into production"
+msgstr ""
+
+#: ../../odoo/03_duplicate_instance.rst:20
+msgid ""
+"Make sure that you verify the url on your browser before you change any "
+"configuration of your instance."
+msgstr ""
+
+#: ../../odoo/03_duplicate_instance.rst:22
+msgid ""
+"Let's see how you can create a test instance before to change any "
+"configuration on your production instance. Access the video at "
+"https://www.youtube.com/watch?v=IxILl8z5I7w"
+msgstr ""
+
+#: ../../odoo/04_debug_mode.rst:12
+msgid "Access system settings using developer mode"
+msgstr ""
+
+#: ../../odoo/04_debug_mode.rst:14
+msgid ""
+"Odoo application can be viewed in different modes, the default is normal "
+"mode suitable for normal users, it designed for great user experience. "
+"Odoo runs in three different modes:"
+msgstr ""
+
+#: ../../odoo/04_debug_mode.rst:16
+msgid ""
+"Normal mode: The default mode; most users are in this mode during "
+"production use."
+msgstr ""
+
+#: ../../odoo/04_debug_mode.rst:17
+msgid ""
+"Developer mode: The name itself suggests something related to technical "
+"stuff. You can enter into the configuration of the application and Odoo's"
+" internal system, as well."
+msgstr ""
+
+#: ../../odoo/04_debug_mode.rst:18
+msgid ""
+"Developer mode with assets: In addition to the developer mode, this loads"
+" all the resources separately such as JavaScript, CSS files, and images, "
+"instead of loading them in a bundle."
+msgstr ""
+
+#: ../../odoo/04_debug_mode.rst:20
+msgid ""
+"Developer mode with assets mode may be slower than all the other modes, "
+"you developer! you are welcome to this mode."
+msgstr ""
+
+#: ../../odoo/04_debug_mode.rst:23
+msgid "Enter into Debug mode"
+msgstr ""
+
+#: ../../odoo/04_debug_mode.rst:24
+msgid ""
+"You can enter into debug mode by adding ``debug`` argument in the URL, "
+"i.e. Change ``https://my-company.odoo.com/web?#home`` to ``https://my-"
+"company.odoo.com/web?debug=#home``."
+msgstr ""
+
+#: ../../odoo/04_debug_mode.rst:26
+msgid ""
+"The second easy way is to enter into ``Settings``, click on the "
+"``Activate the developer mode`` link below the version information."
+msgstr ""
+
+#: ../../odoo/04_debug_mode.rst:32
+msgid ""
+"You will be able to see the ``Technical`` menu under the ``Settings`` "
+"application on successful activation of the debug mode, you can access "
+"all the system settings there."
+msgstr ""
+
+#: ../../odoo/04_debug_mode.rst:36
+msgid "Let's see how to activate the developer mode and debug the assets."
+msgstr ""
+
+#: ../../odoo/05_create_users.rst:9
+msgid "Manage users and access rights"
+msgstr ""
+
+#: ../../odoo/05_create_users.rst:10
+msgid ""
+"You have an opportunity to invite your colleagues to signup on the "
+"instance during the activation process, you may see the below screen "
+"during the signup."
+msgstr ""
+
+#: ../../odoo/05_create_users.rst:16
+msgid ""
+"Enter the Name and Email address of your colleagues and click on the Send"
+" Invitation button."
+msgstr ""
+
+#: ../../odoo/05_create_users.rst:23
+msgid "Create user"
+msgstr ""
+
+#: ../../odoo/05_create_users.rst:24
+msgid ""
+"You can create an user manually or import the list of users (email "
+"address) to signup. You can create an unlimited users as soon as you are "
+"using single application."
+msgstr ""
+
+#: ../../odoo/05_create_users.rst:26
+msgid ""
+"You need name and email address to send the signup invitation email. The "
+"email will be sent automatically with signup link, when you create a new "
+"user."
+msgstr ""
+
+#: ../../odoo/05_create_users.rst:32
+msgid ""
+"Make sure that you assign correct access rights before you create the new"
+" user. Either user have a full access or user may not be able to access "
+"certain features when access rights are not configured properly."
+msgstr ""
+
+#: ../../odoo/05_create_users.rst:34
+msgid ""
+"All the users with status ``NEVER CONNECTED`` shows that, they did not "
+"sign up, verify the Email address is correct incase, if they did not "
+"receive signup email."
+msgstr ""
+
+#: ../../odoo/05_create_users.rst:37
+msgid "Change access rights"
+msgstr ""
+
+#: ../../odoo/05_create_users.rst:38
+msgid ""
+"Odoo assign full (manager for all the applications) access rights to all "
+"users created through invitation during activation, you may review their "
+"access rights on the user form and change if needed."
+msgstr ""
+
+#: ../../odoo/05_create_users.rst:44
+msgid "You can set custom access rights for new users from ``General Settings``."
+msgstr ""
+
+#: ../../odoo/05_create_users.rst:50
+msgid ""
+"Click on the ``Default Access Rights`` like you will see ``Default User "
+"Template`` user. Access rights for the new users will be copied from this"
+" user."
+msgstr ""
+
+#: ../../odoo/05_create_users.rst:52
+msgid ""
+"The additional the rights can be given later from the user configuration "
+"before or after user signup."
+msgstr ""
+
+#: ../../odoo/05_create_users.rst:54
+msgid ""
+"Let's see how to invite new users to signup and start using the features "
+"on Odoo online instance."
+msgstr ""
+
+#: ../../odoo/06_test_drive.rst:9
+msgid "How to test upcoming features?"
+msgstr ""
+
+#: ../../odoo/06_test_drive.rst:10
+msgid ""
+"Odoo offers a platform where you can test latest stable version of the "
+"Odoo software or you can also test the upcoming features from development"
+" version."
+msgstr ""
+
+#: ../../odoo/06_test_drive.rst:13
+msgid "Odoo Online Demo"
+msgstr ""
+
+#: ../../odoo/06_test_drive.rst:14
+msgid ""
+"Odoo instant demonstration can be found at https://demo.odoo.com. Online "
+"demo is perfect fit for the visitors who wanted to test the latest stable"
+" Odoo software without installing or creating an online instance, demo "
+"instance will be refreshed every 24 hours automatically so all the data "
+"created by you will be erased automatically."
+msgstr ""
+
+#: ../../odoo/06_test_drive.rst:20
+msgid ""
+"Don't worry if your URL will be changed form https://demo.odoo.com to "
+"https://demo1.odoo.com, https://demo2.odoo.com or https://demo3.odoo.com,"
+" Odoo started many demo instance, you will be redirected to the instance "
+"having low traffic."
+msgstr ""
+
+#: ../../odoo/06_test_drive.rst:23
+msgid "Test upcoming features"
+msgstr ""
+
+#: ../../odoo/06_test_drive.rst:24
+msgid ""
+"**Odoo Runbot** is automated test platform user for the continuous "
+"integration designed and developed by Odoo SA. It is integrated with "
+"github.com to test each and every committee made by the Odoo developers. "
+"Odoo Employees worldwide use this platform for the internal testing "
+"before merging any feature into the master branch."
+msgstr ""
+
+#: ../../odoo/06_test_drive.rst:30
+msgid ""
+"Background colours of committee represents the status of the committee, "
+"Green represents successfully tested without any ERROR while Red "
+"represents ERROR in the code, either code is not clean or there is any "
+"test-case failed. You can not connect the committee which are in Blue "
+"color as there are currently being tested by the runbot."
+msgstr ""
+
+#: ../../odoo/06_test_drive.rst:32
+msgid ""
+"Most of the features under development can be found under ``odoo-"
+"dev/odoo`` or ``odoo-dev/enterprise`` menu, branche name started with "
+"master- are the features under development while ``10-xxx-xxx`` or ``11"
+"-xxx-xxx`` are the fixes for the respective versions."
+msgstr ""
+
+#: ../../odoo/06_test_drive.rst:35
+msgid "Connect to the test instance"
+msgstr ""
+
+#: ../../odoo/06_test_drive.rst:36
+msgid ""
+"You can connect and test every single committee on the development "
+"branch, click on the ``Sign in to this build`` icon."
+msgstr ""
+
+#: ../../odoo/06_test_drive.rst:38
+msgid ""
+"The default username will be admin and password will be admin too for all"
+" the instance, if may not able to connect in case some visitor has "
+"changed the password."
+msgstr ""
+
+#: ../../odoo/06_test_drive.rst:40
+msgid "You can perform the test on two different databases:"
+msgstr ""
+
+#: ../../odoo/06_test_drive.rst:42
+msgid "Installed all the applications with demo data"
+msgstr ""
+
+#: ../../odoo/06_test_drive.rst:43
+msgid ""
+"Installed only base application without demo data - you have to install "
+"additional applications you want to test."
+msgstr ""
+
+#: ../../odoo/06_test_drive.rst:45
+msgid ""
+"**Online Demo** and **Runbot** is not suitable platform to prepare the "
+"demo as no guarantee to get the same data all the time, because several "
+"users using those instances so data may change without notifications."
+msgstr ""
+
+#: ../../odoo/index.rst:5
+msgid "Start with Odoo Online"
+msgstr ""
+
+#: ../../odoo/index.rst:12
+msgid "Manage Instance"
+msgstr ""
+
+#: ../../odoo/index.rst:20
+msgid "Mobile"
+msgstr ""
+
+#: ../../odoo/index.rst:27
+msgid "User and Features"
+msgstr ""
+

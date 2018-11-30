@@ -1,0 +1,1547 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) Mantavya Gajjar
+# This file is distributed under the same license as the Odoo package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2018.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Odoo 12.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2018-11-30 11:27-0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.3.4\n"
+
+#: ../../accounting/analytic_accounting/profitability_bulk_purchase_retail_sale.rst:6
+msgid ""
+"Compute the profitability for trading company, bulk purchase and retail "
+"sales"
+msgstr ""
+
+#: ../../accounting/analytic_accounting/profitability_bulk_purchase_retail_sale.rst:9
+#: ../../accounting/analytic_accounting/profitability_on_material.rst:9
+#: ../../accounting/analytic_accounting/profitability_on_service.rst:9
+#: ../../accounting/analytic_accounting/profitability_on_service_and_material.rst:9
+#: ../../accounting/automatic_inventory_valuation/cost_of_goods_sold_kit_product.rst:13
+#: ../../accounting/automatic_inventory_valuation/cost_of_goods_sold_kit_product_enterprise.rst:10
+#: ../../accounting/automatic_inventory_valuation/standard_costing.rst:10
+#: ../../accounting/bank_cash/bank_reconciliation.rst:11
+#: ../../accounting/bank_cash/bank_reconciliation_process.rst:11
+#: ../../accounting/bank_cash/batch_deposit.rst:11
+#: ../../accounting/bank_cash/cash_withdrawal.rst:11
+#: ../../accounting/bank_cash/import_bank_statement_ofx.rst:12
+#: ../../accounting/inventory_valuation/manual_valuation_average_costing.rst:70
+#: ../../accounting/inventory_valuation/manual_valuation_fifo_costing.rst:40
+#: ../../accounting/inventory_valuation/manual_valuation_standard_costing.rst:70
+#: ../../accounting/invoice/cash_discount.rst:15
+#: ../../accounting/invoice/first_invoice.rst:12
+#: ../../accounting/invoice/invoice_numbers_by_financial_year.rst:11
+#: ../../accounting/invoice/match_payment.rst:11
+#: ../../accounting/invoice/set_invoice_due_date.rst:9
+#: ../../accounting/l10n_india/configure_gst_in_odoo.rst:12
+#: ../../accounting/l10n_india/tax_deduction_at_source.rst:11
+#: ../../accounting/l10n_india/tax_deduction_at_source_customer_invoice.rst:27
+#: ../../accounting/l10n_india/tax_deduction_at_source_vendor_bill.rst:27
+#: ../../accounting/multi_currency/foreign_exchange_gain_loss_entry.rst:9
+#: ../../accounting/multi_currency/invoice_and_payment_in_foreign_currency.rst:9
+#: ../../accounting/multi_currency/invoice_in_foreign_currency.rst:11
+#: ../../accounting/opening/company_setup.rst:11
+#: ../../accounting/opening/import_opening.rst:11
+#: ../../accounting/payment_followup/advance_payment_from_customer.rst:11
+#: ../../accounting/payment_followup/customer_followups.rst:12
+#: ../../accounting/payment_followup/partial_payment.rst:11
+#: ../../accounting/payment_followup/print_customer_ledger.rst:11
+#: ../../accounting/payment_followup/reconcile_invoice_and_bills.rst:9
+#: ../../accounting/payment_followup/record_customer_payment.rst:11
+#: ../../accounting/payment_followup/track_customer_check.rst:11
+#: ../../accounting/payment_terms/installment_plans.rst:11
+#: ../../accounting/payment_terms/payment_terms.rst:11
+#: ../../accounting/payment_terms/warning_on_credit_limit.rst:11
+#: ../../accounting/refund/modify_paid_invoice.rst:12
+#: ../../accounting/refund/refund_invoice.rst:12
+#: ../../accounting/refund/refund_partial_paid_invoice.rst:11
+#: ../../accounting/refund/reject_invoice.rst:11
+#: ../../accounting/taxes/retention_tax.rst:24
+#: ../../accounting/taxes/tax_based_on_loal_or_export_sales.rst:10
+#: ../../accounting/vendor_bills/cash_expense.rst:11
+#: ../../accounting/vendor_bills/customer_aged_payable_report.rst:12
+#: ../../accounting/vendor_bills/manage_employee_expense.rst:12
+#: ../../accounting/vendor_bills/partial_payment_on_multiple_bills.rst:11
+#: ../../accounting/vendor_bills/print_check.rst:11
+#: ../../accounting/vendor_bills/single_bill_form_multiple_orders.rst:11
+#: ../../accounting/vendor_bills/vendor_bill.rst:11
+#: ../../accounting/vendor_bills/vendor_bill_payment.rst:11
+msgid "Video"
+msgstr ""
+
+#: ../../accounting/analytic_accounting/profitability_bulk_purchase_retail_sale.rst:10
+msgid "Access the video at https://www.youtube.com/watch?v=eWg4tU--T7Y"
+msgstr ""
+
+#: ../../accounting/analytic_accounting/profitability_on_material.rst:6
+msgid "Compute the profitability for trading company"
+msgstr ""
+
+#: ../../accounting/analytic_accounting/profitability_on_material.rst:10
+msgid "Access the video at https://www.youtube.com/watch?v=xOo7v1ZBr_Q"
+msgstr ""
+
+#: ../../accounting/analytic_accounting/profitability_on_service.rst:6
+msgid "Compute the profitability for service projects"
+msgstr ""
+
+#: ../../accounting/analytic_accounting/profitability_on_service.rst:10
+msgid "Access the video at https://www.youtube.com/watch?v=XpQ1m8m6d_Q"
+msgstr ""
+
+#: ../../accounting/analytic_accounting/profitability_on_service_and_material.rst:6
+msgid ""
+"Profitability based on the service and material (Website development "
+"company)"
+msgstr ""
+
+#: ../../accounting/analytic_accounting/profitability_on_service_and_material.rst:10
+msgid "Access the video at https://www.youtube.com/watch?v=hUKl1bL0OvE"
+msgstr ""
+
+#: ../../accounting/automatic_inventory_valuation/cost_of_goods_sold_kit_product.rst:7
+msgid "Compute cost of goods sold for a kit product using real price costing"
+msgstr ""
+
+#: ../../accounting/automatic_inventory_valuation/cost_of_goods_sold_kit_product.rst:9
+msgid "This document is written based on the Odoo 10.0 community edition."
+msgstr ""
+
+#: ../../accounting/automatic_inventory_valuation/cost_of_goods_sold_kit_product.rst:14
+msgid "Access the video at https://www.youtube.com/watch?v=6-KYnZOTO9A"
+msgstr ""
+
+#: ../../accounting/automatic_inventory_valuation/cost_of_goods_sold_kit_product_enterprise.rst:7
+msgid "Compute cost of goods sold for a kit product using standard costing method"
+msgstr ""
+
+#: ../../accounting/automatic_inventory_valuation/cost_of_goods_sold_kit_product_enterprise.rst:11
+#: ../../accounting/automatic_inventory_valuation/standard_costing.rst:11
+msgid "Access the video at https://www.youtube.com/watch?v=Ee-fR9o6tSk"
+msgstr ""
+
+#: ../../accounting/automatic_inventory_valuation/standard_costing.rst:7
+msgid "Automatic cost of cost goods sold when using standard costing method"
+msgstr ""
+
+#: ../../accounting/bank_cash/bank_reconciliation.rst:8
+msgid "Bank Reconciliation in Odoo"
+msgstr ""
+
+#: ../../accounting/bank_cash/bank_reconciliation.rst:12
+#: ../../accounting/bank_cash/bank_reconciliation_process.rst:12
+msgid "Access the video at https://www.youtube.com/watch?v=A-96JQ6B-bI"
+msgstr ""
+
+#: ../../accounting/bank_cash/bank_reconciliation_process.rst:8
+msgid "Manage the bank reconciliation process"
+msgstr ""
+
+#: ../../accounting/bank_cash/batch_deposit.rst:8
+msgid "Manage batch deposits of checks"
+msgstr ""
+
+#: ../../accounting/bank_cash/batch_deposit.rst:12
+msgid "Access the video at https://www.youtube.com/watch?v=yIlGdN00o2k"
+msgstr ""
+
+#: ../../accounting/bank_cash/cash_withdrawal.rst:8
+msgid "Transferring money from bank account to petty cash (Cash withdrawal)"
+msgstr ""
+
+#: ../../accounting/bank_cash/cash_withdrawal.rst:12
+msgid "Access the video at https://www.youtube.com/watch?v=bNvWbWFNTP8"
+msgstr ""
+
+#: ../../accounting/bank_cash/import_bank_statement_ofx.rst:9
+msgid "Import bank statement (ofx format) and quick bank reconciliation"
+msgstr ""
+
+#: ../../accounting/bank_cash/import_bank_statement_ofx.rst:13
+msgid "Access the video at https://www.youtube.com/watch?v=YdbPaP_8yO0"
+msgstr ""
+
+#: ../../accounting/index.rst:7
+msgid "Accounting and Finance"
+msgstr ""
+
+#: ../../accounting/index.rst:15
+msgid "Customer Invoice"
+msgstr ""
+
+#: ../../accounting/index.rst:22
+msgid "Payment Terms"
+msgstr ""
+
+#: ../../accounting/index.rst:29
+msgid "Payment and Followups"
+msgstr ""
+
+#: ../../accounting/index.rst:36
+msgid "Setup Accounting"
+msgstr ""
+
+#: ../../accounting/index.rst:43
+msgid "Taxes and Duties"
+msgstr ""
+
+#: ../../accounting/index.rst:50
+msgid "Credit Notes"
+msgstr ""
+
+#: ../../accounting/index.rst:57
+msgid "Bank and Cash"
+msgstr ""
+
+#: ../../accounting/index.rst:64
+msgid "Multi Currency"
+msgstr ""
+
+#: ../../accounting/index.rst:71
+msgid "Vendor Bills and Payments"
+msgstr ""
+
+#: ../../accounting/index.rst:78
+msgid "Analytic Accounting (Cost center)"
+msgstr ""
+
+#: ../../accounting/index.rst:85
+msgid "Manual Inventory Valuation (Anglo-Saxons)"
+msgstr ""
+
+#: ../../accounting/index.rst:92
+msgid "Automatic Inventory Valuation (Anglo-Saxons)"
+msgstr ""
+
+#: ../../accounting/index.rst:99
+msgid "Indian Localization"
+msgstr ""
+
+#: ../../accounting/introduction.rst:4
+msgid "Odoo Accounting"
+msgstr ""
+
+#: ../../accounting/introduction.rst:5
+msgid "Access the video at https://www.youtube.com/watch?v=6XgKPjgyoec"
+msgstr ""
+
+#: ../../accounting/introduction.rst:14
+msgid "Transcript"
+msgstr ""
+
+#: ../../accounting/introduction.rst:15
+msgid ""
+"Odoo is beautiful accounting software designed for the needs of the 21st "
+"century."
+msgstr ""
+
+#: ../../accounting/introduction.rst:17
+msgid ""
+"Odoo connects directly to your bank or paypal account. Transactions are "
+"synchronized every hour and reconciliation is blazing fast. It’s like "
+"magic."
+msgstr ""
+
+#: ../../accounting/introduction.rst:19
+msgid ""
+"Instantly create invoices and send them with just a click. No need to "
+"print them."
+msgstr ""
+
+#: ../../accounting/introduction.rst:21
+msgid "Odoo can send them for you by email or regular mail."
+msgstr ""
+
+#: ../../accounting/introduction.rst:23
+msgid "Your customers pay online, meaning you get your money right away."
+msgstr ""
+
+#: ../../accounting/introduction.rst:25
+msgid ""
+"Odoo accounting is connected with all Odoo our apps such as sale, "
+"purchase, inventory and subscriptions."
+msgstr ""
+
+#: ../../accounting/introduction.rst:27
+msgid ""
+"This way, recording vendor bills is also super quick. Set a vendor, "
+"select the purchase order and Odoo fills in everything for you "
+"automatically."
+msgstr ""
+
+#: ../../accounting/introduction.rst:29
+msgid ""
+"Then, just use the SEPA protocol or print checks to pay vendors in "
+"batches."
+msgstr ""
+
+#: ../../accounting/introduction.rst:31
+msgid "It’s that easy with Odoo."
+msgstr ""
+
+#: ../../accounting/introduction.rst:33
+msgid ""
+"Wait, there is more. You will love the Odoo reports. From legal "
+"statements to executive summaries, they are fast and dynamic. Use Odoo’s "
+"business intelligence feature to navigate through all your companies "
+"data."
+msgstr ""
+
+#: ../../accounting/introduction.rst:35
+msgid ""
+"Of course, Odoo is mobile too. You can use it to check your accounts on "
+"the go."
+msgstr ""
+
+#: ../../accounting/introduction.rst:37
+msgid "Try Odoo now, and join 2 millions of happy users."
+msgstr ""
+
+#: ../../accounting/inventory_valuation/manual_valuation_average_costing.rst:6
+msgid ""
+"Compute the inventory valuation and cost of goods sold using average "
+"costing method"
+msgstr ""
+
+#: ../../accounting/inventory_valuation/manual_valuation_average_costing.rst:8
+#: ../../accounting/inventory_valuation/manual_valuation_fifo_costing.rst:8
+#: ../../accounting/inventory_valuation/manual_valuation_standard_costing.rst:8
+msgid ""
+"The manual inventory valuation method suggest that the valuation of an "
+"inventory has to be manage manually in financial accounting. The periodic"
+" journal entry has to be passed on regular internal so keep updated the "
+"valuation in balance sheet and cost of goods sold in profit and loss "
+"account."
+msgstr ""
+
+#: ../../accounting/inventory_valuation/manual_valuation_average_costing.rst:14
+#: ../../accounting/inventory_valuation/manual_valuation_fifo_costing.rst:14
+#: ../../accounting/inventory_valuation/manual_valuation_standard_costing.rst:14
+msgid "On every regular internal an accounting entry has to be passed as below:"
+msgstr ""
+
+#: ../../accounting/inventory_valuation/manual_valuation_average_costing.rst:17
+#: ../../accounting/inventory_valuation/manual_valuation_average_costing.rst:47
+#: ../../accounting/inventory_valuation/manual_valuation_average_costing.rst:62
+#: ../../accounting/inventory_valuation/manual_valuation_fifo_costing.rst:17
+#: ../../accounting/inventory_valuation/manual_valuation_standard_costing.rst:17
+#: ../../accounting/inventory_valuation/manual_valuation_standard_costing.rst:47
+#: ../../accounting/inventory_valuation/manual_valuation_standard_costing.rst:62
+msgid "**Description**"
+msgstr ""
+
+#: ../../accounting/inventory_valuation/manual_valuation_average_costing.rst:17
+#: ../../accounting/inventory_valuation/manual_valuation_average_costing.rst:47
+#: ../../accounting/inventory_valuation/manual_valuation_average_costing.rst:62
+#: ../../accounting/inventory_valuation/manual_valuation_fifo_costing.rst:17
+#: ../../accounting/inventory_valuation/manual_valuation_standard_costing.rst:17
+#: ../../accounting/inventory_valuation/manual_valuation_standard_costing.rst:47
+#: ../../accounting/inventory_valuation/manual_valuation_standard_costing.rst:62
+msgid "**Debit**"
+msgstr ""
+
+#: ../../accounting/inventory_valuation/manual_valuation_average_costing.rst:17
+#: ../../accounting/inventory_valuation/manual_valuation_average_costing.rst:47
+#: ../../accounting/inventory_valuation/manual_valuation_average_costing.rst:62
+#: ../../accounting/inventory_valuation/manual_valuation_fifo_costing.rst:17
+#: ../../accounting/inventory_valuation/manual_valuation_standard_costing.rst:17
+#: ../../accounting/inventory_valuation/manual_valuation_standard_costing.rst:47
+#: ../../accounting/inventory_valuation/manual_valuation_standard_costing.rst:62
+msgid "**Credit**"
+msgstr ""
+
+#: ../../accounting/inventory_valuation/manual_valuation_average_costing.rst:19
+#: ../../accounting/inventory_valuation/manual_valuation_average_costing.rst:49
+#: ../../accounting/inventory_valuation/manual_valuation_average_costing.rst:64
+#: ../../accounting/inventory_valuation/manual_valuation_fifo_costing.rst:19
+#: ../../accounting/inventory_valuation/manual_valuation_standard_costing.rst:19
+#: ../../accounting/inventory_valuation/manual_valuation_standard_costing.rst:49
+#: ../../accounting/inventory_valuation/manual_valuation_standard_costing.rst:64
+#: ../../accounting/odoo_accounting.rst:69
+msgid "Inventory Valuation"
+msgstr ""
+
+#: ../../accounting/inventory_valuation/manual_valuation_average_costing.rst:19
+#: ../../accounting/inventory_valuation/manual_valuation_average_costing.rst:21
+#: ../../accounting/inventory_valuation/manual_valuation_average_costing.rst:49
+#: ../../accounting/inventory_valuation/manual_valuation_average_costing.rst:51
+#: ../../accounting/inventory_valuation/manual_valuation_average_costing.rst:64
+#: ../../accounting/inventory_valuation/manual_valuation_average_costing.rst:66
+#: ../../accounting/inventory_valuation/manual_valuation_fifo_costing.rst:19
+#: ../../accounting/inventory_valuation/manual_valuation_fifo_costing.rst:21
+#: ../../accounting/inventory_valuation/manual_valuation_standard_costing.rst:19
+#: ../../accounting/inventory_valuation/manual_valuation_standard_costing.rst:21
+#: ../../accounting/inventory_valuation/manual_valuation_standard_costing.rst:49
+#: ../../accounting/inventory_valuation/manual_valuation_standard_costing.rst:51
+#: ../../accounting/inventory_valuation/manual_valuation_standard_costing.rst:64
+#: ../../accounting/inventory_valuation/manual_valuation_standard_costing.rst:66
+msgid "800"
+msgstr ""
+
+#: ../../accounting/inventory_valuation/manual_valuation_average_costing.rst:21
+#: ../../accounting/inventory_valuation/manual_valuation_fifo_costing.rst:21
+#: ../../accounting/inventory_valuation/manual_valuation_standard_costing.rst:21
+msgid "Cost of Goods Sold"
+msgstr ""
+
+#: ../../accounting/inventory_valuation/manual_valuation_average_costing.rst:24
+#: ../../accounting/inventory_valuation/manual_valuation_fifo_costing.rst:24
+#: ../../accounting/inventory_valuation/manual_valuation_standard_costing.rst:24
+msgid "To compute the cost of goods sold use the below formula"
+msgstr ""
+
+#: ../../accounting/inventory_valuation/manual_valuation_average_costing.rst:26
+#: ../../accounting/inventory_valuation/manual_valuation_fifo_costing.rst:26
+#: ../../accounting/inventory_valuation/manual_valuation_standard_costing.rst:26
+msgid ""
+"``COGS = Inventory Valuation as per Balance sheet - Inventory Valuation "
+"as per Inventory``"
+msgstr ""
+
+#: ../../accounting/inventory_valuation/manual_valuation_average_costing.rst:30
+#: ../../accounting/inventory_valuation/manual_valuation_fifo_costing.rst:30
+#: ../../accounting/inventory_valuation/manual_valuation_standard_costing.rst:30
+msgid "Product Cost price"
+msgstr ""
+
+#: ../../accounting/inventory_valuation/manual_valuation_average_costing.rst:32
+msgid ""
+"As your inventory costing method is average, you are allowed to change "
+"the cost price of the product, assumed that you increase the cost price."
+msgstr ""
+
+#: ../../accounting/inventory_valuation/manual_valuation_average_costing.rst:35
+#: ../../accounting/inventory_valuation/manual_valuation_standard_costing.rst:35
+msgid ""
+"Make sure you change the cost price on the product once your valuation is"
+" equal for inventory and balance sheet, else you may have a wrong cost of"
+" goods sold entry."
+msgstr ""
+
+#: ../../accounting/inventory_valuation/manual_valuation_average_costing.rst:39
+#: ../../accounting/inventory_valuation/manual_valuation_standard_costing.rst:39
+msgid ""
+"When you see a COGS is having a negative value it means that your value "
+"of the inventory increased in warehouse this should be reflect in the "
+"balance sheet too."
+msgstr ""
+
+#: ../../accounting/inventory_valuation/manual_valuation_average_costing.rst:43
+#: ../../accounting/inventory_valuation/manual_valuation_standard_costing.rst:43
+msgid ""
+"To increase the value in balance sheet you have to pass below journal "
+"entry"
+msgstr ""
+
+#: ../../accounting/inventory_valuation/manual_valuation_average_costing.rst:51
+#: ../../accounting/inventory_valuation/manual_valuation_average_costing.rst:66
+#: ../../accounting/inventory_valuation/manual_valuation_standard_costing.rst:51
+#: ../../accounting/inventory_valuation/manual_valuation_standard_costing.rst:66
+msgid "Inventory Valuation Difference"
+msgstr ""
+
+#: ../../accounting/inventory_valuation/manual_valuation_average_costing.rst:54
+#: ../../accounting/inventory_valuation/manual_valuation_standard_costing.rst:54
+msgid ""
+"Or, when you see a COGS is having a positive value it means that your "
+"value of the inventory decreased in warehouse and this should be reflect "
+"in the balance sheet too."
+msgstr ""
+
+#: ../../accounting/inventory_valuation/manual_valuation_average_costing.rst:58
+#: ../../accounting/inventory_valuation/manual_valuation_standard_costing.rst:58
+msgid ""
+"To decrease the value in balance sheet you have to pass below journal "
+"entry"
+msgstr ""
+
+#: ../../accounting/inventory_valuation/manual_valuation_average_costing.rst:71
+msgid "Access the video at https://www.youtube.com/watch?v=aHa8jjJsEKA"
+msgstr ""
+
+#: ../../accounting/inventory_valuation/manual_valuation_average_costing.rst:81
+#: ../../accounting/inventory_valuation/manual_valuation_fifo_costing.rst:51
+msgid ":doc:`../inventory_valuation/manual_valuation_standard_costing`"
+msgstr ""
+
+#: ../../accounting/inventory_valuation/manual_valuation_average_costing.rst:82
+#: ../../accounting/inventory_valuation/manual_valuation_standard_costing.rst:81
+msgid ":doc:`../inventory_valuation/manual_valuation_fifo_costing`"
+msgstr ""
+
+#: ../../accounting/inventory_valuation/manual_valuation_fifo_costing.rst:6
+msgid ""
+"Compute the inventory valuation and cost of goods sold using fifo costing"
+" method"
+msgstr ""
+
+#: ../../accounting/inventory_valuation/manual_valuation_fifo_costing.rst:32
+msgid ""
+"The cost price on the product page always display the cost of last unit "
+"sold or consumed or scrapped from the stock. If you change that manually "
+"it will not make any changes in the system."
+msgstr ""
+
+#: ../../accounting/inventory_valuation/manual_valuation_fifo_costing.rst:36
+msgid ""
+"Hide the product cost field, if all of your products have FIFO as the "
+"inventory costing method, even-users will never get confused."
+msgstr ""
+
+#: ../../accounting/inventory_valuation/manual_valuation_fifo_costing.rst:41
+msgid "Access the video at https://www.youtube.com/watch?v=_TFhth_Uzc4"
+msgstr ""
+
+#: ../../accounting/inventory_valuation/manual_valuation_fifo_costing.rst:52
+#: ../../accounting/inventory_valuation/manual_valuation_standard_costing.rst:82
+msgid ":doc:`../inventory_valuation/manual_valuation_average_costing`"
+msgstr ""
+
+#: ../../accounting/inventory_valuation/manual_valuation_standard_costing.rst:6
+msgid ""
+"Compute the inventory valuation and cost of goods sold using standard "
+"costing"
+msgstr ""
+
+#: ../../accounting/inventory_valuation/manual_valuation_standard_costing.rst:32
+msgid ""
+"As your inventory costing method is standards, you are allowed to change "
+"the cost price of the product, assumed that you increase the cost price."
+msgstr ""
+
+#: ../../accounting/inventory_valuation/manual_valuation_standard_costing.rst:71
+msgid "Access the video at https://www.youtube.com/watch?v=pVsdiEl6OJw"
+msgstr ""
+
+#: ../../accounting/invoice/cash_discount.rst:6
+#: ../../accounting/invoice/cash_discount.rst:12
+msgid "Setup cash discounts when customer pay before the due date"
+msgstr ""
+
+#: ../../accounting/invoice/cash_discount.rst:6
+msgid "Odoo 12.0, cash discount, discount, payment terms, bank reconciliation"
+msgstr ""
+
+#: ../../accounting/invoice/cash_discount.rst:16
+msgid "Access the video at https://www.youtube.com/watch?v=uNksgDgzKj8"
+msgstr ""
+
+#: ../../accounting/invoice/first_invoice.rst:9
+msgid "Create first customer invoice and register payment"
+msgstr ""
+
+#: ../../accounting/invoice/first_invoice.rst:13
+msgid "Access the video at https://www.youtube.com/watch?v=rCOaO26xM68"
+msgstr ""
+
+#: ../../accounting/invoice/invoice_numbers_by_financial_year.rst:8
+msgid "Reset invoice number for every new financial year or change every month"
+msgstr ""
+
+#: ../../accounting/invoice/invoice_numbers_by_financial_year.rst:12
+msgid "Access the video at https://www.youtube.com/watch?v=kFJNthxZ_cA"
+msgstr ""
+
+#: ../../accounting/invoice/match_payment.rst:8
+msgid "Match payment against an invoice"
+msgstr ""
+
+#: ../../accounting/invoice/match_payment.rst:12
+msgid "Access the video at https://www.youtube.com/watch?v=22ZCLf5gIUg"
+msgstr ""
+
+#: ../../accounting/invoice/set_invoice_due_date.rst:6
+msgid "Set due date on the invoice"
+msgstr ""
+
+#: ../../accounting/invoice/set_invoice_due_date.rst:10
+msgid "Access the video at https://www.youtube.com/watch?v=bW4MimNYW5U"
+msgstr ""
+
+#: ../../accounting/l10n_india/configure_gst_in_odoo.rst:9
+msgid "Multiple tax included in price, i.e.Indian GST Tax"
+msgstr ""
+
+#: ../../accounting/l10n_india/configure_gst_in_odoo.rst:13
+msgid "Access the video at https://www.youtube.com/watch?v=R2XP2t8-g14"
+msgstr ""
+
+#: ../../accounting/l10n_india/tax_deduction_at_source.rst:8
+msgid "Manage tax deduction at source (TDS) with accounting entries"
+msgstr ""
+
+#: ../../accounting/l10n_india/tax_deduction_at_source.rst:12
+msgid "Access the video at https://www.youtube.com/watch?v=DxJNSjAfJ20"
+msgstr ""
+
+#: ../../accounting/l10n_india/tax_deduction_at_source_customer_invoice.rst:7
+msgid ""
+"Track tax deduction at source and certificate receivable, (customer "
+"invoice)"
+msgstr ""
+
+#: ../../accounting/l10n_india/tax_deduction_at_source_customer_invoice.rst:8
+#: ../../accounting/l10n_india/tax_deduction_at_source_vendor_bill.rst:8
+msgid ""
+"TDS stands for **Tax Deducted at Source**. It was introduced to collect "
+"tax at the source from where an individual's income is generated."
+msgstr ""
+
+#: ../../accounting/l10n_india/tax_deduction_at_source_customer_invoice.rst:11
+#: ../../accounting/l10n_india/tax_deduction_at_source_vendor_bill.rst:11
+msgid ""
+"The government uses TDS as a tool to collect tax in order to minimise tax"
+" e vasion by taxing the income (partially or wholly) at the time it is "
+"generated rather than at a later date."
+msgstr ""
+
+#: ../../accounting/l10n_india/tax_deduction_at_source_customer_invoice.rst:15
+#: ../../accounting/l10n_india/tax_deduction_at_source_vendor_bill.rst:15
+msgid ""
+"TDS is applicable on the various incomes such as salaries, interest "
+"received, commission received, consulting or professional services, job-"
+"work, etc."
+msgstr ""
+
+#: ../../accounting/l10n_india/tax_deduction_at_source_customer_invoice.rst:18
+#: ../../accounting/l10n_india/tax_deduction_at_source_vendor_bill.rst:18
+msgid "Read more at: https://www.incometaxindia.gov.in/Pages/Deposit_TDS_TCS.aspx"
+msgstr ""
+
+#: ../../accounting/l10n_india/tax_deduction_at_source_customer_invoice.rst:21
+#: ../../accounting/l10n_india/tax_deduction_at_source_vendor_bill.rst:21
+#: ../../accounting/taxes/apply_default_tax.rst:14
+#: ../../accounting/taxes/create_new_tax.rst:14
+msgid "Business case"
+msgstr ""
+
+#: ../../accounting/l10n_india/tax_deduction_at_source_customer_invoice.rst:22
+#, python-format
+msgid ""
+"The *My Company* is a consulting company selling a professional "
+"consulting services their regular customer *China Export*. The customer "
+"will deducts the TDS @ 10% rate and make the payment against the bill."
+msgstr ""
+
+#: ../../accounting/l10n_india/tax_deduction_at_source_customer_invoice.rst:28
+msgid "Access the video at https://www.youtube.com/watch?v=d9Mx00lHxoU"
+msgstr ""
+
+#: ../../accounting/l10n_india/tax_deduction_at_source_vendor_bill.rst:7
+msgid ""
+"Manage tax deduction at source, tax ledger, compute payable and pay "
+"through bank (vendor bill)"
+msgstr ""
+
+#: ../../accounting/l10n_india/tax_deduction_at_source_vendor_bill.rst:22
+msgid ""
+"The *My Company* gets the prefessional consulting services form *Ajay "
+"Consulting Services* we have to deduct the TDS @ 10% and deposit to the "
+"government by the 7th of next month."
+msgstr ""
+
+#: ../../accounting/l10n_india/tax_deduction_at_source_vendor_bill.rst:28
+msgid "Access the video at https://www.youtube.com/watch?v=wuhBfG2khys"
+msgstr ""
+
+#: ../../accounting/multi_currency/foreign_exchange_gain_loss_entry.rst:6
+msgid ""
+"Foreign exchange gain or loss entry when invoice and payment in foreign "
+"currency"
+msgstr ""
+
+#: ../../accounting/multi_currency/foreign_exchange_gain_loss_entry.rst:10
+msgid "Access the video at https://www.youtube.com/watch?v=VNwfB1rPZYc"
+msgstr ""
+
+#: ../../accounting/multi_currency/invoice_and_payment_in_foreign_currency.rst:6
+msgid "Invoice and payment in foreign currency"
+msgstr ""
+
+#: ../../accounting/multi_currency/invoice_and_payment_in_foreign_currency.rst:10
+msgid "Access the video at https://www.youtube.com/watch?v=TFmFfv5p1Rs"
+msgstr ""
+
+#: ../../accounting/multi_currency/invoice_in_foreign_currency.rst:8
+msgid "Prepare invoice in foreign currency"
+msgstr ""
+
+#: ../../accounting/multi_currency/invoice_in_foreign_currency.rst:12
+msgid "Access the video at https://www.youtube.com/watch?v=70--MY4AFCU"
+msgstr ""
+
+#: ../../accounting/odoo_accounting.rst:4
+msgid "The Accounting behind Odoo"
+msgstr ""
+
+#: ../../accounting/odoo_accounting.rst:6
+msgid ""
+"This page summarises the way Odoo deals with typical accounts and "
+"transactions."
+msgstr ""
+
+#: ../../accounting/odoo_accounting.rst:9
+msgid "Double-entry bookkeeping"
+msgstr ""
+
+#: ../../accounting/odoo_accounting.rst:10
+msgid ""
+"Odoo automatically creates all the behind-the-scenes journal entries for "
+"each of your accounting transactions: customer invoices, point of sale "
+"order, expenses, inventory moves, etc."
+msgstr ""
+
+#: ../../accounting/odoo_accounting.rst:12
+msgid ""
+"Odoo uses the rules of double-entry bookkeeping system: all journal "
+"entries are automatically balanced (sum of debits = sum of credits)."
+msgstr ""
+
+#: ../../accounting/odoo_accounting.rst:15
+msgid "Accrual and Cash Basis Methods"
+msgstr ""
+
+#: ../../accounting/odoo_accounting.rst:16
+msgid ""
+"Odoo support both accrual and cash basis reporting. This allows you to "
+"report income / expense at the time transactions occur (i.e., accrual "
+"basis), or when payment is made or received (i.e., cash basis)."
+msgstr ""
+
+#: ../../accounting/odoo_accounting.rst:19
+msgid "Multi-companies"
+msgstr ""
+
+#: ../../accounting/odoo_accounting.rst:20
+msgid ""
+"Odoo allows to manage several companies within the same database. Each "
+"company has its own chart of accounts and rules. You can get "
+"consolidation reports following your consolidation rules."
+msgstr ""
+
+#: ../../accounting/odoo_accounting.rst:22
+msgid ""
+"Users can access several companies but always work in one company at a "
+"time."
+msgstr ""
+
+#: ../../accounting/odoo_accounting.rst:25
+msgid "Multi-currencies"
+msgstr ""
+
+#: ../../accounting/odoo_accounting.rst:26
+msgid ""
+"Every transaction is recorded in the default currency of the company. For"
+" transactions occurring in another currency, Odoo stores both the value "
+"in the currency of the company and the value in the currency of the "
+"transaction. Odoo can generate currencies gains and losses after the "
+"reconciliation of the journal items."
+msgstr ""
+
+#: ../../accounting/odoo_accounting.rst:28
+msgid ""
+"Currency rates are updated once a day using a yahoo.com online web-"
+"service."
+msgstr ""
+
+#: ../../accounting/odoo_accounting.rst:31
+msgid "International Standards"
+msgstr ""
+
+#: ../../accounting/odoo_accounting.rst:32
+msgid ""
+"Odoo accounting support more than 50 countries. The Odoo core accounting "
+"implement accounting standards that is common to all countries and "
+"specific modules exists per country for the specificities of the country "
+"like the chart of accounts, taxes, or bank interfaces."
+msgstr ""
+
+#: ../../accounting/odoo_accounting.rst:34
+msgid "In particular, Odoo’s core accounting engine supports:"
+msgstr ""
+
+#: ../../accounting/odoo_accounting.rst:36
+msgid ""
+"Anglo-Saxon Accounting (U.S., U.K.,, and other English-speaking countries"
+" including Ireland, Canada, Australia, and New Zealand) where cost of "
+"good sold are reported when products are sold/delivered."
+msgstr ""
+
+#: ../../accounting/odoo_accounting.rst:37
+msgid "European accounting where expenses are accounted at the supplier bill."
+msgstr ""
+
+#: ../../accounting/odoo_accounting.rst:38
+msgid ""
+"Storno accounting (Italy) where refund invoices have negative "
+"credit/debit instead of a reverting the original journal items."
+msgstr ""
+
+#: ../../accounting/odoo_accounting.rst:39
+msgid "Odoo also have modules to comply with IFRS rules."
+msgstr ""
+
+#: ../../accounting/odoo_accounting.rst:42
+msgid "Accounts Receivable & Payable"
+msgstr ""
+
+#: ../../accounting/odoo_accounting.rst:43
+msgid ""
+"By default, Odoo uses a single account for all account receivable entries"
+" and one for all accounts payable entries. You can create separate "
+"accounts per customers/suppliers, but you don’t need to."
+msgstr ""
+
+#: ../../accounting/odoo_accounting.rst:45
+msgid ""
+"As transactions are associated to customers or suppliers, you get reports"
+" to perform analysis per customer/supplier such as the customer "
+"statement, revenues per customers, aged receivable/payables, …"
+msgstr ""
+
+#: ../../accounting/odoo_accounting.rst:48
+msgid "Wide range of financial reports"
+msgstr ""
+
+#: ../../accounting/odoo_accounting.rst:49
+msgid ""
+"In Odoo, you can generate financial reports in real time. Odoo’s reports "
+"range from basic accounting reports to advanced management reports. "
+"Odoo’s reports include:"
+msgstr ""
+
+#: ../../accounting/odoo_accounting.rst:51
+msgid "Performance reports (such as Profit and Loss, Budget Variance)"
+msgstr ""
+
+#: ../../accounting/odoo_accounting.rst:52
+msgid "Position reports (such as Balance Sheet, Aged Payables, Aged Receivables)"
+msgstr ""
+
+#: ../../accounting/odoo_accounting.rst:53
+msgid "Cash reports (such as Bank Summary)"
+msgstr ""
+
+#: ../../accounting/odoo_accounting.rst:54
+msgid "Detail reports (such as Trial Balance and General Ledger)"
+msgstr ""
+
+#: ../../accounting/odoo_accounting.rst:55
+msgid "Management reports (such as Budgets, Executive Summary)"
+msgstr ""
+
+#: ../../accounting/odoo_accounting.rst:56
+msgid ""
+"Odoo’s report engine allows you to customize your own report based on "
+"your own formulae."
+msgstr ""
+
+#: ../../accounting/odoo_accounting.rst:59
+msgid "Import bank feeds automatically"
+msgstr ""
+
+#: ../../accounting/odoo_accounting.rst:60
+msgid ""
+"Bank reconciliation is a process that matches your bank statement lines, "
+"as supplied by the bank, to your accounting transactions in the general "
+"ledger. Odoo makes bank reconciliation easy by frequently importing bank "
+"statement lines from your bank directly into your Odoo account. This "
+"means you can have a daily view of your cashflow without having to log "
+"into your online banking or wait for your paper bank statements."
+msgstr ""
+
+#: ../../accounting/odoo_accounting.rst:62
+msgid ""
+"Odoo speeds up bank reconciliation by matching most of your imported bank"
+" statement lines to your accounting transactions. Odoo also remembers how"
+" you’ve treated other bank statement lines and provides suggested general"
+" ledger transactions."
+msgstr ""
+
+#: ../../accounting/odoo_accounting.rst:65
+msgid "Calculates the tax you owe your tax authority"
+msgstr ""
+
+#: ../../accounting/odoo_accounting.rst:66
+msgid ""
+"Odoo totals all your accounting transactions for your tax period and uses"
+" these totals to calculate your tax obligation. You can then check your "
+"sales tax by running Odoo’s Tax Report."
+msgstr ""
+
+#: ../../accounting/odoo_accounting.rst:70
+msgid ""
+"Odoo support both periodic (manual) and perpetual (automated) inventory "
+"valuations. The available methods are standard price, average price, LIFO"
+" (for countries allowing it) and FIFO."
+msgstr ""
+
+#: ../../accounting/odoo_accounting.rst:73
+msgid "Easy retained earnings"
+msgstr ""
+
+#: ../../accounting/odoo_accounting.rst:74
+msgid ""
+"Retained earnings is the portion of income retained by your business. "
+"Odoo automatically calculates your current year earnings in real time so "
+"no year-end journal or rollover is required. This is calculated by "
+"reporting the profit and loss balance to your balance sheet report "
+"automatically."
+msgstr ""
+
+#: ../../accounting/opening/company_setup.rst:8
+msgid "Setup Company Information, Bank Accounts and Fiscal Period"
+msgstr ""
+
+#: ../../accounting/opening/company_setup.rst:12
+msgid "Access the video at https://www.youtube.com/watch?v=mmPNI2TY_Jw"
+msgstr ""
+
+#: ../../accounting/opening/import_opening.rst:8
+msgid "Setup Odoo Accounting and Import opening balance"
+msgstr ""
+
+#: ../../accounting/opening/import_opening.rst:12
+msgid "Access the video at https://www.youtube.com/watch?v=ybnQN_ip0gQ"
+msgstr ""
+
+#: ../../accounting/payment_followup/advance_payment_from_customer.rst:8
+msgid "Receive advance payment from customer and match against invoice later"
+msgstr ""
+
+#: ../../accounting/payment_followup/advance_payment_from_customer.rst:12
+msgid "Access the video at https://www.youtube.com/watch?v=GMq-wCrDeDw"
+msgstr ""
+
+#: ../../accounting/payment_followup/customer_followups.rst:9
+msgid "Automate customer follow-ups with plans"
+msgstr ""
+
+#: ../../accounting/payment_followup/customer_followups.rst:13
+msgid "Access the video at https://www.youtube.com/watch?v=otuzF6CcUrA"
+msgstr ""
+
+#: ../../accounting/payment_followup/partial_payment.rst:8
+msgid "Create invoice, receive and register partial payment on invoice"
+msgstr ""
+
+#: ../../accounting/payment_followup/partial_payment.rst:12
+msgid "Access the video at https://www.youtube.com/watch?v=yAkzrzE94c0"
+msgstr ""
+
+#: ../../accounting/payment_followup/print_customer_ledger.rst:8
+msgid "Print customer ledger"
+msgstr ""
+
+#: ../../accounting/payment_followup/print_customer_ledger.rst:12
+msgid "Access the video at https://www.youtube.com/watch?v=97IbK9zKYAQ"
+msgstr ""
+
+#: ../../accounting/payment_followup/reconcile_invoice_and_bills.rst:6
+msgid "Reconcile customer invoice vs vendor bill"
+msgstr ""
+
+#: ../../accounting/payment_followup/reconcile_invoice_and_bills.rst:10
+msgid "Access the video at https://www.youtube.com/watch?v=gNTenxx4_GA"
+msgstr ""
+
+#: ../../accounting/payment_followup/record_customer_payment.rst:8
+msgid "Different ways to record a payment"
+msgstr ""
+
+#: ../../accounting/payment_followup/record_customer_payment.rst:12
+msgid "Access the video at https://www.youtube.com/watch?v=0UGvSCXxCn0"
+msgstr ""
+
+#: ../../accounting/payment_followup/track_customer_check.rst:8
+msgid "Track uncleared customer check in bank statement"
+msgstr ""
+
+#: ../../accounting/payment_followup/track_customer_check.rst:12
+msgid "Access the video at https://www.youtube.com/watch?v=EmCvqT8jiQs"
+msgstr ""
+
+#: ../../accounting/payment_terms/installment_plans.rst:8
+msgid "Define an installment plan on customer invoices (Use Payment terms)"
+msgstr ""
+
+#: ../../accounting/payment_terms/installment_plans.rst:12
+msgid "Access the video at https://www.youtube.com/watch?v=VL56Qsv0mzY"
+msgstr ""
+
+#: ../../accounting/payment_terms/payment_terms.rst:8
+msgid "Setup and use payment terms - 50% advance, balance in 30 days"
+msgstr ""
+
+#: ../../accounting/payment_terms/payment_terms.rst:12
+msgid "Access the video at https://www.youtube.com/watch?v=lagIgJBW-r4"
+msgstr ""
+
+#: ../../accounting/payment_terms/warning_on_credit_limit.rst:8
+msgid ""
+"Warning message on credit limit reached and block further invoice when it"
+" cross limits"
+msgstr ""
+
+#: ../../accounting/payment_terms/warning_on_credit_limit.rst:12
+msgid "Access the video at https://www.youtube.com/watch?v=CGMiClvEuuc"
+msgstr ""
+
+#: ../../accounting/refund/modify_paid_invoice.rst:9
+msgid "Modify the confirmed customer invoice"
+msgstr ""
+
+#: ../../accounting/refund/modify_paid_invoice.rst:13
+msgid "Access the video at https://www.youtube.com/watch?v=SfNSZ5UL31E"
+msgstr ""
+
+#: ../../accounting/refund/refund_invoice.rst:9
+msgid "Refund a fully paid customer invoice"
+msgstr ""
+
+#: ../../accounting/refund/refund_invoice.rst:13
+msgid "Access the video at https://www.youtube.com/watch?v=xibj9GBkHiE"
+msgstr ""
+
+#: ../../accounting/refund/refund_partial_paid_invoice.rst:8
+msgid "Refund the partially paid invoice"
+msgstr ""
+
+#: ../../accounting/refund/refund_partial_paid_invoice.rst:12
+msgid "Access the video at https://www.youtube.com/watch?v=mJCEtbbnyvc"
+msgstr ""
+
+#: ../../accounting/refund/reject_invoice.rst:8
+msgid "Reject customer invoice, which is not issued to customer"
+msgstr ""
+
+#: ../../accounting/refund/reject_invoice.rst:12
+msgid "Access the video at https://www.youtube.com/watch?v=-kG0gjRa1SE"
+msgstr ""
+
+#: ../../accounting/taxes/apply_default_tax.rst:6
+msgid "Apply default taxes on products or sales order"
+msgstr ""
+
+#: ../../accounting/taxes/apply_default_tax.rst:8
+msgid ""
+"Taxes applied in your country are installed automatically for most "
+"localizations. Default taxes set in orders and invoices come from each "
+"product’s Invoicing tab. Such taxes are used when you sell to companies "
+"that are in the same country/state than you."
+msgstr ""
+
+#: ../../accounting/taxes/apply_default_tax.rst:16
+msgid "Let’s set the default sales and purchase tax to Tax 15.00%."
+msgstr ""
+
+#: ../../accounting/taxes/apply_default_tax.rst:19
+#: ../../accounting/taxes/business_to_business_and_customer.rst:26
+#: ../../accounting/taxes/create_new_tax.rst:20
+msgid "Configuration"
+msgstr ""
+
+#: ../../accounting/taxes/apply_default_tax.rst:21
+msgid ""
+"All the new products created in the Odoo take the default tax set in the "
+"**Accounting/Invoicing** **Settings**. To change the default taxes set "
+"for any new product created, goto **Invoicing / Configuration / "
+"Settings**."
+msgstr ""
+
+#: ../../accounting/taxes/apply_default_tax.rst:26
+#: ../../accounting/taxes/business_to_business_and_customer.rst:38
+#: ../../accounting/taxes/create_new_tax.rst:32
+#: ../../accounting/taxes/tax_included_business_to_customer.rst:12
+msgid "|image0|"
+msgstr ""
+
+#: ../../accounting/taxes/apply_default_tax.rst:29
+msgid "Create new product"
+msgstr ""
+
+#: ../../accounting/taxes/apply_default_tax.rst:31
+msgid ""
+"Let’s create a new product, the default tax which was applied should be "
+"applied on this product."
+msgstr ""
+
+#: ../../accounting/taxes/apply_default_tax.rst:34
+#: ../../accounting/taxes/business_to_business_and_customer.rst:47
+#: ../../accounting/taxes/create_new_tax.rst:66
+msgid "|image1|"
+msgstr ""
+
+#: ../../accounting/taxes/apply_default_tax.rst:37
+msgid "Create sales order"
+msgstr ""
+
+#: ../../accounting/taxes/apply_default_tax.rst:39
+msgid ""
+"Let’s create a new order and select the same product on the order line, "
+"the tax which was set on the products should be applied on the sales "
+"order line tax field."
+msgstr ""
+
+#: ../../accounting/taxes/apply_default_tax.rst:43
+#: ../../accounting/taxes/business_to_business_and_customer.rst:56
+msgid "|image2|"
+msgstr ""
+
+#: ../../accounting/taxes/apply_default_tax.rst:45
+msgid ""
+"Now, your salesman do not have to remember that what taxes to be applied "
+"on which product."
+msgstr ""
+
+#: ../../accounting/taxes/business_to_business_and_customer.rst:7
+msgid "Manage product prices for B2B (tax excluded) and B2C (tax included)"
+msgstr ""
+
+#: ../../accounting/taxes/business_to_business_and_customer.rst:9
+msgid ""
+"When working with consumers, prices are usually expressed with taxes "
+"included in the price (e.g., in most eCommerce). But, when you work in a "
+"business environment, companies usually negotiate prices without taxes."
+msgstr ""
+
+#: ../../accounting/taxes/business_to_business_and_customer.rst:13
+msgid ""
+"You can manage both use cases easily, as long as you register your prices"
+" on the product with taxes excluded or included, but not both together. "
+"If you manage all your prices with tax included (or excluded) only, you "
+"can still easily do sales order with a price having taxes excluded (or "
+"included): that's easy."
+msgstr ""
+
+#: ../../accounting/taxes/business_to_business_and_customer.rst:19
+msgid ""
+"Let’s see how you can manage the product pricing for both customer at "
+"once. When you have a retailer customer on eCommerce store you can show "
+"the price and send the quotation with tax included in price and for same "
+"product you can prepare and send the quotation excluded price for back "
+"office sales to the business customer."
+msgstr ""
+
+#: ../../accounting/taxes/business_to_business_and_customer.rst:28
+msgid ""
+"The best way to simplify the price by setting the product price as tax "
+"excluded by default, so all the price defined on the product are always "
+"tax excluded. The other way will be computed automatically."
+msgstr ""
+
+#: ../../accounting/taxes/business_to_business_and_customer.rst:33
+msgid "Product Price"
+msgstr ""
+
+#: ../../accounting/taxes/business_to_business_and_customer.rst:35
+msgid ""
+"Make sure that when you define the product price it will always tax "
+"excluded, and apply the default tax on the product form."
+msgstr ""
+
+#: ../../accounting/taxes/business_to_business_and_customer.rst:41
+msgid "Create taxes"
+msgstr ""
+
+#: ../../accounting/taxes/business_to_business_and_customer.rst:43
+#, python-format
+msgid ""
+"Create a different taxes with the same percentage 15%, one define as "
+"**Included in Price** and for other one which is tax excluded rename the "
+"existing ‘Tax 15.00%’ to ‘Tax 15.00% Exe.’"
+msgstr ""
+
+#: ../../accounting/taxes/business_to_business_and_customer.rst:50
+msgid "Price List"
+msgstr ""
+
+#: ../../accounting/taxes/business_to_business_and_customer.rst:52
+#, python-format
+msgid ""
+"Create a pricelist that have the product price always tax included. So, "
+"If you define the product *Laptop* price $1250 and default tax is 15% "
+"define the product price on price list as $1437.5."
+msgstr ""
+
+#: ../../accounting/taxes/business_to_business_and_customer.rst:59
+msgid "Create a Fiscal Position"
+msgstr ""
+
+#: ../../accounting/taxes/business_to_business_and_customer.rst:61
+msgid ""
+"Create a fiscal position that use to swap taxes. When you are selling to "
+"wholesale(b2b) customer, the default tax we have applied on the product "
+"is always tax excluded but when you sell to retail customer you have to "
+"apply the price which is tax included and tax which actually computed the"
+" tax included."
+msgstr ""
+
+#: ../../accounting/taxes/business_to_business_and_customer.rst:67
+msgid "|image3|"
+msgstr ""
+
+#: ../../accounting/taxes/business_to_business_and_customer.rst:70
+msgid "Create a retail customer (b2c)"
+msgstr ""
+
+#: ../../accounting/taxes/business_to_business_and_customer.rst:72
+msgid ""
+"There are two important fields has to be set correctly when you create a "
+"retail customer, **Sales** **Pricelist** has to be set to *Retail "
+"Pricelist (Tax. Inc.) (USD)* under the **Sales & Purchase** tab. |image4|"
+msgstr ""
+
+#: ../../accounting/taxes/business_to_business_and_customer.rst:77
+msgid ""
+"The **Fiscal Position** should be set to *Retail Customer* under the "
+"**Accounting** and tab."
+msgstr ""
+
+#: ../../accounting/taxes/business_to_business_and_customer.rst:80
+msgid "|image5|"
+msgstr ""
+
+#: ../../accounting/taxes/business_to_business_and_customer.rst:83
+msgid "Create a normal customer (b2b)"
+msgstr ""
+
+#: ../../accounting/taxes/business_to_business_and_customer.rst:85
+msgid ""
+"By default all the customer are created are considered as business "
+"customers with the default pricelist and tax is applied which is always "
+"the tax excluded."
+msgstr ""
+
+#: ../../accounting/taxes/business_to_business_and_customer.rst:90
+msgid "Create a test quotation"
+msgstr ""
+
+#: ../../accounting/taxes/business_to_business_and_customer.rst:92
+msgid ""
+"Create a quotation from the Sale application, using the Sales / "
+"Quotations menu. Select the *Ajay Patel* as a customer, sell *Laptop* "
+"product, you should have the following result: 1250€ + 187.50€ = "
+"1437.50€."
+msgstr ""
+
+#: ../../accounting/taxes/business_to_business_and_customer.rst:97
+msgid "|image6|"
+msgstr ""
+
+#: ../../accounting/taxes/business_to_business_and_customer.rst:99
+msgid ""
+"When you create a quotation for the normal customer which has tax "
+"excluded will be looking as below."
+msgstr ""
+
+#: ../../accounting/taxes/business_to_business_and_customer.rst:102
+msgid "|image7|"
+msgstr ""
+
+#: ../../accounting/taxes/business_to_business_and_customer.rst:104
+msgid ""
+"If you negotiate a contract with a customer, whether you negotiate tax "
+"included or tax excluded, you can set the pricelist and the fiscal "
+"position on the customer form so that it will be applied automatically at"
+" every sale of this customer."
+msgstr ""
+
+#: ../../accounting/taxes/create_new_tax.rst:6
+msgid "Create a new taxes"
+msgstr ""
+
+#: ../../accounting/taxes/create_new_tax.rst:8
+msgid ""
+"Odoo's tax engine is very flexible and support many different type of "
+"taxes: value added taxes (VAT), eco-taxes, federal/states/city taxes, "
+"retention, withholding taxes, etc. For most countries, your system is "
+"pre-configured with the right taxes."
+msgstr ""
+
+#: ../../accounting/taxes/create_new_tax.rst:16
+#, python-format
+msgid ""
+"Let’s create a service tax that computes the tax @ 21% of the service "
+"price."
+msgstr ""
+
+#: ../../accounting/taxes/create_new_tax.rst:22
+msgid ""
+"Assumed that the you have already installed either **Invoicing** or "
+"**Financial Accounting** application."
+msgstr ""
+
+#: ../../accounting/taxes/create_new_tax.rst:26
+msgid "Create a tax"
+msgstr ""
+
+#: ../../accounting/taxes/create_new_tax.rst:28
+msgid ""
+"The new tax can be created from **Invoicing / Configuration / Taxes** or "
+"**Accounting / Configuration / Taxes**, create a new tax and enter Tax "
+"Name, Tax Scope, Tax Computation."
+msgstr ""
+
+#: ../../accounting/taxes/create_new_tax.rst:34
+msgid ""
+"**Tax Name** is a label to the tax that will be displayed on the sales or"
+" purchase order form during sales or purchase process, on the printed "
+"invoice **Label on Invoices** will be printed, can be set under the "
+"**Advance Options** tab."
+msgstr ""
+
+#: ../../accounting/taxes/create_new_tax.rst:39
+msgid ""
+"**Tax Scope** is used to define the tax application, it can be *Sales* or"
+" *Purchase* or *None*. You can set None when tax is deprecated or tax is "
+"used in a group but not applicable directly."
+msgstr ""
+
+#: ../../accounting/taxes/create_new_tax.rst:43
+msgid ""
+"If you want to avoid using a tax, you can not delete it because the tax "
+"is probably used in several invoices. So, in order to avoid users to "
+"continue using this tax, you should set the field Tax Scope to None."
+msgstr ""
+
+#: ../../accounting/taxes/create_new_tax.rst:48
+msgid ""
+"**Tax Computation** is a type that can be selected according to the tax "
+"computation required"
+msgstr ""
+
+#: ../../accounting/taxes/create_new_tax.rst:51
+msgid "Fixed: eco-taxes, etc."
+msgstr ""
+
+#: ../../accounting/taxes/create_new_tax.rst:53
+#, python-format
+msgid "Percentage of Price: most common (e.g. 15% sales tax)"
+msgstr ""
+
+#: ../../accounting/taxes/create_new_tax.rst:55
+msgid "Percentage of Price Tax Included: used in Brazil."
+msgstr ""
+
+#: ../../accounting/taxes/create_new_tax.rst:57
+msgid "Group of taxes: allows to have a compound tax"
+msgstr ""
+
+#: ../../accounting/taxes/create_new_tax.rst:59
+msgid ""
+"If you need more advanced tax mechanism, you can install the module "
+"\\`account_tax_python\\` and you will be able to define new taxes with "
+"Python code."
+msgstr ""
+
+#: ../../accounting/taxes/create_new_tax.rst:64
+msgid "Advanced configuration"
+msgstr ""
+
+#: ../../accounting/taxes/create_new_tax.rst:68
+msgid ""
+"**Label on Invoices** is a short text on how you want this tax to be "
+"printed on invoice line. For example, a tax named \"*Service tax @ 21%*\""
+" can have the following label on invoice \"*21%*\"."
+msgstr ""
+
+#: ../../accounting/taxes/create_new_tax.rst:72
+msgid ""
+"**Tax Group** defines where this tax is summed in the invoice footer. All"
+" the tax belonging to the same tax group will be grouped on the invoice "
+"footer. Examples of tax group: VAT, Retention."
+msgstr ""
+
+#: ../../accounting/taxes/create_new_tax.rst:76
+#, python-format
+msgid ""
+"**Included in Price** can be selected when the tax is to be defined as "
+"included in price. i.e. *Product Price is 100 and Service tax @ 21% is "
+"defined as included in price then product cost will be set as 82.64 and "
+"tax amount will be 17.35.*"
+msgstr ""
+
+#: ../../accounting/taxes/create_new_tax.rst:81
+msgid ""
+"**Tags**: are used for custom reports. Usually, you can keep this field "
+"empty."
+msgstr ""
+
+#: ../../accounting/taxes/retention_tax.rst:6
+msgid "Manage withholding taxes, ledger and payment to government"
+msgstr ""
+
+#: ../../accounting/taxes/retention_tax.rst:7
+msgid ""
+"A withholding tax, also called a retention tax, it is a government "
+"requirement for the payer of a customer invoice to withhold or deduct tax"
+" from the payment, and pay that tax to the government. In most "
+"jurisdictions, withholding tax applies to employment income."
+msgstr ""
+
+#: ../../accounting/taxes/retention_tax.rst:12
+msgid ""
+"With normal taxes, the tax is added to the subtotal to give you the total"
+" to pay. As opposed to normal taxes, withholding taxes are deducted from "
+"the amount to pay, as the tax will be paid by the customer."
+msgstr ""
+
+#: ../../accounting/taxes/retention_tax.rst:16
+msgid "As, an example, in Colombia you may have the following vendor bills:"
+msgstr ""
+
+#: ../../accounting/taxes/retention_tax.rst:20
+msgid ""
+"In this example, the company who sent the invoice was of 1000$ + 15% Tax "
+"the customer has to deduct the 10% tax and pay to the government."
+msgstr ""
+
+#: ../../accounting/taxes/retention_tax.rst:25
+msgid "Access the video at https://www.youtube.com/watch?v=b23D98Vpf4w"
+msgstr ""
+
+#: ../../accounting/taxes/tax_based_on_loal_or_export_sales.rst:7
+msgid "Apply tax based on local or export sales"
+msgstr ""
+
+#: ../../accounting/taxes/tax_based_on_loal_or_export_sales.rst:11
+msgid "Access the video at https://www.youtube.com/watch?v=RUnVpurD6gQ"
+msgstr ""
+
+#: ../../accounting/taxes/tax_included_business_to_customer.rst:6
+msgid "Define product prices for Business to Customer (tax included)"
+msgstr ""
+
+#: ../../accounting/taxes/tax_included_business_to_customer.rst:8
+msgid ""
+"In most countries, business to customers prices are tax-included. Check "
+"**Included in Price** for each of your sales taxes in **Accounting / "
+"Configuration / Taxes**."
+msgstr ""
+
+#: ../../accounting/taxes/tax_included_business_to_customer.rst:14
+msgid ""
+"This way the price set on the product form includes the tax. As an "
+"example, let's say you have a product with a sales tax of 10%. The sales "
+"price on the product form is $100."
+msgstr ""
+
+#: ../../accounting/taxes/tax_included_business_to_customer.rst:18
+msgid "If the tax is **not included** in the price, you will get:"
+msgstr ""
+
+#: ../../accounting/taxes/tax_included_business_to_customer.rst:21
+#: ../../accounting/taxes/tax_included_business_to_customer.rst:31
+msgid "Price without tax"
+msgstr ""
+
+#: ../../accounting/taxes/tax_included_business_to_customer.rst:21
+#: ../../accounting/taxes/tax_included_business_to_customer.rst:35
+msgid "$100"
+msgstr ""
+
+#: ../../accounting/taxes/tax_included_business_to_customer.rst:23
+#: ../../accounting/taxes/tax_included_business_to_customer.rst:33
+msgid "Taxes"
+msgstr ""
+
+#: ../../accounting/taxes/tax_included_business_to_customer.rst:23
+msgid "$15"
+msgstr ""
+
+#: ../../accounting/taxes/tax_included_business_to_customer.rst:25
+#: ../../accounting/taxes/tax_included_business_to_customer.rst:35
+msgid "Total to pay"
+msgstr ""
+
+#: ../../accounting/taxes/tax_included_business_to_customer.rst:25
+msgid "$115"
+msgstr ""
+
+#: ../../accounting/taxes/tax_included_business_to_customer.rst:28
+msgid "If the tax is **included** in the price:"
+msgstr ""
+
+#: ../../accounting/taxes/tax_included_business_to_customer.rst:31
+msgid "$86.96"
+msgstr ""
+
+#: ../../accounting/taxes/tax_included_business_to_customer.rst:33
+msgid "$13.04"
+msgstr ""
+
+#: ../../accounting/vendor_bills/cash_expense.rst:8
+msgid "Register cash sales and expense in account"
+msgstr ""
+
+#: ../../accounting/vendor_bills/cash_expense.rst:12
+msgid "Access the video at https://www.youtube.com/watch?v=m7wjxc3Mbck"
+msgstr ""
+
+#: ../../accounting/vendor_bills/customer_aged_payable_report.rst:9
+msgid "Forecast future vendor bills to pay"
+msgstr ""
+
+#: ../../accounting/vendor_bills/customer_aged_payable_report.rst:13
+msgid "Access the video at https://www.youtube.com/watch?v=4bbIW506cM8"
+msgstr ""
+
+#: ../../accounting/vendor_bills/manage_employee_expense.rst:9
+msgid "Manage advance payment, employee expenses and reconciliation"
+msgstr ""
+
+#: ../../accounting/vendor_bills/manage_employee_expense.rst:13
+msgid "Access the video at https://www.youtube.com/watch?v=t7PS7EOiPLM"
+msgstr ""
+
+#: ../../accounting/vendor_bills/partial_payment_on_multiple_bills.rst:8
+msgid "Register partial payment while paying to multiple vendor bills"
+msgstr ""
+
+#: ../../accounting/vendor_bills/partial_payment_on_multiple_bills.rst:12
+msgid "Access the video at https://www.youtube.com/watch?v=O51ACPIaiOA"
+msgstr ""
+
+#: ../../accounting/vendor_bills/print_check.rst:8
+msgid "Pay vendor bills by check and print check from Odoo accounting"
+msgstr ""
+
+#: ../../accounting/vendor_bills/print_check.rst:12
+msgid "Access the video at https://www.youtube.com/watch?v=Lw4vX1A8tNE"
+msgstr ""
+
+#: ../../accounting/vendor_bills/single_bill_form_multiple_orders.rst:8
+msgid "Create single vendor bill from multiple purchase orders"
+msgstr ""
+
+#: ../../accounting/vendor_bills/single_bill_form_multiple_orders.rst:12
+msgid "Access the video at https://www.youtube.com/watch?v=eVKzzkfZzE0"
+msgstr ""
+
+#: ../../accounting/vendor_bills/vendor_bill.rst:8
+msgid "Purchase order to vendor bill, payment through check"
+msgstr ""
+
+#: ../../accounting/vendor_bills/vendor_bill.rst:12
+msgid "Access the video at https://www.youtube.com/watch?v=oAFcDFNBkCE"
+msgstr ""
+
+#: ../../accounting/vendor_bills/vendor_bill_payment.rst:8
+msgid "Pay several vendor bills at once"
+msgstr ""
+
+#: ../../accounting/vendor_bills/vendor_bill_payment.rst:12
+msgid "Access the video at https://www.youtube.com/watch?v=1TBV0gUSq84"
+msgstr ""
+
