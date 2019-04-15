@@ -1561,7 +1561,6 @@ msgstr ""
 "decidir se podemos permitir desconto adicional para o cliente ou não."
 
 #: ../../sales/quotation/compute_sales_margin.rst:17
-#, fuzzy
 msgid "Install the **Sales Management** application."
 msgstr "Instale o aplicativo **Gerenciamento de Vendas**."
 
