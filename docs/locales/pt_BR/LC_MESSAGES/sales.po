@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: Odoo 12.0\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-11-30 11:27-0200\n"
-"PO-Revision-Date: 2019-04-15 02:38-0300\n"
+"PO-Revision-Date: 2019-04-15 03:29-0300\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -155,11 +155,10 @@ msgstr "Configuração"
 
 #: ../../sales/delivery/delivery_based_on_weight.rst:18
 #: ../../sales/delivery/free_delivery.rst:19
-#, fuzzy
 msgid ""
 "Activate the Shipping Costs feature form ``Sales / Configuration / Settings``."
 msgstr ""
-"Ative o formulário de recurso de custos de remessa ``Vendas / Configuração / "
+"Ativar a funcionalidade de Custos de Entregas em ``Vendas / Configuração / "
 "Configurações``."
 
 #: ../../sales/delivery/delivery_based_on_weight.rst:24
@@ -168,7 +167,7 @@ msgid ""
 "Activating the Shipping Costs will install the Inventory application if it was "
 "not installed previously."
 msgstr ""
-"A ativação dos custos de envio instalará o aplicativo Inventário se não tiver "
+"A ativação dos Custos de Envio instalará o aplicativo Inventário se não tiver "
 "sido instalado anteriormente."
 
 #: ../../sales/delivery/delivery_based_on_weight.rst:27
@@ -468,11 +467,11 @@ msgstr "**América (USD)**"
 
 #: ../../sales/pricelist_discount/adapt_price_based_on_customer_location.rst:23
 msgid "**Europe & Middle East (EUR)**"
-msgstr "**Europa e Médio Oriente (EUR)**"
+msgstr "**Europa e Meio Oriente (EUR)**"
 
 #: ../../sales/pricelist_discount/adapt_price_based_on_customer_location.rst:23
 msgid "**ASIA (USD)**"
-msgstr "**ÁSIA (USD)**"
+msgstr "**Ásia (USD)**"
 
 #: ../../sales/pricelist_discount/adapt_price_based_on_customer_location.rst:27
 #, fuzzy
@@ -851,15 +850,15 @@ msgstr ""
 
 #: ../../sales/pricelist_discount/adapt_price_based_on_customer_segment.rst:24
 msgid "**Sales Price (MRP)**"
-msgstr "**Preço de venda (MRP)**"
+msgstr "**Preços de Venda (MRP)**"
 
 #: ../../sales/pricelist_discount/adapt_price_based_on_customer_segment.rst:24
 msgid "**Distributors (Price)**"
-msgstr "**Distribuidores (preço)**"
+msgstr "**Distribuidores (Preço)**"
 
 #: ../../sales/pricelist_discount/adapt_price_based_on_customer_segment.rst:24
 msgid "**Retailer (Price)**"
-msgstr "**Revendedores (preço)**"
+msgstr "**Revendedores (Preço)**"
 
 #: ../../sales/pricelist_discount/adapt_price_based_on_customer_segment.rst:27
 #, fuzzy
@@ -1155,7 +1154,6 @@ msgstr ""
 "do produto na citação porque você não quer oferecer o desconto a seu cliente."
 
 #: ../../sales/pricelist_discount/apply_manual_discount.rst:64
-#, fuzzy
 msgid ""
 "All the taxes applicable on the product will be computed on the discounted "
 "product price (i.e. Taxes will be computed on **Subtotal**)"
@@ -1287,7 +1285,7 @@ msgid ""
 "The *Discount included in the price* option can be used to apply the price "
 "variation such as commodity price, it may decrease or increased."
 msgstr ""
-"A opção *Desconto incluído no Price* pode ser usado para aplicar a variação de "
+"A opção *Desconto incluído no Preço* pode ser usado para aplicar a variação de "
 "preço, como preço de mercadoria, pode diminuir ou aumentar."
 
 #: ../../sales/pricelist_discount/compute_and_apply_discount_from_pricelist.rst:72
@@ -1423,10 +1421,10 @@ msgid ""
 "**Accounting/Invoicing** settings. To change the default taxes set for any new "
 "product created, goto **Invoicing / Configuration / Settings**."
 msgstr ""
-"Todos os novos produtos criados no Odoo levam o conjunto de impostos padrão nas "
-"configurações de **Contabilidade / Faturamento**. Para alterar os impostos "
-"padrão definidos para qualquer novo produto criado, vá até **Faturamento / "
-"Configuração / Configurações**."
+"Todos os novos produtos criados no Odoo recebem o conjunto de impostos padrão "
+"configurados na área de configurações em **Contabilidade / Faturamento**. Para "
+"alterar os impostos padrão definidos para qualquer novo produto criado, vá até "
+"**Faturamento / Configuração / Configurações**."
 
 #: ../../sales/quotation/apply_default_tax.rst:29
 msgid "Create new product"
@@ -1474,16 +1472,15 @@ msgid "Change your quotation layout"
 msgstr "Alterar o layout da cotação"
 
 #: ../../sales/quotation/change_your_quotation_layout.rst:9
-#, fuzzy
 msgid ""
 "All the legal documents such as sales order or invoice required to be printed "
 "on the company letterhead with header and footer. You can choose a document "
 "layout from 4 different layouts available in Odoo according to your need."
 msgstr ""
-"Todos os documentos legais, como ordem do cliente ou fatura, devem ser "
-"impressos no timbrado da empresa com cabeçalho e rodapé. Você pode escolher um "
-"layout de documento a partir de 4 layouts diferentes disponíveis no Odoo de "
-"acordo com sua necessidade."
+"Todos os documentos legais, como ordem de venda ou fatura, devem ser impressos "
+"no em papel timbrado da empresa com cabeçalho e rodapé. Você pode escolher de "
+"acordo com sua necessidade um layout de documentos a partir de 4 opções "
+"diferentes disponíveis no Odoo."
 
 #: ../../sales/quotation/change_your_quotation_layout.rst:17
 #, fuzzy
@@ -1701,7 +1698,7 @@ msgstr ""
 
 #: ../../sales/quotation/create_my_first_quotation.rst:28
 msgid "|Sales Management Application|"
-msgstr "|Aplicação de Gestão de Vendas|"
+msgstr "|Sales Management Application|"
 
 #: ../../sales/quotation/create_my_first_quotation.rst:31
 #, fuzzy
@@ -1991,8 +1988,8 @@ msgstr "secção"
 #: ../../sales/quotation/sections_on_sales_orders.rst:54
 msgid "**Add pagebreak** - if selected, once this section print on page, the"
 msgstr ""
-"**Adicionar Quebra de Página** - se selecionado, uma vez que esta seção "
-"imprimir na página, o"
+"**Adicionar Quebra de Página** - se selecionado, quando a seção for impressa na "
+"página, o"
 
 #: ../../sales/quotation/sections_on_sales_orders.rst:52
 #, fuzzy
@@ -2006,7 +2003,7 @@ msgstr ""
 
 #: ../../sales/quotation/sections_on_sales_orders.rst:57
 msgid "**Sequence** - decided the order of the section to be printed on the"
-msgstr "**Seqüência** - decidiu a ordem da seção a ser impressa no"
+msgstr "**Sequência** - decide a ordem da seção a ser impressa no"
 
 #: ../../sales/quotation/sections_on_sales_orders.rst:57
 msgid "report"
@@ -2047,7 +2044,6 @@ msgstr "Acesse o vídeo em https://www.youtube.com/watch?v=2sOuEdYRSmE"
 
 #: ../../sales/quotation/send_quotation_by_email.rst:6
 #: ../../sales/quotation_template/quick_create_quotation_using_quotation_template.rst:85
-#, fuzzy
 msgid "Send quotation by email"
 msgstr "Enviar cotação por e-mail"
 
@@ -2179,17 +2175,16 @@ msgid "Chatter"
 msgstr "Conversa"
 
 #: ../../sales/quotation/send_quotation_by_email.rst:73
-#, fuzzy
 msgid ""
 "All the communication made to this quotation can be tracked in chatter, "
 "messages send to customer or received from the customer are available below "
 "quotation. All the communication history will be preserved and available when "
 "quotation gets converted to sales order."
 msgstr ""
-"Toda a comunicação feita a esta citação pode ser rastreada em conversas, "
-"mensagens enviadas ao cliente ou recebidas do cliente estão disponíveis abaixo "
-"da cotação. Todo o histórico de comunicação será preservado e disponível quando "
-"a cotação for convertida em ordem de venda."
+"Toda a comunicação feita nesta cotação pode ser rastreada no histórico de "
+"conversas, mensagens enviadas ao cliente ou recebidas do cliente estão "
+"disponíveis abaixo da cotação. Todo o histórico de comunicação será preservado "
+"e estará disponível quando a cotação for convertida em ordem de venda."
 
 #: ../../sales/quotation/send_quotation_by_email.rst:80
 msgid "Access the video at https://www.youtube.com/watch?v=TUcNeJ4CSVg"
@@ -2221,7 +2216,6 @@ msgstr ""
 "ser incluído nos termos e condições:"
 
 #: ../../sales/quotation/set_default_terms_and_conditions.rst:16
-#, fuzzy
 msgid "Acceptance"
 msgstr "Aceitação"
 
@@ -2290,7 +2284,6 @@ msgid "Other taxes such as octroi will be charges extra"
 msgstr "Outros impostos, tais como octroi será encargos extra"
 
 #: ../../sales/quotation/set_default_terms_and_conditions.rst:51
-#, fuzzy
 msgid "100% payment should be released at the time of confirmation"
 msgstr "100% de pagamento deve ser liberado no momento da confirmação"
 
@@ -2352,7 +2345,6 @@ msgid "Access the video at https://www.youtube.com/watch?v=wnOTS1Bm8xI"
 msgstr "Acesse o vídeo em https://www.youtube.com/watch?v=wnOTS1Bm8xI"
 
 #: ../../sales/quotation_template/increase_your_sales_with_suggested_products.rst:6
-#, fuzzy
 msgid "Increase your sales with suggested products"
 msgstr "Aumente suas vendas com produtos sugeridos"
 
@@ -2494,7 +2486,7 @@ msgstr ""
 
 #: ../../sales/quotation_template/online_customer_approval_and_payment_on_quotation.rst:40
 msgid "Accept online payment"
-msgstr "Aceite o pagamento online"
+msgstr "Aceitar o pagamento online"
 
 #: ../../sales/quotation_template/online_customer_approval_and_payment_on_quotation.rst:42
 #, fuzzy
