@@ -3,23 +3,24 @@
 # This file is distributed under the same license as the Odoo package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, 2018.
 #
-#, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: Odoo 12.0\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-11-30 11:27-0200\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
+"PO-Revision-Date: 2019-04-15 02:38-0300\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Generated-By: Babel 2.3.4\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: pt_BR\n"
+"X-Generator: Poedit 2.2.1\n"
 
 #: ../../sales/customer_portal/confirm_and_pay_online.rst:9
 msgid "Confirm quotation online and pay Invoice through customer portal"
-msgstr ""
+msgstr "Confirmar cotação online e pagar fatura através do portal do cliente"
 
 #: ../../sales/customer_portal/confirm_and_pay_online.rst:12
 #: ../../sales/customer_portal/online_approval.rst:11
@@ -59,61 +60,77 @@ msgstr ""
 #: ../../sales/unit_of_measure/product_packaging.rst:9
 #: ../../sales/unit_of_measure/product_unit_of_measure.rst:11
 msgid "Video"
-msgstr ""
+msgstr "Vídeo"
 
 #: ../../sales/customer_portal/confirm_and_pay_online.rst:13
 msgid "Access the video at https://www.youtube.com/watch?v=m0ydtBqPrwY"
-msgstr ""
+msgstr "Acesse o vídeo em https://www.youtube.com/watch?v=m0ydtBqPrwY"
 
 #: ../../sales/customer_portal/online_approval.rst:8
 msgid "Ask your customer to approve a quotation through portal"
-msgstr ""
+msgstr "Peça ao seu cliente para aprovar a cotação através do portal"
 
 #: ../../sales/customer_portal/online_approval.rst:12
 msgid "Access the video at https://www.youtube.com/watch?v=IEl0v3968kk"
-msgstr ""
+msgstr "Acesse o vídeo em https://www.youtube.com/watch?v=IEl0v3968kk"
 
 #: ../../sales/customer_portal/online_payment.rst:8
 msgid "Ask your customer to pay online payment on quotation through portal"
 msgstr ""
+"Peça ao seu cliente para efetuar o pagamento on-line através da cotação no "
+"portal"
 
 #: ../../sales/customer_portal/online_payment.rst:12
 msgid "Access the video at https://www.youtube.com/watch?v=DZ6OsPzM-G4"
-msgstr ""
+msgstr "Acesse o vídeo em https://www.youtube.com/watch?v=DZ6OsPzM-G4"
 
 #: ../../sales/delivery/add_margin_to_delivery_price.rst:7
+#, fuzzy
 msgid "Manage delivery price fluctuation, apply margin on the delivery charges"
 msgstr ""
+"Gerencie a flutuação do preço de entrega, aplique a margem nos encargos de "
+"entrega"
 
 #: ../../sales/delivery/add_margin_to_delivery_price.rst:11
 msgid "Access the video at https://www.youtube.com/watch?v=_lA0QgoXnt0"
-msgstr ""
+msgstr "Acesse o vídeo em https://www.youtube.com/watch?v=_lA0QgoXnt0"
 
 #: ../../sales/delivery/delivery_based_on_weight.rst:8
+#, fuzzy
 msgid "Calculate shipping rates based on product weight"
-msgstr ""
+msgstr "Calcule as taxas de envio com base no peso do produto"
 
 #: ../../sales/delivery/delivery_based_on_weight.rst:9
 #: ../../sales/delivery/free_delivery.rst:10
+#, fuzzy
 msgid ""
-"Odoo can handle various delivery methods, but it is not activated by "
-"default. Delivery methods can be used for normal sale of you can also use"
-" for your e-commerce order."
+"Odoo can handle various delivery methods, but it is not activated by default. "
+"Delivery methods can be used for normal sale of you can also use for your e-"
+"commerce order."
 msgstr ""
+"Odoo pode lidar com vários métodos de entrega, mas não é ativado por padrão. Os "
+"métodos da entrega podem ser usados para a venda normal de você podem "
+"igualmente usar-se para sua ordem do comércio eletrônico."
 
 #: ../../sales/delivery/delivery_based_on_weight.rst:12
 #: ../../sales/delivery/free_delivery.rst:13
+#, fuzzy
 msgid ""
-"Delivery methods allow you to manage the transport company, the price and"
-" the destination."
+"Delivery methods allow you to manage the transport company, the price and the "
+"destination."
 msgstr ""
+"Os métodos de entrega permitem que você gerencie a empresa de transporte, o "
+"preço e o destino."
 
 #: ../../sales/delivery/delivery_based_on_weight.rst:14
 #: ../../sales/delivery/free_delivery.rst:15
+#, fuzzy
 msgid ""
-"You can even integrate Odoo with external shippers to compute the real "
-"price and the packagings."
+"You can even integrate Odoo with external shippers to compute the real price "
+"and the packagings."
 msgstr ""
+"Você pode até mesmo integrar Odoo com transportadoras externos para calcular o "
+"preço real e as embalagens."
 
 #: ../../sales/delivery/delivery_based_on_weight.rst:17
 #: ../../sales/delivery/free_delivery.rst:18
@@ -134,234 +151,283 @@ msgstr ""
 #: ../../sales/quotation_template/quick_create_quotation_using_quotation_template.rst:22
 #: ../../sales/service/invoice_milestones.rst:37
 msgid "Configuration"
-msgstr ""
+msgstr "Configuração"
 
 #: ../../sales/delivery/delivery_based_on_weight.rst:18
 #: ../../sales/delivery/free_delivery.rst:19
+#, fuzzy
 msgid ""
-"Activate the Shipping Costs feature form ``Sales / Configuration / "
-"Settings``."
+"Activate the Shipping Costs feature form ``Sales / Configuration / Settings``."
 msgstr ""
+"Ative o formulário de recurso de custos de remessa ``Vendas / Configuração / "
+"Configurações``."
 
 #: ../../sales/delivery/delivery_based_on_weight.rst:24
 #: ../../sales/delivery/free_delivery.rst:25
 msgid ""
-"Activating the Shipping Costs will install the Inventory application if "
-"it was not installed previously."
+"Activating the Shipping Costs will install the Inventory application if it was "
+"not installed previously."
 msgstr ""
+"A ativação dos custos de envio instalará o aplicativo Inventário se não tiver "
+"sido instalado anteriormente."
 
 #: ../../sales/delivery/delivery_based_on_weight.rst:27
 #: ../../sales/delivery/free_delivery.rst:28
 msgid "Setup the delivery charges"
-msgstr ""
+msgstr "Configure as taxas de entrega"
 
 #: ../../sales/delivery/delivery_based_on_weight.rst:28
+#, fuzzy
 msgid ""
-"Let's assume that you deliver the product to your customer through postal"
-" service and the service changres you based on weight. Postal service "
-"deliver to all over the USA at $20 fixed rates if the weight upto 1kg, "
-"when weight is above 1kg, they charge $8 for every 1kg."
+"Let's assume that you deliver the product to your customer through postal "
+"service and the service changres you based on weight. Postal service deliver to "
+"all over the USA at $20 fixed rates if the weight upto 1kg, when weight is "
+"above 1kg, they charge $8 for every 1kg."
 msgstr ""
+"Vamos supor que você entregar o produto para o seu cliente através do serviço "
+"postal e o serviço changres você com base no peso. O serviço postal entrega a "
+"toda sobre os EUA em $20 taxas fixas se o peso upto 1kg, quando o peso está "
+"acima de 1kg, carregam $8 para cada 1kg."
 
 #: ../../sales/delivery/delivery_based_on_weight.rst:35
+#, fuzzy
 msgid ""
-"Goto ``Sales / Configure / Delivery Methods`` and create a new method "
-"*Postal Delivery*, select *Based on Rule* for **Provide** as the delivery"
-" cost is based on the weight and create a two rules."
+"Goto ``Sales / Configure / Delivery Methods`` and create a new method *Postal "
+"Delivery*, select *Based on Rule* for **Provide** as the delivery cost is based "
+"on the weight and create a two rules."
 msgstr ""
+"Vá até ``Vendas / Configurar / Métodos de Entrega`` e criar um novo método "
+"*Entrega Postal*, selecione *Com Base na Regra* para **Fornecer** como o custo "
+"de entrega é baseado no peso e criar uma duas regras."
 
 #: ../../sales/delivery/delivery_based_on_weight.rst:43
 msgid "Setup product weight"
-msgstr ""
+msgstr "Configure o peso do produto"
 
 #: ../../sales/delivery/delivery_based_on_weight.rst:44
+#, fuzzy
 msgid ""
-"Do not forget to add the correct product weight while creating the "
-"products."
+"Do not forget to add the correct product weight while creating the products."
 msgstr ""
+"Não se esqueça de adicionar o peso do produto correto ao criar os produtos."
 
 #: ../../sales/delivery/delivery_based_on_weight.rst:50
+#, fuzzy
 msgid "Compute and set the product weight including weight of delivery package."
 msgstr ""
+"Calcule e defina o peso do produto, incluindo o peso do pacote de entrega."
 
 #: ../../sales/delivery/delivery_based_on_weight.rst:53
 #: ../../sales/delivery/free_delivery.rst:49
 msgid "Adding delivery cost to the quotation"
-msgstr ""
+msgstr "Adicionando o custo de entrega à cotação"
 
 #: ../../sales/delivery/delivery_based_on_weight.rst:54
 #: ../../sales/delivery/free_delivery.rst:50
+#, fuzzy
 msgid ""
-"You can now choose the Delivery Method on your sale order. If you want to"
-" invoice the price of the delivery charge on the sale order, click on Set"
-" price, it will add a line with the name of the delivery method as a "
-"product."
+"You can now choose the Delivery Method on your sale order. If you want to "
+"invoice the price of the delivery charge on the sale order, click on Set price, "
+"it will add a line with the name of the delivery method as a product."
 msgstr ""
+"Agora você pode escolher o método de entrega em sua ordem de venda. Se você "
+"quiser faturar o preço da taxa de entrega na ordem de venda, clique em definir "
+"preço, ele adicionará uma linha com o nome do método de entrega como um produto."
 
 #: ../../sales/delivery/delivery_based_on_weight.rst:64
 msgid "Access the video at https://www.youtube.com/watch?v=o1QOCiWOnwk"
-msgstr ""
+msgstr "Acesse o vídeo em https://www.youtube.com/watch?v=o1QOCiWOnwk"
 
 #: ../../sales/delivery/free_delivery.rst:9
+#, fuzzy
 msgid "Free delivery if order total is more then $2000"
-msgstr ""
+msgstr "Entrega livre se o total da ordem é mais então $2000"
 
 #: ../../sales/delivery/free_delivery.rst:29
+#, fuzzy
 msgid ""
-"Let's assume that you deliver the product at fixed $50 and you deliver "
-"for free when total order value is more than $2000."
+"Let's assume that you deliver the product at fixed $50 and you deliver for free "
+"when total order value is more than $2000."
 msgstr ""
+"Vamos supor que você entregar o produto em fixo $50 e você entregar "
+"gratuitamente quando o valor total da ordem é mais do que $2000."
 
 #: ../../sales/delivery/free_delivery.rst:35
 msgid ""
-"Goto ``Sales / Configure / Delivery Methods`` rename the existing method "
-"*Free delivery charges* to *Delivery charges* add the $50 in the **Fixed "
-"Price**."
+"Goto ``Sales / Configure / Delivery Methods`` rename the existing method *Free "
+"delivery charges* to *Delivery charges* add the $50 in the **Fixed Price**."
 msgstr ""
+"Vá até ' ' vendas/configurar/métodos de entrega ' ' Renomear o método existente "
+"* taxas de entrega grátis * para * encargos de entrega * adicionar o $50 no * * "
+"preço fixo * *."
 
 #: ../../sales/delivery/free_delivery.rst:38
+#, fuzzy
 msgid ""
-"If you have a multiple delivery methods having a fixed price, please "
-"create a saparate Delivery Product for each method."
+"If you have a multiple delivery methods having a fixed price, please create a "
+"saparate Delivery Product for each method."
 msgstr ""
+"Se você tiver vários métodos de entrega com um preço fixo, por favor, crie uma "
+"Entrega de Produto para cada método."
 
 #: ../../sales/delivery/free_delivery.rst:41
 msgid "Setup product price"
-msgstr ""
+msgstr "Configure o preço do produto"
 
 #: ../../sales/delivery/free_delivery.rst:42
+#, fuzzy
 msgid "Do not forget to add the correct product price when creating the products."
 msgstr ""
+"Não se esqueça de adicionar o preço do produto correto ao criar os produtos."
 
 #: ../../sales/delivery/free_delivery.rst:60
 msgid "Access the video at https://www.youtube.com/watch?v=JPpUPbTeJD0"
-msgstr ""
+msgstr "Acesse o vídeo em https://www.youtube.com/watch?v=JPpUPbTeJD0"
 
 #: ../../sales/delivery/restrict_delivery_area.rst:7
+#, fuzzy
 msgid "Different delivery price based on the area (zip code, state or country)"
-msgstr ""
+msgstr "Preço de entrega diferente com base na área (CEP, estado ou país)"
 
 #: ../../sales/delivery/restrict_delivery_area.rst:11
 msgid "Access the video at https://www.youtube.com/watch?v=YObEk9PpXfQ"
-msgstr ""
+msgstr "Acesse o vídeo em https://www.youtube.com/watch?v=YObEk9PpXfQ"
 
 #: ../../sales/index.rst:8
 msgid "Sales and Invoicing"
-msgstr ""
+msgstr "Vendas e Faturamento"
 
 #: ../../sales/index.rst:15
 msgid "Sales Quotation"
-msgstr ""
+msgstr "Cotação de Vendas"
 
 #: ../../sales/index.rst:22
+#, fuzzy
 msgid "Quotation Template"
-msgstr ""
+msgstr "Modelo de cotação"
 
 #: ../../sales/index.rst:29
+#, fuzzy
 msgid "Discounts and Pricelist"
-msgstr ""
+msgstr "Descontos e Lista de Preço"
 
 #: ../../sales/index.rst:36
 msgid "Unit of Measure"
-msgstr ""
+msgstr "Unidade de Medida"
 
 #: ../../sales/index.rst:43
+#, fuzzy
 msgid "Product and Tax"
-msgstr ""
+msgstr "Produto e impostos"
 
 #: ../../sales/index.rst:51
 msgid "Invoicing"
-msgstr ""
+msgstr "Faturamento"
 
 #: ../../sales/index.rst:59
 msgid "Delivery Charges"
-msgstr ""
+msgstr "Taxas de Entrega"
 
 #: ../../sales/index.rst:66
+#, fuzzy
 msgid "Manage Inventory"
-msgstr ""
+msgstr "Gerenciar estoque"
 
 #: ../../sales/index.rst:73
+#, fuzzy
 msgid "Service Product"
-msgstr ""
+msgstr "Produto de Serviço"
 
 #: ../../sales/index.rst:80
 msgid "Subscription"
-msgstr ""
+msgstr "Assinatura"
 
 #: ../../sales/index.rst:87
 msgid "Customer Portal"
-msgstr ""
+msgstr "Portal do cliente"
 
 #: ../../sales/introduction.rst:5
 msgid "Introduction"
-msgstr ""
+msgstr "Introdução"
 
 #: ../../sales/inventory/make_to_order.rst:8
 msgid "Create a purchase order for products based on sales order"
-msgstr ""
+msgstr "Criar uma ordem de compra para produtos com base na ordem do cliente"
 
 #: ../../sales/inventory/make_to_order.rst:12
 msgid "Access the video at https://www.youtube.com/watch?v=76d-yIrcRKs"
-msgstr ""
+msgstr "Acesse o vídeo em https://www.youtube.com/watch?v=76d-yIrcRKs"
 
 #: ../../sales/invoicing/credit_note_from_order.rst:8
 msgid "Create credit note from sales order, when customer return the product"
 msgstr ""
+"Criar nota de crédito da ordem de venda, quando o cliente devolver o produto"
 
 #: ../../sales/invoicing/credit_note_from_order.rst:12
 msgid "Access the video at https://www.youtube.com/watch?v=ujgz8Bx5xqk"
-msgstr ""
+msgstr "Acesse o vídeo em https://www.youtube.com/watch?v=ujgz8Bx5xqk"
 
 #: ../../sales/invoicing/invoice_on_deliver_qty.rst:8
 msgid ""
-"Create Invoice based on the delivered quantity, when inventory app is not"
-" installed"
+"Create Invoice based on the delivered quantity, when inventory app is not "
+"installed"
 msgstr ""
+"Criar fatura com base na quantidade entregue, quando o aplicativo de inventário "
+"não estiver instalado"
 
 #: ../../sales/invoicing/invoice_on_deliver_qty.rst:12
 msgid "Access the video at https://www.youtube.com/watch?v=KWzwLfzqhnw"
-msgstr ""
+msgstr "Acesse o vídeo em https://www.youtube.com/watch?v=KWzwLfzqhnw"
 
 #: ../../sales/invoicing/invoice_on_order_qty.rst:8
 msgid "Create Invoice for the ordered quantity"
-msgstr ""
+msgstr "Criar fatura para a quantidade ordenada"
 
 #: ../../sales/invoicing/invoice_on_order_qty.rst:12
 msgid "Access the video at https://www.youtube.com/watch?v=7bXoYgFEyxc"
-msgstr ""
+msgstr "Acesse o vídeo em https://www.youtube.com/watch?v=7bXoYgFEyxc"
 
 #: ../../sales/invoicing/pro-forma.rst:8
+#, fuzzy
 msgid "Send Pro-Forma Invoice to your customers"
-msgstr ""
+msgstr "Enviar fatura pró-forma para seus clientes"
 
 #: ../../sales/invoicing/pro-forma.rst:12
 msgid "Access the video at https://www.youtube.com/watch?v=4ew-PmcTdmo"
-msgstr ""
+msgstr "Acesse o vídeo em https://www.youtube.com/watch?v=4ew-PmcTdmo"
 
 #: ../../sales/invoicing/single_order_for_multiple_orders.rst:8
+#, fuzzy
 msgid "Create single invoice from multiple sales orders"
-msgstr ""
+msgstr "Criar fatura única de várias ordens de venda"
 
 #: ../../sales/invoicing/single_order_for_multiple_orders.rst:12
 msgid "Access the video at https://www.youtube.com/watch?v=oU-qvZ7Ly7I"
-msgstr ""
+msgstr "Acesse o vídeo em https://www.youtube.com/watch?v=oU-qvZ7Ly7I"
 
 #: ../../sales/pricelist_discount/adapt_price_based_on_customer_location.rst:6
 msgid ""
-"Adapt product price based on customer country or location (e.g. Price in "
-"€ or $)"
+"Adapt product price based on customer country or location (e.g. Price in € or $)"
 msgstr ""
+"Adaptar o preço do produto com base no país do cliente ou localização (por "
+"exemplo, preço em € ou $)"
 
 #: ../../sales/pricelist_discount/adapt_price_based_on_customer_location.rst:8
+#, fuzzy
 msgid ""
-"An international sales and distribution business network required "
-"accurate price conversion or the price rules according to the customer’s "
-"country. During quotation process some business prefer to have the rate "
-"conversion while some business wants to define the price based on the "
-"geographic locations irrespective of currency conversion. You can "
-"configure both business case using the pricelist."
+"An international sales and distribution business network required accurate "
+"price conversion or the price rules according to the customer’s country. During "
+"quotation process some business prefer to have the rate conversion while some "
+"business wants to define the price based on the geographic locations "
+"irrespective of currency conversion. You can configure both business case using "
+"the pricelist."
 msgstr ""
+"Uma rede de negócios de vendas e distribuição internacional exigiu uma "
+"conversão de preço precisa ou as regras de preço de acordo com o país do "
+"cliente. Durante o processo de cotação, alguns negócios preferem ter a "
+"conversão de taxa, enquanto alguns negócios quer definir o preço com base nas "
+"localizações geográficas, independentemente da conversão de moeda. Você pode "
+"configurar ambos os casos de negócios usando a lista de preços."
 
 #: ../../sales/pricelist_discount/adapt_price_based_on_customer_location.rst:16
 #: ../../sales/pricelist_discount/adapt_price_based_on_customer_segment.rst:16
@@ -378,65 +444,76 @@ msgstr ""
 #: ../../sales/quotation_template/online_customer_approval_on_quotation.rst:13
 #: ../../sales/quotation_template/quick_create_quotation_using_quotation_template.rst:13
 msgid "Business case"
-msgstr ""
+msgstr "Caso de negócio"
 
 #: ../../sales/pricelist_discount/adapt_price_based_on_customer_location.rst:18
+#, fuzzy
 msgid ""
-"Odoo wants to apply pricing rules for the customer irrespective of the "
-"currency conversion based on the customer location. They divide whole "
-"world into three different region and specific price for each region."
+"Odoo wants to apply pricing rules for the customer irrespective of the currency "
+"conversion based on the customer location. They divide whole world into three "
+"different region and specific price for each region."
 msgstr ""
+"Odoo quer aplicar regras de preços para o cliente, independentemente da "
+"conversão de moeda com base no local do cliente. Eles dividem o mundo inteiro "
+"em três regiões diferentes e preço específico para cada região."
 
 #: ../../sales/pricelist_discount/adapt_price_based_on_customer_location.rst:23
 #: ../../sales/pricelist_discount/adapt_price_based_on_customer_segment.rst:24
 msgid "**Product**"
-msgstr ""
+msgstr "**Produto**"
 
 #: ../../sales/pricelist_discount/adapt_price_based_on_customer_location.rst:23
 msgid "**America (USD)**"
-msgstr ""
+msgstr "**América (USD)**"
 
 #: ../../sales/pricelist_discount/adapt_price_based_on_customer_location.rst:23
 msgid "**Europe & Middle East (EUR)**"
-msgstr ""
+msgstr "**Europa e Médio Oriente (EUR)**"
 
 #: ../../sales/pricelist_discount/adapt_price_based_on_customer_location.rst:23
 msgid "**ASIA (USD)**"
-msgstr ""
+msgstr "**ÁSIA (USD)**"
 
 #: ../../sales/pricelist_discount/adapt_price_based_on_customer_location.rst:27
+#, fuzzy
 msgid "Odoo Enterprise (Users)"
-msgstr ""
+msgstr "Odoo Enterprise (usuários)"
 
 #: ../../sales/pricelist_discount/adapt_price_based_on_customer_location.rst:27
 msgid "28"
-msgstr ""
+msgstr "28"
 
 #: ../../sales/pricelist_discount/adapt_price_based_on_customer_location.rst:27
 msgid "24"
-msgstr ""
+msgstr "24"
 
 #: ../../sales/pricelist_discount/adapt_price_based_on_customer_location.rst:27
 msgid "16"
-msgstr ""
+msgstr "16"
 
 #: ../../sales/pricelist_discount/adapt_price_based_on_customer_location.rst:34
 msgid ""
-"Assumed that the **Sales Management** application installed, "
-"**Invoicing** application will be installed as an dependant of the sales "
-"application."
+"Assumed that the **Sales Management** application installed, **Invoicing** "
+"application will be installed as an dependant of the sales application."
 msgstr ""
+"Presume-se que a aplicação **Gerenciamento de Vendas** está instalada, o "
+"aplicativo **Fatura** será instalada como uma dependente do aplicativo de "
+"vendas."
 
 #: ../../sales/pricelist_discount/adapt_price_based_on_customer_location.rst:39
 msgid "Multi Currency"
-msgstr ""
+msgstr "Multi Moeda"
 
 #: ../../sales/pricelist_discount/adapt_price_based_on_customer_location.rst:41
+#, fuzzy
 msgid ""
 "You need a multiple currency support, to prepare a quotation in foreign "
-"currency. **Multi-Currencies** feature can be activated from **Invoicing "
-"/ Configuration / Settings** available under the **Currencies** section."
+"currency. **Multi-Currencies** feature can be activated from **Invoicing / "
+"Configuration / Settings** available under the **Currencies** section."
 msgstr ""
+"Você precisa de um suporte a várias moedas, para preparar uma cotação em moeda "
+"estrangeira. **Multi-moedas** recurso pode ser ativado a partir de "
+"**Faturamento / Configuração / Configurações** disponível na seção **moedas**."
 
 #: ../../sales/pricelist_discount/adapt_price_based_on_customer_location.rst:45
 #: ../../sales/pricelist_discount/adapt_price_based_on_customer_segment.rst:53
@@ -452,30 +529,42 @@ msgstr ""
 #: ../../sales/quotation_template/online_customer_approval_on_quotation.rst:44
 #: ../../sales/quotation_template/quick_create_quotation_using_quotation_template.rst:32
 msgid "|image0|"
-msgstr ""
+msgstr "|image0|"
 
 #: ../../sales/pricelist_discount/adapt_price_based_on_customer_location.rst:47
+#, fuzzy
 msgid ""
-"Select **Automatic Currency Rate** to get the accurate currency "
-"conversion rate when you do want a currency conversion to prepare the "
-"quotation, set *Daily* for the **Internal** field, the rate can be "
-"updated from different exchange services such as *European Central Bank*,"
-" *Federal Tax Administration* or *Mexican Bank*."
+"Select **Automatic Currency Rate** to get the accurate currency conversion rate "
+"when you do want a currency conversion to prepare the quotation, set *Daily* "
+"for the **Internal** field, the rate can be updated from different exchange "
+"services such as *European Central Bank*, *Federal Tax Administration* or "
+"*Mexican Bank*."
 msgstr ""
+"Selecione **Taxa de Moeda Automática** para obter a taxa de conversão de moeda "
+"exata quando você quer uma conversão de moeda para preparar a cotação, defina "
+"*Diário* para o campo **Interno**, a taxa pode ser atualizada a partir de "
+"diferentes serviços de câmbio, como *European Banco Central*, *Administração "
+"Fiscal Federal* ou *Banco Mexicano*."
 
 #: ../../sales/pricelist_discount/adapt_price_based_on_customer_location.rst:54
 #: ../../sales/pricelist_discount/adapt_price_based_on_customer_segment.rst:44
 msgid "Pricelist"
-msgstr ""
+msgstr "Lista de Preço"
 
 #: ../../sales/pricelist_discount/adapt_price_based_on_customer_location.rst:56
+#, fuzzy
 msgid ""
-"To setup the price based on the customer segment or country, you have to "
-"enable the **Multiple Sales Prices per Product** feature available under "
-"the **Sales / Configuration / Settings** under the **Pricing** section. "
-"Keep the default option **Multiple prices per product (e.g. customer "
-"segments, currencies)** selected under the **Sales Pricelist** option."
+"To setup the price based on the customer segment or country, you have to enable "
+"the **Multiple Sales Prices per Product** feature available under the **Sales / "
+"Configuration / Settings** under the **Pricing** section. Keep the default "
+"option **Multiple prices per product (e.g. customer segments, currencies)** "
+"selected under the **Sales Pricelist** option."
 msgstr ""
+"Para configurar o preço com base no segmento do cliente ou país, você tem que "
+"habilitar o **Vários Preços de Venda por Produto** recurso disponível o "
+"**Vendas / Configuração /  Configurações** a **Preço** seção. Mantenha a opção "
+"padrão **vários preços por produto (por exemplo, segmentos de clientes, "
+"moedas)** selecionado a opção **Lista de Preço de Venda**."
 
 #: ../../sales/pricelist_discount/adapt_price_based_on_customer_location.rst:62
 #: ../../sales/pricelist_discount/adapt_price_based_on_customer_segment.rst:63
@@ -491,15 +580,20 @@ msgstr ""
 #: ../../sales/quotation_template/online_customer_approval_on_quotation.rst:56
 #: ../../sales/quotation_template/quick_create_quotation_using_quotation_template.rst:54
 msgid "|image1|"
-msgstr ""
+msgstr "|image1|"
 
 #: ../../sales/pricelist_discount/adapt_price_based_on_customer_location.rst:64
+#, fuzzy
 msgid ""
-"To create a new pricelist goto Sales / Catalog / Pricelist, create a "
-"three different pricelist, set the Currency field on each pricelist. "
-"Let’s create a pricelist for european and middle east customers where we "
-"offer the price in EUR (€)."
+"To create a new pricelist goto Sales / Catalog / Pricelist, create a three "
+"different pricelist, set the Currency field on each pricelist. Let’s create a "
+"pricelist for european and middle east customers where we offer the price in "
+"EUR (€)."
 msgstr ""
+"Para criar uma nova lista de preços goto vendas/catálogo/lista de preços, crie "
+"uma lista de preços de três diferentes, defina o campo moeda em cada lista de "
+"preços. Vamos criar uma lista de preços para clientes europeus e do Oriente "
+"Médio, onde oferecemos o preço em EUR (€)."
 
 #: ../../sales/pricelist_discount/adapt_price_based_on_customer_location.rst:69
 #: ../../sales/pricelist_discount/adapt_price_based_on_customer_segment.rst:89
@@ -511,34 +605,46 @@ msgstr ""
 #: ../../sales/quotation_template/online_customer_approval_and_payment_on_quotation.rst:83
 #: ../../sales/quotation_template/quick_create_quotation_using_quotation_template.rst:64
 msgid "|image2|"
-msgstr ""
+msgstr "|image2|"
 
 #: ../../sales/pricelist_discount/adapt_price_based_on_customer_location.rst:71
+#, fuzzy
 msgid ""
 "Enter *EMEA Pricelist* in the **Name** field\\ *,* select *EUR* in the "
 "**Currency** field and add the *Europe* in the **Country Group** field."
 msgstr ""
+"Introduza *Lista de Preços EMEA* no campo **Nome* *,* seleccione *EUR* no campo "
+"**Moeda** e adicione a *Europa* no campo **Grupo de Países**."
 
 #: ../../sales/pricelist_discount/adapt_price_based_on_customer_location.rst:74
+#, fuzzy
 msgid ""
-"The country group is used to assign pricelist automatically when customer"
-" is being created. So, even if your salesman forget to assign pricelist "
-"the system will assign automatically when customer’s country is set on "
-"the customer."
+"The country group is used to assign pricelist automatically when customer is "
+"being created. So, even if your salesman forget to assign pricelist the system "
+"will assign automatically when customer’s country is set on the customer."
 msgstr ""
+"O grupo de países é usado para atribuir a lista de preços automaticamente "
+"quando o cliente está sendo criado. Assim, mesmo se seu vendedor esquece "
+"atribuir o preços o sistema atribuirá automaticamente quando o país do cliente "
+"é ajustado no cliente."
 
 #: ../../sales/pricelist_discount/adapt_price_based_on_customer_location.rst:80
 #: ../../sales/pricelist_discount/adapt_price_based_on_customer_segment.rst:56
 msgid "Product"
-msgstr ""
+msgstr "Produto"
 
 #: ../../sales/pricelist_discount/adapt_price_based_on_customer_location.rst:82
+#, fuzzy
 msgid ""
-"Let’s create the product *Laptop*, goto **Sales / Catalog / Products** to"
-" create the product, enter **Name**, set **Image** and **Sales Price**, "
-"the country specific price or currency specific price can be defined "
-"under the **Sales** tab."
+"Let’s create the product *Laptop*, goto **Sales / Catalog / Products** to "
+"create the product, enter **Name**, set **Image** and **Sales Price**, the "
+"country specific price or currency specific price can be defined under the "
+"**Sales** tab."
 msgstr ""
+"Vamos criar o produto *laptop*, vá até **Vendas / Catálogo / Produtos** para "
+"criar o produto, digite **Nome**, definir **Imagem** e **Preço de Venda**, o "
+"preço específico do país ou preço específico da moeda pode ser definido na guia "
+"**Vendas**."
 
 #: ../../sales/pricelist_discount/adapt_price_based_on_customer_location.rst:87
 #: ../../sales/pricelist_discount/adapt_price_based_on_customer_segment.rst:99
@@ -548,57 +654,78 @@ msgstr ""
 #: ../../sales/quotation_template/online_customer_approval_and_payment_on_quotation.rst:103
 #: ../../sales/quotation_template/quick_create_quotation_using_quotation_template.rst:79
 msgid "|image3|"
-msgstr ""
+msgstr "|image3|"
 
 #: ../../sales/pricelist_discount/adapt_price_based_on_customer_location.rst:89
+#, fuzzy
 msgid ""
-"Select the Pricelist and enter the Price, the price enter is respective "
-"of the currency defined on the pricelist (i.e. in this case we have "
-"defined 24 USD and 18 EUR)."
+"Select the Pricelist and enter the Price, the price enter is respective of the "
+"currency defined on the pricelist (i.e. in this case we have defined 24 USD and "
+"18 EUR)."
 msgstr ""
+"Selecione a lista de preços e insira o preço, a entrada de preço é respectiva "
+"da moeda definida na lista de preços (ou seja, neste caso, definimos 24 USD e "
+"18 EUR)."
 
 #: ../../sales/pricelist_discount/adapt_price_based_on_customer_location.rst:93
+#, fuzzy
 msgid ""
-"You can create a multiple lines for the same pricelist, in case you want "
-"to offer a special price to customers, when they buy more than 1 "
-"quantity."
+"You can create a multiple lines for the same pricelist, in case you want to "
+"offer a special price to customers, when they buy more than 1 quantity."
 msgstr ""
+"Você pode criar várias linhas para a mesma lista de preços, no caso de você "
+"querer oferecer um preço especial para os clientes, quando eles compram mais de "
+"1 quantidade."
 
 #: ../../sales/pricelist_discount/adapt_price_based_on_customer_location.rst:97
+#, fuzzy
 msgid ""
-"The **Start Date** and **End Date** is used to limit the offer for a "
-"specific dates, assume that you want to offer a special price for the "
-"*Christmas* (i.e. **Start Date** to *20/12/2018* and **End Date** to "
-"*31/12/2018*)"
+"The **Start Date** and **End Date** is used to limit the offer for a specific "
+"dates, assume that you want to offer a special price for the *Christmas* (i.e. "
+"**Start Date** to *20/12/2018* and **End Date** to *31/12/2018*)"
 msgstr ""
+"A **Data de Início** e **Data Final** é usado para limitar a oferta para uma "
+"data específica, suponha que você deseja oferecer um preço especial para o "
+"*Natal* (ou seja, **Data de Início** para *20/12/2018* e **Data Final** para "
+"*31/12/2018*)"
 
 #: ../../sales/pricelist_discount/adapt_price_based_on_customer_location.rst:103
 #: ../../sales/pricelist_discount/adapt_price_based_on_customer_segment.rst:83
 msgid "Customer"
-msgstr ""
+msgstr "Cliente"
 
 #: ../../sales/pricelist_discount/adapt_price_based_on_customer_location.rst:105
+#, fuzzy
 msgid ""
-"Create a customer, enter the name, city, country and other contact "
-"details such as email and mobile and save the customer detail, as soon as"
-" you save the customer the pricelist will be assigned on the customer "
-"automatically based on the customer’s country, review the pricelist set "
-"on the customer form under the **Sales & Purchases** tab."
+"Create a customer, enter the name, city, country and other contact details such "
+"as email and mobile and save the customer detail, as soon as you save the "
+"customer the pricelist will be assigned on the customer automatically based on "
+"the customer’s country, review the pricelist set on the customer form under the "
+"**Sales & Purchases** tab."
 msgstr ""
+"Criar um cliente, digite o nome, cidade, país e outros detalhes de contato, "
+"como e-mail e celular e salvar o detalhe do cliente, assim que você salvar o "
+"cliente a lista de preços será atribuída no cliente automaticamente com base no "
+"país do cliente, rever o lista de preços no formulário do cliente na guia "
+"**Vendas & Compras**."
 
 #: ../../sales/pricelist_discount/adapt_price_based_on_customer_location.rst:111
 #: ../../sales/quotation/create_my_first_quotation.rst:108
 #: ../../sales/quotation_template/online_customer_approval_and_payment_on_quotation.rst:111
 #: ../../sales/quotation_template/quick_create_quotation_using_quotation_template.rst:99
 msgid "|image4|"
-msgstr ""
+msgstr "|image4|"
 
 #: ../../sales/pricelist_discount/adapt_price_based_on_customer_location.rst:113
+#, fuzzy
 msgid ""
-"However, you can change it manually, if system detect wrong pricelist, "
-"you may choose same country on more than one country group which was "
-"assigned to different pricelists."
+"However, you can change it manually, if system detect wrong pricelist, you may "
+"choose same country on more than one country group which was assigned to "
+"different pricelists."
 msgstr ""
+"No entanto, você pode alterá-lo manualmente, se o sistema detectar pricelist "
+"errado, você pode escolher o mesmo país em mais de um grupo de países que foi "
+"atribuído a diferentes listas de preço."
 
 #: ../../sales/pricelist_discount/adapt_price_based_on_customer_location.rst:118
 #: ../../sales/pricelist_discount/apply_manual_discount.rst:35
@@ -606,1839 +733,2506 @@ msgstr ""
 #: ../../sales/quotation/set_default_terms_and_conditions.rst:70
 #: ../../sales/quotation_template/quick_create_quotation_using_quotation_template.rst:74
 msgid "Create a quotation"
-msgstr ""
+msgstr "Criar uma cotação"
 
 #: ../../sales/pricelist_discount/adapt_price_based_on_customer_location.rst:120
+#, fuzzy
 msgid ""
-"Let’s send a quotation to your european customer, create the quotation "
-"from **Sales / Orders / Quotation**, pricelist will be set on the "
-"quotation and currency of the quotation will be changed accordingly, the "
-"product price will be appeared accordingly, when you add products on the "
-"quotation."
+"Let’s send a quotation to your european customer, create the quotation from "
+"**Sales / Orders / Quotation**, pricelist will be set on the quotation and "
+"currency of the quotation will be changed accordingly, the product price will "
+"be appeared accordingly, when you add products on the quotation."
 msgstr ""
+"Vamos enviar uma cotação para o seu cliente Europeu, criar a cotação de "
+"**Vendas / Pedidos / Cotação**, preços será definido na cotação e moeda da "
+"cotação será alterado em conformidade, o preço do produto será apareceu em "
+"conformidade, quando você adicionar produtos na cotação."
 
 #: ../../sales/pricelist_discount/adapt_price_based_on_customer_location.rst:126
 msgid "|image5|"
-msgstr ""
+msgstr "|image5|"
 
 #: ../../sales/pricelist_discount/adapt_price_based_on_customer_location.rst:128
+#, fuzzy
 msgid ""
 "Create a quotation for *China Export*, add *10* quantity of *Enterprise "
-"Contract (Users)*, 14 EUR */user* applied as we prepare the quotation in "
-"EUR currency."
+"Contract (Users)*, 14 EUR */user* applied as we prepare the quotation in EUR "
+"currency."
 msgstr ""
+"Criar uma cotação para *China Export*, adicionar *10* quantidade de *Contrato "
+"Enterprise (usuários)*, 14 EUR */usuário* aplicado como preparamos a cotação em "
+"moeda de euros."
 
 #: ../../sales/pricelist_discount/adapt_price_based_on_customer_location.rst:132
 #: ../../sales/pricelist_discount/adapt_price_based_on_customer_segment.rst:109
+#, fuzzy
 msgid ""
-"Now, a salesman can create quotations quickly regardless of the customer "
-"type and price offered to them, of course a correct pricelist have to be "
-"configured when you create customer, it can be reviewed later depending "
-"on the turnover."
+"Now, a salesman can create quotations quickly regardless of the customer type "
+"and price offered to them, of course a correct pricelist have to be configured "
+"when you create customer, it can be reviewed later depending on the turnover."
 msgstr ""
+"Agora, um vendedor pode criar Cotações rapidamente, independentemente do tipo "
+"de cliente e preço oferecido a eles, é claro que uma lista de preços correta "
+"tem que ser configurado quando você cria o cliente, ele pode ser revisto mais "
+"tarde, dependendo do volume de negócios."
 
 #: ../../sales/pricelist_discount/adapt_price_based_on_customer_location.rst:138
+#, fuzzy
 msgid "Price based on currency conversion"
-msgstr ""
+msgstr "Preço baseado na conversão de moeda"
 
 #: ../../sales/pricelist_discount/adapt_price_based_on_customer_location.rst:140
+#, fuzzy
 msgid ""
-"Remove all the lines on the product **Pricing** and set correct **Sales "
-"Price** on the product form."
+"Remove all the lines on the product **Pricing** and set correct **Sales Price** "
+"on the product form."
 msgstr ""
+"Remova todas as linhas do produto **Preços** e defina correto **Preços de "
+"venda** no formulário do produto."
 
 #: ../../sales/pricelist_discount/adapt_price_based_on_customer_location.rst:143
 msgid "|image6|"
-msgstr ""
+msgstr "|image6|"
 
 #: ../../sales/pricelist_discount/adapt_price_based_on_customer_location.rst:145
+#, fuzzy
 msgid ""
-"The price defined on the product is respective to the company currency "
-"(USD). Let’s create a quotation for the same customer and see what price "
-"will be proposed by the pricelist."
+"The price defined on the product is respective to the company currency (USD). "
+"Let’s create a quotation for the same customer and see what price will be "
+"proposed by the pricelist."
 msgstr ""
+"O preço definido no produto é respectivo à moeda da empresa (USD). Vamos criar "
+"uma cotação para o mesmo cliente e ver o preço que será proposto pela lista de "
+"preços."
 
 #: ../../sales/pricelist_discount/adapt_price_based_on_customer_location.rst:149
 msgid "|image7|"
-msgstr ""
+msgstr "|image7|"
 
 #: ../../sales/pricelist_discount/adapt_price_based_on_customer_location.rst:153
 msgid "Access the video at https://www.youtube.com/watch?v=wDFaS7p4btE"
-msgstr ""
+msgstr "Acesse o vídeo em https://www.youtube.com/watch?v=wDFaS7p4btE"
 
 #: ../../sales/pricelist_discount/adapt_price_based_on_customer_segment.rst:6
 msgid ""
-"Adapt product price based on customer segment (e.g. Retailer or "
-"Distributor)"
+"Adapt product price based on customer segment (e.g. Retailer or Distributor)"
 msgstr ""
+"Adaptar o preço do produto com base no segmento de clientes (por exemplo, "
+"varejista ou distribuidor)"
 
 #: ../../sales/pricelist_discount/adapt_price_based_on_customer_segment.rst:8
+#, fuzzy
 msgid ""
-"Sales and distribution business works on the margin basics, the "
-"percentage of margin are fixed for the distributors based on their "
-"turnover. The MRP of the product is decided included the margins for the "
-"retailers, stockist, distributors. In this section you will see how "
-"pricelist can help you to achieve to define the product price based on "
-"the customer type (retailer and distributors)."
+"Sales and distribution business works on the margin basics, the percentage of "
+"margin are fixed for the distributors based on their turnover. The MRP of the "
+"product is decided included the margins for the retailers, stockist, "
+"distributors. In this section you will see how pricelist can help you to "
+"achieve to define the product price based on the customer type (retailer and "
+"distributors)."
 msgstr ""
+"O negócio de vendas e distribuição funciona nas noções básicas de margem, a "
+"percentagem de margem é fixada para os distribuidores com base no seu volume de "
+"negócios. O MRP do produto é decidido incluiu as margens para os varejistas, "
+"armazenista, distribuidores. Nesta seção, você verá como a lista de preços pode "
+"ajudá-lo a conseguir definir o preço do produto com base no tipo de cliente "
+"(varejista e distribuidores)."
 
 #: ../../sales/pricelist_discount/adapt_price_based_on_customer_segment.rst:18
+#, fuzzy
 msgid ""
-"The *My Company* sells the electronic products such as *Computers*, "
-"*Laptops*, and *Printers*, they want to set up the pricing rules for "
-"their *Retailer* and *Distributors*. The price they would like to offer "
-"are as below:"
+"The *My Company* sells the electronic products such as *Computers*, *Laptops*, "
+"and *Printers*, they want to set up the pricing rules for their *Retailer* and "
+"*Distributors*. The price they would like to offer are as below:"
 msgstr ""
+"A *Minha Empresa* vende os produtos eletrônicos, tais como *Computadores*, "
+"*Laptops * e *Printers*, eles querem configurar as regras de preços para o seu "
+"*Varejistas* e *Distribuidores*. O preço que gostariam de oferecer são como "
+"abaixo:"
 
 #: ../../sales/pricelist_discount/adapt_price_based_on_customer_segment.rst:24
 msgid "**Sales Price (MRP)**"
-msgstr ""
+msgstr "**Preço de venda (MRP)**"
 
 #: ../../sales/pricelist_discount/adapt_price_based_on_customer_segment.rst:24
 msgid "**Distributors (Price)**"
-msgstr ""
+msgstr "**Distribuidores (preço)**"
 
 #: ../../sales/pricelist_discount/adapt_price_based_on_customer_segment.rst:24
 msgid "**Retailer (Price)**"
-msgstr ""
+msgstr "**Revendedores (preço)**"
 
 #: ../../sales/pricelist_discount/adapt_price_based_on_customer_segment.rst:27
+#, fuzzy
 msgid "Laptops"
-msgstr ""
+msgstr "Laptops"
 
 #: ../../sales/pricelist_discount/adapt_price_based_on_customer_segment.rst:27
 msgid "1099"
-msgstr ""
+msgstr "1099"
 
 #: ../../sales/pricelist_discount/adapt_price_based_on_customer_segment.rst:27
 msgid "900"
-msgstr ""
+msgstr "900"
 
 #: ../../sales/pricelist_discount/adapt_price_based_on_customer_segment.rst:27
 #: ../../sales/pricelist_discount/adapt_price_based_on_customer_segment.rst:29
 msgid "999"
-msgstr ""
+msgstr "999"
 
 #: ../../sales/pricelist_discount/adapt_price_based_on_customer_segment.rst:29
 msgid "Desktop"
-msgstr ""
+msgstr "Área de Trabalho"
 
 #: ../../sales/pricelist_discount/adapt_price_based_on_customer_segment.rst:29
 msgid "740"
-msgstr ""
+msgstr "740"
 
 #: ../../sales/pricelist_discount/adapt_price_based_on_customer_segment.rst:29
 #: ../../sales/pricelist_discount/adapt_price_based_on_customer_segment.rst:33
 msgid "799"
-msgstr ""
+msgstr "799"
 
 #: ../../sales/pricelist_discount/adapt_price_based_on_customer_segment.rst:31
 msgid "Printer"
-msgstr ""
+msgstr "Impressora"
 
 #: ../../sales/pricelist_discount/adapt_price_based_on_customer_segment.rst:31
 msgid "499"
-msgstr ""
+msgstr "499"
 
 #: ../../sales/pricelist_discount/adapt_price_based_on_customer_segment.rst:31
 msgid "330"
-msgstr ""
+msgstr "330"
 
 #: ../../sales/pricelist_discount/adapt_price_based_on_customer_segment.rst:31
 msgid "399"
-msgstr ""
+msgstr "399"
 
 #: ../../sales/pricelist_discount/adapt_price_based_on_customer_segment.rst:33
 msgid "Tablet"
-msgstr ""
+msgstr "Tablet"
 
 #: ../../sales/pricelist_discount/adapt_price_based_on_customer_segment.rst:33
 msgid "620"
-msgstr ""
+msgstr "620"
 
 #: ../../sales/pricelist_discount/adapt_price_based_on_customer_segment.rst:33
 msgid "699"
-msgstr ""
+msgstr "699"
 
 #: ../../sales/pricelist_discount/adapt_price_based_on_customer_segment.rst:39
 msgid ""
-"Assumed that the **Sales Management** application installed, let’s see "
-"what are the other configuration you have to do before you execute the "
-"business case."
+"Assumed that the **Sales Management** application installed, let’s see what are "
+"the other configuration you have to do before you execute the business case."
 msgstr ""
+"Presume-se que o aplicativo **Gerenciamento de Vendas** instalado, vamos ver "
+"quais são as outras configurações que você tem que fazer antes de executar o "
+"caso de negócios."
 
 #: ../../sales/pricelist_discount/adapt_price_based_on_customer_segment.rst:46
+#, fuzzy
 msgid ""
-"To setup the customer segment specific price you have to enable the "
-"feature called **Multiple Sales Prices per Product** available under the "
-"**Sales / Configuration / Settings**. Keep the default option selected "
-"**Multiple prices per product (e.g. customer segments, currencies)** "
-"under the **Sales Pricelist** option, using that you can define the "
-"customer segment specific pricelist."
+"To setup the customer segment specific price you have to enable the feature "
+"called **Multiple Sales Prices per Product** available under the **Sales / "
+"Configuration / Settings**. Keep the default option selected **Multiple prices "
+"per product (e.g. customer segments, currencies)** under the **Sales "
+"Pricelist** option, using that you can define the customer segment specific "
+"pricelist."
 msgstr ""
+"Para configurar o segmento de cliente preço específico que você tem que ativar "
+"o recurso chamado **Vários Preços de Venda por Produto** disponível o "
+"**Vendas / Configuração /Configurações**. Mantenha a opção padrão selecionada "
+"**Vários preços por produto (por exemplo, segmentos de clientes, moedas)** a "
+"opção de **Lista de Preço de Venda**, usando que você pode definir o segmento "
+"de cliente específico na lista de preço."
 
 #: ../../sales/pricelist_discount/adapt_price_based_on_customer_segment.rst:58
+#, fuzzy
 msgid ""
 "Let’s create the products you are selling, to create the products go to "
-"**Sales / Catalog / Products**, create a product, enter the **Name**, set"
-" **Image** and **Sales Price**, the customer specific price you can "
-"define under the **Sales** tab."
+"**Sales / Catalog / Products**, create a product, enter the **Name**, set "
+"**Image** and **Sales Price**, the customer specific price you can define under "
+"the **Sales** tab."
 msgstr ""
+"Vamos criar os produtos que você está vendendo, para criar os produtos ir para "
+"**Vendas / Catálogo / Produtos**, criar um produto, digite o **Nome**, definir "
+"**Imagem** e **Preço de Venda**, o preço do cliente específico que você pode "
+"definir na guia **Vendas**."
 
 #: ../../sales/pricelist_discount/adapt_price_based_on_customer_segment.rst:65
+#, fuzzy
 msgid ""
-"Create a pricelist if not created before, enter the name of the pricelist"
-" (i.e. Retailer Pricelist) and click on **Create “Retailer Pricelist”** "
-"link, enter the **Price** and **Min. Quantity**, keep the Min. Quantity "
-"to 1 by default if you don’t want to put the constraint on the minimum "
-"order quantity."
+"Create a pricelist if not created before, enter the name of the pricelist (i.e. "
+"Retailer Pricelist) and click on **Create “Retailer Pricelist”** link, enter "
+"the **Price** and **Min. Quantity**, keep the Min. Quantity to 1 by default if "
+"you don’t want to put the constraint on the minimum order quantity."
 msgstr ""
+"Criar uma lista de preços se não criado antes, digite o nome da lista de preços "
+"(ou seja, varejista preços) e clique em **Criar \"Retailer Pricelist\"** link, "
+"digite o **Preço** e **Quantidade Mínima**, manter o min. quantidade para 1 por "
+"padrão, se você não quiser colocar o restrição na quantidade de ordem mínima."
 
 #: ../../sales/pricelist_discount/adapt_price_based_on_customer_segment.rst:71
+#, fuzzy
 msgid ""
-"You can create a multiple lines for the same pricelist (i.e. *Distributor"
-" Pricelist*) in case you want to offer a special price to the "
-"distributor, when they buy more than 1 quantity. (i.e. **Distributors** "
-"can get the *Laptop* at *790* price, if they order minimum *5* or more "
-"quantities)"
+"You can create a multiple lines for the same pricelist (i.e. *Distributor "
+"Pricelist*) in case you want to offer a special price to the distributor, when "
+"they buy more than 1 quantity. (i.e. **Distributors** can get the *Laptop* at "
+"*790* price, if they order minimum *5* or more quantities)"
 msgstr ""
+"Você pode criar várias linhas para a mesma lista de preços (ou seja, "
+"*Distribuidor Preços*) no caso de você querer oferecer um preço especial para o "
+"distribuidor, quando eles compram mais de 1 quantidade. (ou seja, **os "
+"distribuidores** pode obter o *laptop* em *790* preço, se eles ordem mínima *5* "
+"ou mais quantidades)"
 
 #: ../../sales/pricelist_discount/adapt_price_based_on_customer_segment.rst:77
+#, fuzzy
 msgid ""
-"The **Start Date** and **End Date** is used to limit the offer for a "
-"specific dates, assume that you want to offer a special price for the "
-"Christmas (i.e. **Start Date** to *20/12/2018* and **End Date** to "
-"*31/12/2018*)"
+"The **Start Date** and **End Date** is used to limit the offer for a specific "
+"dates, assume that you want to offer a special price for the Christmas (i.e. "
+"**Start Date** to *20/12/2018* and **End Date** to *31/12/2018*)"
 msgstr ""
+"A **Data de Início** e **Data de Término** é usado para limitar a oferta para "
+"uma data específica, suponha que você deseja oferecer um preço especial para o "
+"Natal (ou seja, **Data de Início** para *20/12/2018* e **Data Final** para "
+"*31/12/2018*)"
 
 #: ../../sales/pricelist_discount/adapt_price_based_on_customer_segment.rst:85
+#, fuzzy
 msgid ""
 "The customers can be defined as a distributor or retailer by setting the "
-"specific pricelist on them. Pricelist can be set on the customer form "
-"under the **Sales & Purchases** tab."
+"specific pricelist on them. Pricelist can be set on the customer form under the "
+"**Sales & Purchases** tab."
 msgstr ""
+"Os clientes podem ser definidos como um distribuidor ou varejista, definindo a "
+"lista de preços específica sobre eles. A lista de preços pode ser definida no "
+"formulário do cliente na guia **Vendas & Compras**."
 
 #: ../../sales/pricelist_discount/adapt_price_based_on_customer_segment.rst:92
 msgid "Create sale order"
-msgstr ""
+msgstr "Criar ordem de venda"
 
 #: ../../sales/pricelist_discount/adapt_price_based_on_customer_segment.rst:94
+#, fuzzy
 msgid ""
-"Let’s send a quotation to your customer, create the quotation from "
-"**Sales / Orders / Quotation**, depending on the customer the pricelist "
-"will be set on the quotation and the product price will be appeared "
-"accordingly, when you add pdoructs on the quotation."
+"Let’s send a quotation to your customer, create the quotation from **Sales / "
+"Orders / Quotation**, depending on the customer the pricelist will be set on "
+"the quotation and the product price will be appeared accordingly, when you add "
+"pdoructs on the quotation."
 msgstr ""
+"Vamos enviar uma cotação para o seu cliente, criar a cotação de **Vendas / "
+"Pedidos / Cotação**, dependendo do cliente a lista de preços será definida na "
+"cotação e o preço do produto será exibido em conformidade, quando você "
+"adicionar produtos na cotação."
 
 #: ../../sales/pricelist_discount/adapt_price_based_on_customer_segment.rst:101
+#, fuzzy
 msgid ""
-"Create a quotation for *China Export* (Distributor), add *50* quantity of"
-" Laptop, the special price *790/unit* applied as we prepare the quotation"
-" for more than *5* quantity."
+"Create a quotation for *China Export* (Distributor), add *50* quantity of "
+"Laptop, the special price *790/unit* applied as we prepare the quotation for "
+"more than *5* quantity."
 msgstr ""
+"Criar uma cotação para *China Export* (distribuidor), adicionar *50* quantidade "
+"de laptop, o preço especial *790/unit* aplicado como nós preparamos a cotação "
+"para mais de *5* quantidade."
 
 #: ../../sales/pricelist_discount/adapt_price_based_on_customer_segment.rst:105
+#, fuzzy
 msgid ""
-"Pricelist can be changed on the quotation after selecting a customer. The"
-" pricelist selected on the quotation have the higher priority over the "
-"pricelist assigned to the customer."
+"Pricelist can be changed on the quotation after selecting a customer. The "
+"pricelist selected on the quotation have the higher priority over the pricelist "
+"assigned to the customer."
 msgstr ""
+"A lista de preços pode ser alterada na cotação depois de selecionar um cliente. "
+"A lista de preços selecionada na cotação tem a prioridade mais alta sobre a "
+"lista de preços atribuída ao cliente."
 
 #: ../../sales/pricelist_discount/adapt_price_based_on_customer_segment.rst:116
 msgid "Access the video at https://www.youtube.com/watch?v=VKVrz2o3j1M"
-msgstr ""
+msgstr "Acesse o vídeo em https://www.youtube.com/watch?v=VKVrz2o3j1M"
 
 #: ../../sales/pricelist_discount/apply_manual_discount.rst:6
 msgid "Apply discount on quotation"
-msgstr ""
+msgstr "Aplicar desconto na cotação"
 
 #: ../../sales/pricelist_discount/apply_manual_discount.rst:8
+#, fuzzy
 msgid ""
-"Allowing discounts on quotations is a common sales practice to improve "
-"the chances to convert the prospect into a customer, adding discounts on "
-"the quotation encourage the prospect to close the deal quickly."
+"Allowing discounts on quotations is a common sales practice to improve the "
+"chances to convert the prospect into a customer, adding discounts on the "
+"quotation encourage the prospect to close the deal quickly."
 msgstr ""
+"Permitir descontos em Cotações é uma prática de vendas comum para melhorar as "
+"chances de converter o prospecto em um cliente, acrescentando descontos na "
+"cotação incentivar o prospecto para fechar o negócio rapidamente."
 
 #: ../../sales/pricelist_discount/apply_manual_discount.rst:15
-#, python-format
+#, fuzzy, python-format
 msgid ""
-"My company would like to send a quotation for an *iPad Mini* at a sales "
-"price of *320 USD* per *iPad* at a **5% discounted** price."
+"My company would like to send a quotation for an *iPad Mini* at a sales price "
+"of *320 USD* per *iPad* at a **5% discounted** price."
 msgstr ""
+"Minha empresa gostaria de enviar um orçamento para um *iPad Mini* a um preço de "
+"venda de *320 USD* por *iPad* em um **5% desconto** preço."
 
 #: ../../sales/pricelist_discount/apply_manual_discount.rst:21
 msgid "Assumed that the **Sales Management** application installed."
-msgstr ""
+msgstr "Presume-se que o **Gerenciamento de Vendas** aplicativo instalado."
 
 #: ../../sales/pricelist_discount/apply_manual_discount.rst:24
 msgid "Discounts"
-msgstr ""
+msgstr "Descontos"
 
 #: ../../sales/pricelist_discount/apply_manual_discount.rst:26
-#, python-format
+#, fuzzy, python-format
 msgid ""
-"In this business case, we would like to offer 5% discount to our customer"
-" on the sale price."
+"In this business case, we would like to offer 5% discount to our customer on "
+"the sale price."
 msgstr ""
+"Neste caso de negócios, nós gostaríamos de oferecer 5% de desconto para o nosso "
+"cliente sobre o preço de venda."
 
 #: ../../sales/pricelist_discount/apply_manual_discount.rst:29
 msgid ""
-"**Discounts** feature can be activated from **Configuration / Settings** "
-", under the **Pricing** section."
+"**Discounts** feature can be activated from **Configuration / Settings** , "
+"under the **Pricing** section."
 msgstr ""
+"**Descontos** recurso pode ser ativado a partir de **Configuração / "
+"Configurações**, abaixo da seção **Preço**."
 
 #: ../../sales/pricelist_discount/apply_manual_discount.rst:37
+#, fuzzy
 msgid ""
 "Quotation can be created from **Sales / Order / Quotations**, click on "
-"**CREATE** button to create a new quotation, select customer and add "
-"product *iPad Mini* on the quotation, the default price you will see is "
-"320$."
+"**CREATE** button to create a new quotation, select customer and add product "
+"*iPad Mini* on the quotation, the default price you will see is 320$."
 msgstr ""
+"Cotação pode ser criado a partir de **Vendas / Pedidos / Cotações**, clique em "
+"**CRIAR** botão para criar uma nova cotação, selecione o cliente e adicionar "
+"produto *iPad Mini* na cotação, o preço padrão que você vai ver é $320."
 
 #: ../../sales/pricelist_discount/apply_manual_discount.rst:43
 msgid "Apply discount"
-msgstr ""
+msgstr "Aplicar desconto"
 
 #: ../../sales/pricelist_discount/apply_manual_discount.rst:45
-#, python-format
+#, fuzzy, python-format
 msgid ""
 "By default the discount will not be applied as we choose to apply manual "
-"discount, to apply 5% discount enter 5 in the **Discount (%)** field for "
-"iPad Mini product in the sales order line."
+"discount, to apply 5% discount enter 5 in the **Discount (%)** field for iPad "
+"Mini product in the sales order line."
 msgstr ""
+"Por padrão, o desconto não será aplicado como nós escolhemos para aplicar "
+"desconto manual, para aplicar 5% de desconto entrar 5 no **desconto (%)** campo "
+"para iPad mini produto na linha de ordem de venda."
 
 #: ../../sales/pricelist_discount/apply_manual_discount.rst:49
+#, fuzzy
 msgid ""
 "The discount should be entered between 0 to 100, it computes discount in "
-"percentage. The price will change automatically when you enter the "
-"discount."
+"percentage. The price will change automatically when you enter the discount."
 msgstr ""
+"O desconto deve ser inserido entre 0 a 100, ele calcula o desconto em "
+"porcentagem. O preço mudará automaticamente quando você incorpora o desconto."
 
 #: ../../sales/pricelist_discount/apply_manual_discount.rst:56
 msgid "Printing quotation"
-msgstr ""
+msgstr "Imprimindo cotação"
 
 #: ../../sales/pricelist_discount/apply_manual_discount.rst:58
+#, fuzzy
 msgid ""
 "Discount column will be appeared on the quotation when you have applied "
-"discount on any of the product on quotation. Don’t be surprised if you "
-"don’t see the discount column on the quotation, which means that you have"
-" not applied discount on any of the product on quotation as you don’t "
-"want to offer discount to your customer."
+"discount on any of the product on quotation. Don’t be surprised if you don’t "
+"see the discount column on the quotation, which means that you have not applied "
+"discount on any of the product on quotation as you don’t want to offer discount "
+"to your customer."
 msgstr ""
+"A coluna do disconto será aparecido na citação quando você aplicou o desconto "
+"em algum do produto na citação. Não seja surpreendido se você não vê a coluna "
+"do disconto na citação, que significa que você não aplicou o desconto em alguns "
+"do produto na citação porque você não quer oferecer o desconto a seu cliente."
 
 #: ../../sales/pricelist_discount/apply_manual_discount.rst:64
+#, fuzzy
 msgid ""
-"All the taxes applicable on the product will be computed on the "
-"discounted product price (i.e. Taxes will be computed on **Subtotal**)"
+"All the taxes applicable on the product will be computed on the discounted "
+"product price (i.e. Taxes will be computed on **Subtotal**)"
 msgstr ""
+"Todos os impostos aplicáveis sobre o produto serão calculados sobre o preço do "
+"produto com desconto (ou seja, os impostos serão calculados em **Subtotal**)"
 
 #: ../../sales/pricelist_discount/apply_manual_discount.rst:69
 msgid "Access the video at https://www.youtube.com/watch?v=YrX7iwpbDyg"
-msgstr ""
+msgstr "Acesse o vídeo em https://www.youtube.com/watch?v=YrX7iwpbDyg"
 
 #: ../../sales/pricelist_discount/compute_and_apply_discount_from_pricelist.rst:7
+#, fuzzy
 msgid "Compute and apply discount automatically based on the pricelist"
-msgstr ""
+msgstr "Calcule e aplique desconto automaticamente com base na lista de preços"
 
 #: ../../sales/pricelist_discount/compute_and_apply_discount_from_pricelist.rst:9
+#, fuzzy
 msgid ""
-"Allowing discounts on quotations is a common sales practice to improve "
-"the chances to convert the prospect into a customer, when you are not "
-"offering discount to all the customers, keep it manual and offer when "
-"customer demands.In case you have to apply discount for specific customer"
-" or products every time, it is quite difficult for salesman to remember "
-"those products or customer and apply the discount manually on each "
-"quotation."
+"Allowing discounts on quotations is a common sales practice to improve the "
+"chances to convert the prospect into a customer, when you are not offering "
+"discount to all the customers, keep it manual and offer when customer demands."
+"In case you have to apply discount for specific customer or products every "
+"time, it is quite difficult for salesman to remember those products or customer "
+"and apply the discount manually on each quotation."
 msgstr ""
+"Permitir descontos em Cotações é uma prática de vendas comum para melhorar as "
+"chances de converter o prospecto em um cliente, quando você não está oferecendo "
+"desconto para todos os clientes, mantê-lo manual e oferecer quando as demandas "
+"dos clientes. Caso que você tem que aplicar o disconto para o cliente ou os "
+"produtos específicos cada vez, é completamente difícil para que o vendedor "
+"recorde aqueles produtos ou cliente e aplica o desconto manualmente em cada "
+"citação."
 
 #: ../../sales/pricelist_discount/compute_and_apply_discount_from_pricelist.rst:20
+#, fuzzy
 msgid ""
-"The trading company “\\ *My Company*\\ ” manufactures the *Computer Desk*"
-" and selling to their distributors and to retail customers."
+"The trading company “\\ *My Company*\\ ” manufactures the *Computer Desk* and "
+"selling to their distributors and to retail customers."
 msgstr ""
+"A empresa de Trading \"\\ *Minha Empresa*\\\" fabrica o *Computador Desk* e "
+"vendendo para seus distribuidores e para clientes de varejo."
 
 #: ../../sales/pricelist_discount/compute_and_apply_discount_from_pricelist.rst:23
+#, fuzzy
 msgid ""
-"They sell to retail customer at a public price of 3200 but when they sell"
-" to distributors the price would be 2240, and they show the percentage of"
-" the discount which was offered on the public price."
+"They sell to retail customer at a public price of 3200 but when they sell to "
+"distributors the price would be 2240, and they show the percentage of the "
+"discount which was offered on the public price."
 msgstr ""
+"Vendem ao cliente de varejo a preço público de 3200 mas quando vendem aos "
+"distribuidores o preço seria 2240, e mostram a porcentagem do desconto que foi "
+"oferecido no preço público."
 
 #: ../../sales/pricelist_discount/compute_and_apply_discount_from_pricelist.rst:30
 msgid "Assumed that you have installed the **Sales Management** application."
-msgstr ""
+msgstr "Presumiu-se que você instalou o aplicativo **Gerenciamento de Vendas**."
 
 #: ../../sales/pricelist_discount/compute_and_apply_discount_from_pricelist.rst:33
 msgid "Discount"
-msgstr ""
+msgstr "Desconto"
 
 #: ../../sales/pricelist_discount/compute_and_apply_discount_from_pricelist.rst:35
+#, fuzzy
 msgid ""
-"By applying discount on the quotation, the product price will get "
-"decreased, the discount will be visible to the customer on quotation, "
-"this will encourage the customer to close the deal quickly."
+"By applying discount on the quotation, the product price will get decreased, "
+"the discount will be visible to the customer on quotation, this will encourage "
+"the customer to close the deal quickly."
 msgstr ""
+"Aplicando o disconto na citação, o preço do produto começ diminuído, o desconto "
+"será visível ao cliente na citação, este incentivará o cliente a fechar "
+"rapidamente o negócio."
 
 #: ../../sales/pricelist_discount/compute_and_apply_discount_from_pricelist.rst:39
+#, fuzzy
 msgid ""
-"The discount feature has to be enabled to show the percentage of the "
-"discount offered to the customer on quotation, it can be activated from "
-"**Sales / Configuration / Settings**."
+"The discount feature has to be enabled to show the percentage of the discount "
+"offered to the customer on quotation, it can be activated from **Sales / "
+"Configuration / Settings**."
 msgstr ""
+"O recurso de desconto tem que ser habilitado para mostrar a porcentagem do "
+"desconto oferecido ao cliente em cotação, ele pode ser ativado a partir de "
+"**Vendas / Configuração /configurações**."
 
 #: ../../sales/pricelist_discount/compute_and_apply_discount_from_pricelist.rst:44
 msgid "Product Pricing"
-msgstr ""
+msgstr "Preço do Produto"
 
 #: ../../sales/pricelist_discount/compute_and_apply_discount_from_pricelist.rst:46
+#, fuzzy
 msgid ""
-"You need a pricelist to apply the product price based on the business "
-"rules such as discount or periodically price variations for a product(s)."
-" Let’s go to **Sales / Configuration / Settings** and activate the "
-"**Multiple Sales Prices per Product options** as of now we will keep the "
-"**Multiple prices per product (e.g. customer segments, currencies)** "
-"option selected by default."
+"You need a pricelist to apply the product price based on the business rules "
+"such as discount or periodically price variations for a product(s). Let’s go to "
+"**Sales / Configuration / Settings** and activate the **Multiple Sales Prices "
+"per Product options** as of now we will keep the **Multiple prices per product "
+"(e.g. customer segments, currencies)** option selected by default."
 msgstr ""
+"Você precisa de uma lista de preços para aplicar o preço do produto com base "
+"nas regras de negócios, como desconto ou variações de preço periodicamente para "
+"um produto (s). Vamos para **Vendas / Configuração / Configurações** e ativar o "
+"**Vários preços de venda por produto opções** a partir de agora vamos manter o "
+"**Vários preços por produto (por exemplo, segmentos de clientes, moedas)** "
+"opção selecionada por padrão."
 
 #: ../../sales/pricelist_discount/compute_and_apply_discount_from_pricelist.rst:53
 msgid ""
-"Let’s create a *Distributor Pricelist,* the Public Pricelist available as"
-" a default, the pricelist can be accessed from **Sales / Catalog / "
-"Pricelists**. Create pricelist name it as *Distributor Pricelist* and "
-"change the **Discount Policy** to *Show public price & discount to the "
-"customer*."
+"Let’s create a *Distributor Pricelist,* the Public Pricelist available as a "
+"default, the pricelist can be accessed from **Sales / Catalog / Pricelists**. "
+"Create pricelist name it as *Distributor Pricelist* and change the **Discount "
+"Policy** to *Show public price & discount to the customer*."
 msgstr ""
 
 #: ../../sales/pricelist_discount/compute_and_apply_discount_from_pricelist.rst:61
+#, fuzzy
 msgid ""
-"The discount policy decides, whether the discount will be computed based "
-"on the pricelist and will be visible to customer on quotation or not. "
-"When you choose *Discount included in the price* the product price will "
-"be computed by applying the discount (%) and discount will not be visible"
-" to customer on quotation."
+"The discount policy decides, whether the discount will be computed based on the "
+"pricelist and will be visible to customer on quotation or not. When you choose "
+"*Discount included in the price* the product price will be computed by applying "
+"the discount (%) and discount will not be visible to customer on quotation."
 msgstr ""
+"A política de desconto decide, se o desconto será calculado com base na lista "
+"de preços e será visível para o cliente na cotação ou não. Quando você escolhe "
+"*Desconto incluído no preço* o preço do produto será calculado aplicando o "
+"desconto (%) e o desconto não será visível ao cliente na citação."
 
 #: ../../sales/pricelist_discount/compute_and_apply_discount_from_pricelist.rst:67
+#, fuzzy
 msgid ""
-"The *Discount included in the price* option can be used to apply the "
-"price variation such as commodity price, it may decrease or increased."
+"The *Discount included in the price* option can be used to apply the price "
+"variation such as commodity price, it may decrease or increased."
 msgstr ""
+"A opção *Desconto incluído no Price* pode ser usado para aplicar a variação de "
+"preço, como preço de mercadoria, pode diminuir ou aumentar."
 
 #: ../../sales/pricelist_discount/compute_and_apply_discount_from_pricelist.rst:72
 msgid "Create a product"
-msgstr ""
+msgstr "Criar um produto"
 
 #: ../../sales/pricelist_discount/compute_and_apply_discount_from_pricelist.rst:74
+#, fuzzy
 msgid ""
-"Let’s create the product and define the pricing rules so depending on the"
-" customer the price will be applied automatically. The **Pricing** rules "
-"can be applied under the **Sales** tab on product form."
+"Let’s create the product and define the pricing rules so depending on the "
+"customer the price will be applied automatically. The **Pricing** rules can be "
+"applied under the **Sales** tab on product form."
 msgstr ""
+"Vamos criar o produto e definir as regras de preços para que, dependendo do "
+"cliente, o preço será aplicado automaticamente. As regras de **Preço** podem "
+"ser aplicadas na guia **Vendas** no formulário do produto."
 
 #: ../../sales/pricelist_discount/compute_and_apply_discount_from_pricelist.rst:80
+#, fuzzy
 msgid ""
-"I have created two pricing rules, one for *Distributor Priclist* and "
-"another for *Public Pricelist*. The customer which do not comes under any"
-" of those pricing rules the **Sales Price** defined on the product will "
-"be applied in that case."
+"I have created two pricing rules, one for *Distributor Priclist* and another "
+"for *Public Pricelist*. The customer which do not comes under any of those "
+"pricing rules the **Sales Price** defined on the product will be applied in "
+"that case."
 msgstr ""
+"Criei duas regras de precificação, uma para *Lista de Preço do Distribuidor* e "
+"outra para *Lista de Preço Público*. O cliente que não vem qualquer uma dessas "
+"regras de preços o **Preço de Venda** definido no produto será aplicado nesse "
+"caso."
 
 #: ../../sales/pricelist_discount/compute_and_apply_discount_from_pricelist.rst:86
 msgid "Create a customer"
-msgstr ""
+msgstr "Criar um cliente"
 
 #: ../../sales/pricelist_discount/compute_and_apply_discount_from_pricelist.rst:88
+#, fuzzy
 msgid ""
 "Create a customer *China Export* of type distributor, we will offer the "
 "*Computer Desk* to them at a special price."
 msgstr ""
+"Criar um cliente *China Export* do tipo distribuidor, nós ofereceremos o "
+"*Computer Desk a eles a um preço especial."
 
 #: ../../sales/pricelist_discount/compute_and_apply_discount_from_pricelist.rst:93
+#, fuzzy
 msgid ""
-"To define this customer as a distributor, select the *Distributor "
-"Pricelist (USD)* in **Sales Pricelist** field available under the **Sales"
-" & Purchase** tab."
+"To define this customer as a distributor, select the *Distributor Pricelist "
+"(USD)* in **Sales Pricelist** field available under the **Sales & Purchase** "
+"tab."
 msgstr ""
+"Para definir este cliente como um distribuidor, selecione o *Lista de Preço do "
+"Distribuidor (USD)* em **Lista de Preços de Vendas** campo disponível o "
+"**Vendas & Compra** guia."
 
 #: ../../sales/pricelist_discount/compute_and_apply_discount_from_pricelist.rst:100
 msgid ""
-"Create a quotation from **Sales / Orders / Quotations**, select the "
-"*China Export* as a customer, a *Distributor Pricelist (USD)* will be "
-"selected automatically on the quotation. Now add the product *Computer "
-"Desk* on the order lines, **Unit Price** will be set to *3200* but "
-"**Subtotal** computed and shows *2240* as an automatic *30%* discount "
-"computed and set on the **Discount** field based on the *Distributor "
-"Pricelist*."
+"Create a quotation from **Sales / Orders / Quotations**, select the *China "
+"Export* as a customer, a *Distributor Pricelist (USD)* will be selected "
+"automatically on the quotation. Now add the product *Computer Desk* on the "
+"order lines, **Unit Price** will be set to *3200* but **Subtotal** computed and "
+"shows *2240* as an automatic *30%* discount computed and set on the "
+"**Discount** field based on the *Distributor Pricelist*."
 msgstr ""
 
 #: ../../sales/pricelist_discount/compute_and_apply_discount_from_pricelist.rst:110
-#, python-format
+#, fuzzy, python-format
 msgid ""
 "The 30% is computed based on the difference between price offered to "
-"distributors and the product **Sales Price**. *I.e. 3200 - 2240 = 960 "
-"which is 30% of the 3200 price*."
+"distributors and the product **Sales Price**. *I.e. 3200 - 2240 = 960 which is "
+"30% of the 3200 price*."
 msgstr ""
+"O 30% é calculado com base na diferença entre o preço oferecido aos "
+"distribuidores e o produto **Preço de venda**. *I.e. 3200-2240 = 960 que é de "
+"30% do preço 3200*."
 
 #: ../../sales/pricelist_discount/compute_and_apply_discount_from_pricelist.rst:116
 msgid "Access the video at https://www.youtube.com/watch?v=W1rD3cnD9lw"
-msgstr ""
+msgstr "Acesse o vídeo em https://www.youtube.com/watch?v=W1rD3cnD9lw"
 
 #: ../../sales/pricelist_discount/product_price_per_company.rst:7
 msgid "Define the product sales price per company"
-msgstr ""
+msgstr "Definir o preço de venda do produto por empresa"
 
 #: ../../sales/pricelist_discount/product_price_per_company.rst:11
 msgid "Access the video at https://www.youtube.com/watch?v=NrMybYWXZ_w"
-msgstr ""
+msgstr "Acesse o vídeo em https://www.youtube.com/watch?v=NrMybYWXZ_w"
 
 #: ../../sales/product_tax/price_including_tax.rst:9
+#, fuzzy
 msgid "Manage prices for Business to Customer (tax included)"
-msgstr ""
+msgstr "Gerenciar preços para o negócio para o cliente (imposto incluído)"
 
 #: ../../sales/product_tax/price_including_tax.rst:13
 msgid "Access the video at https://www.youtube.com/watch?v=SRsMh0vqM2w"
-msgstr ""
+msgstr "Acesse o vídeo em https://www.youtube.com/watch?v=SRsMh0vqM2w"
 
 #: ../../sales/product_tax/price_including_tax_and_excluding_tax.rst:9
+#, fuzzy
 msgid "Manage product prices for B2B (tax excluded) and B2C (tax included)"
 msgstr ""
+"Gerenciar os preços dos produtos para B2B (imposto excluído) e B2C (imposto "
+"incluso)"
 
 #: ../../sales/product_tax/price_including_tax_and_excluding_tax.rst:13
 msgid "Access the video at https://www.youtube.com/watch?v=S6yNzHBEyOI"
-msgstr ""
+msgstr "Acesse o vídeo em https://www.youtube.com/watch?v=S6yNzHBEyOI"
 
 #: ../../sales/quotation/apply_default_tax.rst:7
 msgid "Apply default taxes on products or sales order"
-msgstr ""
+msgstr "Aplicar impostos padrão sobre produtos ou ordem de venda"
 
 #: ../../sales/quotation/apply_default_tax.rst:9
+#, fuzzy
 msgid ""
 "Taxes applied in your country are installed automatically for most "
 "localizations. Default taxes set in orders and invoices come from each "
-"product’s Invoicing tab. Such taxes are used when you sell to companies "
-"that are in the same country/state than you."
+"product’s Invoicing tab. Such taxes are used when you sell to companies that "
+"are in the same country/state than you."
 msgstr ""
+"Os impostos aplicados em seu país são instalados automaticamente para a maioria "
+"de Localizations. Os impostos padrão definidos em ordens e faturas são "
+"provenientes da guia faturamento de cada produto. Tais impostos são usados "
+"quando você vende para empresas que estão no mesmo país/estado do que você."
 
 #: ../../sales/quotation/apply_default_tax.rst:17
+#, fuzzy
 msgid "Let’s set the default sales and purchase tax to Tax 15.00%."
-msgstr ""
+msgstr "Vamos definir o imposto de compra e venda padrão para imposto 15, 0%."
 
 #: ../../sales/quotation/apply_default_tax.rst:22
 msgid ""
 "All the new products created in the Odoo take the default tax set in the "
-"**Accounting/Invoicing** settings. To change the default taxes set for "
-"any new product created, goto **Invoicing / Configuration / Settings**."
+"**Accounting/Invoicing** settings. To change the default taxes set for any new "
+"product created, goto **Invoicing / Configuration / Settings**."
 msgstr ""
+"Todos os novos produtos criados no Odoo levam o conjunto de impostos padrão nas "
+"configurações de **Contabilidade / Faturamento**. Para alterar os impostos "
+"padrão definidos para qualquer novo produto criado, vá até **Faturamento / "
+"Configuração / Configurações**."
 
 #: ../../sales/quotation/apply_default_tax.rst:29
 msgid "Create new product"
-msgstr ""
+msgstr "Criar um novo produto"
 
 #: ../../sales/quotation/apply_default_tax.rst:31
+#, fuzzy
 msgid ""
-"Let’s create a new product, the default tax which was applied should be "
-"applied on this product."
+"Let’s create a new product, the default tax which was applied should be applied "
+"on this product."
 msgstr ""
+"Vamos criar um novo produto, o imposto padrão que foi aplicado deve ser "
+"aplicado neste produto."
 
 #: ../../sales/quotation/apply_default_tax.rst:37
 msgid "Create sales order"
-msgstr ""
+msgstr "Criar ordens de venda"
 
 #: ../../sales/quotation/apply_default_tax.rst:39
+#, fuzzy
 msgid ""
-"Let’s create a new order and select the same product on the order line, "
-"the tax which was set on the products should be applied on the sales "
-"order line tax field."
+"Let’s create a new order and select the same product on the order line, the tax "
+"which was set on the products should be applied on the sales order line tax "
+"field."
 msgstr ""
+"Vamos criar uma nova ordem e selecionar o mesmo produto na linha da ordem, o "
+"imposto que foi definido nos produtos deve ser aplicado no campo de imposto de "
+"linha de ordem de venda."
 
 #: ../../sales/quotation/apply_default_tax.rst:45
+#, fuzzy
 msgid ""
-"Now, your salesman do not have to remember that what taxes to be applied "
-"on which product."
+"Now, your salesman do not have to remember that what taxes to be applied on "
+"which product."
 msgstr ""
+"Agora, seu vendedor não tem que recordar que que impostos a ser aplicados em "
+"que produto."
 
 #: ../../sales/quotation/apply_default_tax.rst:50
 msgid "Access the video at https://www.youtube.com/watch?v=o9sVx6AIg5Q"
-msgstr ""
+msgstr "Acesse o vídeo em https://www.youtube.com/watch?v=o9sVx6AIg5Q"
 
 #: ../../sales/quotation/change_your_quotation_layout.rst:7
 msgid "Change your quotation layout"
-msgstr ""
+msgstr "Alterar o layout da cotação"
 
 #: ../../sales/quotation/change_your_quotation_layout.rst:9
+#, fuzzy
 msgid ""
-"All the legal documents such as sales order or invoice required to be "
-"printed on the company letterhead with header and footer. You can choose "
-"a document layout from 4 different layouts available in Odoo according to"
-" your need."
+"All the legal documents such as sales order or invoice required to be printed "
+"on the company letterhead with header and footer. You can choose a document "
+"layout from 4 different layouts available in Odoo according to your need."
 msgstr ""
+"Todos os documentos legais, como ordem do cliente ou fatura, devem ser "
+"impressos no timbrado da empresa com cabeçalho e rodapé. Você pode escolher um "
+"layout de documento a partir de 4 layouts diferentes disponíveis no Odoo de "
+"acordo com sua necessidade."
 
 #: ../../sales/quotation/change_your_quotation_layout.rst:17
+#, fuzzy
 msgid ""
-"Let’s switch to the beautiful layout. So, not only quotation but all the "
-"legal document will be printed with the same layout."
+"Let’s switch to the beautiful layout. So, not only quotation but all the legal "
+"document will be printed with the same layout."
 msgstr ""
+"Vamos mudar para o belo layout. Assim, não só a cotação, mas todo o documento "
+"legal será impresso com o mesmo layout."
 
 #: ../../sales/quotation/change_your_quotation_layout.rst:23
+#, fuzzy
 msgid ""
-"The quotation layout can be changed from the **Settings / General "
-"Settings** under the **Document Template** section you can change the "
-"document layout."
+"The quotation layout can be changed from the **Settings / General Settings** "
+"under the **Document Template** section you can change the document layout."
 msgstr ""
+"O layout de cotação pode ser alterado a partir do **Configurações / "
+"Configurações Gerais** na seção **Document Template** você pode alterar o "
+"layout do documento."
 
 #: ../../sales/quotation/change_your_quotation_layout.rst:29
+#, fuzzy
 msgid ""
-"Enter the company information such as name, address, currency and logo. "
-"Bottom of the popup windows you can choose the layout for all your legal "
-"document which will be printed with header and footer."
+"Enter the company information such as name, address, currency and logo. Bottom "
+"of the popup windows you can choose the layout for all your legal document "
+"which will be printed with header and footer."
 msgstr ""
+"Insira as informações da empresa, como nome, endereço, moeda e logotipo. Parte "
+"inferior das janelas popup você pode escolher o layout para todo o seu "
+"documento legal que será impresso com cabeçalho e rodapé."
 
 #: ../../sales/quotation/change_your_quotation_layout.rst:33
+#, fuzzy
 msgid ""
-"Do not forget to select the company logo, you can click on Preview link "
-"to check how it looks before you choose."
+"Do not forget to select the company logo, you can click on Preview link to "
+"check how it looks before you choose."
 msgstr ""
+"Não se esqueça de selecionar o logotipo da empresa, você pode clicar no link "
+"Preview para verificar como ele se parece antes de escolher."
 
 #: ../../sales/quotation/change_your_quotation_layout.rst:36
+#, fuzzy
 msgid "Choose the appropriate layout and apply the setting."
-msgstr ""
+msgstr "Escolha o layout apropriado e aplique a configuração."
 
 #: ../../sales/quotation/change_your_quotation_layout.rst:39
 msgid "Print quotation"
-msgstr ""
+msgstr "Imprimir cotação"
 
 #: ../../sales/quotation/change_your_quotation_layout.rst:41
+#, fuzzy
 msgid ""
-"The default layout will be switched to the selected one on the "
-"configuration, now your quotation will be printed with the new layout. "
-"|image1|"
+"The default layout will be switched to the selected one on the configuration, "
+"now your quotation will be printed with the new layout. |image1|"
 msgstr ""
+"O layout padrão será alternado para o selecionado na configuração, agora sua "
+"cotação será impressa com o novo layout. |image1|"
 
 #: ../../sales/quotation/compute_sales_margin.rst:8
 msgid "Compute margin on sale order"
-msgstr ""
+msgstr "Calcular margem na ordem de venda"
 
 #: ../../sales/quotation/compute_sales_margin.rst:9
+#, fuzzy
 msgid ""
-"Some business wants the realtime computation of the margins so that sales"
-" manager or person can propose the best price to the customer."
+"Some business wants the realtime computation of the margins so that sales "
+"manager or person can propose the best price to the customer."
 msgstr ""
+"Algumas empresas querem a computação em tempo real das margens para que o "
+"gerente de vendas ou pessoa pode propor o melhor preço para o cliente."
 
 #: ../../sales/quotation/compute_sales_margin.rst:12
+#, fuzzy
 msgid ""
-"Let's take the business case, sales manager check the margin on order and"
-" decide whether we can allow additional discount to the customer or not."
+"Let's take the business case, sales manager check the margin on order and "
+"decide whether we can allow additional discount to the customer or not."
 msgstr ""
+"Vamos levar o caso de negócios, gerente de vendas verificar a margem em ordem e "
+"decidir se podemos permitir desconto adicional para o cliente ou não."
 
 #: ../../sales/quotation/compute_sales_margin.rst:17
+#, fuzzy
 msgid "Install the **Sales Management** application."
-msgstr ""
+msgstr "Instale o aplicativo **Gerenciamento de Vendas**."
 
 #: ../../sales/quotation/compute_sales_margin.rst:23
+#, fuzzy
 msgid ""
 "If you want to check Margin feature for *Average Cost (AVCO)* install "
-"**Purchase Management**. Installation of sales and purchase will install "
-"other applications such as **Inventory Management** and **Invoicing "
-"Management**."
+"**Purchase Management**. Installation of sales and purchase will install other "
+"applications such as **Inventory Management** and **Invoicing Management**."
 msgstr ""
+"Se você quiser verificar o recurso de margem para *Custo Médio (AVCO)* instalar "
+"**Gerenciamento de Compras**. A instalação de vendas e compra instalará outros "
+"aplicativos como **Gerenciamento de Inventário** e **Gerenciamento de "
+"Faturamento**."
 
 #: ../../sales/quotation/compute_sales_margin.rst:28
 msgid "Margins"
-msgstr ""
+msgstr "Margens"
 
 #: ../../sales/quotation/compute_sales_margin.rst:29
+#, fuzzy
 msgid ""
-"Go to ``Sales / Configuration / Settings`` select **Margins** and apply "
-"the setting. This will show margins on orders."
+"Go to ``Sales / Configuration / Settings`` select **Margins** and apply the "
+"setting. This will show margins on orders."
 msgstr ""
+"Vá até ``Vendas / Configuração / Configurações`` selecione **Margens** e "
+"aplique a configuração. Isso mostrará as margens em ordens."
 
 #: ../../sales/quotation/compute_sales_margin.rst:37
 msgid "Products"
-msgstr ""
+msgstr "Produtos"
 
 #: ../../sales/quotation/compute_sales_margin.rst:38
+#, fuzzy
 msgid ""
-"Enter the product **Sales Price** and **Cost** accordingly, enter the "
-"latest sales and cost price."
+"Enter the product **Sales Price** and **Cost** accordingly, enter the latest "
+"sales and cost price."
 msgstr ""
+"Insira o produto **Preço de Venda** e **Custo** em conformidade, insira as "
+"vendas e o preço de custo mais recentes."
 
 #: ../../sales/quotation/compute_sales_margin.rst:45
+#, fuzzy
 msgid ""
-"I have entered $1200 sales price and $900 cost price, also defined the "
-"$900 purchase price on the vendor pricelist."
+"I have entered $1200 sales price and $900 cost price, also defined the $900 "
+"purchase price on the vendor pricelist."
 msgstr ""
+"Eu entrei $1200 preço de venda e preço de custo $900, também definiu o preço de "
+"compra $900 na lista de preços do fornecedor."
 
 #: ../../sales/quotation/compute_sales_margin.rst:48
+#, fuzzy
 msgid ""
 "Product **Cost** will be computed automatically when you set the product "
-"costing method to *Average Cost (AVCO)* or *First in First Out (FIFO)*. "
-"The FIFO method does not give you correct costing in some case."
+"costing method to *Average Cost (AVCO)* or *First in First Out (FIFO)*. The "
+"FIFO method does not give you correct costing in some case."
 msgstr ""
+"Produto **Custo** será calculado automaticamente quando você definir o método "
+"de custeio do produto para *Custo Médio (AVCO)* ou *Custo Real (FIFO)*. O "
+"método FIFO não lhe dá o cálculo de custos correto em algum caso."
 
 #: ../../sales/quotation/compute_sales_margin.rst:53
 msgid "Create Sales order"
-msgstr ""
+msgstr "Criar Ordens de venda"
 
 #: ../../sales/quotation/compute_sales_margin.rst:54
+#, fuzzy
 msgid ""
-"Let's create a quotation, select the customer on quotation and product on"
-" order line. The margin will be computed as soon as you select the "
-"product, the difference between **Unit Price** and **Cost** is margin. "
-"The **Margin** be computed based on the difference for each lines on sale"
-" order."
+"Let's create a quotation, select the customer on quotation and product on order "
+"line. The margin will be computed as soon as you select the product, the "
+"difference between **Unit Price** and **Cost** is margin. The **Margin** be "
+"computed based on the difference for each lines on sale order."
 msgstr ""
+"Vamos criar uma cotação, selecionar o cliente em cotação e produto na linha da "
+"ordem. A margem será calculada assim que você selecionar o produto, a diferença "
+"entre **Preço Unitário** e **Custo** é a margem. A **Margem** ser calculado com "
+"base na diferença para cada linha na ordem de venda."
 
 #: ../../sales/quotation/compute_sales_margin.rst:63
+#, fuzzy
 msgid ""
 "Now, it will be easy for the sales manager to check what's the margin on "
-"quotation. For **SO004** it is 25%, its a good deal to go with, let's "
-"move forward and confirm the order."
+"quotation. For **SO004** it is 25%, its a good deal to go with, let's move "
+"forward and confirm the order."
 msgstr ""
+"Agora, será fácil para o gerente de vendas verificar qual é a margem de "
+"cotação. Para **SO004** é 25%, é um bom negócio para ir com, vamos avançar e "
+"confirmar a ordem."
 
 #: ../../sales/quotation/compute_sales_margin.rst:69
 msgid "Access the video at https://www.youtube.com/watch?v=d2QuTYjziI8"
-msgstr ""
+msgstr "Acesse o vídeo em https://www.youtube.com/watch?v=d2QuTYjziI8"
 
 #: ../../sales/quotation/create_my_first_quotation.rst:6
 msgid "Create your first quotation"
-msgstr ""
+msgstr "Crie sua primeira cotação"
 
 #: ../../sales/quotation/create_my_first_quotation.rst:8
+#, fuzzy
 msgid ""
-"Quotations are documents sent to prospects to offer an estimated price "
-"for a particular set of products or services. The prospects can accept "
-"the quotation, in which case the seller will have to issue a sales order,"
-" or refuse it."
+"Quotations are documents sent to prospects to offer an estimated price for a "
+"particular set of products or services. The prospects can accept the quotation, "
+"in which case the seller will have to issue a sales order, or refuse it."
 msgstr ""
+"As cotações são documentos enviados às perspectivas para oferecer um preço "
+"estimado para um determinado conjunto de produtos ou serviços. As perspectivas "
+"podem aceitar a cotação, caso em que o vendedor terá que emitir uma ordem de "
+"venda, ou recusar."
 
 #: ../../sales/quotation/create_my_first_quotation.rst:16
-#, python-format
+#, fuzzy, python-format
 msgid ""
-"For example, *My Company* sells electronic products and a client *John "
-"Deo* showed interest in buying 3 *iPads* to facilitate their operations. "
-"I would like to send them a quotation for those *iPads* with a sales "
-"price of *320 USD* per *iPad* with a **5% discount**."
+"For example, *My Company* sells electronic products and a client *John Deo* "
+"showed interest in buying 3 *iPads* to facilitate their operations. I would "
+"like to send them a quotation for those *iPads* with a sales price of *320 USD* "
+"per *iPad* with a **5% discount**."
 msgstr ""
+"Por exemplo, *Minha Empresa* vende produtos eletrônicos e um cliente *John Deo* "
+"mostrou interesse em comprar 3 *iPads* para facilitar suas operações. Gostaria "
+"de lhes enviar um orçamento para os *iPads* com um preço de venda de *320 USD* "
+"por *iPad* com um desconto de **5%**."
 
 #: ../../sales/quotation/create_my_first_quotation.rst:24
+#, fuzzy
 msgid ""
-"Install the **Sales Management** application. In order to be able to "
-"issue quotation, you’ll need to install the **Sales Management** "
-"application from the **Apps** in the Odoo backend."
+"Install the **Sales Management** application. In order to be able to issue "
+"quotation, you’ll need to install the **Sales Management** application from the "
+"**Apps** in the Odoo backend."
 msgstr ""
+"Instale o aplicativo **Gerenciamento de Vendas**. Para poder emitir cotação, "
+"você precisará instalar o aplicativo **Gerenciamento de Vendas** do **Apps** no "
+"back-end do Odoo."
 
 #: ../../sales/quotation/create_my_first_quotation.rst:28
 msgid "|Sales Management Application|"
-msgstr ""
+msgstr "|Aplicação de Gestão de Vendas|"
 
 #: ../../sales/quotation/create_my_first_quotation.rst:31
+#, fuzzy
 msgid "Discounts on sales order line"
-msgstr ""
+msgstr "Descontos na linha da ordem do cliente"
 
 #: ../../sales/quotation/create_my_first_quotation.rst:33
 msgid ""
-"Allowing discounts on quotations is a common sales practice to improve "
-"the chances to convert the prospect into a customer."
+"Allowing discounts on quotations is a common sales practice to improve the "
+"chances to convert the prospect into a customer."
 msgstr ""
+"Permitir descontos em Cotações é uma prática de vendas comum para melhorar as "
+"chances de converter o prospecto em um cliente."
 
 #: ../../sales/quotation/create_my_first_quotation.rst:36
-#, python-format
+#, fuzzy, python-format
 msgid ""
-"In our business case, we want to grant 5% discount to our customer *John "
-"Deo* on the sale price. To enable the feature, go into the **Sales** "
-"application, select **Configuration / Settings** and, under **Pricing** "
-"section, select it and **APPLY** to allow manual discounts on order "
-"lines."
+"In our business case, we want to grant 5% discount to our customer *John Deo* "
+"on the sale price. To enable the feature, go into the **Sales** application, "
+"select **Configuration / Settings** and, under **Pricing** section, select it "
+"and **APPLY** to allow manual discounts on order lines."
 msgstr ""
+"No nosso caso de negócios, queremos conceder 5% de desconto ao nosso cliente "
+"*John Deo* no preço de venda. Para habilitar o recurso, vá para o aplicativo "
+"**Vendas**, selecione ** Configuração / Configurações** e, em **Seção de "
+"Preços**, selecione-o e **Aplique** para permitir descontos manuais em linhas "
+"de ordem."
 
 #: ../../sales/quotation/create_my_first_quotation.rst:45
+#, fuzzy
 msgid "Create your quotation"
-msgstr ""
+msgstr "Crie sua cotação"
 
 #: ../../sales/quotation/create_my_first_quotation.rst:47
+#, fuzzy
 msgid ""
-"To create your first quotation, go to **Sales / Quotations** and click on"
-" **CREATE**. Then, complete your quotation as follows:"
+"To create your first quotation, go to **Sales / Quotations** and click on "
+"**CREATE**. Then, complete your quotation as follows:"
 msgstr ""
+"Para criar sua primeira cotação, vá para **Vendas / Cotações** e clique em "
+"**CRIAR**. Em seguida, conclua sua cotação da seguinte maneira:"
 
 #: ../../sales/quotation/create_my_first_quotation.rst:51
 msgid "Customer and Products"
-msgstr ""
+msgstr "Cliente e Produtos"
 
 #: ../../sales/quotation/create_my_first_quotation.rst:53
+#, fuzzy
 msgid ""
-"The basic elements to add to any quotation are the prospects or customer "
-"(the person you will send your quotation to) and the products you want to"
-" sell."
+"The basic elements to add to any quotation are the prospects or customer (the "
+"person you will send your quotation to) and the products you want to sell."
 msgstr ""
+"Os elementos básicos a adicionar a toda a citação são os prospectos ou o "
+"cliente (a pessoa que você enviará sua citação a) e os produtos que você quer "
+"vender."
 
 #: ../../sales/quotation/create_my_first_quotation.rst:57
+#, fuzzy
 msgid ""
-"From the quotation view, choose the prospect from the **Customer** drop-"
-"down list and under **Order Lines**, click on **Add an item** and select "
-"your product. Do not forget to manually add the number of items under "
-"**Ordered Quantity** and the **Discount** if applicable."
+"From the quotation view, choose the prospect from the **Customer** drop-down "
+"list and under **Order Lines**, click on **Add an item** and select your "
+"product. Do not forget to manually add the number of items under **Ordered "
+"Quantity** and the **Discount** if applicable."
 msgstr ""
+"Na visualização de cotação, escolha o prospecto da lista suspensa **Cliente** e "
+"em **Linhas da Ordem**, clique em **Adicionar um item** e selecione seu "
+"produto. Não se esqueça de adicionar manualmente o número de itens em "
+"**Quantidade Ordenada** e o **Desconto** se aplicável."
 
 #: ../../sales/quotation/create_my_first_quotation.rst:64
-#, python-format
+#, fuzzy, python-format
 msgid ""
-"To apply 5% discount enter 5 in the **Discount (%)**. The discount should"
-" be entered between 0 to 100, it computes discount in percentage."
+"To apply 5% discount enter 5 in the **Discount (%)**. The discount should be "
+"entered between 0 to 100, it computes discount in percentage."
 msgstr ""
+"Para aplicar 5% de desconto entre 5 no **Desconto (%)**. O desconto deve ser "
+"inserido entre 0 a 100, ele calcula o desconto em porcentagem."
 
 #: ../../sales/quotation/create_my_first_quotation.rst:67
+#, fuzzy
 msgid ""
-"If you don’t have any customer or product created before on your Odoo "
-"instance yet, you can create them on the fly directly from your "
-"quotations:"
+"If you don’t have any customer or product created before on your Odoo instance "
+"yet, you can create them on the fly directly from your quotations:"
 msgstr ""
+"Se você ainda não tiver nenhum cliente ou produto criado antes em sua instância "
+"do Odoo, poderá criá-los diretamente de suas cotações:"
 
 #: ../../sales/quotation/create_my_first_quotation.rst:74
+#, fuzzy
 msgid "To add a new customer, click on the **Customer** drop-down menu and"
-msgstr ""
+msgstr "Para adicionar um novo cliente, clique no menu suspenso **Cliente** e"
 
 #: ../../sales/quotation/create_my_first_quotation.rst:72
+#, fuzzy
 msgid ""
-"click on **Create and edit**. In this new window, you will be able to "
-"record all the customer details, such as the address, website, phone "
-"number and person of contact."
+"click on **Create and edit**. In this new window, you will be able to record "
+"all the customer details, such as the address, website, phone number and person "
+"of contact."
 msgstr ""
+"clique em **Criar e Editar**. Nesta nova janela, você será capaz de gravar "
+"todos os detalhes do cliente, tais como o endereço, site, número de telefone e "
+"pessoa de contato."
 
 #: ../../sales/quotation/create_my_first_quotation.rst:80
+#, fuzzy
 msgid "To add a new product, under **Order Line**, click on **Add an item**,"
 msgstr ""
+"Para adicionar um novo produto, em **Linha da Ordem**, clique em **Adicionar um "
+"item**,"
 
 #: ../../sales/quotation/create_my_first_quotation.rst:77
+#, fuzzy
 msgid ""
-"click on **Create and Edit** on the drop-down list of **Product** field. "
-"You will be able to record your product information (product type, cost, "
-"sale price, invoicing policy, etc.) along with a picture."
+"click on **Create and Edit** on the drop-down list of **Product** field. You "
+"will be able to record your product information (product type, cost, sale "
+"price, invoicing policy, etc.) along with a picture."
 msgstr ""
+"clique em **Criar e Editar** na lista suspensa do campo **Produto**. Você será "
+"capaz de gravar suas informações de produto (tipo de produto, custo, preço de "
+"venda, política de faturamento, etc), juntamente com uma imagem."
 
 #: ../../sales/quotation/create_my_first_quotation.rst:83
 #: ../../sales/quotation/set_default_terms_and_conditions.rst:20
 msgid "Taxes"
-msgstr ""
+msgstr "Impostos"
 
 #: ../../sales/quotation/create_my_first_quotation.rst:85
+#, fuzzy
 msgid ""
-"To parameter taxes, simply go on the **Taxes** field of the order line "
-"and click on **Create and Edit**. Fill in the details (for example if you"
-" are subject to a 15% taxe on your sales, simply fill in the right amount"
-" in percentage) and save."
+"To parameter taxes, simply go on the **Taxes** field of the order line and "
+"click on **Create and Edit**. Fill in the details (for example if you are "
+"subject to a 15% taxe on your sales, simply fill in the right amount in "
+"percentage) and save."
 msgstr ""
+"Para os impostos de parâmetro, basta ir no **Impostos** campo da linha da ordem "
+"e clique em **Criar e Editar**. Preencha os detalhes (por exemplo, se você está "
+"sujeito a um imposto de 15 % sobre suas vendas, basta preencher o montante "
+"certo em percentagem) e salvar."
 
 #: ../../sales/quotation/create_my_first_quotation.rst:93
 msgid "Terms and conditions"
-msgstr ""
+msgstr "Termos e Condições"
 
 #: ../../sales/quotation/create_my_first_quotation.rst:95
+#, fuzzy
 msgid ""
-"You can select the expiration date of your quotation and add your "
-"company’s terms and conditions directly in your quotation (see picture "
-"below)."
+"You can select the expiration date of your quotation and add your company’s "
+"terms and conditions directly in your quotation (see picture below)."
 msgstr ""
+"Você pode selecionar a data de expiração de sua cotação e adicionar os termos e "
+"condições da sua empresa diretamente em sua cotação (veja a figura abaixo)."
 
 #: ../../sales/quotation/create_my_first_quotation.rst:100
+#, fuzzy
 msgid "Preview quotation"
-msgstr ""
+msgstr "Cotação de visualização"
 
 #: ../../sales/quotation/create_my_first_quotation.rst:102
+#, fuzzy
 msgid ""
-"You can check the quotation before you send to the customer by email, "
-"click on the **PRINT** button (upper left corner). You will see the popup"
-" window that ask for company master details such as address, contact, "
-"email, VAT number, and report layout you want to set for your company."
+"You can check the quotation before you send to the customer by email, click on "
+"the **PRINT** button (upper left corner). You will see the popup window that "
+"ask for company master details such as address, contact, email, VAT number, and "
+"report layout you want to set for your company."
 msgstr ""
+"Você pode verificar a cotação antes de enviar para o cliente por e-mail, clique "
+"no botão **IMPRIMIR** (canto superior esquerdo). Você verá a janela pop-up que "
+"solicitar detalhes mestre da empresa, como endereço, contato, e-mail, número de "
+"IVA e layout de relatório que você deseja definir para sua empresa."
 
 #: ../../sales/quotation/create_my_first_quotation.rst:110
+#, fuzzy
 msgid ""
-"Click on the **SAVE** button to apply the settings, now you are ready to "
-"print your first quotation. Click on the **PRINT** button again, you will"
-" get the printable PDF version of your quotation."
+"Click on the **SAVE** button to apply the settings, now you are ready to print "
+"your first quotation. Click on the **PRINT** button again, you will get the "
+"printable PDF version of your quotation."
 msgstr ""
+"Clique no botão **SALVAR** para aplicar as configurações, agora você está "
+"pronto para imprimir sua primeira cotação. Clique no botão **IMPRIMIR** "
+"novamente, você receberá a versão em PDF imprimível de sua cotação."
 
 #: ../../sales/quotation/create_my_first_quotation.rst:114
+#, fuzzy
 msgid ""
-"Update your company’s details (address, website, logo, etc) can be "
-"changed later by clicking on the link **Change Document Template** under "
-"the **Settings / General Settings**."
+"Update your company’s details (address, website, logo, etc) can be changed "
+"later by clicking on the link **Change Document Template** under the "
+"**Settings / General Settings**."
 msgstr ""
+"Atualize os detalhes da sua empresa (endereço, site, logotipo, etc) pode ser "
+"alterado mais tarde, clicando no link **Alterar Modelo de Documento** o "
+"**Configurações / Configurações Gerais**."
 
 #: ../../sales/quotation/create_my_first_quotation.rst:120
 msgid "Access the video at https://www.youtube.com/watch?v=OTfJhgRTPVw"
-msgstr ""
+msgstr "Acesse o vídeo em https://www.youtube.com/watch?v=OTfJhgRTPVw"
 
 #: ../../sales/quotation/sections_on_sales_orders.rst:6
+#, fuzzy
 msgid ""
-"Sections on sales orders, sort products in sections with subtotals and "
-"page-breaks"
+"Sections on sales orders, sort products in sections with subtotals and page-"
+"breaks"
 msgstr ""
+"Seções sobre ordens de venda, classificar produtos em seções com subtotais e "
+"quebras de página"
 
 #: ../../sales/quotation/sections_on_sales_orders.rst:8
+#, fuzzy
 msgid ""
 "Some business who delivers products and services, they need to prepare a "
-"quotation that differentiate the products based on Service and Material "
-"part. This section will help customer to understand what the total cost "
-"of the Material and Service separately."
+"quotation that differentiate the products based on Service and Material part. "
+"This section will help customer to understand what the total cost of the "
+"Material and Service separately."
 msgstr ""
+"Alguns negócios que entregam produtos e serviços, precisam de preparar uma "
+"citação que diferencie os produtos baseados na peça do serviço e do material. "
+"Esta seção vai ajudar o cliente a entender o que o custo total do material e "
+"serviço separadamente."
 
 #: ../../sales/quotation/sections_on_sales_orders.rst:16
+#, fuzzy
 msgid ""
-"Let’s take an example of the trading and service company who wants to "
-"send the quotation for Air-condition, related material to install it and "
-"Installation service."
+"Let’s take an example of the trading and service company who wants to send the "
+"quotation for Air-condition, related material to install it and Installation "
+"service."
 msgstr ""
+"Vamos dar um exemplo da empresa de comércio e serviços que quer enviar a "
+"cotação para ar-condicionado, material relacionado para instalá-lo e serviço de "
+"instalação."
 
 #: ../../sales/quotation/sections_on_sales_orders.rst:23
 msgid "Assumed **Sales Management** application is installed."
 msgstr ""
+"Presume-se que o aplicativo de **Gerenciamento de Vendas** está instalado."
 
 #: ../../sales/quotation/sections_on_sales_orders.rst:26
+#, fuzzy
 msgid "Sections on sales orders"
-msgstr ""
+msgstr "Seções sobre ordens de venda"
 
 #: ../../sales/quotation/sections_on_sales_orders.rst:28
+#, fuzzy
 msgid ""
 "Goto **Sales / Configuration / Settings** and enable **Sections on Sales "
-"Orders** feature that allows to create sections, sort products in "
-"sections with subtotals and page-breaks."
+"Orders** feature that allows to create sections, sort products in sections with "
+"subtotals and page-breaks."
 msgstr ""
+"Vá até **Vendas / Configuração / Configurações**  e habilitae **Seções da Ordem "
+"de Venda** recurso que permite criar seções, classificar produtos em seções com "
+"subtotais e quebras de página."
 
 #: ../../sales/quotation/sections_on_sales_orders.rst:35
 msgid "Configure the sections"
-msgstr ""
+msgstr "Configurar as secções"
 
 #: ../../sales/quotation/sections_on_sales_orders.rst:37
+#, fuzzy
 msgid ""
-"The two sections *Service* and *Material* are available by default, you "
-"can configure those sections from **Sales / Configuration / Report Layout"
-" Categories**."
+"The two sections *Service* and *Material* are available by default, you can "
+"configure those sections from **Sales / Configuration / Report Layout "
+"Categories**."
 msgstr ""
+"As duas seções *Serviço* e *Material* estão disponíveis por padrão, você pode "
+"configurar essas seções de **Vendas / Configuração / Categorias de layout de "
+"relatório**."
 
 #: ../../sales/quotation/sections_on_sales_orders.rst:43
+#, fuzzy
 msgid ""
-"There are 4 parameters available which can configure each section, that "
-"decided how section will be printed on reports."
+"There are 4 parameters available which can configure each section, that decided "
+"how section will be printed on reports."
 msgstr ""
+"Existem 4 parâmetros disponíveis que podem configurar cada seção, que decidiu "
+"como a seção será impressa em relatórios."
 
 #: ../../sales/quotation/sections_on_sales_orders.rst:46
 msgid "**Name** - name of the section to be displayed on the report"
-msgstr ""
+msgstr "**Nome** - nome da seção a ser exibido no relatório"
 
 #: ../../sales/quotation/sections_on_sales_orders.rst:49
 msgid "**Add subtotal** - if selected, the subtotal will be displayed for"
-msgstr ""
+msgstr "**Adicionar subtotal** - se selecionado, o subtotal será exibido para"
 
 #: ../../sales/quotation/sections_on_sales_orders.rst:49
 msgid "section"
-msgstr ""
+msgstr "secção"
 
 #: ../../sales/quotation/sections_on_sales_orders.rst:54
 msgid "**Add pagebreak** - if selected, once this section print on page, the"
 msgstr ""
+"**Adicionar Quebra de Página** - se selecionado, uma vez que esta seção "
+"imprimir na página, o"
 
 #: ../../sales/quotation/sections_on_sales_orders.rst:52
+#, fuzzy
 msgid ""
-"next section will be printed on the next page. Uncheck **Add pagebreak** "
-"in *Service* section, if you would like to see all the section on single "
-"page."
+"next section will be printed on the next page. Uncheck **Add pagebreak** in "
+"*Service* section, if you would like to see all the section on single page."
 msgstr ""
+"próxima seção será impressa na próxima página. Desmarque a seção **Adicionar "
+"PageBreak** em *Serviço*, se você gostaria de ver toda a seção em uma única "
+"página."
 
 #: ../../sales/quotation/sections_on_sales_orders.rst:57
 msgid "**Sequence** - decided the order of the section to be printed on the"
-msgstr ""
+msgstr "**Seqüência** - decidiu a ordem da seção a ser impressa no"
 
 #: ../../sales/quotation/sections_on_sales_orders.rst:57
 msgid "report"
-msgstr ""
+msgstr "relatório"
 
 #: ../../sales/quotation/sections_on_sales_orders.rst:60
 msgid "Create a sales order"
-msgstr ""
+msgstr "Criar uma ordem de venda"
 
 #: ../../sales/quotation/sections_on_sales_orders.rst:62
+#, fuzzy
 msgid ""
 "Create a sales order, select customer and products such as *Split Air "
-"Conditioner - 1.5T*, *Copper pipe* and *Installation Service*, beside "
-"each product you have to select this product comes into which section."
+"Conditioner - 1.5T*, *Copper pipe* and *Installation Service*, beside each "
+"product you have to select this product comes into which section."
 msgstr ""
+"Criar uma ordem de venda, selecionar cliente e produtos como *Split ar "
+"condicionado-1.5 T*, *tubo de cobre* e *serviço de instalação*, ao lado de cada "
+"produto que você tem que selecionar este produto vem em que seção."
 
 #: ../../sales/quotation/sections_on_sales_orders.rst:69
+#, fuzzy
 msgid "Print sales order"
-msgstr ""
+msgstr "Imprimir ordem de venda"
 
 #: ../../sales/quotation/sections_on_sales_orders.rst:71
+#, fuzzy
 msgid ""
-"You are ready to print your sales order by sections with subtotals for "
-"each sections."
+"You are ready to print your sales order by sections with subtotals for each "
+"sections."
 msgstr ""
+"Você está pronto para imprimir sua ordem de venda por seções com subtotais para "
+"cada seção."
 
 #: ../../sales/quotation/sections_on_sales_orders.rst:78
 msgid "Access the video at https://www.youtube.com/watch?v=2sOuEdYRSmE"
-msgstr ""
+msgstr "Acesse o vídeo em https://www.youtube.com/watch?v=2sOuEdYRSmE"
 
 #: ../../sales/quotation/send_quotation_by_email.rst:6
 #: ../../sales/quotation_template/quick_create_quotation_using_quotation_template.rst:85
+#, fuzzy
 msgid "Send quotation by email"
-msgstr ""
+msgstr "Enviar cotação por e-mail"
 
 #: ../../sales/quotation/send_quotation_by_email.rst:8
+#, fuzzy
 msgid ""
-"Quotations are documents sent to customers to offer an estimated price "
-"for a particular set of goods or services. The customer can accept the "
-"quotation, in which case the seller will have to issue a sales order, or "
-"refuse it."
+"Quotations are documents sent to customers to offer an estimated price for a "
+"particular set of goods or services. The customer can accept the quotation, in "
+"which case the seller will have to issue a sales order, or refuse it."
 msgstr ""
+"As cotações são documentos enviados aos clientes para oferecer um preço "
+"estimado para um determinado conjunto de produtos ou serviços. O cliente pode "
+"aceitar a cotação, caso em que o vendedor terá que emitir uma ordem de venda, "
+"ou recusar."
 
 #: ../../sales/quotation/send_quotation_by_email.rst:13
+#, fuzzy
 msgid ""
-"In traditional business process people use to send the quotation by "
-"courier, it is not efficient way as it delays the negotiation and "
-"quotation confirmation process, Odoo allows you to send the quotation by "
-"email and real-time discuss through email on the quotation."
+"In traditional business process people use to send the quotation by courier, it "
+"is not efficient way as it delays the negotiation and quotation confirmation "
+"process, Odoo allows you to send the quotation by email and real-time discuss "
+"through email on the quotation."
 msgstr ""
+"No processo de negócio tradicional os povos usam-se para emitir a citação pelo "
+"correio, ele não são maneira eficiente enquanto atrasam o processo da "
+"confirmação da negociação e da citação, Odoo permitem que você emita a citação "
+"pelo email e discutem em tempo real através do email na citação."
 
 #: ../../sales/quotation/send_quotation_by_email.rst:21
+#, fuzzy
 msgid ""
-"Let’s send your first quotation by email, so that customer can view and "
-"start negotiation on the quotation."
+"Let’s send your first quotation by email, so that customer can view and start "
+"negotiation on the quotation."
 msgstr ""
+"Vamos enviar sua primeira cotação por e-mail, para que o cliente possa "
+"visualizar e iniciar a negociação na cotação."
 
 #: ../../sales/quotation/send_quotation_by_email.rst:27
+#, fuzzy
 msgid ""
-"You don’t need any configuration when you are using Odoo online. Email "
-"feature is already configure and working out-of-the-box on Odoo online "
-"platform."
+"You don’t need any configuration when you are using Odoo online. Email feature "
+"is already configure and working out-of-the-box on Odoo online platform."
 msgstr ""
+"Você não precisa de nenhuma configuração quando você estiver usando Odoo "
+"online. O recurso de email já está configurado e funcionando fora da caixa na "
+"plataforma online Odoo."
 
 #: ../../sales/quotation/send_quotation_by_email.rst:31
+#, fuzzy
 msgid ""
-"You need to configure the external email server, if you are not using "
-"Odoo online platform, to be precise you need to configure an incoming and"
-" outgoing mail servers."
+"You need to configure the external email server, if you are not using Odoo "
+"online platform, to be precise you need to configure an incoming and outgoing "
+"mail servers."
 msgstr ""
+"Você precisa configurar o servidor de e-mail externo, se você não estiver "
+"usando a plataforma on-line Odoo, para ser preciso você precisa configurar um "
+"servidores de e-mail de entrada e saída."
 
 #: ../../sales/quotation/send_quotation_by_email.rst:37
+#, fuzzy
 msgid ""
-"Tip: If you configure only Outgoing Email Servers you will be able to "
-"send the quotation but not receive any feedback from prospects through "
-"email"
+"Tip: If you configure only Outgoing Email Servers you will be able to send the "
+"quotation but not receive any feedback from prospects through email"
 msgstr ""
+"Dica: se você configurar apenas servidores de E-mail de saída, você será capaz "
+"de enviar a cotação, mas não receber qualquer feedback dos clientes potenciais "
+"através de e-mail"
 
 #: ../../sales/quotation/send_quotation_by_email.rst:42
+#, fuzzy
 msgid "Email address on customer"
-msgstr ""
+msgstr "Endereço de E-mail no cliente"
 
 #: ../../sales/quotation/send_quotation_by_email.rst:44
+#, fuzzy
 msgid ""
-"Make sure you have entered the correct email address in the **Email** "
-"field, when you create a new customer."
+"Make sure you have entered the correct email address in the **Email** field, "
+"when you create a new customer."
 msgstr ""
+"Certifique-se de que introduziu o endereço de e-mail correcto no campo **e-"
+"mail**, quando cria um novo cliente."
 
 #: ../../sales/quotation/send_quotation_by_email.rst:48
+#, fuzzy
 msgid "Send by mail"
-msgstr ""
+msgstr "Enviar por correio"
 
 #: ../../sales/quotation/send_quotation_by_email.rst:50
+#, fuzzy
 msgid ""
-"Assumed that the quotation is prepared and ready to be shared with "
-"prospect, click on the **SEND BY EMAIL** button to send the quotation by "
-"email, automatic email will be prepared based on the predefined template "
-"which prepare the beautiful email with content and attachment on the "
-"email, review the email content, you can also add the content if you wish"
-" and send by clicking on the **SEND** button."
+"Assumed that the quotation is prepared and ready to be shared with prospect, "
+"click on the **SEND BY EMAIL** button to send the quotation by email, automatic "
+"email will be prepared based on the predefined template which prepare the "
+"beautiful email with content and attachment on the email, review the email "
+"content, you can also add the content if you wish and send by clicking on the "
+"**SEND** button."
 msgstr ""
+"Presume-se que a citação é preparada e pronto para ser compartilhado com "
+"perspectiva, clique no botão **ENVIAR POR E-MAIL** para enviar a cotação por e-"
+"mail, e-mail automático será preparado com base no modelo predefinido que "
+"preparam o belo e-mail com conteúdo e anexo no e-mail, reveja o conteúdo do e-"
+"mail, você também pode adicionar o conteúdo se desejar e enviar clicando no "
+"botão **ENVIAR**."
 
 #: ../../sales/quotation/send_quotation_by_email.rst:60
 msgid "Enter email address"
-msgstr ""
+msgstr "Insira o endereço de e-mail"
 
 #: ../../sales/quotation/send_quotation_by_email.rst:62
+#, fuzzy
 msgid ""
-"You may be asked to enter the email address before send an email, if you "
-"have not entered the email at the time of creating the customer."
+"You may be asked to enter the email address before send an email, if you have "
+"not entered the email at the time of creating the customer."
 msgstr ""
+"Você pode ser solicitado a digitar o endereço de e-mail antes de enviar um e-"
+"mail, se você não tiver entrado no e-mail no momento da criação do cliente."
 
 #: ../../sales/quotation/send_quotation_by_email.rst:67
+#, fuzzy
 msgid ""
-"Enter the valid email address and you are ready to send the quotation by "
-"email."
+"Enter the valid email address and you are ready to send the quotation by email."
 msgstr ""
+"Digite o endereço de e-mail válido e você está pronto para enviar a cotação por "
+"e-mail."
 
 #: ../../sales/quotation/send_quotation_by_email.rst:71
+#, fuzzy
 msgid "Chatter"
-msgstr ""
+msgstr "Conversa"
 
 #: ../../sales/quotation/send_quotation_by_email.rst:73
+#, fuzzy
 msgid ""
 "All the communication made to this quotation can be tracked in chatter, "
-"messages send to customer or received from the customer are available "
-"below quotation. All the communication history will be preserved and "
-"available when quotation gets converted to sales order."
+"messages send to customer or received from the customer are available below "
+"quotation. All the communication history will be preserved and available when "
+"quotation gets converted to sales order."
 msgstr ""
+"Toda a comunicação feita a esta citação pode ser rastreada em conversas, "
+"mensagens enviadas ao cliente ou recebidas do cliente estão disponíveis abaixo "
+"da cotação. Todo o histórico de comunicação será preservado e disponível quando "
+"a cotação for convertida em ordem de venda."
 
 #: ../../sales/quotation/send_quotation_by_email.rst:80
 msgid "Access the video at https://www.youtube.com/watch?v=TUcNeJ4CSVg"
-msgstr ""
+msgstr "Acesse o vídeo em https://www.youtube.com/watch?v=TUcNeJ4CSVg"
 
 #: ../../sales/quotation/set_default_terms_and_conditions.rst:6
 msgid "Set default terms and condition on quotation"
-msgstr ""
+msgstr "Definir termos e condições padrões na cotação"
 
 #: ../../sales/quotation/set_default_terms_and_conditions.rst:8
+#, fuzzy
 msgid ""
-"Every quotation issued to the prospect need to have terms and conditions,"
-" those terms and conditions are accepted by the customer at the time of "
-"accepting the quotation."
+"Every quotation issued to the prospect need to have terms and conditions, those "
+"terms and conditions are accepted by the customer at the time of accepting the "
+"quotation."
 msgstr ""
+"Cada cotação emitida para a perspectiva precisa ter termos e condições, esses "
+"termos e condições são aceitos pelo cliente no momento da aceitação da cotação."
 
 #: ../../sales/quotation/set_default_terms_and_conditions.rst:12
+#, fuzzy
 msgid ""
-"The most common terms and conditions includes the payment terms, delivery"
-" date, and tax clarification, there are many other points as below can be"
-" included in the terms and conditions:"
+"The most common terms and conditions includes the payment terms, delivery date, "
+"and tax clarification, there are many other points as below can be included in "
+"the terms and conditions:"
 msgstr ""
+"Os termos e condições mais comuns incluem as condições de pagamento, data de "
+"entrega e esclarecimento fiscal, existem muitos outros pontos como abaixo pode "
+"ser incluído nos termos e condições:"
 
 #: ../../sales/quotation/set_default_terms_and_conditions.rst:16
+#, fuzzy
 msgid "Acceptance"
-msgstr ""
+msgstr "Aceitação"
 
 #: ../../sales/quotation/set_default_terms_and_conditions.rst:18
 msgid "Payment Terms"
-msgstr ""
+msgstr "Termos de Pagamento"
 
 #: ../../sales/quotation/set_default_terms_and_conditions.rst:22
 msgid "Warranty"
-msgstr ""
+msgstr "Garantia"
 
 #: ../../sales/quotation/set_default_terms_and_conditions.rst:24
 msgid "Claims"
-msgstr ""
+msgstr "Reivindicações"
 
 #: ../../sales/quotation/set_default_terms_and_conditions.rst:26
+#, fuzzy
 msgid "Returns"
-msgstr ""
+msgstr "Retorna"
 
 #: ../../sales/quotation/set_default_terms_and_conditions.rst:28
+#, fuzzy
 msgid "Shipment"
-msgstr ""
+msgstr "Carregamento"
 
 #: ../../sales/quotation/set_default_terms_and_conditions.rst:30
+#, fuzzy
 msgid "Security Interest"
-msgstr ""
+msgstr "Interesses de Segurança"
 
 #: ../../sales/quotation/set_default_terms_and_conditions.rst:32
 msgid "Cancellation"
-msgstr ""
+msgstr "Cancelamento"
 
 #: ../../sales/quotation/set_default_terms_and_conditions.rst:34
+#, fuzzy
 msgid "Indemnification"
-msgstr ""
+msgstr "Indenização"
 
 #: ../../sales/quotation/set_default_terms_and_conditions.rst:36
+#, fuzzy
 msgid "Governing Law"
-msgstr ""
+msgstr "Lei aplicável"
 
 #: ../../sales/quotation/set_default_terms_and_conditions.rst:41
+#, fuzzy
 msgid ""
-"Let’s take an example of the trading company, they need to define the "
-"terms and conditions required by their nature of business, the terms and "
-"conditions should be applied to all the quotation created by any "
-"salesman. They want to set the below point as a default terms and "
-"conditions:"
+"Let’s take an example of the trading company, they need to define the terms and "
+"conditions required by their nature of business, the terms and conditions "
+"should be applied to all the quotation created by any salesman. They want to "
+"set the below point as a default terms and conditions:"
 msgstr ""
+"Vamos dar um exemplo da empresa de Trading, eles precisam definir os termos e "
+"condições exigidos por sua natureza do negócio, os termos e condições devem ser "
+"aplicados a toda a cotação criada por qualquer vendedor. Eles querem definir o "
+"ponto abaixo como um padrão de termos e condições:"
 
 #: ../../sales/quotation/set_default_terms_and_conditions.rst:47
+#, fuzzy
 msgid "Delivery of the goods will take 10 working days"
-msgstr ""
+msgstr "A entrega dos bens tomará 10 dias de trabalho"
 
 #: ../../sales/quotation/set_default_terms_and_conditions.rst:49
+#, fuzzy
 msgid "Other taxes such as octroi will be charges extra"
-msgstr ""
+msgstr "Outros impostos, tais como octroi será encargos extra"
 
 #: ../../sales/quotation/set_default_terms_and_conditions.rst:51
+#, fuzzy
 msgid "100% payment should be released at the time of confirmation"
-msgstr ""
+msgstr "100% de pagamento deve ser liberado no momento da confirmação"
 
 #: ../../sales/quotation/set_default_terms_and_conditions.rst:56
 msgid "Assumed that the **Sales Management** application is already installed."
 msgstr ""
+"Presume-se que o aplicativo **Gerenciamento de Vendas** já está instalado."
 
 #: ../../sales/quotation/set_default_terms_and_conditions.rst:59
 msgid "Default terms and conditions"
-msgstr ""
+msgstr "Termos e condições padrão"
 
 #: ../../sales/quotation/set_default_terms_and_conditions.rst:61
+#, fuzzy
 msgid ""
-"Let’s go to Sales / Configuration / Settings, enable the default terms "
-"and conditions and enter all the conditions those required to be set by "
-"default on all the quotation."
+"Let’s go to Sales / Configuration / Settings, enable the default terms and "
+"conditions and enter all the conditions those required to be set by default on "
+"all the quotation."
 msgstr ""
+"Vamos para Vendas / Configuração / Configurações, ativar os termos e condições "
+"padrão e entrar todas as condições que devem ser definidas por padrão em toda a "
+"cotação."
 
 #: ../../sales/quotation/set_default_terms_and_conditions.rst:67
 msgid "Click on **SAVE** to apply the settings."
-msgstr ""
+msgstr "Clique em **SALVAR** para aplicar as configurações."
 
 #: ../../sales/quotation/set_default_terms_and_conditions.rst:72
+#, fuzzy
 msgid ""
-"Goto **Sales / Orders / Quotations** and create a new quotation, you will"
-" notice that quotation is empty but the default terms and conditions are "
-"set on it."
+"Goto **Sales / Orders / Quotations** and create a new quotation, you will "
+"notice that quotation is empty but the default terms and conditions are set on "
+"it."
 msgstr ""
+"Vá até **Vendas / Pedidos / Cotações** e criar uma nova cotação, você vai notar "
+"que a cotação está vazia, mas os termos e condições padrão são definidos nele."
 
 #: ../../sales/quotation/set_default_terms_and_conditions.rst:78
+#, fuzzy
 msgid ""
-"The salesman can make the changes as per the requirement but you can be "
-"sure that salesman will never forget to add the default terms and "
-"conditions."
+"The salesman can make the changes as per the requirement but you can be sure "
+"that salesman will never forget to add the default terms and conditions."
 msgstr ""
+"O vendedor pode fazer as mudanças como por a exigência mas você pode ser certo "
+"que o vendedor nunca esquecerá adicionar os termos e as circunstâncias do "
+"defeito."
 
 #: ../../sales/quotation/set_default_terms_and_conditions.rst:82
+#, fuzzy
 msgid ""
-"The payment terms will be added automatically at the end of every "
-"quotation as a part of the terms and conditions in the printed quotation "
-"if any."
+"The payment terms will be added automatically at the end of every quotation as "
+"a part of the terms and conditions in the printed quotation if any."
 msgstr ""
+"As condições de pagamento serão adicionadas automaticamente no final de cada "
+"cotação como parte dos termos e condições na cotação impressa, se houver."
 
 #: ../../sales/quotation/set_default_terms_and_conditions.rst:88
 msgid "Access the video at https://www.youtube.com/watch?v=wnOTS1Bm8xI"
-msgstr ""
+msgstr "Acesse o vídeo em https://www.youtube.com/watch?v=wnOTS1Bm8xI"
 
 #: ../../sales/quotation_template/increase_your_sales_with_suggested_products.rst:6
+#, fuzzy
 msgid "Increase your sales with suggested products"
-msgstr ""
+msgstr "Aumente suas vendas com produtos sugeridos"
 
 #: ../../sales/quotation_template/increase_your_sales_with_suggested_products.rst:8
+#, fuzzy
 msgid ""
 "The use of suggested products is an attempt to offer related and useful "
-"products to your client. For instance, a client purchasing a cell phone "
-"could be shown accessories like a protective case, a screen cover, and a "
-"headset."
+"products to your client. For instance, a client purchasing a cell phone could "
+"be shown accessories like a protective case, a screen cover, and a headset."
 msgstr ""
+"O uso de produtos sugeridos é uma tentativa de oferecer produtos relacionados e "
+"úteis para o seu cliente. Por exemplo, um cliente que compra um telefone de "
+"pilha poderia ser mostrado acessórios como uma caixa protetora, uma tampa da "
+"tela, e um auriculares."
 
 #: ../../sales/quotation_template/increase_your_sales_with_suggested_products.rst:16
+#, fuzzy
 msgid ""
-"The consulting company want to add the suggested product such as "
-"*Software training program* on the quotation when they make a quotation "
-"for *Offshore Projects*."
+"The consulting company want to add the suggested product such as *Software "
+"training program* on the quotation when they make a quotation for *Offshore "
+"Projects*."
 msgstr ""
+"A empresa de consultoria deseja adicionar o produto sugerido, como *Programa de "
+"Treinamento de Software* na cotação quando eles fazem uma cotação para "
+"*Projetos Offshore*."
 
 #: ../../sales/quotation_template/increase_your_sales_with_suggested_products.rst:23
 msgid ""
-"Assumed that the **Sales Management** application is installed and "
-"quotation template is configured well for the *Offshore Project*."
+"Assumed that the **Sales Management** application is installed and quotation "
+"template is configured well for the *Offshore Project*."
 msgstr ""
+"Presume-se que o aplicativo **Gerenciamento de Vendas** está instalado e o "
+"modelo de cotação está configurado bem para o *Projeto Offshore*."
 
 #: ../../sales/quotation_template/increase_your_sales_with_suggested_products.rst:27
 msgid "Suggested products"
-msgstr ""
+msgstr "Produtos sugeridos"
 
 #: ../../sales/quotation_template/increase_your_sales_with_suggested_products.rst:29
+#, fuzzy
 msgid ""
-"Open the Offshore Project quotation template, add the product(s) under "
-"the **Suggested Product** tab on quotation template. In our case let’s "
-"add the Software training program as a service product."
+"Open the Offshore Project quotation template, add the product(s) under the "
+"**Suggested Product** tab on quotation template. In our case let’s add the "
+"Software training program as a service product."
 msgstr ""
+"Abra o modelo de cotação de Projeto Offshore, adicione o produto(s) o **Produto "
+"Sugerido** guia no modelo de cotação. No nosso caso, vamos adicionar o programa "
+"de treinamento de software como um produto de serviço."
 
 #: ../../sales/quotation_template/increase_your_sales_with_suggested_products.rst:36
+#, fuzzy
 msgid "Send the quotation"
-msgstr ""
+msgstr "Enviar a cotação"
 
 #: ../../sales/quotation_template/increase_your_sales_with_suggested_products.rst:38
+#, fuzzy
 msgid ""
-"Prepare and send the quotation to customer by email. Customer can see the"
-" quotation a full product or service detailed specification along with "
-"the quoted price, and suggested products at the end. If customer find "
-"valuable products or service in suggested products they can directly add "
-"them in to quotation by themself before they approve and pay quotation "
-"online."
+"Prepare and send the quotation to customer by email. Customer can see the "
+"quotation a full product or service detailed specification along with the "
+"quoted price, and suggested products at the end. If customer find valuable "
+"products or service in suggested products they can directly add them in to "
+"quotation by themself before they approve and pay quotation online."
 msgstr ""
+"Prepare e envie a cotação para o cliente por e-mail. O cliente pode ver a "
+"cotação de um produto completo ou serviço de especificação detalhada, "
+"juntamente com o preço citado, e produtos sugeridos no final. Se o cliente "
+"encontrar produtos valiosos ou serviço em produtos sugeridos, eles podem "
+"adicioná-los diretamente à cotação por si mesmos antes de aprovar e pagar "
+"cotação on-line."
 
 #: ../../sales/quotation_template/online_customer_approval_and_payment_on_quotation.rst:6
+#, fuzzy
 msgid "Online customer approval and payment on quotation"
-msgstr ""
+msgstr "Aprovação de clientes on-line e pagamento por cotação"
 
 #: ../../sales/quotation_template/online_customer_approval_and_payment_on_quotation.rst:8
 #: ../../sales/quotation_template/online_customer_approval_on_quotation.rst:8
+#, fuzzy
 msgid ""
-"Sending an online quotation can speed up the negotiation process, "
-"customer can negotiate and approve the quotation online, this can boost "
-"up your sales process and minimise the sales cycle."
+"Sending an online quotation can speed up the negotiation process, customer can "
+"negotiate and approve the quotation online, this can boost up your sales "
+"process and minimise the sales cycle."
 msgstr ""
+"Enviando uma cotação on-line pode acelerar o processo de negociação, o cliente "
+"pode negociar e aprovar a cotação on-line, isso pode impulsionar o seu processo "
+"de vendas e minimizar o ciclo de vendas."
 
 #: ../../sales/quotation_template/online_customer_approval_and_payment_on_quotation.rst:12
+#, fuzzy
 msgid ""
-"Getting online approval on quotation is good but getting paid online is "
-"great, it will be really cool to get online payment from the customer "
-"along with the approval of quotation."
+"Getting online approval on quotation is good but getting paid online is great, "
+"it will be really cool to get online payment from the customer along with the "
+"approval of quotation."
 msgstr ""
+"Obtendo aprovação on-line em cotação é bom, mas recebendo on-line é ótimo, será "
+"muito legal para obter o pagamento on-line do cliente, juntamente com a "
+"aprovação da cotação."
 
 #: ../../sales/quotation_template/online_customer_approval_and_payment_on_quotation.rst:19
+#, fuzzy
 msgid ""
-"The service company who is selling the *Support pack* which is service "
-"offered at fixed price. As soon as customer make the online payment, they"
-" can start getting the support by sending support request. The company "
-"wants to get the online payment instead of signature from the customer to"
-" start the support service."
+"The service company who is selling the *Support pack* which is service offered "
+"at fixed price. As soon as customer make the online payment, they can start "
+"getting the support by sending support request. The company wants to get the "
+"online payment instead of signature from the customer to start the support "
+"service."
 msgstr ""
+"A empresa de serviços que está vendendo o *Support Pack* que é o serviço "
+"oferecido a preço fixo. Assim que o cliente fizer o pagamento on-line, eles "
+"podem começar a receber o suporte enviando o pedido de suporte. A empresa quer "
+"obter o pagamento on-line em vez de assinatura do cliente para iniciar o "
+"serviço de suporte."
 
 #: ../../sales/quotation_template/online_customer_approval_and_payment_on_quotation.rst:28
 #: ../../sales/quotation_template/online_customer_approval_on_quotation.rst:24
 msgid ""
-"Assumed that you have installed **Sales Management** application, "
-"configure the quotation template for the support packs."
+"Assumed that you have installed **Sales Management** application, configure the "
+"quotation template for the support packs."
 msgstr ""
+"Presume-se que você instalou o aplicativo **Gerenciamento de Vendas**, "
+"configure o modelo de cotação para os pacotes de suporte."
 
 #: ../../sales/quotation_template/online_customer_approval_and_payment_on_quotation.rst:32
 msgid "Online payment"
-msgstr ""
+msgstr "Pagamento online"
 
 #: ../../sales/quotation_template/online_customer_approval_and_payment_on_quotation.rst:34
+#, fuzzy
 msgid ""
 "The **Confirmation Mode** on the quotation template available on the "
-"**Configuration** tab is set to *Online Signature* by default, change it "
-"to *Online Payment*. The customer have to pay online to confirm the "
-"quotation by themselves."
+"**Configuration** tab is set to *Online Signature* by default, change it to "
+"*Online Payment*. The customer have to pay online to confirm the quotation by "
+"themselves."
 msgstr ""
+"O **Modo de Confirmação** no modelo de cotação disponível na guia "
+"**Configuração** é definido como *Assinatura On-line* por padrão, alterá-lo "
+"para *Pagamento On-line*. O cliente tem que pagar on-line para confirmar a "
+"cotação por si."
 
 #: ../../sales/quotation_template/online_customer_approval_and_payment_on_quotation.rst:40
 msgid "Accept online payment"
-msgstr ""
+msgstr "Aceite o pagamento online"
 
 #: ../../sales/quotation_template/online_customer_approval_and_payment_on_quotation.rst:42
+#, fuzzy
 msgid ""
 "Installing the **Sales Management** application also installed the "
-"**Invoicing** application, the payment acquire needs to be activated from"
-" the list of payment acquires (payment gateways) available in Odoo. All "
-"the payment acquires can be found and activated from **Invoicing / "
-"Configuration / Payment Acquirers**.Install and configure the payment "
-"acquirer, which suits your requirement."
+"**Invoicing** application, the payment acquire needs to be activated from the "
+"list of payment acquires (payment gateways) available in Odoo. All the payment "
+"acquires can be found and activated from **Invoicing / Configuration / Payment "
+"Acquirers**.Install and configure the payment acquirer, which suits your "
+"requirement."
 msgstr ""
+"Instalando o aplicativo **Gerenciamento de Vendas** também instalou o "
+"aplicativo **Faturamento**, a aquisição de pagamento precisa ser ativada a "
+"partir da lista de aquisições de pagamento (gateways de pagamento) disponíveis "
+"no Odoo. Todas as aquisições de pagamento podem ser encontradas e ativadas a "
+"partir de **Faturamento / Configuração /Pagamento Adquirirers**. Instale e "
+"configure o adquirente do pagamento, que se adapte à sua exigência."
 
 #: ../../sales/quotation_template/online_customer_approval_and_payment_on_quotation.rst:49
+#, fuzzy
 msgid "I have installed and configure the *Authorised.net* payment acquirer."
-msgstr ""
+msgstr "Eu instalei e configuro o *Authorised.net* Acquirer do pagamento."
 
 #: ../../sales/quotation_template/online_customer_approval_and_payment_on_quotation.rst:53
+#, fuzzy
 msgid ""
-"Do not forget to **Publish** configured payment acquire to force customer"
-" to pay by that and unpublish other acquire such as **Wire Transfer**."
+"Do not forget to **Publish** configured payment acquire to force customer to "
+"pay by that and unpublish other acquire such as **Wire Transfer**."
 msgstr ""
+"Não se esqueça de **Publicar** pagamento configurado adquirir para forçar o "
+"cliente a pagar por isso e cancelar outros adquirir tais como **Transferência "
+"Bancária**."
 
 #: ../../sales/quotation_template/online_customer_approval_and_payment_on_quotation.rst:57
+#, fuzzy
 msgid ""
-"I have also made change to **Payment Flow** from *Redirect to the "
-"acquirer website* to *Payment from Odoo* as i want to process the payment"
-" directly from Odoo without redirecting to acquirer website. You can "
-"switch to **Production** as soon as everything configured and working "
-"properly."
+"I have also made change to **Payment Flow** from *Redirect to the acquirer "
+"website* to *Payment from Odoo* as i want to process the payment directly from "
+"Odoo without redirecting to acquirer website. You can switch to **Production** "
+"as soon as everything configured and working properly."
 msgstr ""
+"Eu também fiz a mudança para **Fluxo de Pagamento** de *Redirecionar para o "
+"site adquirente* para *Pagamento de Odoo* como eu quero processar o pagamento "
+"diretamente do odoo sem redirecionar para o site adquirente. Você pode alternar "
+"para **Produção** assim que tudo configurado e funcionando corretamente."
 
 #: ../../sales/quotation_template/online_customer_approval_and_payment_on_quotation.rst:64
 #: ../../sales/quotation_template/online_customer_approval_on_quotation.rst:37
 msgid "Create and send quotation by email"
-msgstr ""
+msgstr "Criar e enviar cotação por e-mail"
 
 #: ../../sales/quotation_template/online_customer_approval_and_payment_on_quotation.rst:66
+#, fuzzy
 msgid ""
-"Create a quotation select customer, select quotation template. Before you"
-" send the quotation to customer make sure that **Confirmation Mode** is "
-"set to *Online Payment* on quotation under the **Other Information** tab."
+"Create a quotation select customer, select quotation template. Before you send "
+"the quotation to customer make sure that **Confirmation Mode** is set to "
+"*Online Payment* on quotation under the **Other Information** tab."
 msgstr ""
+"Criar um cliente de seleção de cotação, selecionar modelo de cotação. Antes de "
+"enviar a cotação para o cliente certifique-se de que **Modo de Confirmação** "
+"está definido como *pagamento online* na cotação na guia **Outras Informações**."
 
 #: ../../sales/quotation_template/online_customer_approval_and_payment_on_quotation.rst:73
 #: ../../sales/quotation_template/online_customer_approval_on_quotation.rst:46
+#, fuzzy
 msgid ""
-"You can change the **Confirmation Mode** for each quotation regardless of"
-" the configuration on quotation template."
+"You can change the **Confirmation Mode** for each quotation regardless of the "
+"configuration on quotation template."
 msgstr ""
+"Você pode alterar o **Modo de Confirmação** para cada cotação, "
+"independentemente da configuração no modelo de cotação."
 
 #: ../../sales/quotation_template/online_customer_approval_and_payment_on_quotation.rst:77
 msgid "Accept and pay online"
-msgstr ""
+msgstr "Aceitar e pagar online"
 
 #: ../../sales/quotation_template/online_customer_approval_and_payment_on_quotation.rst:79
+#, fuzzy
 msgid ""
-"Customer can review the quotation online, once it suite their need that "
-"can accept the quotation by clicking on the **Accept Order** and make the"
-" online payment on the quotation."
+"Customer can review the quotation online, once it suite their need that can "
+"accept the quotation by clicking on the **Accept Order** and make the online "
+"payment on the quotation."
 msgstr ""
+"O cliente pode rever a cotação on-line, uma vez que Suite sua necessidade que "
+"pode aceitar a cotação, clicando no **Aceitar a Ordem** e fazer o pagamento on-"
+"line sobre a cotação."
 
 #: ../../sales/quotation_template/online_customer_approval_and_payment_on_quotation.rst:85
+#, fuzzy
 msgid ""
-"The quotation accepted and paid by the customer online will convert "
-"quotation to sales order in backend."
+"The quotation accepted and paid by the customer online will convert quotation "
+"to sales order in backend."
 msgstr ""
+"A cotação aceita e paga pelo cliente on-line irá converter cotação para ordem "
+"de venda no backend."
 
 #: ../../sales/quotation_template/online_customer_approval_and_payment_on_quotation.rst:88
+#, fuzzy
 msgid ""
-"Make sure that customer has correct contract details before they process "
-"for the online payment. Some payment acquirer required complete customer "
-"details."
+"Make sure that customer has correct contract details before they process for "
+"the online payment. Some payment acquirer required complete customer details."
 msgstr ""
+"Certifique-se de que o cliente tenha os detalhes do contrato corretos antes de "
+"processarem o pagamento online. Algum adquirente do pagamento exigiu detalhes "
+"completos do cliente."
 
 #: ../../sales/quotation_template/online_customer_approval_and_payment_on_quotation.rst:92
 msgid ""
-"Customer can accept and pay online quotation which are not expired yet. "
-"The expiration date will be computed on quotation based on the number of "
-"days defined on quotation template in **Quotation expires after** field. "
-"However the specific **Expiration Date** can be set on the quotation "
-"manually before you send the quotation by email."
+"Customer can accept and pay online quotation which are not expired yet. The "
+"expiration date will be computed on quotation based on the number of days "
+"defined on quotation template in **Quotation expires after** field. However the "
+"specific **Expiration Date** can be set on the quotation manually before you "
+"send the quotation by email."
 msgstr ""
 
 #: ../../sales/quotation_template/online_customer_approval_and_payment_on_quotation.rst:98
+#, fuzzy
 msgid ""
-"The quotation converted to sales order and It will automatically triggers"
-" the next business process in backend such as creating a delivery order, "
-"manufacturing order or create a task or project in the project management"
-" depending on your configuration."
+"The quotation converted to sales order and It will automatically triggers the "
+"next business process in backend such as creating a delivery order, "
+"manufacturing order or create a task or project in the project management "
+"depending on your configuration."
 msgstr ""
+"A cotação convertida para ordem de venda e ele acionará automaticamente o "
+"próximo processo de negócios no backend, como criar uma ordem de entrega, ordem "
+"de produção ou criar uma tarefa ou projeto no gerenciamento de projeto, "
+"dependendo da sua configuração."
 
 #: ../../sales/quotation_template/online_customer_approval_and_payment_on_quotation.rst:105
+#, fuzzy
 msgid ""
-"The Transaction is attached to the confirmed sales order, you can click "
-"on the transaction and get the status and reference about the online "
-"payment made by customer. It is set to **Done** and **Acquirer "
-"Reference** number is available on the transaction when payment was "
-"successfully processed."
+"The Transaction is attached to the confirmed sales order, you can click on the "
+"transaction and get the status and reference about the online payment made by "
+"customer. It is set to **Done** and **Acquirer Reference** number is available "
+"on the transaction when payment was successfully processed."
 msgstr ""
+"A transação é anexada à ordem de venda confirmada, você pode clicar na "
+"transação e obter o status e a referência sobre o pagamento on-line feito pelo "
+"cliente. Ele está definido como **FEITO** e o número de **Referência do "
+"Acquirer** está disponível na transação quando o pagamento foi processado com "
+"êxito."
 
 #: ../../sales/quotation_template/online_customer_approval_and_payment_on_quotation.rst:114
 #: ../../sales/quotation_template/online_customer_approval_on_quotation.rst:71
+#, fuzzy
 msgid "Reject quotation"
-msgstr ""
+msgstr "Rejeitar cotação"
 
 #: ../../sales/quotation_template/online_customer_approval_and_payment_on_quotation.rst:116
 #: ../../sales/quotation_template/online_customer_approval_on_quotation.rst:73
+#, fuzzy
 msgid ""
-"The quotation will be set to **Cancelled** state in the backend once it "
-"has been rejected by the customer online, however it can be reset to "
-"draft modified and send it back to the customer when you are in "
-"negotiation process."
+"The quotation will be set to **Cancelled** state in the backend once it has "
+"been rejected by the customer online, however it can be reset to draft modified "
+"and send it back to the customer when you are in negotiation process."
 msgstr ""
+"A cotação será definida como **Cancelado** estado no backend, uma vez que foi "
+"rejeitado pelo cliente on-line, no entanto, ele pode ser redefinido para "
+"rascunho modificado e enviá-lo de volta para o cliente quando você está em "
+"processo de negociação."
 
 #: ../../sales/quotation_template/online_customer_approval_and_payment_on_quotation.rst:123
 msgid "Access the video at https://www.youtube.com/watch?v=tpL2EgXAaZ4"
-msgstr ""
+msgstr "Acesse o vídeo em https://www.youtube.com/watch?v=tpL2EgXAaZ4"
 
 #: ../../sales/quotation_template/online_customer_approval_on_quotation.rst:6
+#, fuzzy
 msgid "Online customer approval on quotation"
-msgstr ""
+msgstr "Aprovação de clientes on-line na cotação"
 
 #: ../../sales/quotation_template/online_customer_approval_on_quotation.rst:15
+#, fuzzy
 msgid ""
-"The service company who is selling the *Support pack* which is service "
-"offered at fixed price. As soon as customer accept the proposal, customer"
-" can start sending the support requests. The company wants to get the "
-"online signature from the customer and customer can release the payment "
-"based on the payment terms."
+"The service company who is selling the *Support pack* which is service offered "
+"at fixed price. As soon as customer accept the proposal, customer can start "
+"sending the support requests. The company wants to get the online signature "
+"from the customer and customer can release the payment based on the payment "
+"terms."
 msgstr ""
+"A empresa de serviços que está vendendo o *Support Pack* que é o serviço "
+"oferecido a preço fixo. Assim que o cliente aceitar a proposta, o cliente pode "
+"começar a enviar as solicitações de suporte. A empresa quer obter a assinatura "
+"on-line do cliente e o cliente pode liberar o pagamento com base nas condições "
+"de pagamento."
 
 #: ../../sales/quotation_template/online_customer_approval_on_quotation.rst:28
 msgid "Online signature"
-msgstr ""
+msgstr "Assinatura online"
 
 #: ../../sales/quotation_template/online_customer_approval_on_quotation.rst:30
+#, fuzzy
 msgid ""
 "The **Confirmation Mode** on the quotation template available on the "
-"**Confirmation** tab is set to *Online Signature* by default. The "
-"customer can confirm the quotation by themselves by signing the "
-"quotation. Keep it as it is when you just want the online signature form "
-"customer."
+"**Confirmation** tab is set to *Online Signature* by default. The customer can "
+"confirm the quotation by themselves by signing the quotation. Keep it as it is "
+"when you just want the online signature form customer."
 msgstr ""
+"O **Modo de Confirmação** no modelo de cotação disponível na guia "
+"**Confirmação** é definido como *Assinatura On-line* por padrão. O cliente pode "
+"confirmar a cotação por si só assinando a cotação. Mantenha-o como é quando "
+"você apenas quer o cliente em linha do formulário da assinatura."
 
 #: ../../sales/quotation_template/online_customer_approval_on_quotation.rst:39
+#, fuzzy
 msgid ""
-"Create a quotation select customer, select quotation template. Before you"
-" send the quotation to customer make sure that **Confirmation Mode** is "
-"set to *Online signature* on quotation under the **Other Information** "
-"tab."
+"Create a quotation select customer, select quotation template. Before you send "
+"the quotation to customer make sure that **Confirmation Mode** is set to "
+"*Online signature* on quotation under the **Other Information** tab."
 msgstr ""
+"Criar um cliente de seleção de cotação, selecionar modelo de cotação. Antes de "
+"enviar a cotação para o cliente certifique-se de que **Modo de Confirmação** "
+"está definido como *assinatura on-line* na cotação na guia **Outras "
+"Informações**."
 
 #: ../../sales/quotation_template/online_customer_approval_on_quotation.rst:50
 msgid "Accept quotation"
-msgstr ""
+msgstr "Aceitar cotação"
 
 #: ../../sales/quotation_template/online_customer_approval_on_quotation.rst:52
+#, fuzzy
 msgid ""
-"Customer can review the quotation online, once it suits his/her need than"
-" he/she can accept the quotation by clicking on the **Accept Order** and "
-"signing the quotation online."
+"Customer can review the quotation online, once it suits his/her need than he/"
+"she can accept the quotation by clicking on the **Accept Order** and signing "
+"the quotation online."
 msgstr ""
+"O cliente pode rever a cotação on-line, uma vez que se adapte a sua necessidade "
+"do que ele/ela pode aceitar a cotação clicando no **Aceitar a Ordem** e "
+"assinando a cotação on-line."
 
 #: ../../sales/quotation_template/online_customer_approval_on_quotation.rst:58
+#, fuzzy
 msgid ""
 "The quotation accepted and signed by the customer will be confirmed and "
-"converted to sales order in backend. It will automatically triggers the "
-"next business process in backend such as creating a delivery order, "
-"manufacturing order or create a task or project in the project management"
-" depending on your configuration."
+"converted to sales order in backend. It will automatically triggers the next "
+"business process in backend such as creating a delivery order, manufacturing "
+"order or create a task or project in the project management depending on your "
+"configuration."
 msgstr ""
+"A cotação aceita e assinada pelo cliente será confirmada e convertida em ordem "
+"de venda no backend. Ele acionará automaticamente o próximo processo de "
+"negócios no backend, como criar uma ordem de entrega, ordem de produção ou "
+"criar uma tarefa ou projeto no gerenciamento de projetos, dependendo da sua "
+"configuração."
 
 #: ../../sales/quotation_template/online_customer_approval_on_quotation.rst:64
 msgid ""
-"Customer can accept and sign online quotation which are not expired yet. "
-"The expiration date will be computed on quotation based on the number of "
-"days defined on quotation template in **Quotation expires after** field. "
-"However the specific **Expiration Date** can be set on the quotation "
-"manually before you send the quotation by email."
+"Customer can accept and sign online quotation which are not expired yet. The "
+"expiration date will be computed on quotation based on the number of days "
+"defined on quotation template in **Quotation expires after** field. However the "
+"specific **Expiration Date** can be set on the quotation manually before you "
+"send the quotation by email."
 msgstr ""
 
 #: ../../sales/quotation_template/online_customer_approval_on_quotation.rst:80
 msgid "Access the video at https://www.youtube.com/watch?v=LZjN1fdVSO4"
-msgstr ""
+msgstr "Acesse o vídeo em https://www.youtube.com/watch?v=LZjN1fdVSO4"
 
 #: ../../sales/quotation_template/quick_create_quotation_using_quotation_template.rst:6
 msgid "Create quick quotation using quotation template"
-msgstr ""
+msgstr "Criar cotação rápida usando o modelo de cotação"
 
 #: ../../sales/quotation_template/quick_create_quotation_using_quotation_template.rst:8
+#, fuzzy
 msgid ""
-"If you often sell the same products or services, you can save a lot of "
-"time by creating standard quotation templates. By using a quotation "
-"template you can send a complete quotation in no time."
+"If you often sell the same products or services, you can save a lot of time by "
+"creating standard quotation templates. By using a quotation template you can "
+"send a complete quotation in no time."
 msgstr ""
+"Se você costuma vender os mesmos produtos ou serviços, pode economizar muito "
+"tempo criando modelos de cotação padrão. Ao usar um modelo de cotação, você "
+"pode enviar uma cotação completa em nenhum momento."
 
 #: ../../sales/quotation_template/quick_create_quotation_using_quotation_template.rst:15
+#, fuzzy
 msgid ""
-"The service company who is selling the offshore projects to their "
-"customers with standard set of service products such as Project manager "
-"days, Developer days, and Project setup fee. The developers days are "
-"minimum to 20 days and project manager are one third of the developer "
-"days."
+"The service company who is selling the offshore projects to their customers "
+"with standard set of service products such as Project manager days, Developer "
+"days, and Project setup fee. The developers days are minimum to 20 days and "
+"project manager are one third of the developer days."
 msgstr ""
+"A empresa de serviços que está vendendo os projetos offshore para seus clientes "
+"com conjunto padrão de produtos de serviço, como dias de gerente de projeto, "
+"dias de desenvolvedor e taxa de instalação do projeto. Os desenvolvedores dias "
+"são mínimos para 20 dias e gerente de projeto são um terço dos dias do "
+"desenvolvedor."
 
 #: ../../sales/quotation_template/quick_create_quotation_using_quotation_template.rst:24
 msgid "Assumed that **Sales Management** application is installed."
 msgstr ""
+"Presume-se que o aplicativo de **Gerenciamento de Vendas** está instalado."
 
 #: ../../sales/quotation_template/quick_create_quotation_using_quotation_template.rst:27
+#, fuzzy
 msgid "Quotation template"
-msgstr ""
+msgstr "Modelo de cotação"
 
 #: ../../sales/quotation_template/quick_create_quotation_using_quotation_template.rst:29
+#, fuzzy
 msgid ""
-"Quotation template is a great feature that allows user to create offers "
-"with group of products those are sold together."
+"Quotation template is a great feature that allows user to create offers with "
+"group of products those are sold together."
 msgstr ""
+"O molde da citação é uma grande característica que permita que o usuário crie "
+"ofertas com grupo de produtos aqueles são vendidos junto."
 
 #: ../../sales/quotation_template/quick_create_quotation_using_quotation_template.rst:35
 msgid "Create a products"
-msgstr ""
+msgstr "Criar produtos"
 
 #: ../../sales/quotation_template/quick_create_quotation_using_quotation_template.rst:37
+#, fuzzy
 msgid ""
 "Create the list of products that you are going to sale together, in our "
 "business case the list of products of type service are as below:"
 msgstr ""
+"Crie a lista de produtos que você está indo à venda junto, em nosso caso de "
+"negócio a lista de produtos do tipo serviço é como abaixo:"
 
 #: ../../sales/quotation_template/quick_create_quotation_using_quotation_template.rst:40
+#, fuzzy
 msgid "Offshore Project Setup Fee"
-msgstr ""
+msgstr "Taxa de instalação do ProjetoOoffshore"
 
 #: ../../sales/quotation_template/quick_create_quotation_using_quotation_template.rst:42
+#, fuzzy
 msgid "Project Manager Consulting Days"
-msgstr ""
+msgstr "Gerente de projetos dias de consultoria"
 
 #: ../../sales/quotation_template/quick_create_quotation_using_quotation_template.rst:44
+#, fuzzy
 msgid "Developer Days"
-msgstr ""
+msgstr "Dias do desenvolvedor"
 
 #: ../../sales/quotation_template/quick_create_quotation_using_quotation_template.rst:47
 msgid "Create your quotation template"
-msgstr ""
+msgstr "Criar seu modelo de cotação"
 
 #: ../../sales/quotation_template/quick_create_quotation_using_quotation_template.rst:49
+#, fuzzy
 msgid ""
-"The quotation templates can be found under **Sales / Configuration / "
-"Quotation Template**, create or edit an existing template. Enter the "
-"appropriate name of the template and select the list of product(s) and "
-"their quantity as well as the expiration time for the quotation."
+"The quotation templates can be found under **Sales / Configuration / Quotation "
+"Template**, create or edit an existing template. Enter the appropriate name of "
+"the template and select the list of product(s) and their quantity as well as "
+"the expiration time for the quotation."
 msgstr ""
+"Os modelos de cotação podem ser encontrados em **Vendas / Configuração / "
+"Cotação / Modelo**, criar ou editar um modelo existente. Insira o nome "
+"apropriado do modelo e selecione a lista de produto (s) e sua quantidade, bem "
+"como o tempo de expiração para a cotação."
 
 #: ../../sales/quotation_template/quick_create_quotation_using_quotation_template.rst:56
+#, fuzzy
 msgid ""
-"You can also specify discount,if discount option is activated in the "
-"Sales settings."
-msgstr ""
-
-#: ../../sales/quotation_template/quick_create_quotation_using_quotation_template.rst:59
-msgid ""
-"You can edit the customer interface of the template that they see to "
-"accept or pay the quotation. This lets you describe your company, "
-"services and products. When you click on **Edit Template** you will be "
-"brought to the quotation template editor."
-msgstr ""
-
-#: ../../sales/quotation_template/quick_create_quotation_using_quotation_template.rst:66
-msgid ""
-"The quotation template editor lets you edit the description content "
-"thanks to drag & drop of building blocks. To describe your products add a"
-" content block in the zone dedicated to each product."
-msgstr ""
-
-#: ../../sales/quotation_template/quick_create_quotation_using_quotation_template.rst:70
-msgid ""
-"The description set for the products will be used in all quotations "
-"templates containing those products."
-msgstr ""
-
-#: ../../sales/quotation_template/quick_create_quotation_using_quotation_template.rst:76
-msgid ""
-"When creating a quotation, you have to select a template, product in that"
-" template will be added to your quotation."
-msgstr ""
-
-#: ../../sales/quotation_template/quick_create_quotation_using_quotation_template.rst:81
-msgid ""
-"You can select a template to be suggested by default in the Sales "
+"You can also specify discount,if discount option is activated in the Sales "
 "settings."
 msgstr ""
+"Você também pode especificar o desconto, se a opção de desconto for ativada nas "
+"configurações de vendas."
+
+#: ../../sales/quotation_template/quick_create_quotation_using_quotation_template.rst:59
+#, fuzzy
+msgid ""
+"You can edit the customer interface of the template that they see to accept or "
+"pay the quotation. This lets you describe your company, services and products. "
+"When you click on **Edit Template** you will be brought to the quotation "
+"template editor."
+msgstr ""
+"Você pode editar a interface do cliente do modelo que eles veem para aceitar ou "
+"pagar a cotação. Isso permite que você descreva sua empresa, serviços e "
+"produtos. Quando você clicar em **Editar Modelo** você será trazido para o "
+"editor de modelo de cotação."
+
+#: ../../sales/quotation_template/quick_create_quotation_using_quotation_template.rst:66
+#, fuzzy
+msgid ""
+"The quotation template editor lets you edit the description content thanks to "
+"drag & drop of building blocks. To describe your products add a content block "
+"in the zone dedicated to each product."
+msgstr ""
+"O editor de modelo de cotação permite que você edite o conteúdo de descrição "
+"graças a arrastar e soltar de blocos de construção. Para descrever seus "
+"produtos, adicione um bloco de conteúdo na zona dedicada a cada produto."
+
+#: ../../sales/quotation_template/quick_create_quotation_using_quotation_template.rst:70
+#, fuzzy
+msgid ""
+"The description set for the products will be used in all quotations templates "
+"containing those products."
+msgstr ""
+"A descrição definida para os produtos será usada em todos os modelos de "
+"Cotações que contenham esses produtos."
+
+#: ../../sales/quotation_template/quick_create_quotation_using_quotation_template.rst:76
+#, fuzzy
+msgid ""
+"When creating a quotation, you have to select a template, product in that "
+"template will be added to your quotation."
+msgstr ""
+"Ao criar uma cotação, você precisa selecionar um modelo, o produto nesse modelo "
+"será adicionado à sua cotação."
+
+#: ../../sales/quotation_template/quick_create_quotation_using_quotation_template.rst:81
+#, fuzzy
+msgid ""
+"You can select a template to be suggested by default in the Sales settings."
+msgstr ""
+"Você pode selecionar um modelo a ser sugerido por padrão nas configurações de "
+"vendas."
 
 #: ../../sales/quotation_template/quick_create_quotation_using_quotation_template.rst:87
+#, fuzzy
 msgid ""
-"You have to send the quotation by email, so that the quotation can be "
-"viewed, accept or reject or paid online by the customer."
+"You have to send the quotation by email, so that the quotation can be viewed, "
+"accept or reject or paid online by the customer."
 msgstr ""
+"Você tem que enviar a cotação por e-mail, de modo que a cotação pode ser visto, "
+"aceitar ou rejeitar ou pagos on-line pelo cliente."
 
 #: ../../sales/quotation_template/quick_create_quotation_using_quotation_template.rst:91
 msgid "Quotation viewed by customer"
-msgstr ""
+msgstr "Cotação visualizada pelo cliente"
 
 #: ../../sales/quotation_template/quick_create_quotation_using_quotation_template.rst:93
+#, fuzzy
 msgid ""
-"As a salesman you can start the follow-up on the quotation as soon as you"
-" see that a quotation viewed by customer. Everytime customer open the "
-"quotation preview you will have a message in chatter, this features of "
-"the quotation template help salesman to understand the customer interest "
-"on quotation."
+"As a salesman you can start the follow-up on the quotation as soon as you see "
+"that a quotation viewed by customer. Everytime customer open the quotation "
+"preview you will have a message in chatter, this features of the quotation "
+"template help salesman to understand the customer interest on quotation."
 msgstr ""
+"Como um vendedor você pode começar a continuação na citação assim que você vê "
+"que uma citação vista pelo cliente. Toda vez que o cliente abrir a visualização "
+"de cotação você terá uma mensagem no Chatter, esses recursos do modelo de "
+"cotação ajudam o vendedor a entender o interesse do cliente na cotação."
 
 #: ../../sales/quotation_template/quick_create_quotation_using_quotation_template.rst:101
+#, fuzzy
 msgid ""
-"Please remove the attached quotation (pdf file) at the time sending "
-"quotation by mail, if you want your customer should open the quotation "
-"preview."
+"Please remove the attached quotation (pdf file) at the time sending quotation "
+"by mail, if you want your customer should open the quotation preview."
 msgstr ""
+"Remova por favor a citação unida (arquivo pdf) no momento que emite a citação "
+"pelo correio, se você quer seu cliente deve abrir a inspeção prévia da citação."
 
 #: ../../sales/quotation_template/quick_create_quotation_using_quotation_template.rst:106
 msgid "Access the video at https://www.youtube.com/watch?v=dbcFx0lgU4E"
-msgstr ""
+msgstr "Acesse o vídeo em https://www.youtube.com/watch?v=dbcFx0lgU4E"
 
 #: ../../sales/service/invoice_based_on_timesheet.rst:9
+#, fuzzy
 msgid "Create task from sales order and invoice based on timesheet"
 msgstr ""
+"Criar tarefa a partir da ordem de venda e da fatura com base no quadro de "
+"horários"
 
 #: ../../sales/service/invoice_based_on_timesheet.rst:13
 msgid "Access the video at https://www.youtube.com/watch?v=NTgArimc5MI"
-msgstr ""
+msgstr "Acesse o vídeo em https://www.youtube.com/watch?v=NTgArimc5MI"
 
 #: ../../sales/service/invoice_milestones.rst:8
+#, fuzzy
 msgid "Create an invoice at milestone completion for a project"
-msgstr ""
+msgstr "Criar uma fatura na conclusão da etapa para um projeto"
 
 #: ../../sales/service/invoice_milestones.rst:10
+#, fuzzy
 msgid ""
-"There are different kind of service sales: prepaid volume of hours/days "
-"(e.g. support contract), billing based on time and material (e.g. billing"
-" consulting hours) or a fixed price contract (e.g. a project)."
+"There are different kind of service sales: prepaid volume of hours/days (e.g. "
+"support contract), billing based on time and material (e.g. billing consulting "
+"hours) or a fixed price contract (e.g. a project)."
 msgstr ""
+"Existem diferentes tipos de vendas de serviços: volume pré-pago de horas/dias "
+"(por exemplo, contrato de suporte), faturamento com base no tempo e material "
+"(por exemplo, horas de consultoria de faturamento) ou um contrato de preço fixo "
+"(por exemplo, um projeto)."
 
 #: ../../sales/service/invoice_milestones.rst:14
+#, fuzzy
 msgid ""
-"Milestone invoicing can be used for expensive or large scale projects, "
-"with each milestone representing a clear sequence of work that will "
-"incrementally build up to the completion of the contract. For example, a "
-"marketing agency hired for a new product launch could break down a "
-"project into the following milestones, each of them considered as one "
-"service with a fixed price on the sale order :"
+"Milestone invoicing can be used for expensive or large scale projects, with "
+"each milestone representing a clear sequence of work that will incrementally "
+"build up to the completion of the contract. For example, a marketing agency "
+"hired for a new product launch could break down a project into the following "
+"milestones, each of them considered as one service with a fixed price on the "
+"sale order :"
 msgstr ""
+"O faturamento de Marco pode ser usado para projetos caros ou de grande escala, "
+"com cada etapa representando uma clara sequência de trabalho que aumentará "
+"incrementalmente até a conclusão do contrato. Por exemplo, uma agência de "
+"marketing contratada para um novo lançamento de produto poderia quebrar um "
+"projeto nos seguintes Marcos, cada um deles considerado como um serviço com um "
+"preço fixo na ordem de venda:"
 
 #: ../../sales/service/invoice_milestones.rst:21
+#, fuzzy
 msgid "Milestone 1 : Marketing strategy audit - 5 000 euros"
-msgstr ""
+msgstr "Marco 1: Auditoria de estratégia de marketing-5 000 euros"
 
 #: ../../sales/service/invoice_milestones.rst:22
+#, fuzzy
 msgid "Milestone 2 : Brand Identity - 10 000 euros"
-msgstr ""
+msgstr "Marco 2: Identidade de marca-10 000 euros"
 
 #: ../../sales/service/invoice_milestones.rst:23
+#, fuzzy
 msgid "Milestone 3 : Campaign launch & PR - 8 500 euros"
-msgstr ""
+msgstr "Marco 3: Lançamento da campanha & PR-8 500 euros"
 
 #: ../../sales/service/invoice_milestones.rst:25
+#, fuzzy
 msgid ""
-"In this case, an invoice will be sent to the customer each time a "
-"milestone will be successfully reached. That invoicing method is "
-"comfortable both for the company which is ensured to get a steady cash "
-"flow throughout the project lifetime and for the client who can monitor "
-"the project’s progress and pay in several times."
+"In this case, an invoice will be sent to the customer each time a milestone "
+"will be successfully reached. That invoicing method is comfortable both for the "
+"company which is ensured to get a steady cash flow throughout the project "
+"lifetime and for the client who can monitor the project’s progress and pay in "
+"several times."
 msgstr ""
+"Nesse caso, uma fatura será enviada ao cliente sempre que um marco for atingido "
+"com sucesso. Esse método de faturamento é confortável tanto para a empresa que "
+"é assegurada para obter um fluxo de caixa constante durante todo o tempo de "
+"vida do projeto e para o cliente que pode monitorar o progresso do projeto e "
+"pagar em várias vezes."
 
 #: ../../sales/service/invoice_milestones.rst:31
-#, python-format
+#, fuzzy, python-format
 msgid ""
-"You can also use milestones to invoice percentages of the entire project."
-" For example, for a million euros project, your company might require a "
-"15% upfront payment, 30% at the midpoint and the balance at the contract "
-"conclusion. In that case, each payment will be considered as one "
-"milestone."
+"You can also use milestones to invoice percentages of the entire project. For "
+"example, for a million euros project, your company might require a 15% upfront "
+"payment, 30% at the midpoint and the balance at the contract conclusion. In "
+"that case, each payment will be considered as one milestone."
 msgstr ""
+"Você também pode usar etapas para faturar porcentagens de todo o projeto. Por "
+"exemplo, para um projeto de um milhão de euros, sua empresa pode exigir um "
+"pagamento adiantado de 15%, 30% no ponto médio e o saldo na conclusão do "
+"contrato. Nesse caso, cada pagamento será considerado como um marco."
 
 #: ../../sales/service/invoice_milestones.rst:38
+#, fuzzy
 msgid ""
-"In order to sell services and to send invoices, you need to install the "
-"Sales application, from the Apps icon."
+"In order to sell services and to send invoices, you need to install the Sales "
+"application, from the Apps icon."
 msgstr ""
+"Para vender serviços e enviar faturas, você precisa instalar o aplicativo "
+"Sales, no ícone aplicativos."
 
 #: ../../sales/service/invoice_milestones.rst:41
+#, fuzzy
 msgid ""
-"In Odoo, each milestone of your project is considered as a product. From "
-"the Sales application, use the menu Sales ‣ Products, create a new "
-"product with the following setup:"
+"In Odoo, each milestone of your project is considered as a product. From the "
+"Sales application, use the menu Sales ‣ Products, create a new product with the "
+"following setup:"
 msgstr ""
+"No Odoo, cada marco do seu projeto é considerado como um produto. A partir do "
+"aplicativo vendas, use o menu vendas ‣ produtos, crie um novo produto com a "
+"seguinte configuração:"
 
 #: ../../sales/service/invoice_milestones.rst:45
+#, fuzzy
 msgid "Name: Strategy audit"
-msgstr ""
+msgstr "Nome: auditoria de estratégia"
 
 #: ../../sales/service/invoice_milestones.rst:46
+#, fuzzy
 msgid "Product Type: Service"
-msgstr ""
+msgstr "Tipo de Produto: Serviço"
 
 #: ../../sales/service/invoice_milestones.rst:47
 msgid ""
-"Invoicing Policy: Delivered Quantities, since you will invoice your "
-"milestone after it has been delivered"
+"Invoicing Policy: Delivered Quantities, since you will invoice your milestone "
+"after it has been delivered"
 msgstr ""
+"Política de faturamento: quantidades entregues, uma vez que irá faturar o seu "
+"marco depois de ter sido entregue"
 
 #: ../../sales/service/invoice_milestones.rst:49
+#, fuzzy
 msgid ""
 "Track Service: Manually set quantities on order, as you complete each "
-"milestone, you will manually update their quantity from the Delivered tab"
-" on your sale order"
+"milestone, you will manually update their quantity from the Delivered tab on "
+"your sale order"
 msgstr ""
+"Serviço de trilha: definir manualmente as quantidades na ordem, conforme você "
+"concluir cada etapa, você atualizará manualmente sua quantidade na guia "
+"entregue em sua ordem de venda"
 
 #: ../../sales/service/invoice_milestones.rst:57
 msgid "Apply the same configuration for the others milestones."
-msgstr ""
+msgstr "Aplique a mesma configuração para os outros marcos."
 
 #: ../../sales/service/invoice_milestones.rst:60
 msgid "Quotations and sale orders"
-msgstr ""
+msgstr "Cotações e ordens de venda"
 
 #: ../../sales/service/invoice_milestones.rst:61
+#, fuzzy
 msgid ""
-"Now that your milestones (or products) are created, you can create a "
-"quotation or a sale order with each line corresponding to one milestone. "
-"For each line, set the Ordered Quantity to 1 as each milestone is "
-"completed once. Once the quotation is confirmed and transformed into a "
-"sale order, you will be able to change the delivered quantities when the "
-"corresponding milestone has been achieved."
+"Now that your milestones (or products) are created, you can create a quotation "
+"or a sale order with each line corresponding to one milestone. For each line, "
+"set the Ordered Quantity to 1 as each milestone is completed once. Once the "
+"quotation is confirmed and transformed into a sale order, you will be able to "
+"change the delivered quantities when the corresponding milestone has been "
+"achieved."
 msgstr ""
+"Agora que seus marcos (ou produtos) são criados, você pode criar uma cotação ou "
+"uma ordem de venda com cada linha correspondente a um marco. Para cada linha, "
+"defina a quantidade ordenada como 1 conforme cada etapa for concluída uma vez. "
+"Uma vez que a cotação é confirmada e transformada em uma ordem de venda, você "
+"será capaz de alterar as quantidades entregues quando o Marco correspondente "
+"foi atingido."
 
 #: ../../sales/service/invoice_milestones.rst:72
+#, fuzzy
 msgid "Invoice milestones"
-msgstr ""
+msgstr "Marcos da fatura"
 
 #: ../../sales/service/invoice_milestones.rst:73
+#, fuzzy
 msgid ""
 "Let’s assume that your first milestone (the strategy audit) has been "
-"successfully delivered and you want to invoice it to your customer. On "
-"the sale order, click on Edit and set the Delivered Quantity of the "
-"related product to 1."
+"successfully delivered and you want to invoice it to your customer. On the sale "
+"order, click on Edit and set the Delivered Quantity of the related product to 1."
 msgstr ""
+"Vamos supor que seu primeiro marco (a auditoria de estratégia) foi entregue com "
+"êxito e você deseja faturar para seu cliente. Na ordem de venda, clique em "
+"Editar e defina a quantidade entregue do produto relacionado para 1."
 
 #: ../../sales/service/invoice_milestones.rst:77
+#, fuzzy
 msgid ""
-"As soon as the above modification has been saved, you will notice that "
-"the color of the line has changed to blue, meaning that the service can "
-"now be invoiced. In the same time, the invoice status of the SO has "
-"changed from Nothing To Invoice to To Invoice"
+"As soon as the above modification has been saved, you will notice that the "
+"color of the line has changed to blue, meaning that the service can now be "
+"invoiced. In the same time, the invoice status of the SO has changed from "
+"Nothing To Invoice to To Invoice"
 msgstr ""
+"Assim que a modificação acima tiver sido salva, você perceberá que a cor da "
+"linha foi alterada para azul, o que significa que o serviço agora pode ser "
+"faturado. Ao mesmo tempo, o status da fatura do SO foi alterado de nada para "
+"fatura para fatura"
 
 #: ../../sales/service/invoice_milestones.rst:82
+#, fuzzy
 msgid ""
-"Click on Create invoice and, in the new window that pops up, select "
-"Invoiceable lines and validate. It will create a new invoice (in draft "
-"status) with only the strategy audit product as invoiceable."
+"Click on Create invoice and, in the new window that pops up, select Invoiceable "
+"lines and validate. It will create a new invoice (in draft status) with only "
+"the strategy audit product as invoiceable."
 msgstr ""
+"Clique em criar fatura e, na nova janela que aparece, selecione linhas "
+"Invoiceable e valide. Ele criará uma nova fatura (em status de rascunho) com "
+"apenas o produto de auditoria de estratégia como faturável."
 
 #: ../../sales/service/invoice_milestones.rst:90
+#, fuzzy
 msgid ""
-"In order to be able to invoice a product, you need to set up the "
-"Accounting application and to configure an accounting journal and a chart"
-" of account. Click on the following link to learn more: How to setup Odoo"
-" Accounting?"
+"In order to be able to invoice a product, you need to set up the Accounting "
+"application and to configure an accounting journal and a chart of account. "
+"Click on the following link to learn more: How to setup Odoo Accounting?"
 msgstr ""
+"Para poder faturar um produto, é necessário configurar o aplicativo de "
+"contabilidade e configurar um diário contábil e um plano de conta. Clique no "
+"link a seguir para saber mais: como configurar a contabilidade Odoo?"
 
 #: ../../sales/service/invoice_milestones.rst:94
+#, fuzzy
 msgid ""
-"Back on your sale order, you will notice that the Invoiced column of your"
-" order line has been updated accordingly and that the Invoice Status is "
-"back to Nothing to Invoice."
+"Back on your sale order, you will notice that the Invoiced column of your order "
+"line has been updated accordingly and that the Invoice Status is back to "
+"Nothing to Invoice."
 msgstr ""
+"De volta à sua ordem de venda, você observará que a coluna faturada da sua "
+"linha de ordem foi atualizada de acordo e que o status da fatura está de volta "
+"para Nada para Faturar."
 
 #: ../../sales/service/invoice_milestones.rst:98
+#, fuzzy
 msgid "Follow the same workflow to invoice your remaining milestones."
-msgstr ""
+msgstr "Siga o mesmo fluxo de trabalho para faturar as etapas restantes."
 
 #: ../../sales/service/invoice_milestones.rst:102
 msgid "Access the video at https://www.youtube.com/watch?v=m7Fmq0H3qo8"
-msgstr ""
+msgstr "Acesse o vídeo em https://www.youtube.com/watch?v=m7Fmq0H3qo8"
 
 #: ../../sales/subscription/sell_subscription_through_ecommerce_platform.rst:9
+#, fuzzy
 msgid ""
-"Sell subscription through eCommerce platform, receive payment through "
-"card (auto-debit)"
+"Sell subscription through eCommerce platform, receive payment through card "
+"(auto-debit)"
 msgstr ""
+"Vender assinatura através de plataforma de comércio eletrônico, receber "
+"pagamento através de cartão (auto-débito)"
 
 #: ../../sales/subscription/sell_subscription_through_ecommerce_platform.rst:13
 msgid "Access the video at https://www.youtube.com/watch?v=P0O6rTA1kec"
-msgstr ""
+msgstr "Acesse o vídeo em https://www.youtube.com/watch?v=P0O6rTA1kec"
 
 #: ../../sales/subscription/sell_subscription_throught_sales_quotation.rst:7
+#, fuzzy
 msgid "Sell subscriptions through sales quotation"
-msgstr ""
+msgstr "Vender assinaturas por meio de cotação de venda"
 
 #: ../../sales/subscription/sell_subscription_throught_sales_quotation.rst:11
 msgid "Access the video at https://www.youtube.com/watch?v=r9kVUJo_k5E"
-msgstr ""
+msgstr "Acesse o vídeo em https://www.youtube.com/watch?v=r9kVUJo_k5E"
 
 #: ../../sales/subscription/setup_recurring_invoice.rst:7
+#, fuzzy
 msgid "Set up recurring invoice, that help you to invoice regularly"
-msgstr ""
+msgstr "Configurar faturas recorrentes, que ajudam a faturar regularmente"
 
 #: ../../sales/subscription/setup_recurring_invoice.rst:11
 msgid "Access the video at https://www.youtube.com/watch?v=iHardy2xBLU"
-msgstr ""
+msgstr "Acesse o vídeo em https://www.youtube.com/watch?v=iHardy2xBLU"
 
 #: ../../sales/unit_of_measure/pricelist_for_uom.rst:8
+#, fuzzy
 msgid ""
-"Sell and purchase products in different units of measure, and apply "
-"better pricing"
+"Sell and purchase products in different units of measure, and apply better "
+"pricing"
 msgstr ""
+"Venda e compra de produtos em diferentes unidades de medida e aplique melhores "
+"preços"
 
 #: ../../sales/unit_of_measure/pricelist_for_uom.rst:12
 msgid "Access the video at https://www.youtube.com/watch?v=Ui6_-GInV9w"
-msgstr ""
+msgstr "Acesse o vídeo em https://www.youtube.com/watch?v=Ui6_-GInV9w"
 
 #: ../../sales/unit_of_measure/product_packaging.rst:6
+#, fuzzy
 msgid "Selling products by multiple of unit # per package"
-msgstr ""
+msgstr "Vendendo produtos por múltiplo de unidade # por pacote"
 
 #: ../../sales/unit_of_measure/product_packaging.rst:10
 msgid "Access the video at https://www.youtube.com/watch?v=MbPbJSv-fdI"
-msgstr ""
+msgstr "Acesse o vídeo em https://www.youtube.com/watch?v=MbPbJSv-fdI"
 
 #: ../../sales/unit_of_measure/product_unit_of_measure.rst:8
 msgid "Sale and purchase in different unit of measure"
-msgstr ""
+msgstr "Venda e compra em diferentes unidades de medida"
 
 #: ../../sales/unit_of_measure/product_unit_of_measure.rst:12
 msgid "Access the video at https://www.youtube.com/watch?v=x33djiothAc"
-msgstr ""
-
+msgstr "Acesse o vídeo em https://www.youtube.com/watch?v=x33djiothAc"
