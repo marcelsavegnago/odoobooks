@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: Odoo 12.0\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-11-30 11:27-0200\n"
-"PO-Revision-Date: 2019-04-15 03:29-0300\n"
+"PO-Revision-Date: 2019-04-15 03:53-0300\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -861,9 +861,8 @@ msgid "**Retailer (Price)**"
 msgstr "**Revendedores (Preço)**"
 
 #: ../../sales/pricelist_discount/adapt_price_based_on_customer_segment.rst:27
-#, fuzzy
 msgid "Laptops"
-msgstr "Laptops"
+msgstr "Notebooks"
 
 #: ../../sales/pricelist_discount/adapt_price_based_on_customer_segment.rst:27
 msgid "1099"
@@ -1686,15 +1685,14 @@ msgstr ""
 "por *iPad* com um desconto de **5%**."
 
 #: ../../sales/quotation/create_my_first_quotation.rst:24
-#, fuzzy
 msgid ""
 "Install the **Sales Management** application. In order to be able to issue "
 "quotation, you’ll need to install the **Sales Management** application from the "
 "**Apps** in the Odoo backend."
 msgstr ""
 "Instale o aplicativo **Gerenciamento de Vendas**. Para poder emitir cotação, "
-"você precisará instalar o aplicativo **Gerenciamento de Vendas** do **Apps** no "
-"back-end do Odoo."
+"você precisará instalar o aplicativo **Gerenciamento de Vendas** em **Apps** na "
+"administração do Odoo."
 
 #: ../../sales/quotation/create_my_first_quotation.rst:28
 msgid "|Sales Management Application|"
@@ -2251,7 +2249,6 @@ msgid "Cancellation"
 msgstr "Cancelamento"
 
 #: ../../sales/quotation/set_default_terms_and_conditions.rst:34
-#, fuzzy
 msgid "Indemnification"
 msgstr "Indenização"
 
@@ -3098,7 +3095,6 @@ msgstr ""
 "foi atingido."
 
 #: ../../sales/service/invoice_milestones.rst:72
-#, fuzzy
 msgid "Invoice milestones"
 msgstr "Marcos da fatura"
 
