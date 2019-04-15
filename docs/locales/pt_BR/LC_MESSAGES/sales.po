@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: Odoo 12.0\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-11-30 11:27-0200\n"
-"PO-Revision-Date: 2019-04-15 03:53-0300\n"
+"PO-Revision-Date: 2019-04-15 04:59-0300\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -96,7 +96,6 @@ msgid "Access the video at https://www.youtube.com/watch?v=_lA0QgoXnt0"
 msgstr "Acesse o vídeo em https://www.youtube.com/watch?v=_lA0QgoXnt0"
 
 #: ../../sales/delivery/delivery_based_on_weight.rst:8
-#, fuzzy
 msgid "Calculate shipping rates based on product weight"
 msgstr "Calcule as taxas de envio com base no peso do produto"
 
@@ -211,10 +210,8 @@ msgstr ""
 "Não se esqueça de adicionar o peso do produto correto ao criar os produtos."
 
 #: ../../sales/delivery/delivery_based_on_weight.rst:50
-#, fuzzy
 msgid "Compute and set the product weight including weight of delivery package."
-msgstr ""
-"Calcule e defina o peso do produto, incluindo o peso do pacote de entrega."
+msgstr "Calcule e defina o peso do produto incluindo o peso do pacote de entrega."
 
 #: ../../sales/delivery/delivery_based_on_weight.rst:53
 #: ../../sales/delivery/free_delivery.rst:49
@@ -301,21 +298,18 @@ msgid "Sales Quotation"
 msgstr "Cotação de Vendas"
 
 #: ../../sales/index.rst:22
-#, fuzzy
 msgid "Quotation Template"
-msgstr "Modelo de cotação"
+msgstr "Modelo de Cotação"
 
 #: ../../sales/index.rst:29
-#, fuzzy
 msgid "Discounts and Pricelist"
-msgstr "Descontos e Lista de Preço"
+msgstr "Descontos e Listas de Preços"
 
 #: ../../sales/index.rst:36
 msgid "Unit of Measure"
 msgstr "Unidade de Medida"
 
 #: ../../sales/index.rst:43
-#, fuzzy
 msgid "Product and Tax"
 msgstr "Produto e impostos"
 
@@ -396,7 +390,6 @@ msgid "Access the video at https://www.youtube.com/watch?v=4ew-PmcTdmo"
 msgstr "Acesse o vídeo em https://www.youtube.com/watch?v=4ew-PmcTdmo"
 
 #: ../../sales/invoicing/single_order_for_multiple_orders.rst:8
-#, fuzzy
 msgid "Create single invoice from multiple sales orders"
 msgstr "Criar fatura única de várias ordens de venda"
 
@@ -776,7 +769,6 @@ msgstr ""
 "tarde, dependendo do volume de negócios."
 
 #: ../../sales/pricelist_discount/adapt_price_based_on_customer_location.rst:138
-#, fuzzy
 msgid "Price based on currency conversion"
 msgstr "Preço baseado na conversão de moeda"
 
@@ -1055,7 +1047,6 @@ msgid "Apply discount on quotation"
 msgstr "Aplicar desconto na cotação"
 
 #: ../../sales/pricelist_discount/apply_manual_discount.rst:8
-#, fuzzy
 msgid ""
 "Allowing discounts on quotations is a common sales practice to improve the "
 "chances to convert the prospect into a customer, adding discounts on the "
@@ -1063,7 +1054,7 @@ msgid ""
 msgstr ""
 "Permitir descontos em Cotações é uma prática de vendas comum para melhorar as "
 "chances de converter o prospecto em um cliente, acrescentando descontos na "
-"cotação incentivar o prospecto para fechar o negócio rapidamente."
+"cotação encoraja o prospecto para fechar o negócio rapidamente."
 
 #: ../../sales/pricelist_discount/apply_manual_discount.rst:15
 #, fuzzy, python-format
@@ -1165,12 +1156,10 @@ msgid "Access the video at https://www.youtube.com/watch?v=YrX7iwpbDyg"
 msgstr "Acesse o vídeo em https://www.youtube.com/watch?v=YrX7iwpbDyg"
 
 #: ../../sales/pricelist_discount/compute_and_apply_discount_from_pricelist.rst:7
-#, fuzzy
 msgid "Compute and apply discount automatically based on the pricelist"
 msgstr "Calcule e aplique desconto automaticamente com base na lista de preços"
 
 #: ../../sales/pricelist_discount/compute_and_apply_discount_from_pricelist.rst:9
-#, fuzzy
 msgid ""
 "Allowing discounts on quotations is a common sales practice to improve the "
 "chances to convert the prospect into a customer, when you are not offering "
@@ -1179,13 +1168,12 @@ msgid ""
 "time, it is quite difficult for salesman to remember those products or customer "
 "and apply the discount manually on each quotation."
 msgstr ""
-"Permitir descontos em Cotações é uma prática de vendas comum para melhorar as "
-"chances de converter o prospecto em um cliente, quando você não está oferecendo "
-"desconto para todos os clientes, mantê-lo manual e oferecer quando as demandas "
-"dos clientes. Caso que você tem que aplicar o disconto para o cliente ou os "
-"produtos específicos cada vez, é completamente difícil para que o vendedor "
-"recorde aqueles produtos ou cliente e aplica o desconto manualmente em cada "
-"citação."
+"Permitir descontos nas cotações é uma prática comum de vendas para melhorar as "
+"chances de converter o prospectl em um cliente, quando você não está oferecendo "
+"desconto a todos os clientes, mantenha manual e ofereça quando o cliente "
+"demandar. No caso de você ter que aplicar desconto para clientes ou produtos "
+"específicos a cada vez, é muito difícil para o vendedor lembrar desses produtos "
+"ou clientes e aplicar o desconto manualmente em cada cotação."
 
 #: ../../sales/pricelist_discount/compute_and_apply_discount_from_pricelist.rst:20
 #, fuzzy
@@ -1521,7 +1509,6 @@ msgstr ""
 "Preview para verificar como ele se parece antes de escolher."
 
 #: ../../sales/quotation/change_your_quotation_layout.rst:36
-#, fuzzy
 msgid "Choose the appropriate layout and apply the setting."
 msgstr "Escolha o layout apropriado e aplique a configuração."
 
@@ -1698,9 +1685,8 @@ msgid "|Sales Management Application|"
 msgstr "|Sales Management Application|"
 
 #: ../../sales/quotation/create_my_first_quotation.rst:31
-#, fuzzy
 msgid "Discounts on sales order line"
-msgstr "Descontos na linha da ordem do cliente"
+msgstr "Descontos nas linhas da ordem de venda"
 
 #: ../../sales/quotation/create_my_first_quotation.rst:33
 msgid ""
@@ -1725,9 +1711,8 @@ msgstr ""
 "de ordem."
 
 #: ../../sales/quotation/create_my_first_quotation.rst:45
-#, fuzzy
 msgid "Create your quotation"
-msgstr "Crie sua cotação"
+msgstr "Criar sua cotação"
 
 #: ../../sales/quotation/create_my_first_quotation.rst:47
 #, fuzzy
@@ -1849,9 +1834,8 @@ msgstr ""
 "condições da sua empresa diretamente em sua cotação (veja a figura abaixo)."
 
 #: ../../sales/quotation/create_my_first_quotation.rst:100
-#, fuzzy
 msgid "Preview quotation"
-msgstr "Cotação de visualização"
+msgstr "Visualização da cotação"
 
 #: ../../sales/quotation/create_my_first_quotation.rst:102
 #, fuzzy
@@ -2022,7 +2006,6 @@ msgstr ""
 "produto que você tem que selecionar este produto vem em que seção."
 
 #: ../../sales/quotation/sections_on_sales_orders.rst:69
-#, fuzzy
 msgid "Print sales order"
 msgstr "Imprimir ordem de venda"
 
@@ -2110,9 +2093,8 @@ msgstr ""
 "através de e-mail"
 
 #: ../../sales/quotation/send_quotation_by_email.rst:42
-#, fuzzy
 msgid "Email address on customer"
-msgstr "Endereço de E-mail no cliente"
+msgstr "Endereço de E-mail do cliente"
 
 #: ../../sales/quotation/send_quotation_by_email.rst:44
 #, fuzzy
@@ -2124,7 +2106,6 @@ msgstr ""
 "mail**, quando cria um novo cliente."
 
 #: ../../sales/quotation/send_quotation_by_email.rst:48
-#, fuzzy
 msgid "Send by mail"
 msgstr "Enviar por correio"
 
@@ -2167,7 +2148,6 @@ msgstr ""
 "e-mail."
 
 #: ../../sales/quotation/send_quotation_by_email.rst:71
-#, fuzzy
 msgid "Chatter"
 msgstr "Conversa"
 
@@ -2229,9 +2209,8 @@ msgid "Claims"
 msgstr "Reivindicações"
 
 #: ../../sales/quotation/set_default_terms_and_conditions.rst:26
-#, fuzzy
 msgid "Returns"
-msgstr "Retorna"
+msgstr "Retornos"
 
 #: ../../sales/quotation/set_default_terms_and_conditions.rst:28
 #, fuzzy
@@ -2239,7 +2218,6 @@ msgid "Shipment"
 msgstr "Carregamento"
 
 #: ../../sales/quotation/set_default_terms_and_conditions.rst:30
-#, fuzzy
 msgid "Security Interest"
 msgstr "Interesses de Segurança"
 
@@ -2252,7 +2230,6 @@ msgid "Indemnification"
 msgstr "Indenização"
 
 #: ../../sales/quotation/set_default_terms_and_conditions.rst:36
-#, fuzzy
 msgid "Governing Law"
 msgstr "Lei aplicável"
 
@@ -2270,14 +2247,12 @@ msgstr ""
 "ponto abaixo como um padrão de termos e condições:"
 
 #: ../../sales/quotation/set_default_terms_and_conditions.rst:47
-#, fuzzy
 msgid "Delivery of the goods will take 10 working days"
 msgstr "A entrega dos bens tomará 10 dias de trabalho"
 
 #: ../../sales/quotation/set_default_terms_and_conditions.rst:49
-#, fuzzy
 msgid "Other taxes such as octroi will be charges extra"
-msgstr "Outros impostos, tais como octroi será encargos extra"
+msgstr "Outros impostos, tais como concessões serão encargos extras"
 
 #: ../../sales/quotation/set_default_terms_and_conditions.rst:51
 msgid "100% payment should be released at the time of confirmation"
@@ -2391,7 +2366,6 @@ msgstr ""
 "de treinamento de software como um produto de serviço."
 
 #: ../../sales/quotation_template/increase_your_sales_with_suggested_products.rst:36
-#, fuzzy
 msgid "Send the quotation"
 msgstr "Enviar a cotação"
 
@@ -2502,9 +2476,8 @@ msgstr ""
 "configure o adquirente do pagamento, que se adapte à sua exigência."
 
 #: ../../sales/quotation_template/online_customer_approval_and_payment_on_quotation.rst:49
-#, fuzzy
 msgid "I have installed and configure the *Authorised.net* payment acquirer."
-msgstr "Eu instalei e configuro o *Authorised.net* Acquirer do pagamento."
+msgstr "Eu instalei e configurei o *Authorised.net* adquirente de pagamentos"
 
 #: ../../sales/quotation_template/online_customer_approval_and_payment_on_quotation.rst:53
 #, fuzzy
@@ -2627,7 +2600,6 @@ msgstr ""
 
 #: ../../sales/quotation_template/online_customer_approval_and_payment_on_quotation.rst:114
 #: ../../sales/quotation_template/online_customer_approval_on_quotation.rst:71
-#, fuzzy
 msgid "Reject quotation"
 msgstr "Rejeitar cotação"
 
@@ -2649,9 +2621,8 @@ msgid "Access the video at https://www.youtube.com/watch?v=tpL2EgXAaZ4"
 msgstr "Acesse o vídeo em https://www.youtube.com/watch?v=tpL2EgXAaZ4"
 
 #: ../../sales/quotation_template/online_customer_approval_on_quotation.rst:6
-#, fuzzy
 msgid "Online customer approval on quotation"
-msgstr "Aprovação de clientes on-line na cotação"
+msgstr "Aprovação on-line do cliente na cotação"
 
 #: ../../sales/quotation_template/online_customer_approval_on_quotation.rst:15
 #, fuzzy
@@ -2775,7 +2746,6 @@ msgstr ""
 "Presume-se que o aplicativo de **Gerenciamento de Vendas** está instalado."
 
 #: ../../sales/quotation_template/quick_create_quotation_using_quotation_template.rst:27
-#, fuzzy
 msgid "Quotation template"
 msgstr "Modelo de cotação"
 
@@ -2793,13 +2763,12 @@ msgid "Create a products"
 msgstr "Criar produtos"
 
 #: ../../sales/quotation_template/quick_create_quotation_using_quotation_template.rst:37
-#, fuzzy
 msgid ""
 "Create the list of products that you are going to sale together, in our "
 "business case the list of products of type service are as below:"
 msgstr ""
-"Crie a lista de produtos que você está indo à venda junto, em nosso caso de "
-"negócio a lista de produtos do tipo serviço é como abaixo:"
+"Crie a lista de produtos que você vai vender junto, em nosso caso de negócio a "
+"lista de produtos do tipo serviço é como abaixo:"
 
 #: ../../sales/quotation_template/quick_create_quotation_using_quotation_template.rst:40
 #, fuzzy
@@ -2807,14 +2776,12 @@ msgid "Offshore Project Setup Fee"
 msgstr "Taxa de instalação do ProjetoOoffshore"
 
 #: ../../sales/quotation_template/quick_create_quotation_using_quotation_template.rst:42
-#, fuzzy
 msgid "Project Manager Consulting Days"
-msgstr "Gerente de projetos dias de consultoria"
+msgstr "Dias de Consultoria em Gerenciamento de Projetos "
 
 #: ../../sales/quotation_template/quick_create_quotation_using_quotation_template.rst:44
-#, fuzzy
 msgid "Developer Days"
-msgstr "Dias do desenvolvedor"
+msgstr "Dias do Desenvolvedor"
 
 #: ../../sales/quotation_template/quick_create_quotation_using_quotation_template.rst:47
 msgid "Create your quotation template"
@@ -2932,7 +2899,6 @@ msgid "Access the video at https://www.youtube.com/watch?v=dbcFx0lgU4E"
 msgstr "Acesse o vídeo em https://www.youtube.com/watch?v=dbcFx0lgU4E"
 
 #: ../../sales/service/invoice_based_on_timesheet.rst:9
-#, fuzzy
 msgid "Create task from sales order and invoice based on timesheet"
 msgstr ""
 "Criar tarefa a partir da ordem de venda e da fatura com base no quadro de "
@@ -2943,9 +2909,8 @@ msgid "Access the video at https://www.youtube.com/watch?v=NTgArimc5MI"
 msgstr "Acesse o vídeo em https://www.youtube.com/watch?v=NTgArimc5MI"
 
 #: ../../sales/service/invoice_milestones.rst:8
-#, fuzzy
 msgid "Create an invoice at milestone completion for a project"
-msgstr "Criar uma fatura na conclusão da etapa para um projeto"
+msgstr "Criar uma fatura na conclusão do marco para um projeto"
 
 #: ../../sales/service/invoice_milestones.rst:10
 #, fuzzy
@@ -2977,19 +2942,16 @@ msgstr ""
 "preço fixo na ordem de venda:"
 
 #: ../../sales/service/invoice_milestones.rst:21
-#, fuzzy
 msgid "Milestone 1 : Marketing strategy audit - 5 000 euros"
-msgstr "Marco 1: Auditoria de estratégia de marketing-5 000 euros"
+msgstr "Marco 1: Auditoria de estratégia de marketing - 5.000 euros"
 
 #: ../../sales/service/invoice_milestones.rst:22
-#, fuzzy
 msgid "Milestone 2 : Brand Identity - 10 000 euros"
-msgstr "Marco 2: Identidade de marca-10 000 euros"
+msgstr "Marco 2: Identidade de marca - 10.000 euros"
 
 #: ../../sales/service/invoice_milestones.rst:23
-#, fuzzy
 msgid "Milestone 3 : Campaign launch & PR - 8 500 euros"
-msgstr "Marco 3: Lançamento da campanha & PR-8 500 euros"
+msgstr "Marco 3: Lançamento da campanha & PR - 8.500 euros"
 
 #: ../../sales/service/invoice_milestones.rst:25
 #, fuzzy
@@ -3040,9 +3002,8 @@ msgstr ""
 "seguinte configuração:"
 
 #: ../../sales/service/invoice_milestones.rst:45
-#, fuzzy
 msgid "Name: Strategy audit"
-msgstr "Nome: auditoria de estratégia"
+msgstr "Nome: Estratégia de auditoria"
 
 #: ../../sales/service/invoice_milestones.rst:46
 #, fuzzy
