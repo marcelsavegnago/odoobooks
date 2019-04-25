@@ -3,29 +3,34 @@
 # This file is distributed under the same license as the Odoo package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, 2018.
 #
-#, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: Odoo 12.0\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-11-30 11:27-0200\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
+"PO-Revision-Date: 2019-04-25 01:30-0300\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Generated-By: Babel 2.3.4\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: pt_BR\n"
+"X-Generator: Poedit 2.2.1\n"
 
 #: ../../point-of-sale/create_customer_invoice.rst:7
 msgid "Create a customer invoice for selected orders on Point of Sale"
 msgstr ""
+"Criar uma fatura de cliente para ordens selecionadas no ponto de venda"
 
 #: ../../point-of-sale/create_customer_invoice.rst:8
 msgid ""
 "Some of your customers might request an invoice when buying from your "
 "Point of Sale, you can easily manage it directly from the PoS interface."
 msgstr ""
+"Alguns de seus clientes podem solicitar uma fatura ao comprar de seu "
+"ponto de venda, você pode facilmente gerenciá-lo diretamente a partir da "
+"interface PoS."
 
 #: ../../point-of-sale/create_customer_invoice.rst:12
 #: ../../point-of-sale/credit_pos_sale.rst:11
@@ -44,102 +49,119 @@ msgstr ""
 #: ../../point-of-sale/scan_product_price_from_barcode.rst:42
 #: ../../point-of-sale/scan_weight_from_barcode.rst:35
 msgid "Video"
-msgstr ""
+msgstr "Vídeo"
 
 #: ../../point-of-sale/create_customer_invoice.rst:13
 msgid "Access the video at https://www.youtube.com/watch?v=tnIvcBZZvCs"
-msgstr ""
+msgstr "Acesse o vídeo em https://www.youtube.com/watch?v=tnIvcBZZvCs"
 
 #: ../../point-of-sale/credit_pos_sale.rst:8
 msgid "How to do credit sale through the point of sale"
-msgstr ""
+msgstr "Como fazer a venda de crédito através do ponto de venda"
 
 #: ../../point-of-sale/credit_pos_sale.rst:12
 msgid "Access the video at https://www.youtube.com/watch?v=zHH1uqCVJEc"
-msgstr ""
+msgstr "Acesse o vídeo em https://www.youtube.com/watch?v=zHH1uqCVJEc"
 
 #: ../../point-of-sale/discount_on_product_or_order.rst:7
 msgid "Apply discount on specific product price or on order value"
 msgstr ""
+"Aplique desconto no preço específico do produto ou no valor do pedido"
 
 #: ../../point-of-sale/discount_on_product_or_order.rst:8
 msgid ""
 "If you seldom use discounts, applying manual discounts might be the "
 "easiest solution for your Point of Sale."
 msgstr ""
+"Se você raramente usa descontos, aplicar descontos manuais pode ser a "
+"solução mais fácil para o seu ponto de venda."
 
 #: ../../point-of-sale/discount_on_product_or_order.rst:11
 msgid ""
 "You can either apply a discount on the whole order or on specific "
 "products."
 msgstr ""
+"Você pode aplicar um desconto em toda a ordem ou em produtos específicos."
 
 #: ../../point-of-sale/discount_on_product_or_order.rst:14
 #: ../../point-of-sale/loyalty_program.rst:12
 #: ../../point-of-sale/scan_product_price_from_barcode.rst:23
 #: ../../point-of-sale/scan_weight_from_barcode.rst:24
 msgid "Business case"
-msgstr ""
+msgstr "Caso de negócio"
 
 #: ../../point-of-sale/discount_on_product_or_order.rst:15
 msgid ""
 "The shop *My company* wantes to apply the discount for the specific "
 "product, or on whole order based on the customer."
 msgstr ""
+"A loja *minha empresa* Monk para aplicar o desconto para o produto "
+"específico, ou em toda a ordem com base no cliente."
 
 #: ../../point-of-sale/discount_on_product_or_order.rst:20
 msgid "Access the video at https://www.youtube.com/watch?v=MIpedINE_Qg"
-msgstr ""
+msgstr "Acesse o vídeo em https://www.youtube.com/watch?v=MIpedINE_Qg"
 
 #: ../../point-of-sale/index.rst:8 ../../point-of-sale/index.rst:11
 msgid "Point of Sale"
-msgstr ""
+msgstr "Ponto de venda"
 
 #: ../../point-of-sale/index.rst:24
 msgid "Session Management"
-msgstr ""
+msgstr "Gerenciamento de sessão"
 
 #: ../../point-of-sale/index.rst:32
 msgid "Barcode Scanner"
-msgstr ""
+msgstr "Barcode Scanner"
 
 #: ../../point-of-sale/index.rst:41
 msgid "Accounting"
-msgstr ""
+msgstr "Contabilidade"
 
 #: ../../point-of-sale/limited_period_offer.rst:8
 msgid "Launch a limited period offers on Point of Sale"
-msgstr ""
+msgstr "Lançar um período limitado oferece no ponto de venda"
 
 #: ../../point-of-sale/limited_period_offer.rst:9
 msgid ""
 "Entice your customers and increase your revenue by offering time-limited "
-"or seasonal discounts. Odoo has a powerful pricelist feature to support a"
-" pricing strategy tailored to your business."
+"or seasonal discounts. Odoo has a powerful pricelist feature to support "
+"a pricing strategy tailored to your business."
 msgstr ""
+"Atrair os seus clientes e aumentar a sua receita, oferecendo descontos "
+"de tempo limitado ou sazonais. A odoo tem um poderoso recurso de lista "
+"de preços para apoiar uma estratégia de precificação adaptada ao seu "
+"negócio."
 
 #: ../../point-of-sale/limited_period_offer.rst:15
 msgid "Access the video at https://www.youtube.com/watch?v=NK4ZDqlq-9Y"
-msgstr ""
+msgstr "Acesse o vídeo em https://www.youtube.com/watch?v=NK4ZDqlq-9Y"
 
 #: ../../point-of-sale/loyalty_program.rst:7
 msgid ""
 "Retain your walk-in customers, setup customer retention program (loyalty "
 "program)"
 msgstr ""
+"Retenha seus clientes Walk-in, programa da retenção do cliente da "
+"instalação (programa de fidelidade)"
 
 #: ../../point-of-sale/loyalty_program.rst:8
 msgid ""
-"Encourage your customers to continue to shop at your point of sale with a"
-" Loyalty Program."
+"Encourage your customers to continue to shop at your point of sale with "
+"a Loyalty Program."
 msgstr ""
+"Incentive seus clientes a continuarem a fazer compras no seu ponto de "
+"venda com um programa de fidelidade."
 
 #: ../../point-of-sale/loyalty_program.rst:13
 msgid ""
 "The shop *My Company* wantes to setup the customer retention program, "
-"that offers a 0.25 loyalty point to customr for each 1$ they spent in the"
-" shop."
+"that offers a 0.25 loyalty point to customr for each 1$ they spent in "
+"the shop."
 msgstr ""
+"A loja *minha empresa* Monk para configurar o programa de retenção de "
+"clientes, que oferece um ponto de fidelidade 0,25 para Customr para cada "
+"$1 que eles gastaram na loja."
 
 #: ../../point-of-sale/loyalty_program.rst:16
 msgid ""
@@ -147,50 +169,57 @@ msgid ""
 "their bills later. There is no limit on number of points they earn and "
 "spent."
 msgstr ""
+"O cliente pode mais tarde usar esses pontos, eash ponto equivalente a $1 "
+"para pagar suas contas mais tarde. Não há limite no número de pontos que "
+"eles ganham e gastaram."
 
 #: ../../point-of-sale/loyalty_program.rst:22
 msgid "Access the video at https://www.youtube.com/watch?v=8DYbAMS3jno"
-msgstr ""
+msgstr "Acesse o vídeo em https://www.youtube.com/watch?v=8DYbAMS3jno"
 
 #: ../../point-of-sale/multiple_barcode_for_same_product.rst:9
 msgid ""
 "Scanning manufacturer barcode at Point of Sale (Scan same product for "
 "multiple barcodes)"
 msgstr ""
+"Digitalização de código de barras fabricante no ponto de venda "
+"(digitalizar mesmo produto para vários códigos de barras)"
 
 #: ../../point-of-sale/multiple_barcode_for_same_product.rst:13
 msgid "Access the video at https://www.youtube.com/watch?v=E6zum4RCCzw"
-msgstr ""
+msgstr "Acesse o vídeo em https://www.youtube.com/watch?v=E6zum4RCCzw"
 
 #: ../../point-of-sale/pos_wallet.rst:8
 msgid "How to pay invoice through wallet in Point of Sale?"
-msgstr ""
+msgstr "Como pagar a fatura através da carteira no ponto de venda?"
 
 #: ../../point-of-sale/pos_wallet.rst:12
 msgid "Access the video at https://www.youtube.com/watch?v=_UVBUlsG3nU"
-msgstr ""
+msgstr "Acesse o vídeo em https://www.youtube.com/watch?v=_UVBUlsG3nU"
 
 #: ../../point-of-sale/print_z_report_for_multiple_terminals.rst:11
 msgid ""
 "Print z-report at the end of the day for each terminal separately and "
 "grouped"
 msgstr ""
+"Imprima o relatório z no final do dia para cada terminal separadamente e "
+"agrupado"
 
 #: ../../point-of-sale/print_z_report_for_multiple_terminals.rst:15
 msgid "Access the video at https://www.youtube.com/watch?v=42qrXd7JrfE"
-msgstr ""
+msgstr "Acesse o vídeo em https://www.youtube.com/watch?v=42qrXd7JrfE"
 
 #: ../../point-of-sale/print_z_report_point_of_sale.rst:8
 msgid "How to print z-report from Odoo point of sale?"
-msgstr ""
+msgstr "Como imprimir z-Report de Odoo ponto de venda?"
 
 #: ../../point-of-sale/print_z_report_point_of_sale.rst:12
 msgid "Access the video at https://www.youtube.com/watch?v=hcAAfo5DwYI"
-msgstr ""
+msgstr "Acesse o vídeo em https://www.youtube.com/watch?v=hcAAfo5DwYI"
 
 #: ../../point-of-sale/register_customer.rst:8
 msgid "Use customers on point of sale and access the customer ledger"
-msgstr ""
+msgstr "Usar clientes no ponto de venda e acessar o Ledger de clientes"
 
 #: ../../point-of-sale/register_customer.rst:9
 msgid ""
@@ -199,52 +228,64 @@ msgid ""
 "communication. It will also be required if they want an invoice and "
 "registering them will make any future interaction with them faster."
 msgstr ""
+"Registrar seus clientes lhe dará a capacidade de conceder-lhes vários "
+"privilégios, tais como descontos, programa de fidelidade, comunicação "
+"específica. Também será necessário se eles quiserem uma fatura e "
+"registrá-los fará qualquer interação futura com eles mais rápido."
 
 #: ../../point-of-sale/register_customer.rst:16
 msgid "Access the video at https://www.youtube.com/watch?v=ev2HnMPqXLs"
-msgstr ""
+msgstr "Acesse o vídeo em https://www.youtube.com/watch?v=ev2HnMPqXLs"
 
 #: ../../point-of-sale/round_off_on_point_of_sale_cash_sale.rst:9
 msgid "Manage cash round-up or down at Point of Sale cash payment"
 msgstr ""
+"Gerenciar dinheiro round-up ou para baixo no ponto de venda de pagamento "
+"em dinheiro"
 
 #: ../../point-of-sale/round_off_on_point_of_sale_cash_sale.rst:13
 msgid "Access the video at https://www.youtube.com/watch?v=c6-hjrvdVZM"
-msgstr ""
+msgstr "Acesse o vídeo em https://www.youtube.com/watch?v=c6-hjrvdVZM"
 
 #: ../../point-of-sale/sales_return_on_point_of_sale.rst:8
 msgid "Sales return through Point of Sale"
-msgstr ""
+msgstr "Retorno de vendas através do ponto de venda"
 
 #: ../../point-of-sale/sales_return_on_point_of_sale.rst:12
 msgid "Access the video at https://www.youtube.com/watch?v=ub3hRhasLtM"
-msgstr ""
+msgstr "Acesse o vídeo em https://www.youtube.com/watch?v=ub3hRhasLtM"
 
 #: ../../point-of-sale/sales_return_point_of_sale_accounting.rst:8
 msgid ""
 "Sales return through Point of Sale terminal, receive product and return "
 "cash"
 msgstr ""
+"Retorno de vendas através do terminal ponto de venda, receber o produto "
+"e devolver o dinheiro"
 
 #: ../../point-of-sale/sales_return_point_of_sale_accounting.rst:12
 msgid "Access the video at https://www.youtube.com/watch?v=F1N82xHpC6s"
-msgstr ""
+msgstr "Acesse o vídeo em https://www.youtube.com/watch?v=F1N82xHpC6s"
 
 #: ../../point-of-sale/sales_return_point_of_sale_invoice_accounting.rst:7
 msgid ""
 "Sales return through Point of Sale terminal (working with customer "
 "invoice and credit note)"
 msgstr ""
+"Retorno de vendas através do terminal ponto de venda (trabalhando com "
+"fatura de cliente e nota de crédito)"
 
 #: ../../point-of-sale/sales_return_point_of_sale_invoice_accounting.rst:11
 msgid "Access the video at https://www.youtube.com/watch?v=6rrfML6vZfw"
-msgstr ""
+msgstr "Acesse o vídeo em https://www.youtube.com/watch?v=6rrfML6vZfw"
 
 #: ../../point-of-sale/scan_product_price_from_barcode.rst:7
 msgid ""
 "Scan product price through barcode in Point of Sale (Dynamic pricing "
 "without pricelist)"
 msgstr ""
+"Digitalizar preço do produto através de código de barras no ponto de "
+"venda (preços dinâmicos sem pricelist)"
 
 #: ../../point-of-sale/scan_product_price_from_barcode.rst:8
 msgid ""
@@ -253,37 +294,52 @@ msgid ""
 "sale, also it increase the size in number of data that load at the point "
 "of sale startup."
 msgstr ""
+"A funcionalidade de lista de preço pode ser aplicado ao ponto de venda "
+"em Odoo. No entanto, não é fácil de configurar a lista de preços para o "
+"ponto de venda, também aumentar o tamanho em número de dados que "
+"carregam no ponto de partida de venda."
 
 #: ../../point-of-sale/scan_product_price_from_barcode.rst:12
 msgid ""
 "Odoo point of sals able to read the understand the barcode well so that, "
 "it can fetch the product price form the barcode, and they works well "
-"without loading lots of data and defining the complex pricelist rules for"
-" the point of sale. You can create a barcode with price in below business"
-" scenarios."
+"without loading lots of data and defining the complex pricelist rules "
+"for the point of sale. You can create a barcode with price in below "
+"business scenarios."
 msgstr ""
+"Odoo ponto de versões capazes de ler o entender o código de barras bem "
+"para que, ele pode buscar o preço do produto forma o código de barras, e "
+"eles funcionam bem sem carregar lotes de dados e definindo as regras de "
+"lista de preços complexas para o ponto de venda. Você pode criar um "
+"código de barras com preço em cenários de negócios abaixo."
 
 #: ../../point-of-sale/scan_product_price_from_barcode.rst:17
 msgid ""
 "The manufacturer print the barcode with the price, as the price often "
 "changes."
 msgstr ""
+"O fabricante imprime o código de barras com o preço, como o preço muitas "
+"vezes muda."
 
 #: ../../point-of-sale/scan_product_price_from_barcode.rst:19
 msgid ""
 "You can create yoru own barcode as you want to run the promotion scheams "
 "untile the stock."
 msgstr ""
+"Você pode criar seu próprio código de barras como você quer executar a "
+"promoção scheams destelhar o estoque."
 
 #: ../../point-of-sale/scan_product_price_from_barcode.rst:24
 msgid ""
 "The shop **My Company** wonts the run the promotion program on some "
 "products, for the limited stock available in the shop."
 msgstr ""
+"A loja **minha empresa** wonts a executar o programa de promoção em "
+"alguns produtos, para o estoque limitado disponível na loja."
 
 #: ../../point-of-sale/scan_product_price_from_barcode.rst:28
 msgid "Configuration"
-msgstr ""
+msgstr "Configuração"
 
 #: ../../point-of-sale/scan_product_price_from_barcode.rst:29
 msgid ""
@@ -292,27 +348,38 @@ msgid ""
 "Barcodes 2 Decimals* the **Barcode Pattern** is *23.....{NNNDD}* it "
 "describes that the total size of the barcode is 12 digit."
 msgstr ""
+"Você tem que criar as regras de código de barras a nomenclatura de "
+"código de barras ponto de venda. A regra padrão já existe com o nome "
+"*preço barcodes 2 decimais* o **padrão de código de barras** é *23..... "
+"{NNNDD}* descreve que o tamanho total do código de barras é de 12 "
+"dígitos."
 
 #: ../../point-of-sale/scan_product_price_from_barcode.rst:34
 msgid ""
 "It start with 23, then 5 digit product code at last it have the 5 digit "
 "product price can be configured."
 msgstr ""
+"Começa com 23, então o código do produto de 5 dígitos finalmente tem o "
+"preço do produto de 5 dígitos pode ser configurado."
 
 #: ../../point-of-sale/scan_product_price_from_barcode.rst:37
 msgid ""
 "The barcode on the product has to be configre the 12 digit i.e. "
-"231234500000. keep last 5 digit as 0 as it may different according to the"
-" price."
+"231234500000. keep last 5 digit as 0 as it may different according to "
+"the price."
 msgstr ""
+"O código de barras do produto tem que ser configurado com 12 dígitos ou "
+"seja, 231234500000. Mantenha o último dígito 5 como 0 porque pode "
+"diferente de acordo com o preço."
 
 #: ../../point-of-sale/scan_product_price_from_barcode.rst:43
 msgid "Access the video at https://www.youtube.com/watch?v=xbPLx-KRh2s"
-msgstr ""
+msgstr "Acesse o vídeo em https://www.youtube.com/watch?v=xbPLx-KRh2s"
 
 #: ../../point-of-sale/scan_weight_from_barcode.rst:7
 msgid "Scan weight of the product through barcode in Point of sale"
 msgstr ""
+"Digitalizar peso do produto através de código de barras em ponto de venda"
 
 #: ../../point-of-sale/scan_weight_from_barcode.rst:8
 msgid ""
@@ -320,6 +387,9 @@ msgid ""
 "There are multiple ways to get the weight into point of sale, some of "
 "them are as below"
 msgstr ""
+"Ponto de venda pode precisar digitalizar o peso do produto para decidir "
+"o preço. Existem várias maneiras de obter o peso em ponto de venda, "
+"alguns deles são como abaixo"
 
 #: ../../point-of-sale/scan_weight_from_barcode.rst:11
 msgid ""
@@ -327,6 +397,9 @@ msgid ""
 "you want to know which pack has been scanned at the terminal to decide "
 "the price. i.e. pack of 250grm, pack of 500grm, pack of 1kg etc."
 msgstr ""
+"Você está vendendo pacotes predefinidos (com base no peso) dos produtos, "
+"e você quer saber qual pacote foi escaneado no terminal para decidir o "
+"preço. Isto é bloco de 250grm, bloco de 500grm, bloco de 1kg etc."
 
 #: ../../point-of-sale/scan_weight_from_barcode.rst:15
 msgid ""
@@ -334,6 +407,9 @@ msgid ""
 "own custom pack depending on their need, they do weight and generate the "
 "barcode accordingly."
 msgstr ""
+"Você vende os itens em forma de embalagem solta, onde o cliente criar "
+"seu próprio pacote personalizado, dependendo de sua necessidade, eles "
+"fazem peso e gerar o código de barras em conformidade."
 
 #: ../../point-of-sale/scan_weight_from_barcode.rst:19
 msgid ""
@@ -341,23 +417,33 @@ msgid ""
 "configure in Odoo, is to attached the weight scale machine to the point "
 "of sales terminal."
 msgstr ""
+"A terceira maneira é mais fácil de usar na vida real, mas mais complexa "
+"para configurar no Odoo, é anexado a máquina de escala de peso para o "
+"ponto de terminal de vendas."
 
 #: ../../point-of-sale/scan_weight_from_barcode.rst:25
 msgid ""
 "The small fruit shop sells the predefined packs of the Apples, they "
 "create a packs in advance such as Pack of 250grm, Pack of 500grm or Pack "
-"of 1kg. They would like to compute the price of the pack depending on the"
-" pack scan at the terminal."
+"of 1kg. They would like to compute the price of the pack depending on "
+"the pack scan at the terminal."
 msgstr ""
+"A pequena loja de frutas vende os pacotes predefinidos das maçãs, eles "
+"criam um packs com antecedência, tais como Pack de 250grm, pacote de "
+"500grm ou pacote de 1kg. Eles gostariam de calcular o preço do pacote, "
+"dependendo da verificação do pacote no terminal."
 
 #: ../../point-of-sale/scan_weight_from_barcode.rst:30
 msgid ""
-"You can scan **Product price** or **Discount** from the barcode, you need"
-" to configure the barcode rules under Nomenclature (i.e. Goto Point of "
-"sale session configuration and enable **Barcode Scanner** option)"
+"You can scan **Product price** or **Discount** from the barcode, you "
+"need to configure the barcode rules under Nomenclature (i.e. Goto Point "
+"of sale session configuration and enable **Barcode Scanner** option)"
 msgstr ""
+"Você pode digitalizar **preço do produto** ou **desconto** a partir do "
+"código de barras, você precisa configurar as regras de código de barras "
+"em nomenclatura (ou seja, goto ponto de venda sessão de configuração e "
+"permitir **Barcode Scanner** opção)"
 
 #: ../../point-of-sale/scan_weight_from_barcode.rst:36
 msgid "Access the video at https://www.youtube.com/watch?v=L-kRofdfdLc"
-msgstr ""
-
+msgstr "Acesse o vídeo em https://www.youtube.com/watch?v=L-kRofdfdLc"
