@@ -3,36 +3,39 @@
 # This file is distributed under the same license as the Odoo package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, 2018.
 #
-#, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: Odoo 12.0\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-11-30 11:27-0200\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
+"PO-Revision-Date: 2019-04-25 00:59-0300\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Generated-By: Babel 2.3.4\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: pt_BR\n"
+"X-Generator: Poedit 2.2.1\n"
 
 #: ../../human-resource/employee_expense.rst:9
 msgid "Manage advance payment, employee expenses and reconciliation"
 msgstr ""
+"Gerencie pagamentos antecipados, despesas com funcionários e "
+"reconciliação"
 
 #: ../../human-resource/employee_expense.rst:12
 #: ../../human-resource/organizational_chart.rst:11
 msgid "Video"
-msgstr ""
+msgstr "Vídeo"
 
 #: ../../human-resource/employee_expense.rst:13
 msgid "Access the video at https://www.youtube.com/watch?v=t7PS7EOiPLM"
-msgstr ""
+msgstr "Acesse o vídeo em https://www.youtube.com/watch?v=t7PS7EOiPLM"
 
 #: ../../human-resource/holiday.rst:4
 msgid "Managing Employee Leaves"
-msgstr ""
+msgstr "Gerenciando folhas de funcionário"
 
 #: ../../human-resource/holiday.rst:5
 msgid ""
@@ -43,6 +46,13 @@ msgid ""
 "integrated with Project Forecasting application for the better planning "
 "of any long term project."
 msgstr ""
+"Planejamento e previsão de tarefas e projetos necessários as informações "
+"atualizadas para a disponibilidade de recursos. Deixar o aplicativo de "
+"gerenciamento ajuda a fornecer as informações atualizadas para a "
+"indisponibilidade do funcionário. Deixe o aplicativo de gerenciamento no "
+"Odoo pode ser usado independente ou integrado com o aplicativo de "
+"previsão de projeto para o melhor planejamento de qualquer projeto de "
+"longo prazo."
 
 #: ../../human-resource/holiday.rst:12
 msgid ""
@@ -50,63 +60,81 @@ msgid ""
 "necessary, let’s see how Odoo Leaves application will answer all those "
 "business cases."
 msgstr ""
+"Há muitos casos de negócio onde o seguimento das folhas do empregado é "
+"necessário, deixe-nos ver como a aplicação das folhas de Odoo responderá "
+"a todos aqueles casos de negócio."
 
 #: ../../human-resource/holiday.rst:17
 msgid "Business case"
-msgstr ""
+msgstr "Caso de negócio"
 
 #: ../../human-resource/holiday.rst:19
 msgid ""
-"The types of leave and number of leave available for each leave types are"
-" as below in our business case."
+"The types of leave and number of leave available for each leave types "
+"are as below in our business case."
 msgstr ""
+"Os tipos de licença e número de licença disponíveis para cada tipo de "
+"licença são como abaixo em nosso caso de negócio."
 
 #: ../../human-resource/holiday.rst:22
 msgid "The leave cycle starts from January 2018"
-msgstr ""
+msgstr "O ciclo de licença começa a partir de janeiro 2018"
 
 #: ../../human-resource/holiday.rst:23
 msgid ""
 "Working schedule for all the employees are morning 8 am to 5 pm with 1 "
 "hour of lunch break"
 msgstr ""
+"Horário de trabalho para todos os funcionários são manhã 8 am a 5 PM com "
+"1 hora de almoço Break"
 
 #: ../../human-resource/holiday.rst:24
 msgid "Full time employees have 12 Legal leaves for the year 2018"
 msgstr ""
+"Funcionários em tempo integral têm 12 folhas legais para o ano 2018"
 
 #: ../../human-resource/holiday.rst:25
 msgid "Part time employees have 12 half leaves for the year 2018"
-msgstr ""
+msgstr "Funcionários a tempo parcial têm 12 folhas metade para o ano 2018"
 
 #: ../../human-resource/holiday.rst:26
 msgid ""
-"All employees are eligible to get the 6 Sick Leaves during the year 2018,"
-" however employees can have more sick leaves if needed with medical "
+"All employees are eligible to get the 6 Sick Leaves during the year "
+"2018, however employees can have more sick leaves if needed with medical "
 "certificates"
 msgstr ""
+"Todos os empregados são elegíveis para começa as 6 folhas doentes "
+"durante o ano 2018, porém os empregados podem ter mais folhas doentes se "
+"necessário com certificados médicos"
 
 #: ../../human-resource/holiday.rst:28
 msgid ""
 "Employee can have the Compensatory Days off in some cases where employee "
 "have worked on off days"
 msgstr ""
+"Funcionário pode ter os dias compensatórios fora em alguns casos em que "
+"o empregado tem trabalhado em dias fora"
 
 #: ../../human-resource/holiday.rst:31
 msgid ""
 "Let’s configure all the above business cases in Odoo and get the updated "
 "leave information for all the employees."
 msgstr ""
+"Vamos configurar todos os casos de negócios acima no Odoo e obter as "
+"informações de licença atualizadas para todos os funcionários."
 
 #: ../../human-resource/holiday.rst:35
 msgid "Configuration"
-msgstr ""
+msgstr "Configuração"
 
 #: ../../human-resource/holiday.rst:37
 msgid ""
 "Install the Leaves application form Apps menu on your instance, only an "
 "Administrator user can perform installation operation."
 msgstr ""
+"Instale o menu aplicativos do formulário de aplicativo folhas em sua "
+"instância, apenas um usuário administrador pode executar a operação de "
+"instalação."
 
 #: ../../human-resource/holiday.rst:40
 msgid "|image0|"
@@ -118,19 +146,27 @@ msgid ""
 "business case and configure the number of leave available to each "
 "employees for each leave types."
 msgstr ""
+"Certifique-se de que você tenha uma política de licença atualizada "
+"pronta, vamos pegar um caso de negócios e configurar o número de licença "
+"disponível para cada funcionário para cada tipo de licença."
 
 #: ../../human-resource/holiday.rst:47
 msgid "Working schedule"
-msgstr ""
+msgstr "Cronograma de trabalho"
 
 #: ../../human-resource/holiday.rst:49
 msgid ""
 "As per business case the working schedule for all the employees are "
-"morning 8 am to 5 pm with 1 hour of lunch break. To configure the working"
-" schedule please goto *Settings → Technical → Resources → Working Time*, "
-"create a one if the default working schedule does not meet your "
+"morning 8 am to 5 pm with 1 hour of lunch break. To configure the "
+"working schedule please goto *Settings → Technical → Resources → Working "
+"Time*, create a one if the default working schedule does not meet your "
 "requirement."
 msgstr ""
+"Como por o caso de negócio a programação de funcionamento para todos os "
+"empregados é manhã 8 am a 5 PM com 1 hora do intervalo do almoço. Para "
+"configurar a programação de trabalho, por favor goto *configurações → "
+"técnico → recursos → tempo de trabalho*, criar um se a programação de "
+"trabalho padrão não atende a sua exigência."
 
 #: ../../human-resource/holiday.rst:55
 msgid "|image1|"
@@ -143,10 +179,15 @@ msgid ""
 "and **End Date** empty if you would like to use this schedule throughout "
 "the year or until the changes required in working time."
 msgstr ""
+"Eu criei o padrão 40 horas/semana cronograma, quase todos os "
+"funcionários estão trabalhando este cronograma. Deixe a **data de "
+"início** e **data final** vazio se você gostaria de usar este cronograma "
+"ao longo do ano ou até que as alterações necessárias no tempo de "
+"trabalho."
 
 #: ../../human-resource/holiday.rst:63
 msgid "Default Working Schedule"
-msgstr ""
+msgstr "Cronograma de trabalho padrão"
 
 #: ../../human-resource/holiday.rst:65
 msgid ""
@@ -154,6 +195,9 @@ msgid ""
 "created in the system, goto *Configurations → Settings* under the "
 "**Employees** application."
 msgstr ""
+"Isso pode ser definido como um cronograma de trabalho padrão para cada "
+"novo funcionário criado no sistema, goto *configurações → configurações* "
+"o **empregados** aplicação."
 
 #: ../../human-resource/holiday.rst:69
 msgid "|image2|"
@@ -165,6 +209,10 @@ msgid ""
 "working schedule for the existing employees, the new employees created "
 "after the change will have this working schedule as a default."
 msgstr ""
+"Aviso: alterar o **horário de trabalho da empresa** não alterará o "
+"cronograma de trabalho para os funcionários existentes, os novos "
+"funcionários criados após a alteração terão esse cronograma de trabalho "
+"como padrão."
 
 #: ../../human-resource/holiday.rst:75
 msgid ""
@@ -172,6 +220,10 @@ msgid ""
 "working hours will be applied to that employee, however it can be change "
 "if required for the specific employees at the time of creation or later."
 msgstr ""
+"Quando você tem um novo funcionário ingressando na empresa, o horário de "
+"trabalho da empresa padrão será aplicado a esse funcionário, no entanto, "
+"ele pode ser alterado se necessário para os funcionários específicos no "
+"momento da criação ou posterior."
 
 #: ../../human-resource/holiday.rst:79
 msgid "|image3|"
@@ -182,16 +234,21 @@ msgid ""
 "Employees number of leaves also required to compute the salary statement "
 "for every month so that unpaid leaves can be deducted from the salary."
 msgstr ""
+"Funcionários número de folhas também necessário para calcular a "
+"declaração salarial para cada mês para que as folhas não pagas podem ser "
+"deduzidos do salário."
 
 #: ../../human-resource/holiday.rst:84
 msgid ""
 "Tip: The working schedule can be change for specific employees directly "
 "on the employee configuration."
 msgstr ""
+"Dica: o cronograma de trabalho pode ser alterado para funcionários "
+"específicos diretamente na configuração do funcionário."
 
 #: ../../human-resource/holiday.rst:88
 msgid "Employee Tags"
-msgstr ""
+msgstr "Tags de empregado"
 
 #: ../../human-resource/holiday.rst:90
 msgid ""
@@ -201,6 +258,12 @@ msgid ""
 "of employees and you have to assign different types of leaves. When you "
 "work by Employee it increase a lots of work for the HR office or manager."
 msgstr ""
+"Criar um funcionário associado com tags são um recurso importante que "
+"nos permite automatizar a alocação de licença rapidamente, a licença "
+"pode ser alocada por funcionário ou por Tags, IMMAGIN quando você tem "
+"milhares de funcionários e você tem que atribuir diferentes tipos de "
+"folhas . Quando você trabalha por funcionário que aumentar um monte de "
+"trabalho para o escritório de RH ou gerente."
 
 #: ../../human-resource/holiday.rst:97
 msgid ""
@@ -209,6 +272,10 @@ msgid ""
 "**Fulltime** and **Parttime** two different tags to differentiate the "
 "employees at the time of leave allocation."
 msgstr ""
+"Crie e atribua as tags ao funcionário com cuidado, pois com base nas "
+"folhas de Tags serão alocadas. Em nosso caso de negócios, vamos criar um "
+"**FullTime** e **Parttime** duas Tags diferentes para diferenciar os "
+"funcionários no momento da alocação de licença."
 
 #: ../../human-resource/holiday.rst:102
 msgid ""
@@ -216,6 +283,9 @@ msgid ""
 "just type the tag name and choose option to create that tag with Odoo’s "
 "quick create feature."
 msgstr ""
+"A maneira mais simples de criar as tags é diretamente do formulário de "
+"funcionário, basta digitar o nome da tag e escolher a opção para criar "
+"essa tag com o recurso de criação rápida do Odoo."
 
 #: ../../human-resource/holiday.rst:106
 msgid "|image4|"
@@ -226,12 +296,16 @@ msgid ""
 "Click on Create “Fulltime” link to create and assign created tag to new "
 "employee being created."
 msgstr ""
+"Clique em criar \"FullTime\" link para criar e atribuir tag criado para "
+"o novo funcionário que está sendo criado."
 
 #: ../../human-resource/holiday.rst:111
 msgid ""
 "Note: You can assign multiple tags to the employee that helps you to "
 "group the employees and search them quickly when needed."
 msgstr ""
+"Nota: você pode atribuir várias Tags para o funcionário que ajuda você a "
+"agrupar os funcionários e pesquisá-los rapidamente quando necessário."
 
 #: ../../human-resource/holiday.rst:114
 msgid ""
@@ -239,6 +313,9 @@ msgid ""
 "from the employee directory. Goto Employees and enter **Fulltime** and "
 "search for the Tags."
 msgstr ""
+"Você pode verificar a lista de funcionários para a atribuição correta de "
+"marcas do diretório do funcionário. Goto funcionários e digite "
+"**FullTime** e procure as tags."
 
 #: ../../human-resource/holiday.rst:118
 msgid "|image5|"
@@ -249,22 +326,29 @@ msgid ""
 "Make sure that you have verified the list of assigned employee on each "
 "tags, fix it before you proceed for the leave allocation."
 msgstr ""
+"Certifique-se de que você verificou a lista de funcionário atribuído em "
+"cada Tags, corrigi-lo antes de prosseguir para a alocação de licença."
 
 #: ../../human-resource/holiday.rst:124
 msgid "Leave Types"
-msgstr ""
+msgstr "Tipos de licença"
 
 #: ../../human-resource/holiday.rst:126
 msgid ""
 "Default leave types are already given in the Odoo as a standard data, "
 "however you can create more if needed according to your business case."
 msgstr ""
+"Os tipos de licença padrão já são fornecidos no Odoo como dados padrão, "
+"no entanto, você pode criar mais se necessário de acordo com seu caso de "
+"negócios."
 
 #: ../../human-resource/holiday.rst:129
 msgid ""
 "The leave types can be access from *Configuration* menu under the Leaves "
 "application."
 msgstr ""
+"Os tipos de licença podem ser acesso do menu *Configuração* o aplicativo "
+"Leaves."
 
 #: ../../human-resource/holiday.rst:132
 msgid "|image6|"
@@ -276,31 +360,45 @@ msgid ""
 "business rules you need. You can change the below fields to adapt your "
 "business rules on leave type."
 msgstr ""
+"Você pode criar um novo tipo de alteração existente de acordo com as "
+"regras de negócios que você precisa. Você pode alterar os campos abaixo "
+"para adaptar suas regras de negócios ao tipo de licença."
 
 #: ../../human-resource/holiday.rst:138
 msgid ""
 "**Apply Double Validation:** Check this field when you want that the "
 "approval of the leave will be done by Department Manager and HR Manager."
 msgstr ""
+"**Aplicar validação dupla:** Verifique este campo quando você quiser que "
+"a aprovação da licença será feita pelo gerente de departamento e gerente "
+"de RH."
 
 #: ../../human-resource/holiday.rst:141
 msgid ""
 "**Allow to Override Limit:** The number of leave are always predefined, "
-"however you can allow to request for more leave than the "
-"defined/allocated, i.e. sick leaves can be requested more than assigned."
+"however you can allow to request for more leave than the defined/"
+"allocated, i.e. sick leaves can be requested more than assigned."
 msgstr ""
+"**Permitir para substituir limite:** o número de licenças são sempre "
+"predefinidos, no entanto, você pode permitir a solicitação de mais "
+"licença do que o definido/alocado, ou seja, as folhas doentes podem ser "
+"solicitadas mais do que atribuído."
 
 #: ../../human-resource/holiday.rst:145
 msgid ""
 "**Meeting Type:** Once a leave is validated, Odoo will create a meeting "
 "of this type on the correspondent calendar."
 msgstr ""
+"**Tipo de reunião:** uma vez que uma licença é validada, Odoo criará uma "
+"reunião deste tipo no calendário correspondente."
 
 #: ../../human-resource/holiday.rst:148
 msgid ""
 "**Color in Report:** This color will be used to To display the specific "
 "types of leave in with color in PDF report."
 msgstr ""
+"**Cor no relatório:** esta cor será usada para exibir os tipos "
+"específicos de licença em com cor no relatório PDF."
 
 #: ../../human-resource/holiday.rst:151
 msgid "|image7|"
@@ -311,10 +409,12 @@ msgid ""
 "As a business case **Sick Leaves** may extend. So, check **Allow to "
 "Override Limit** field on the view."
 msgstr ""
+"Como um caso de negócio **as folhas doentes** podem estender. Então, "
+"verifique **permitir para substituir o limite** campo na exibição."
 
 #: ../../human-resource/holiday.rst:157
 msgid "Leave Allocation"
-msgstr ""
+msgstr "Deixar alocação"
 
 #: ../../human-resource/holiday.rst:159
 msgid ""
@@ -324,12 +424,19 @@ msgid ""
 "Manager can allocate the Compensatory leaves. Let’s create the yearly "
 "leave allocation."
 msgstr ""
+"As folhas podem ser alocadas pelo gerente de RH ou diretor ou gerente de "
+"departamento a qualquer momento para os funcionários. A alocação de "
+"licença anual será feita por HR Officer ou gerente no início de cada "
+"ano, enquanto o gerente do departamento pode alocar as folhas "
+"compensatórias. Vamos criar a alocação de licença anual."
 
 #: ../../human-resource/holiday.rst:165
 msgid ""
 "To assign the leave goto *My Leaves → Allocation Request* under the "
 "**Leaves** application and click on CREATE button."
 msgstr ""
+"Para atribuir a licença goto *minhas folhas → pedido de alocação* a "
+"aplicação **Leaves** e clique no botão CREATE."
 
 #: ../../human-resource/holiday.rst:168
 msgid "|image8|"
@@ -337,21 +444,28 @@ msgstr ""
 
 #: ../../human-resource/holiday.rst:170
 msgid ""
-"By default you can assign the leaves to selected employees, employees can"
-" also create the allocation request to ask for the compensatory leave, "
-"which will be reviewed and approved by Manager or HR Office later."
+"By default you can assign the leaves to selected employees, employees "
+"can also create the allocation request to ask for the compensatory "
+"leave, which will be reviewed and approved by Manager or HR Office later."
 msgstr ""
+"Por padrão, você pode atribuir as folhas aos funcionários selecionados, "
+"os funcionários também podem criar a solicitação de alocação para pedir "
+"a licença compensatória, que será revisada e aprovada pelo gerente ou "
+"escritório de RH mais tarde."
 
 #: ../../human-resource/holiday.rst:176
 msgid "Leave by Employee Tags"
-msgstr ""
+msgstr "Deixar por Tags de funcionário"
 
 #: ../../human-resource/holiday.rst:178
 msgid ""
 "It is advisable to allocate all the yearly leaves to the employees by "
-"their tags, it will save lots of time to create many records, each for an"
-" individual employee."
+"their tags, it will save lots of time to create many records, each for "
+"an individual employee."
 msgstr ""
+"É aconselhável alocar todas as folhas anuais para os funcionários por "
+"suas tags, ele vai economizar muito tempo para criar muitos registros, "
+"cada um para um funcionário individual."
 
 #: ../../human-resource/holiday.rst:182
 msgid "|image9|"
@@ -364,6 +478,10 @@ msgid ""
 "the specific tag in Employee Tag field, it is group of employees to whom "
 "we are going to assign the 12 legal leaves."
 msgstr ""
+"Selecione o tipo de licença e insira a duração (a duração é sempre em "
+"dias). Mude o modo de por empregados para por etiquetas do empregado e "
+"selecione a etiqueta específica no campo da etiqueta do empregado, ele é "
+"grupo de empregados a quem nós estamos indo atribuir as 12 folhas legais."
 
 #: ../../human-resource/holiday.rst:189
 msgid ""
@@ -371,6 +489,9 @@ msgid ""
 "for the approval, click on CONFIRM button to ask for the approval, HR "
 "Manager have the rights to approve the allocation request."
 msgstr ""
+"Por padrão, a alocação de licença será em rascunho, ele tem que ser "
+"solicitado para a aprovação, clique no botão CONFIRM para pedir a "
+"aprovação, gerente de RH têm os direitos de aprovar o pedido de alocação."
 
 #: ../../human-resource/holiday.rst:193
 msgid ""
@@ -378,6 +499,9 @@ msgid ""
 "individual leave allocation request for each employee who belongs to "
 "selected tag."
 msgstr ""
+"Assim que a solicitação de alocação for aprovada, o Odoo criará uma "
+"solicitação de alocação de licença individual para cada funcionário que "
+"pertence à marca selecionada."
 
 #: ../../human-resource/holiday.rst:197
 msgid "|image10|"
@@ -385,7 +509,7 @@ msgstr ""
 
 #: ../../human-resource/holiday.rst:200
 msgid "Compensatory Leaves"
-msgstr ""
+msgstr "Folhas compensatórias"
 
 #: ../../human-resource/holiday.rst:202
 msgid ""
@@ -393,6 +517,9 @@ msgid ""
 "**Description**, **Duration** and select the type *Compensatory Days* in "
 "the **Leave Type** field."
 msgstr ""
+"Funcionário pode criar um pedido de licença manualmente, digite o "
+"**Descrição**, **Duração** e selecione o tipo *dias compensatórios* no "
+"campo **deixar tipo**."
 
 #: ../../human-resource/holiday.rst:206
 msgid "|image11|"
@@ -403,10 +530,12 @@ msgid ""
 "As an employee you have already applied, you have to wait for the "
 "approval for your department manager or hr manager."
 msgstr ""
+"Como um funcionário que você já aplicou, você tem que aguardar a "
+"aprovação para o seu gerente de departamento ou gerente de RH."
 
 #: ../../human-resource/holiday.rst:212
 msgid "Leave Summary"
-msgstr ""
+msgstr "Resumo da licença"
 
 #: ../../human-resource/holiday.rst:214
 msgid ""
@@ -415,6 +544,10 @@ msgid ""
 "summary for an individual employees can be checked from Leaves "
 "application, the first screen will be leave summary."
 msgstr ""
+"Assim que a licença anual for alocada, é aconselhável que todos os "
+"funcionários verifiquem o resumo das licenças para as folhas alocadas. "
+"Deixar Resumo para um funcionário individual pode ser verificado a "
+"partir do aplicativo Leaves, a primeira tela será deixar Resumo."
 
 #: ../../human-resource/holiday.rst:219
 msgid "|image12|"
@@ -426,6 +559,9 @@ msgid ""
 "their status approved or rejected. The actual leaves available to the "
 "employees will be displayed on the employees form."
 msgstr ""
+"Funcionário pode ver suas folhas pode ser alocado ou solicitado, se o "
+"seu estatuto aprovado ou rejeitado. As folhas reais disponíveis para os "
+"funcionários serão exibidas no formulário de funcionários."
 
 #: ../../human-resource/holiday.rst:225
 msgid "|image13|"
@@ -433,21 +569,20 @@ msgstr ""
 
 #: ../../human-resource/index.rst:5
 msgid "Human Resource"
-msgstr ""
+msgstr "Recursos Humanos"
 
 #: ../../human-resource/index.rst:8
 msgid "Employee"
-msgstr ""
+msgstr "Funcionario"
 
 #: ../../human-resource/index.rst:16
 msgid "Employee Expense"
-msgstr ""
+msgstr "Despesa de empregado"
 
 #: ../../human-resource/organizational_chart.rst:8
 msgid "Show organizational chart on employee form"
-msgstr ""
+msgstr "Mostrar organograma no formulário de funcionário"
 
 #: ../../human-resource/organizational_chart.rst:12
 msgid "Access the video at https://www.youtube.com/watch?v=NpXoieYwb7I"
-msgstr ""
-
+msgstr "Acesse o vídeo em https://www.youtube.com/watch?v=NpXoieYwb7I"

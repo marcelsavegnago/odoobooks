@@ -3,25 +3,28 @@
 # This file is distributed under the same license as the Odoo package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, 2018.
 #
-#, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: Odoo 12.0\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-11-30 11:27-0200\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
+"PO-Revision-Date: 2019-04-25 00:42-0300\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Generated-By: Babel 2.3.4\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: pt_BR\n"
+"X-Generator: Poedit 2.2.1\n"
 
 #: ../../inventory/amendment_delivery_order.rst:7
 msgid ""
 "How to amendment products on delivery order? (Installed only inventory "
 "application)"
 msgstr ""
+"Como alterar os produtos na ordem de entrega? (Instalado apenas o aplicativo de "
+"inventário)"
 
 #: ../../inventory/amendment_delivery_order.rst:10
 #: ../../inventory/automatic_inventory_valuation/cost_of_goods_sold_kit_product.rst:10
@@ -40,125 +43,139 @@ msgstr ""
 #: ../../inventory/put_away_strategy.rst:12
 #: ../../inventory/setup/opening-inventory.rst:15
 msgid "Video"
-msgstr ""
+msgstr "Vídeo"
 
 #: ../../inventory/amendment_delivery_order.rst:11
 msgid "Access the video at https://www.youtube.com/watch?v=qakpa5hy83k"
-msgstr ""
+msgstr "Acesse o vídeo em https://www.youtube.com/watch?v=qakpa5hy83k"
 
 #: ../../inventory/automatic_inventory_valuation/cost_of_goods_sold_kit_product.rst:7
 msgid ""
-"Compute cost of goods sold for a kit product using real price costing - "
-"Odoo 10.0 community"
+"Compute cost of goods sold for a kit product using real price costing - Odoo "
+"10.0 community"
 msgstr ""
+"Custo computacional de mercadorias vendidas para um produto de kit usando custo "
+"real de preço-Odoo 10,0 Comunidade"
 
 #: ../../inventory/automatic_inventory_valuation/cost_of_goods_sold_kit_product.rst:11
 msgid "Access the video at https://www.youtube.com/watch?v=6-KYnZOTO9A"
-msgstr ""
+msgstr "Acesse o vídeo em https://www.youtube.com/watch?v=6-KYnZOTO9A"
 
 #: ../../inventory/automatic_inventory_valuation/cost_of_goods_sold_kit_product_enterprise.rst:7
 msgid "Compute cost of goods sold for a kit product using standard costing method"
 msgstr ""
+"Custo computacional de mercadorias vendidas para um produto de kit usando o "
+"método de custeio padrão"
 
 #: ../../inventory/automatic_inventory_valuation/cost_of_goods_sold_kit_product_enterprise.rst:11
 #: ../../inventory/automatic_inventory_valuation/standard_costing.rst:11
 msgid "Access the video at https://www.youtube.com/watch?v=Ee-fR9o6tSk"
-msgstr ""
+msgstr "Acesse o vídeo em https://www.youtube.com/watch?v=Ee-fR9o6tSk"
 
 #: ../../inventory/automatic_inventory_valuation/standard_costing.rst:7
 msgid "Automatic cost of cost goods sold when using standard costing method"
 msgstr ""
+"Custo automático de bens vendidos ao usar o método de cálculo de custos padrão"
 
 #: ../../inventory/bom_stock.rst:8
 msgid "Compute stock for the kit product based on the component stock"
 msgstr ""
+"Estoque computacional para o produto kit com base no estoque de componentes"
 
 #: ../../inventory/bom_stock.rst:12
 msgid "Access the video at https://www.youtube.com/watch?v=m7wjxc3Mbck"
-msgstr ""
+msgstr "Acesse o vídeo em https://www.youtube.com/watch?v=m7wjxc3Mbck"
 
 #: ../../inventory/control_receipt.rst:9
 msgid "How to control product received? (Receive entirely & partially)"
-msgstr ""
+msgstr "Como controlar o produto recebido? (Receber inteiramente & parcialmente)"
 
 #: ../../inventory/control_receipt.rst:13
 msgid "Access the video at https://www.youtube.com/watch?v=tpUsy1XNQak"
-msgstr ""
+msgstr "Acesse o vídeo em https://www.youtube.com/watch?v=tpUsy1XNQak"
 
 #: ../../inventory/delivery_address.rst:10
 msgid "How to use different invoice and delivery addresses?"
-msgstr ""
+msgstr "Como usar diferentes faturas e endereços de entrega?"
 
 #: ../../inventory/delivery_address.rst:14
 msgid "Access the video at https://www.youtube.com/watch?v=fHp5-UUpt_U"
-msgstr ""
+msgstr "Acesse o vídeo em https://www.youtube.com/watch?v=fHp5-UUpt_U"
 
 #: ../../inventory/index.rst:7
 msgid "Inventory Management"
-msgstr ""
+msgstr "Gestão de estoques"
 
 #: ../../inventory/index.rst:10
 msgid "Setup"
-msgstr ""
+msgstr "Configuração"
 
 #: ../../inventory/index.rst:17
 msgid "Product & Stock"
-msgstr ""
+msgstr "Produto e estoque"
 
 #: ../../inventory/index.rst:25
 msgid "Delivery Order"
-msgstr ""
+msgstr "Ordem de entrega"
 
 #: ../../inventory/index.rst:33
 msgid "Incoming Shipment"
-msgstr ""
+msgstr "Remessa recebida"
 
 #: ../../inventory/index.rst:41
 msgid "Inventory Costing"
-msgstr ""
+msgstr "Cálculo de custos de inventário"
 
 #: ../../inventory/index.rst:48
 msgid "Inventory Valuation (Anglo-Saxons)"
-msgstr ""
+msgstr "Avaliação de estoques (anglo-saxões)"
 
 #: ../../inventory/index.rst:55
 msgid "Automatic Inventory Valuation (Anglo-Saxons)"
-msgstr ""
+msgstr "Avaliação automática de estoques (anglo-saxões)"
 
 #: ../../inventory/inventory_costing/average_costing.rst:7
 msgid ""
-"Compute sell price and margin based on product cost price (AVCO costing "
-"method)"
+"Compute sell price and margin based on product cost price (AVCO costing method)"
 msgstr ""
+"Calcular preço de venda e margem com base no preço de custo do produto (método "
+"de custeio AVCO)"
 
 #: ../../inventory/inventory_costing/average_costing.rst:8
 msgid ""
-"The most common business case where you want to decide the sell price "
-"based on your cost of of the product purchase price."
+"The most common business case where you want to decide the sell price based on "
+"your cost of of the product purchase price."
 msgstr ""
+"O caso de negócios mais comum onde você quer decidir o preço de venda com base "
+"no seu custo do preço de compra do produto."
 
 #: ../../inventory/inventory_costing/average_costing.rst:12
 #: ../../inventory/inventory_costing/costing_at_averagr_price.rst:13
 #: ../../inventory/inventory_costing/standard_costing.rst:10
 #: ../../inventory/setup/opening-inventory.rst:11
 msgid "Business case"
-msgstr ""
+msgstr "Caso de negócio"
 
 #: ../../inventory/inventory_costing/average_costing.rst:13
 msgid ""
-"The **My Company** is a distributor of *Laptop*, they purchase a laptop "
-"form the default supplier and sell to retail customers, there are "
-"sometime frequent price change, so **My Company** wants to setup the "
-"inventory costing and based on cost they can define the product they add "
-"35% margin and sell to their customers."
+"The **My Company** is a distributor of *Laptop*, they purchase a laptop form "
+"the default supplier and sell to retail customers, there are sometime frequent "
+"price change, so **My Company** wants to setup the inventory costing and based "
+"on cost they can define the product they add 35% margin and sell to their "
+"customers."
 msgstr ""
+"O **minha empresa** é um distribuidor de * laptop *, eles compram um laptop "
+"forma o fornecedor padrão e vender para clientes de varejo, há algum tempo "
+"freqüente mudança de preço, assim **minha empresa** quer configurar o cálculo "
+"de custos de inventário e com base no custo que pode definir o produto "
+"adicionam 35% de margem e vendem aos seus clientes."
 
 #: ../../inventory/inventory_costing/average_costing.rst:19
 #: ../../inventory/inventory_costing/costing_at_averagr_price.rst:20
 #: ../../inventory/inventory_costing/fifo_costing_method.rst:15
 #: ../../inventory/inventory_costing/standard_costing.rst:19
 msgid "Configuration"
-msgstr ""
+msgstr "Configuração"
 
 #: ../../inventory/inventory_costing/average_costing.rst:20
 #: ../../inventory/inventory_costing/costing_at_averagr_price.rst:21
@@ -168,27 +185,30 @@ msgid ""
 "Install **Sales Management**, **Purchase Management** & **Accounting and "
 "Finance** apps"
 msgstr ""
+"Instalar os aplicativos **gestão de vendas**, **gestão de compras** & "
+"**aplicações de contabilidade e finanças** (apps)"
 
 #: ../../inventory/inventory_costing/average_costing.rst:23
 #: ../../inventory/inventory_costing/costing_at_averagr_price.rst:24
 #: ../../inventory/inventory_costing/fifo_costing_method.rst:19
 #: ../../inventory/inventory_costing/standard_costing.rst:23
 msgid "Create a product *Laptop*"
-msgstr ""
+msgstr "Criar um produto *laptop*"
 
 #: ../../inventory/inventory_costing/average_costing.rst:25
 #: ../../inventory/inventory_costing/costing_at_averagr_price.rst:26
 #: ../../inventory/inventory_costing/fifo_costing_method.rst:21
 msgid "Set the Internal Category to *All / Saleable*"
-msgstr ""
+msgstr "Definir a categoria interna para *Todos/Vendável*"
 
 #: ../../inventory/inventory_costing/average_costing.rst:27
 #: ../../inventory/inventory_costing/costing_at_averagr_price.rst:28
 #: ../../inventory/inventory_costing/fifo_costing_method.rst:23
 msgid ""
-"Set **Costing Method** to     *Average Cost (AVCO)* on *All / Saleable* "
-"category"
+"Set **Costing Method** to     *Average Cost (AVCO)* on *All / Saleable* category"
 msgstr ""
+"Definir **método de custeio** para *custo médio (AVCO)* em *todos/vendável* "
+"categoria"
 
 #: ../../inventory/inventory_costing/average_costing.rst:29
 #: ../../inventory/inventory_costing/costing_at_averagr_price.rst:30
@@ -196,60 +216,77 @@ msgstr ""
 #: ../../inventory/inventory_costing/standard_costing.rst:29
 msgid "Define *Default Supplier* as a vendor with the cost price of *Laptop*."
 msgstr ""
+"Definir *fornecedor padrão* como um fornecedor com o preço de custo de *laptop*."
 
 #: ../../inventory/inventory_costing/average_costing.rst:31
 msgid ""
-"Activate the **Multiple Sales Prices per Product** and **Margins** under "
-"the Sales / Configuration / Settings."
+"Activate the **Multiple Sales Prices per Product** and **Margins** under the "
+"Sales / Configuration / Settings."
 msgstr ""
+"Ative os **vários preços de venda por produto** e **margens** as vendas/"
+"configuração/configurações."
 
 #: ../../inventory/inventory_costing/average_costing.rst:34
 msgid ""
-"Change existing price list *Public Pricelist* and add new pricelist item,"
-" they increase the Laptop price by 35%."
+"Change existing price list *Public Pricelist* and add new pricelist item, they "
+"increase the Laptop price by 35%."
 msgstr ""
+"Alterar a lista de preços existente *Preços Públicos* e adicionar novo item "
+"preços, eles aumentam o preço do laptop por 35%."
 
 #: ../../inventory/inventory_costing/average_costing.rst:39
 msgid "Access the video at https://www.youtube.com/watch?v=SQC26XH-ebQ"
-msgstr ""
+msgstr "Acesse o vídeo em https://www.youtube.com/watch?v=SQC26XH-ebQ"
 
 #: ../../inventory/inventory_costing/costing_at_averagr_price.rst:7
 msgid "Compute the cost of product (average costing)"
-msgstr ""
+msgstr "Calcule o custo do produto (cálculo de custos médio)"
 
 #: ../../inventory/inventory_costing/costing_at_averagr_price.rst:8
 msgid ""
-"The average costing method help you to decide the product sell price, "
-"each time you purchase the product new cost will be updated based on the "
-"existing stock and purchased stock value."
+"The average costing method help you to decide the product sell price, each time "
+"you purchase the product new cost will be updated based on the existing stock "
+"and purchased stock value."
 msgstr ""
+"O método de cálculo de custos médio ajuda você a decidir o preço de venda do "
+"produto, cada vez que você compra o produto novo custo será atualizado com base "
+"no estoque existente e valor de estoque adquirido."
 
 #: ../../inventory/inventory_costing/costing_at_averagr_price.rst:14
 msgid ""
-"The **My Company** is a distributor of *Laptop*, they purchase a laptop "
-"form the default supplier and sell to retail customers, there are "
-"sometime frequent price change, so **My Company** wants to setup the "
-"inventory costing and based on average cost method."
+"The **My Company** is a distributor of *Laptop*, they purchase a laptop form "
+"the default supplier and sell to retail customers, there are sometime frequent "
+"price change, so **My Company** wants to setup the inventory costing and based "
+"on average cost method."
 msgstr ""
+"O **minha empresa** é um distribuidor de *laptop*, eles compram um laptop forma "
+"o fornecedor padrão e vender para clientes de varejo, há algum tempo freqüente "
+"mudança de preço, assim **minha empresa** quer configurar o cálculo de custos "
+"de inventário e com base no método de custo médio."
 
 #: ../../inventory/inventory_costing/costing_at_averagr_price.rst:32
 msgid ""
-"Purchse 3 unit of Laptop at different rates, the product will be computed"
-" on each reception by doing an average based on the purchase price."
+"Purchse 3 unit of Laptop at different rates, the product will be computed on "
+"each reception by doing an average based on the purchase price."
 msgstr ""
+"Compre 3 unidade de laptop em taxas diferentes, o produto será calculado em "
+"cada recepção, fazendo uma média com base no preço de compra."
 
 #: ../../inventory/inventory_costing/costing_at_averagr_price.rst:35
 msgid ""
-"Assumed that you have a 10 unit of laptop cost of 8500 (the inventory "
-"value will be same as the cost), you purchase new 10 laptop at the price "
-"of 830 each. The new cost price will be computed by an averga of total "
-"cost vs units. 840 = (8500 + 8300) / 20 (10 existing stock + 10 new "
-"purchase)"
+"Assumed that you have a 10 unit of laptop cost of 8500 (the inventory value "
+"will be same as the cost), you purchase new 10 laptop at the price of 830 each. "
+"The new cost price will be computed by an averga of total cost vs units. 840 = "
+"(8500 + 8300) / 20 (10 existing stock + 10 new purchase)"
 msgstr ""
+"Assumido que você tem uma unidade de 10 de custo de laptop de 8500 (o valor do "
+"inventário será o mesmo que o custo), você compra novo laptop 10 ao preço de "
+"830 cada. O novo preço de custo será calculado por uma averga de custo total "
+"versus unidades. 840 = (8500 + 8300)/20 (10 estoque existente + 10 nova compra)"
 
 #: ../../inventory/inventory_costing/costing_at_averagr_price.rst:42
 msgid "Access the video at https://www.youtube.com/watch?v=QjdRX6El-4M"
-msgstr ""
+msgstr "Acesse o vídeo em https://www.youtube.com/watch?v=QjdRX6El-4M"
 
 #: ../../inventory/inventory_costing/costing_at_averagr_price.rst:52
 #: ../../inventory/inventory_costing/fifo_costing_method.rst:46
@@ -269,34 +306,42 @@ msgstr ""
 
 #: ../../inventory/inventory_costing/fifo_costing_method.rst:7
 msgid "Compute the cost of product (first in first out method)"
-msgstr ""
+msgstr "Calcule o custo do produto (primeiro no primeiro método de saída)"
 
 #: ../../inventory/inventory_costing/fifo_costing_method.rst:8
 msgid ""
-"The fifo costing method help you to compute the accurate profit in the "
-"profit and loss account based on the all the purchase expense and sell "
-"price. You can add the landed cost (the cost of transportation) if you do"
-" a real time inventory valuation with fifo costing method. Each time you "
-"remove the products from warehouse the cost will be computed on the "
-"product **Cost** field"
+"The fifo costing method help you to compute the accurate profit in the profit "
+"and loss account based on the all the purchase expense and sell price. You can "
+"add the landed cost (the cost of transportation) if you do a real time "
+"inventory valuation with fifo costing method. Each time you remove the products "
+"from warehouse the cost will be computed on the product **Cost** field"
 msgstr ""
+"O método de custeio FIFO ajudá-lo a calcular o lucro exato na conta de lucros e "
+"perdas com base na totalidade da despesa de compra e preço de venda. É possível "
+"adicionar o custo de aterrissação (o custo de transporte) se você fizer uma "
+"avaliação de estoque em tempo real com o método de custeio FIFO. Cada vez que "
+"você remover os produtos do armazém o custo será calculado sobre o produto "
+"**custo** campo"
 
 #: ../../inventory/inventory_costing/fifo_costing_method.rst:27
 msgid ""
-"Purchase 3 unit of Laptop at different rates, the product will be "
-"computed on each reception by doing an average based on the purchase "
-"price."
+"Purchase 3 unit of Laptop at different rates, the product will be computed on "
+"each reception by doing an average based on the purchase price."
 msgstr ""
+"Compra 3 unidade de laptop em taxas diferentes, o produto será calculado em "
+"cada recepção, fazendo uma média com base no preço de compra."
 
 #: ../../inventory/inventory_costing/fifo_costing_method.rst:30
 msgid ""
-"The FIFO is same as the Real price costing, follows the accounting FIFO "
-"and not forcing for warehouse FIFO removal strategy."
+"The FIFO is same as the Real price costing, follows the accounting FIFO and not "
+"forcing for warehouse FIFO removal strategy."
 msgstr ""
+"O FIFO é o mesmo que o preço de custo real, segue o FIFO contábil e não "
+"forçando para armazém estratégia de remoção FIFO."
 
 #: ../../inventory/inventory_costing/fifo_costing_method.rst:36
 msgid "Access the video at https://www.youtube.com/watch?v=a8UXCiETC38"
-msgstr ""
+msgstr "Acesse o vídeo em https://www.youtube.com/watch?v=a8UXCiETC38"
 
 #: ../../inventory/inventory_costing/fifo_costing_method.rst:47
 #: ../../inventory/inventory_costing/standard_costing.rst:48
@@ -305,63 +350,77 @@ msgstr ""
 
 #: ../../inventory/inventory_costing/standard_costing.rst:7
 msgid "Compute the cost of product (standard price)"
-msgstr ""
+msgstr "Calcule o custo do produto (preço-padrão)"
 
 #: ../../inventory/inventory_costing/standard_costing.rst:11
 msgid ""
-"The **My Company** is a distributor of *Laptop*, they purchase a laptop "
-"form the default supplier and sell to retail customers, they do not "
-"maintain the stock, they always purchase on demand so **Standard "
-"pricing** is perfect costing method for them. Some times they benefit or "
-"loss if they have stock and product price change as they directly change "
-"the product cost price which impact on their inventory value."
+"The **My Company** is a distributor of *Laptop*, they purchase a laptop form "
+"the default supplier and sell to retail customers, they do not maintain the "
+"stock, they always purchase on demand so **Standard pricing** is perfect "
+"costing method for them. Some times they benefit or loss if they have stock and "
+"product price change as they directly change the product cost price which "
+"impact on their inventory value."
 msgstr ""
+"A **minha empresa** é um distribuidor de *laptop*, eles compram um laptop forma "
+"o fornecedor padrão e vender para clientes de varejo, eles não mantêm o "
+"estoque, eles sempre compram demanda para **preços padrão** é o método de "
+"custeio perfeito para eles. Algumas vezes eles beneficiam ou perda se eles têm "
+"estoque e mudança de preço do produto como eles mudam diretamente o preço de "
+"custo do produto que afetam o seu valor de inventário."
 
 #: ../../inventory/inventory_costing/standard_costing.rst:25
 msgid "Set the Internal Category to *All / Saleable*."
-msgstr ""
+msgstr "Defina a categoria interna para *todos/vendável*."
 
 #: ../../inventory/inventory_costing/standard_costing.rst:27
 msgid "Default costing method on the category is Standard pricing."
-msgstr ""
+msgstr "O método de cálculo de custos padrão na categoria é preço padrão."
 
 #: ../../inventory/inventory_costing/standard_costing.rst:31
 msgid ""
-"Purchse 2 unit of Laptop at different rate then the Standard price, "
-"inventory value will be computed based on the product Standard price "
-"field."
+"Purchse 2 unit of Laptop at different rate then the Standard price, inventory "
+"value will be computed based on the product Standard price field."
 msgstr ""
+"Compre 2 unidade de laptop em taxa diferente, em seguida, o preço padrão, o "
+"valor de estoque será calculado com base no produto campo preço padrão."
 
 #: ../../inventory/inventory_costing/standard_costing.rst:34
 msgid "This method is less useful in the real-life."
-msgstr ""
+msgstr "Este método é menos útil na vida real."
 
 #: ../../inventory/inventory_costing/standard_costing.rst:38
 msgid "Access the video at https://www.youtube.com/watch?v=TEHOwOjrRWM"
-msgstr ""
+msgstr "Acesse o vídeo em https://www.youtube.com/watch?v=TEHOwOjrRWM"
 
 #: ../../inventory/inventory_valuation/manual_valuation_average_costing.rst:6
 msgid ""
-"Compute the inventory valuation and cost of goods sold using average "
-"costing method"
+"Compute the inventory valuation and cost of goods sold using average costing "
+"method"
 msgstr ""
+"Calcular a avaliação de estoque e o custo dos produtos vendidos usando o método "
+"de cálculo de custos médio"
 
 #: ../../inventory/inventory_valuation/manual_valuation_average_costing.rst:8
 #: ../../inventory/inventory_valuation/manual_valuation_fifo_costing.rst:8
 #: ../../inventory/inventory_valuation/manual_valuation_standard_costing.rst:8
 msgid ""
 "The manual inventory valuation method suggest that the valuation of an "
-"inventory has to be manage manually in financial accounting. The periodic"
-" journal entry has to be passed on regular internal so keep updated the "
-"valuation in balance sheet and cost of goods sold in profit and loss "
-"account."
+"inventory has to be manage manually in financial accounting. The periodic "
+"journal entry has to be passed on regular internal so keep updated the "
+"valuation in balance sheet and cost of goods sold in profit and loss account."
 msgstr ""
+"O método de avaliação de estoque manual sugere que a avaliação de um inventário "
+"tenha que ser gerencio manualmente na contabilidade financeira. A entrada "
+"periódica do diário tem que ser passada no interno regular assim que mantenha "
+"actualizado a avaliação no balanço patrimonial e no custo dos bens vendidos na "
+"conta do lucro e da perda."
 
 #: ../../inventory/inventory_valuation/manual_valuation_average_costing.rst:14
 #: ../../inventory/inventory_valuation/manual_valuation_fifo_costing.rst:14
 #: ../../inventory/inventory_valuation/manual_valuation_standard_costing.rst:14
 msgid "On every regular internal an accounting entry has to be passed as below:"
 msgstr ""
+"Em cada interno regular uma entrada contábil tem que ser passada como abaixo:"
 
 #: ../../inventory/inventory_valuation/manual_valuation_average_costing.rst:17
 #: ../../inventory/inventory_valuation/manual_valuation_average_costing.rst:47
@@ -371,7 +430,7 @@ msgstr ""
 #: ../../inventory/inventory_valuation/manual_valuation_standard_costing.rst:47
 #: ../../inventory/inventory_valuation/manual_valuation_standard_costing.rst:62
 msgid "**Description**"
-msgstr ""
+msgstr "**Descrição**"
 
 #: ../../inventory/inventory_valuation/manual_valuation_average_costing.rst:17
 #: ../../inventory/inventory_valuation/manual_valuation_average_costing.rst:47
@@ -381,7 +440,7 @@ msgstr ""
 #: ../../inventory/inventory_valuation/manual_valuation_standard_costing.rst:47
 #: ../../inventory/inventory_valuation/manual_valuation_standard_costing.rst:62
 msgid "**Debit**"
-msgstr ""
+msgstr "**Débito**"
 
 #: ../../inventory/inventory_valuation/manual_valuation_average_costing.rst:17
 #: ../../inventory/inventory_valuation/manual_valuation_average_costing.rst:47
@@ -391,7 +450,7 @@ msgstr ""
 #: ../../inventory/inventory_valuation/manual_valuation_standard_costing.rst:47
 #: ../../inventory/inventory_valuation/manual_valuation_standard_costing.rst:62
 msgid "**Credit**"
-msgstr ""
+msgstr "**Crédito**"
 
 #: ../../inventory/inventory_valuation/manual_valuation_average_costing.rst:19
 #: ../../inventory/inventory_valuation/manual_valuation_average_costing.rst:49
@@ -401,7 +460,7 @@ msgstr ""
 #: ../../inventory/inventory_valuation/manual_valuation_standard_costing.rst:49
 #: ../../inventory/inventory_valuation/manual_valuation_standard_costing.rst:64
 msgid "Inventory Valuation"
-msgstr ""
+msgstr "Avaliação de estoque"
 
 #: ../../inventory/inventory_valuation/manual_valuation_average_costing.rst:19
 #: ../../inventory/inventory_valuation/manual_valuation_average_costing.rst:21
@@ -418,88 +477,103 @@ msgstr ""
 #: ../../inventory/inventory_valuation/manual_valuation_standard_costing.rst:64
 #: ../../inventory/inventory_valuation/manual_valuation_standard_costing.rst:66
 msgid "800"
-msgstr ""
+msgstr "800"
 
 #: ../../inventory/inventory_valuation/manual_valuation_average_costing.rst:21
 #: ../../inventory/inventory_valuation/manual_valuation_fifo_costing.rst:21
 #: ../../inventory/inventory_valuation/manual_valuation_standard_costing.rst:21
 msgid "Cost of Goods Sold"
-msgstr ""
+msgstr "Custo de produtos vendidos"
 
 #: ../../inventory/inventory_valuation/manual_valuation_average_costing.rst:24
 #: ../../inventory/inventory_valuation/manual_valuation_fifo_costing.rst:24
 #: ../../inventory/inventory_valuation/manual_valuation_standard_costing.rst:24
 msgid "To compute the cost of goods sold use the below formula"
-msgstr ""
+msgstr "Para calcular o custo dos produtos vendidos use a fórmula abaixo"
 
 #: ../../inventory/inventory_valuation/manual_valuation_average_costing.rst:26
 #: ../../inventory/inventory_valuation/manual_valuation_fifo_costing.rst:26
 #: ../../inventory/inventory_valuation/manual_valuation_standard_costing.rst:26
 msgid ""
-"``COGS = Inventory Valuation as per Balance sheet - Inventory Valuation "
-"as per Inventory``"
+"``COGS = Inventory Valuation as per Balance sheet - Inventory Valuation as per "
+"Inventory``"
 msgstr ""
+"``COGS = avaliação de estoque como por balanço-avaliação de estoque como por "
+"estoque``"
 
 #: ../../inventory/inventory_valuation/manual_valuation_average_costing.rst:30
 #: ../../inventory/inventory_valuation/manual_valuation_fifo_costing.rst:30
 #: ../../inventory/inventory_valuation/manual_valuation_standard_costing.rst:30
 msgid "Product Cost price"
-msgstr ""
+msgstr "Preço de custo do produto"
 
 #: ../../inventory/inventory_valuation/manual_valuation_average_costing.rst:32
 msgid ""
-"As your inventory costing method is average, you are allowed to change "
-"the cost price of the product, assumed that you increase the cost price."
+"As your inventory costing method is average, you are allowed to change the cost "
+"price of the product, assumed that you increase the cost price."
 msgstr ""
+"Como o método de cálculo de custos de inventário é médio, você tem permissão "
+"para alterar o preço de custo do produto, assumindo que você aumente o preço de "
+"custo."
 
 #: ../../inventory/inventory_valuation/manual_valuation_average_costing.rst:35
 #: ../../inventory/inventory_valuation/manual_valuation_standard_costing.rst:35
 msgid ""
-"Make sure you change the cost price on the product once your valuation is"
-" equal for inventory and balance sheet, else you may have a wrong cost of"
-" goods sold entry."
+"Make sure you change the cost price on the product once your valuation is equal "
+"for inventory and balance sheet, else you may have a wrong cost of goods sold "
+"entry."
 msgstr ""
+"Certifique-se de alterar o preço de custo no produto, uma vez que sua avaliação "
+"é igual para o inventário e balanço, então você pode ter um custo errado de "
+"mercadorias vendidas entrada."
 
 #: ../../inventory/inventory_valuation/manual_valuation_average_costing.rst:39
 #: ../../inventory/inventory_valuation/manual_valuation_standard_costing.rst:39
 msgid ""
-"When you see a COGS is having a negative value it means that your value "
-"of the inventory increased in warehouse this should be reflect in the "
-"balance sheet too."
+"When you see a COGS is having a negative value it means that your value of the "
+"inventory increased in warehouse this should be reflect in the balance sheet "
+"too."
 msgstr ""
+"Quando você vê que um COGS está tendo um valor negativo significa que seu valor "
+"do inventário aumentado no armazém este deve ser reflete no balanço demasiado."
 
 #: ../../inventory/inventory_valuation/manual_valuation_average_costing.rst:43
 #: ../../inventory/inventory_valuation/manual_valuation_standard_costing.rst:43
 msgid ""
-"To increase the value in balance sheet you have to pass below journal "
-"entry"
+"To increase the value in balance sheet you have to pass below journal entry"
 msgstr ""
+"Para aumentar o valor no balanço patrimonial você tem que passar abaixo da "
+"entrada do diário"
 
 #: ../../inventory/inventory_valuation/manual_valuation_average_costing.rst:51
 #: ../../inventory/inventory_valuation/manual_valuation_average_costing.rst:66
 #: ../../inventory/inventory_valuation/manual_valuation_standard_costing.rst:51
 #: ../../inventory/inventory_valuation/manual_valuation_standard_costing.rst:66
 msgid "Inventory Valuation Difference"
-msgstr ""
+msgstr "Diferença de avaliação de estoque"
 
 #: ../../inventory/inventory_valuation/manual_valuation_average_costing.rst:54
 #: ../../inventory/inventory_valuation/manual_valuation_standard_costing.rst:54
 msgid ""
-"Or, when you see a COGS is having a positive value it means that your "
-"value of the inventory decreased in warehouse and this should be reflect "
-"in the balance sheet too."
+"Or, when you see a COGS is having a positive value it means that your value of "
+"the inventory decreased in warehouse and this should be reflect in the balance "
+"sheet too."
 msgstr ""
+"Ou, quando você vê que um COGS está tendo um valor positivo significa que seu "
+"valor do inventário diminuiu no armazém e este deve ser reflete no balanço "
+"demasiado."
 
 #: ../../inventory/inventory_valuation/manual_valuation_average_costing.rst:58
 #: ../../inventory/inventory_valuation/manual_valuation_standard_costing.rst:58
 msgid ""
-"To decrease the value in balance sheet you have to pass below journal "
-"entry"
+"To decrease the value in balance sheet you have to pass below journal entry"
 msgstr ""
+"Para diminuir o valor no balanço patrimonial você tem que passar abaixo da "
+"entrada do diário"
 
 #: ../../inventory/inventory_valuation/manual_valuation_average_costing.rst:71
 msgid "Access the video at https://www.youtube.com/watch?v=aHa8jjJsEKA"
-msgstr ""
+msgstr "Acesse o vídeo em https://www.youtube.com/watch?v=aHa8jjJsEKA"
 
 #: ../../inventory/inventory_valuation/manual_valuation_average_costing.rst:81
 #: ../../inventory/inventory_valuation/manual_valuation_fifo_costing.rst:51
@@ -531,26 +605,33 @@ msgstr ""
 
 #: ../../inventory/inventory_valuation/manual_valuation_fifo_costing.rst:6
 msgid ""
-"Compute the inventory valuation and cost of goods sold using fifo costing"
-" method"
+"Compute the inventory valuation and cost of goods sold using fifo costing method"
 msgstr ""
+"Calcular a avaliação de estoque e o custo dos produtos vendidos usando o método "
+"de custeio FIFO"
 
 #: ../../inventory/inventory_valuation/manual_valuation_fifo_costing.rst:32
 msgid ""
-"The cost price on the product page always display the cost of last unit "
-"sold or consumed or scrapped from the stock. If you change that manually "
-"it will not make any changes in the system."
+"The cost price on the product page always display the cost of last unit sold or "
+"consumed or scrapped from the stock. If you change that manually it will not "
+"make any changes in the system."
 msgstr ""
+"O preço de custo na página do produto sempre exibe o custo da última unidade "
+"vendida ou consumida ou descartada do estoque. Se você alterar que manualmente "
+"ele não fará quaisquer alterações no sistema."
 
 #: ../../inventory/inventory_valuation/manual_valuation_fifo_costing.rst:36
 msgid ""
-"Hide the product cost field, if all of your products have FIFO as the "
-"inventory costing method, even-users will never get confused."
+"Hide the product cost field, if all of your products have FIFO as the inventory "
+"costing method, even-users will never get confused."
 msgstr ""
+"Oculte o campo de custo do produto, se todos os seus produtos tiverem FIFO como "
+"o método de cálculo de custos de inventário, mesmo os usuários nunca serão "
+"confundidos."
 
 #: ../../inventory/inventory_valuation/manual_valuation_fifo_costing.rst:41
 msgid "Access the video at https://www.youtube.com/watch?v=_TFhth_Uzc4"
-msgstr ""
+msgstr "Acesse o vídeo em https://www.youtube.com/watch?v=_TFhth_Uzc4"
 
 #: ../../inventory/inventory_valuation/manual_valuation_fifo_costing.rst:55
 #: ../../inventory/inventory_valuation/manual_valuation_standard_costing.rst:85
@@ -559,53 +640,61 @@ msgstr ""
 
 #: ../../inventory/inventory_valuation/manual_valuation_standard_costing.rst:6
 msgid ""
-"Compute the inventory valuation and cost of goods sold using standard "
-"costing"
+"Compute the inventory valuation and cost of goods sold using standard costing"
 msgstr ""
+"Calcule a avaliação de estoque e o custo dos produtos vendidos usando o cálculo "
+"de custos padrão"
 
 #: ../../inventory/inventory_valuation/manual_valuation_standard_costing.rst:32
 msgid ""
-"As your inventory costing method is standards, you are allowed to change "
-"the cost price of the product, assumed that you increase the cost price."
+"As your inventory costing method is standards, you are allowed to change the "
+"cost price of the product, assumed that you increase the cost price."
 msgstr ""
+"Como o método de cálculo de custos de inventário é padrão, você tem permissão "
+"para alterar o preço de custo do produto, assumindo que você aumente o preço de "
+"custo."
 
 #: ../../inventory/inventory_valuation/manual_valuation_standard_costing.rst:71
 msgid "Access the video at https://www.youtube.com/watch?v=pVsdiEl6OJw"
-msgstr ""
+msgstr "Acesse o vídeo em https://www.youtube.com/watch?v=pVsdiEl6OJw"
 
 #: ../../inventory/minimum_stock_rule.rst:9
 msgid "How to setup a minimum stock rule?"
-msgstr ""
+msgstr "Como configurar uma regra de estoque mínimo?"
 
 #: ../../inventory/minimum_stock_rule.rst:13
 msgid "Access the video at https://www.youtube.com/watch?v=4oN_81i1Qfs"
-msgstr ""
+msgstr "Acesse o vídeo em https://www.youtube.com/watch?v=4oN_81i1Qfs"
 
 #: ../../inventory/put_away_strategy.rst:9
 msgid ""
-"How to transfer dairy products to fridge (cold storage) when it arrives "
-"to inventory?"
+"How to transfer dairy products to fridge (cold storage) when it arrives to "
+"inventory?"
 msgstr ""
+"Como transferir produtos lácteos para o frigorífico (armazenamento a frio) "
+"quando chega ao inventário?"
 
 #: ../../inventory/put_away_strategy.rst:13
 msgid "Access the video at https://www.youtube.com/watch?v=zdybPdzdVNw"
-msgstr ""
+msgstr "Acesse o vídeo em https://www.youtube.com/watch?v=zdybPdzdVNw"
 
 #: ../../inventory/setup/opening-inventory.rst:6
 msgid "Import the opening stock in warehouse"
-msgstr ""
+msgstr "Importe o estoque de abertura no armazém"
 
 #: ../../inventory/setup/opening-inventory.rst:7
 msgid ""
-"The page explain you the process to import the opening stock when you "
-"want to start using an inventory application."
+"The page explain you the process to import the opening stock when you want to "
+"start using an inventory application."
 msgstr ""
+"A página explica o processo para importar o estoque de abertura quando você "
+"deseja começar a usar um aplicativo de inventário."
 
 #: ../../inventory/setup/opening-inventory.rst:12
 msgid "The *My Company* wants to import the current opening stock into inventory."
 msgstr ""
+"A *minha empresa* quer importar o estoque de abertura atual para o estoque."
 
 #: ../../inventory/setup/opening-inventory.rst:16
 msgid "Access the video at https://www.youtube.com/watch?v=9BtcovM4W2A"
-msgstr ""
-
+msgstr "Acesse o vídeo em https://www.youtube.com/watch?v=9BtcovM4W2A"

@@ -3,23 +3,24 @@
 # This file is distributed under the same license as the Odoo package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, 2018.
 #
-#, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: Odoo 12.0\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-11-30 11:27-0200\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
+"PO-Revision-Date: 2019-04-25 00:38-0300\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Generated-By: Babel 2.3.4\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: pt_BR\n"
+"X-Generator: Poedit 2.2.1\n"
 
 #: ../../purchase/cancel_order.rst:7
 msgid "Cancel the confirmed purchase order"
-msgstr ""
+msgstr "Cancelar a ordem de compra confirmada"
 
 #: ../../purchase/cancel_order.rst:10 ../../purchase/container_product.rst:12
 #: ../../purchase/create_rfq.rst:10 ../../purchase/dropship.rst:10
@@ -35,101 +36,110 @@ msgstr ""
 #: ../../purchase/second_approval.rst:10
 #: ../../purchase/supplier_product_code.rst:12
 msgid "Video"
-msgstr ""
+msgstr "Vídeo"
 
 #: ../../purchase/cancel_order.rst:11
 msgid "Access the video at https://www.youtube.com/watch?v=rGgoldYzLls"
-msgstr ""
+msgstr "Acesse o vídeo em https://www.youtube.com/watch?v=rGgoldYzLls"
 
 #: ../../purchase/container_product.rst:9
 msgid "Sell or refill the chemical products in container"
-msgstr ""
+msgstr "Vender ou encher os produtos químicos no recipiente"
 
 #: ../../purchase/container_product.rst:13
 msgid "Access the video at https://www.youtube.com/watch?v=MPVaObaqCm4"
-msgstr ""
+msgstr "Acesse o vídeo em https://www.youtube.com/watch?v=MPVaObaqCm4"
 
 #: ../../purchase/create_rfq.rst:7
 msgid "Create a Request for Quotation"
-msgstr ""
+msgstr "Criar uma solicitação de cotação"
 
 #: ../../purchase/create_rfq.rst:11
 msgid "Access the video at https://www.youtube.com/watch?v=ksSvpBKRoI4"
-msgstr ""
+msgstr "Acesse o vídeo em https://www.youtube.com/watch?v=ksSvpBKRoI4"
 
 #: ../../purchase/dropship.rst:7
 msgid "Setup drop-shipping"
-msgstr ""
+msgstr "Instalação drop-transporte"
 
 #: ../../purchase/dropship.rst:11
 msgid "Access the video at https://www.youtube.com/watch?v=B839OZpB95U"
-msgstr ""
+msgstr "Acesse o vídeo em https://www.youtube.com/watch?v=B839OZpB95U"
 
 #: ../../purchase/index.rst:5
 msgid "Purchase Management"
-msgstr ""
+msgstr "Gestão de compras"
 
 #: ../../purchase/index.rst:10
 msgid "Request for Quotation"
-msgstr ""
+msgstr "Pedido de cotação"
 
 #: ../../purchase/index.rst:20
 msgid "Supplier Pricelist"
-msgstr ""
+msgstr "Lista de Preço do Fornecedor"
 
 #: ../../purchase/index.rst:27
 msgid "Purchase Exception"
-msgstr ""
+msgstr "Exceção de compra"
 
 #: ../../purchase/index.rst:35
 msgid "Vendor Bills"
-msgstr ""
+msgstr "Contas de fornecedor"
 
 #: ../../purchase/index.rst:42
 msgid "Purchase Agreement"
-msgstr ""
+msgstr "Contrato de compra"
 
 #: ../../purchase/index.rst:50
 msgid "Inventory Costing"
-msgstr ""
+msgstr "Cálculo de custos de inventário"
 
 #: ../../purchase/index.rst:57
 msgid "Advance Topics"
-msgstr ""
+msgstr "Tópicos avançados"
 
 #: ../../purchase/inventory_costing/average_costing.rst:3
 msgid ""
 "Compute sell price and margin based on product cost price (AVCO costing "
 "method)"
 msgstr ""
+"Calcular preço de venda e margem com base no preço de custo do produto "
+"(método de custeio AVCO)"
 
 #: ../../purchase/inventory_costing/average_costing.rst:4
 msgid ""
-"The most common business case where you want to decide the sell price "
-"based on your cost of of the product purchase price."
+"The most common business case where you want to decide the sell price based "
+"on your cost of of the product purchase price."
 msgstr ""
+"O caso de negócios mais comum onde você quer decidir o preço de venda com "
+"base no seu custo do preço de compra do produto."
 
 #: ../../purchase/inventory_costing/average_costing.rst:8
 #: ../../purchase/inventory_costing/costing_at_averagr_price.rst:9
 #: ../../purchase/inventory_costing/standard_costing.rst:6
 msgid "Business case"
-msgstr ""
+msgstr "Caso de negócio"
 
 #: ../../purchase/inventory_costing/average_costing.rst:9
 msgid ""
 "The **My Company** is a distributor of *Laptop*, they purchase a laptop "
-"form the default supplier and sell to retail customers, there are "
-"sometime frequent price change, so **My Company** wans to setup the "
-"inventory costing and based on cost they can define the product they add "
-"35% margin and sell to their customers."
+"form the default supplier and sell to retail customers, there are sometime "
+"frequent price change, so **My Company** wans to setup the inventory "
+"costing and based on cost they can define the product they add 35% margin "
+"and sell to their customers."
 msgstr ""
+"O **minha empresa** é um distribuidor de *laptop*, eles compram um laptop "
+"forma o fornecedor padrão e vender para clientes de varejo, há algum tempo "
+"freqüente mudança de preço, assim **minha empresa** WANs para configurar o "
+"cálculo de custos de inventário e com base no custo que pode definir o "
+"produto Eles adicionam 35% de margem e vendem para seus clientes."
 
 #: ../../purchase/inventory_costing/average_costing.rst:15
 #: ../../purchase/inventory_costing/costing_at_averagr_price.rst:16
 #: ../../purchase/inventory_costing/fifo_costing_method.rst:11
 #: ../../purchase/inventory_costing/standard_costing.rst:15
 msgid "Configuration"
-msgstr ""
+msgstr "Configuração"
 
 #: ../../purchase/inventory_costing/average_costing.rst:16
 #: ../../purchase/inventory_costing/costing_at_averagr_price.rst:17
@@ -139,19 +149,21 @@ msgid ""
 "Install **Sales Management**, **Purchase Management** & **Accounting and "
 "Finance** apps"
 msgstr ""
+"Instalar os aplicativos **Gestão de Vendas**, **Gestão de Compras** & "
+"**Faturamento** (apps)"
 
 #: ../../purchase/inventory_costing/average_costing.rst:19
 #: ../../purchase/inventory_costing/costing_at_averagr_price.rst:20
 #: ../../purchase/inventory_costing/fifo_costing_method.rst:15
 #: ../../purchase/inventory_costing/standard_costing.rst:19
 msgid "Create a product *Laptop*"
-msgstr ""
+msgstr "Criar um produto *laptop*"
 
 #: ../../purchase/inventory_costing/average_costing.rst:21
 #: ../../purchase/inventory_costing/costing_at_averagr_price.rst:22
 #: ../../purchase/inventory_costing/fifo_costing_method.rst:17
 msgid "Set the Internal Category to *All / Saleable*"
-msgstr ""
+msgstr "Definir a categoria interna para *Todos/Vendável*"
 
 #: ../../purchase/inventory_costing/average_costing.rst:23
 #: ../../purchase/inventory_costing/costing_at_averagr_price.rst:24
@@ -160,6 +172,8 @@ msgid ""
 "Set **Costing Method** to     *Average Cost (AVCO)* on *All / Saleable* "
 "category"
 msgstr ""
+"Definir **método de custeio** para *custo médio (AVCO)* em *todos/vendável* "
+"categoria"
 
 #: ../../purchase/inventory_costing/average_costing.rst:25
 #: ../../purchase/inventory_costing/costing_at_averagr_price.rst:26
@@ -167,60 +181,79 @@ msgstr ""
 #: ../../purchase/inventory_costing/standard_costing.rst:25
 msgid "Define *Default Supplier* as a vendor with the cost price of *Laptop*."
 msgstr ""
+"Definir *fornecedor padrão* como um fornecedor com o preço de custo de "
+"*laptop*."
 
 #: ../../purchase/inventory_costing/average_costing.rst:27
 msgid ""
 "Activate the **Multiple Sales Prices per Product** and **Margins** under "
 "the Sales / Configuration / Settings."
 msgstr ""
+"Ative os **vários preços de venda por produto** e **margens** as vendas/"
+"configuração/configurações."
 
 #: ../../purchase/inventory_costing/average_costing.rst:30
 msgid ""
-"Change existing price list *Public Pricelist* and add new pricelist "
-"iteam, they increase the Laptop price by 35%."
+"Change existing price list *Public Pricelist* and add new pricelist iteam, "
+"they increase the Laptop price by 35%."
 msgstr ""
+"Alterar lista de preços existentes *preços público* e adicionar novo ITEAM "
+"preços, eles aumentam o preço do laptop por 35%."
 
 #: ../../purchase/inventory_costing/average_costing.rst:35
 msgid "Access the video at https://www.youtube.com/watch?v=t2P70HKk3rE"
-msgstr ""
+msgstr "Acesse o vídeo em https://www.youtube.com/watch?v=t2P70HKk3rE"
 
 #: ../../purchase/inventory_costing/costing_at_averagr_price.rst:3
 msgid "Compute the cost of product (average costing)"
-msgstr ""
+msgstr "Calcule o custo do produto (cálculo de custos médio)"
 
 #: ../../purchase/inventory_costing/costing_at_averagr_price.rst:4
 msgid ""
-"The average costing method help you to decide the product sell price, "
-"each time you purchase the product new cost will be updated based on the "
+"The average costing method help you to decide the product sell price, each "
+"time you purchase the product new cost will be updated based on the "
 "existing stock and purchased stock value."
 msgstr ""
+"O método de cálculo de custos médio ajuda você a decidir o preço de venda "
+"do produto, cada vez que você compra o produto novo custo será atualizado "
+"com base no estoque existente e valor de estoque adquirido."
 
 #: ../../purchase/inventory_costing/costing_at_averagr_price.rst:10
 msgid ""
 "The **My Company** is a distributor of *Laptop*, they purchase a laptop "
-"form the default supplier and sell to retail customers, there are "
-"sometime frequent price change, so **My Company** wants to setup the "
-"inventory costing and based on average cost method."
+"form the default supplier and sell to retail customers, there are sometime "
+"frequent price change, so **My Company** wants to setup the inventory "
+"costing and based on average cost method."
 msgstr ""
+"O **minha empresa** é um distribuidor de *laptop*, eles compram um laptop "
+"forma o fornecedor padrão e vender para clientes de varejo, há algum tempo "
+"freqüente mudança de preço, assim **minha empresa** quer configurar o "
+"cálculo de custos de inventário e com base no método de custo médio."
 
 #: ../../purchase/inventory_costing/costing_at_averagr_price.rst:28
 msgid ""
-"Purchse 3 unit of Laptop at different rates, the product will be computed"
-" on each reception by doing an average based on the purchase price."
+"Purchse 3 unit of Laptop at different rates, the product will be computed "
+"on each reception by doing an average based on the purchase price."
 msgstr ""
+"Purchse 3 unidade de laptop em taxas diferentes, o produto será calculado "
+"em cada recepção, fazendo uma média com base no preço de compra."
 
 #: ../../purchase/inventory_costing/costing_at_averagr_price.rst:31
 msgid ""
-"Assumed that you have a 10 unit of laptop cost of 8500 (the inventory "
-"value will be same as the cost), you purchase new 10 laptop at the price "
-"of 830 each. The new cost price will be computed by an averga of total "
-"cost vs units. 840 = (8500 + 8300) / 20 (10 existing stock + 10 new "
-"purchase)"
+"Assumed that you have a 10 unit of laptop cost of 8500 (the inventory value "
+"will be same as the cost), you purchase new 10 laptop at the price of 830 "
+"each. The new cost price will be computed by an averga of total cost vs "
+"units. 840 = (8500 + 8300) / 20 (10 existing stock + 10 new purchase)"
 msgstr ""
+"Assumido que você tem uma unidade de 10 de custo de laptop de 8500 (o valor "
+"do inventário será o mesmo que o custo), você compra novo laptop 10 ao "
+"preço de 830 cada. O novo preço de custo será calculado por uma averga de "
+"custo total versus unidades. 840 = (8500 + 8300)/20 (10 estoque existente + "
+"10 nova compra)"
 
 #: ../../purchase/inventory_costing/costing_at_averagr_price.rst:38
 msgid "Access the video at https://www.youtube.com/watch?v=QjdRX6El-4M"
-msgstr ""
+msgstr "Acesse o vídeo em https://www.youtube.com/watch?v=QjdRX6El-4M"
 
 #: ../../purchase/inventory_costing/costing_at_averagr_price.rst:48
 #: ../../purchase/inventory_costing/fifo_costing_method.rst:42
@@ -240,34 +273,43 @@ msgstr ""
 
 #: ../../purchase/inventory_costing/fifo_costing_method.rst:3
 msgid "Compute the cost of product (first in first out method)"
-msgstr ""
+msgstr "Calcule o custo do produto (primeiro no primeiro método de saída)"
 
 #: ../../purchase/inventory_costing/fifo_costing_method.rst:4
 msgid ""
 "The fifo costing method help you to compute the accurate profit in the "
 "profit and loss account based on the all the purchase expense and sell "
-"price. You can add the landed cost (the cost of transportation) if you do"
-" a real time inventory valuation with fifo costing method. Each time you "
-"remove the products from warehouse the cost will be computed on the "
-"product **Cost** field"
+"price. You can add the landed cost (the cost of transportation) if you do a "
+"real time inventory valuation with fifo costing method. Each time you "
+"remove the products from warehouse the cost will be computed on the product "
+"**Cost** field"
 msgstr ""
+"O método de custeio FIFO ajudá-lo a calcular o lucro exato na conta de "
+"lucros e perdas com base na totalidade da despesa de compra e preço de "
+"venda. É possível adicionar o custo de aterrissação (o custo de transporte) "
+"se você fizer uma avaliação de estoque em tempo real com o método de "
+"custeio FIFO. Cada vez que você remover os produtos do armazém o custo será "
+"calculado sobre o produto **custo** campo"
 
 #: ../../purchase/inventory_costing/fifo_costing_method.rst:23
 msgid ""
-"Purchase 3 unit of Laptop at different rates, the product will be "
-"computed on each reception by doing an average based on the purchase "
-"price."
+"Purchase 3 unit of Laptop at different rates, the product will be computed "
+"on each reception by doing an average based on the purchase price."
 msgstr ""
+"Compra 3 unidade de laptop em taxas diferentes, o produto será calculado em "
+"cada recepção, fazendo uma média com base no preço de compra."
 
 #: ../../purchase/inventory_costing/fifo_costing_method.rst:26
 msgid ""
-"The FIFO is same as the Real price costing, follows the accounting FIFO "
-"and not forcing for warehouse FIFO removal strategy."
+"The FIFO is same as the Real price costing, follows the accounting FIFO and "
+"not forcing for warehouse FIFO removal strategy."
 msgstr ""
+"O FIFO é o mesmo que o preço de custo real, segue o FIFO contábil e não "
+"forçando para armazém estratégia de remoção FIFO."
 
 #: ../../purchase/inventory_costing/fifo_costing_method.rst:32
 msgid "Access the video at https://www.youtube.com/watch?v=a8UXCiETC38"
-msgstr ""
+msgstr "Acesse o vídeo em https://www.youtube.com/watch?v=a8UXCiETC38"
 
 #: ../../purchase/inventory_costing/fifo_costing_method.rst:43
 #: ../../purchase/inventory_costing/standard_costing.rst:44
@@ -276,96 +318,108 @@ msgstr ""
 
 #: ../../purchase/inventory_costing/standard_costing.rst:3
 msgid "Compute the cost of product (standard price)"
-msgstr ""
+msgstr "Calcule o custo do produto (preço-padrão)"
 
 #: ../../purchase/inventory_costing/standard_costing.rst:7
 msgid ""
 "The **My Company** is a distributor of *Laptop*, they purchase a laptop "
 "form the default supplier and sell to retail customers, they do not "
-"maintain the stock, they always purchase on demand so **Standard "
-"pricing** is perfect costing method for them. Some times they benefit or "
-"loss if they have stock and product price change as they directly change "
-"the product cost price which impact on their inventory value."
+"maintain the stock, they always purchase on demand so **Standard pricing** "
+"is perfect costing method for them. Some times they benefit or loss if they "
+"have stock and product price change as they directly change the product "
+"cost price which impact on their inventory value."
 msgstr ""
+"A **minha empresa** é um distribuidor de *laptop*, eles compram um laptop "
+"forma o fornecedor padrão e vender para clientes de varejo, eles não mantêm "
+"o estoque, eles sempre compram demanda para **preços padrão** é o método de "
+"custeio perfeito para eles. Algumas vezes eles beneficiam ou perda se eles "
+"têm estoque e mudança de preço do produto como eles mudam diretamente o "
+"preço de custo do produto que afetam o seu valor de inventário."
 
 #: ../../purchase/inventory_costing/standard_costing.rst:21
 msgid "Set the Internal Category to *All / Saleable*."
-msgstr ""
+msgstr "Defina a categoria interna para *todos/vendável*."
 
 #: ../../purchase/inventory_costing/standard_costing.rst:23
 msgid "Default costing method on the category is Standard pricing."
-msgstr ""
+msgstr "O método de cálculo de custos padrão na categoria é preço padrão."
 
 #: ../../purchase/inventory_costing/standard_costing.rst:27
 msgid ""
 "Purchse 2 unit of Laptop at different rate then the Standard price, "
-"inventory value will be computed based on the product Standard price "
-"field."
+"inventory value will be computed based on the product Standard price field."
 msgstr ""
+"Compre 2 unidade de laptop em taxa diferente, em seguida, o preço padrão, o "
+"valor de estoque será calculado com base no produto campo preço padrão."
 
 #: ../../purchase/inventory_costing/standard_costing.rst:30
 msgid "This method is less useful in the real-life."
-msgstr ""
+msgstr "Este método é menos útil na vida real."
 
 #: ../../purchase/inventory_costing/standard_costing.rst:34
 msgid "Access the video at https://www.youtube.com/watch?v=TEHOwOjrRWM"
-msgstr ""
+msgstr "Acesse o vídeo em https://www.youtube.com/watch?v=TEHOwOjrRWM"
 
 #: ../../purchase/invoice_based_on_received_qty.rst:7
 msgid "Control vendor bills, pay vendor bills based on reception"
 msgstr ""
+"Controlar contas de fornecedor, pagar contas de fornecedor com base na "
+"recepção"
 
 #: ../../purchase/invoice_based_on_received_qty.rst:11
 msgid "Access the video at https://www.youtube.com/watch?v=d05bZbrc8og"
-msgstr ""
+msgstr "Acesse o vídeo em https://www.youtube.com/watch?v=d05bZbrc8og"
 
 #: ../../purchase/make_to_order.rst:8
 msgid "Create a purchase order when sale order confirms"
-msgstr ""
+msgstr "Criar uma ordem de compra quando a ordem de venda confirmar"
 
 #: ../../purchase/make_to_order.rst:12
 msgid "Access the video at https://www.youtube.com/watch?v=76d-yIrcRKs"
-msgstr ""
+msgstr "Acesse o vídeo em https://www.youtube.com/watch?v=76d-yIrcRKs"
 
 #: ../../purchase/make_to_order_exception.rst:7
 msgid ""
 "Buy from new supplier when your default supplier reject the order (Drop-"
 "ship)"
 msgstr ""
+"Comprar de novo fornecedor quando seu fornecedor padrão rejeitar a ordem "
+"(Drop-Ship)"
 
 #: ../../purchase/make_to_order_exception.rst:11
 msgid "Access the video at https://www.youtube.com/watch?v=kGKOb4oW6yU"
-msgstr ""
+msgstr "Acesse o vídeo em https://www.youtube.com/watch?v=kGKOb4oW6yU"
 
 #: ../../purchase/multiple_supplier.rst:9
 msgid "Purchase partially from two vendors for the same purchase tender"
 msgstr ""
+"Compra parcialmente de dois fornecedores para o mesmo concurso de compra"
 
 #: ../../purchase/multiple_supplier.rst:13
 msgid "Access the video at https://www.youtube.com/watch?v=482c0gxqGMs"
-msgstr ""
+msgstr "Acesse o vídeo em https://www.youtube.com/watch?v=482c0gxqGMs"
 
 #: ../../purchase/purchase_agreement.rst:8
 msgid "Manage bulk purchase through tender process"
-msgstr ""
+msgstr "Gerencie a compra em massa através do processo de licitação"
 
 #: ../../purchase/purchase_agreement.rst:12
 msgid "Access the video at https://www.youtube.com/watch?v=1TBV0gUSq84"
-msgstr ""
+msgstr "Acesse o vídeo em https://www.youtube.com/watch?v=1TBV0gUSq84"
 
 #: ../../purchase/second_approval.rst:7
 msgid "Setup two levels of approval for purchase orders"
-msgstr ""
+msgstr "Configurar dois níveis de aprovação para ordens de compra"
 
 #: ../../purchase/second_approval.rst:11
 msgid "Access the video at https://www.youtube.com/watch?v=C8wdohr6Z10"
-msgstr ""
+msgstr "Acesse o vídeo em https://www.youtube.com/watch?v=C8wdohr6Z10"
 
 #: ../../purchase/supplier_product_code.rst:9
 msgid "Search by supplier product code or name on the request for quotation"
 msgstr ""
+"Pesquise por código ou nome do produto do fornecedor no pedido de cotação"
 
 #: ../../purchase/supplier_product_code.rst:13
 msgid "Access the video at https://www.youtube.com/watch?v=dBKetExCKNE"
-msgstr ""
-
+msgstr "Acesse o vídeo em https://www.youtube.com/watch?v=dBKetExCKNE"
