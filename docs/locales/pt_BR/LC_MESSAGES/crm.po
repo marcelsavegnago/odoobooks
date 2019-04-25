@@ -3,39 +3,50 @@
 # This file is distributed under the same license as the Odoo package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, 2018.
 #
-#, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: Odoo 12.0\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-11-30 11:27-0200\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
+"PO-Revision-Date: 2019-04-24 23:26-0300\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Generated-By: Babel 2.3.4\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: pt_BR\n"
+"X-Generator: Poedit 2.2.1\n"
 
 #: ../../crm/acquire_leads/convert_lead.rst:6
+#, fuzzy
 msgid "Convert leads into opportunities"
-msgstr ""
+msgstr "Converta leads em oportunidades"
 
 #: ../../crm/acquire_leads/convert_lead.rst:8
+#, fuzzy
 msgid ""
 "Opportunity is a qualified lead, specific deal has met certain criteria "
 "which indicate a high value to the business, or a high probability of "
-"closing but when you have details of your visitors, it is just a lead. "
-"You have to get the enough details form you visitors, if matches with "
-"your business interest you can convert them into opportunity."
+"closing but when you have details of your visitors, it is just a lead. You "
+"have to get the enough details form you visitors, if matches with your "
+"business interest you can convert them into opportunity."
 msgstr ""
+"A oportunidade é uma vantagem qualificada, negócio específico atendeu a "
+"determinados critérios que indicam um valor elevado ao negócio, ou uma "
+"probabilidade elevada do closing mas quando você tem detalhes de seus "
+"visitantes, é apenas uma ligação. Você tem que obter o formulário de "
+"detalhes suficientes que você visitantes, se os jogos com o seu interesse "
+"comercial você pode convertê-los em oportunidade."
 
 #: ../../crm/acquire_leads/convert_lead.rst:14
+#, fuzzy
 msgid ""
-"You can collect the leads instead of creating an opportunity and setup "
-"the process to qualify those leads before you convert them into "
-"opportunity."
+"You can collect the leads instead of creating an opportunity and setup the "
+"process to qualify those leads before you convert them into opportunity."
 msgstr ""
+"Você pode coletar os leads em vez de criar uma oportunidade e configurar o "
+"processo para qualificar esses leads antes de convertê-los em oportunidade."
 
 #: ../../crm/acquire_leads/convert_lead.rst:19
 #: ../../crm/marketing_activity/active_lost_leads.rst:18
@@ -44,16 +55,22 @@ msgstr ""
 #: ../../crm/organize_sales/assign_opportunities_automatic.rst:15
 #: ../../crm/organize_sales/lost_opportunities.rst:13
 #: ../../crm/organize_sales/multiple_sales_team.rst:15
+#, fuzzy
 msgid "Business case"
-msgstr ""
+msgstr "Caso de negócio"
 
 #: ../../crm/acquire_leads/convert_lead.rst:21
+#, fuzzy
 msgid ""
 "Assumed that **My company** is collecting contacts of all the visitors, "
 "through contact us page or visitor tracking system. Create an leads from "
 "the contact information and qualify them before converting them into an "
 "opportunities."
 msgstr ""
+"Assumiu que * * minha empresa * * está coletando contatos de todos os "
+"visitantes, através de contato conosco página ou sistema de rastreamento "
+"de visitantes. Crie um leads a partir das informações de contato e "
+"qualifique-os antes de convertê-los em oportunidades."
 
 #: ../../crm/acquire_leads/convert_lead.rst:27
 #: ../../crm/acquire_leads/generate_lead_from_webstie.rst:13
@@ -64,16 +81,22 @@ msgstr ""
 #: ../../crm/marketing_activity/visitor_to_opportunitie_conversion.rst:30
 #: ../../crm/organize_sales/assign_opportunities_automatic.rst:23
 #: ../../crm/organize_sales/multiple_sales_team.rst:22
+#, fuzzy
 msgid "Configuration"
-msgstr ""
+msgstr "Configuração"
 
 #: ../../crm/acquire_leads/convert_lead.rst:29
+#, fuzzy
 msgid ""
 "By default you have an opportunity created in the sales channel, you can "
 "have a leads when someone contact you on the website contact us page or "
 "send an email to sales@mycompany.com, to activate leads goto **CRM / "
 "Configuration / Settings** and activate the **Leads** feature."
 msgstr ""
+"Por padrão, você tem uma oportunidade criada no canal de vendas, você pode "
+"ter um leads quando alguém contatá-lo no site contacte-nos página ou "
+"enviar um e-mail para sales@mycompany.com, para ativar leads goto * * CRM/"
+"configuração/configurações * * e ativar o * * leads * * Recurso."
 
 #: ../../crm/acquire_leads/convert_lead.rst:34
 #: ../../crm/acquire_leads/generate_from_email.rst:12
@@ -87,26 +110,36 @@ msgstr ""
 #: ../../crm/organize_sales/lost_opportunities.rst:28
 #: ../../crm/organize_sales/multiple_sales_team.rst:34
 #: ../../crm/organize_sales/plan_activities.rst:17
+#, fuzzy
 msgid "|image0|"
-msgstr ""
+msgstr "|image0|"
 
 #: ../../crm/acquire_leads/convert_lead.rst:36
+#, fuzzy
 msgid ""
 "You will now have a new submenu **Leads** under **Pipeline** where they "
 "will aggregate."
 msgstr ""
+"Agora você terá um novo submenu * * leads * * * * pipeline * * onde eles "
+"serão agregados."
 
 #: ../../crm/acquire_leads/convert_lead.rst:40
+#, fuzzy
 msgid "Qualify Leads"
-msgstr ""
+msgstr "Qualificar leads"
 
 #: ../../crm/acquire_leads/convert_lead.rst:42
+#, fuzzy
 msgid ""
 "Send the mass mail on new leads received everyday, prepare a good "
 "description of your product service details in an email and try to get "
 "more information from leads and their expectations from your products or "
 "service."
 msgstr ""
+"Envie o e-mail em massa sobre novos leads recebidos todos os dias, prepare "
+"uma boa descrição dos detalhes do serviço do produto em um e-mail e tente "
+"obter mais informações de leads e suas expectativas de seus produtos ou "
+"serviços."
 
 #: ../../crm/acquire_leads/convert_lead.rst:47
 #: ../../crm/acquire_leads/generate_from_email.rst:27
@@ -120,41 +153,57 @@ msgstr ""
 #: ../../crm/organize_sales/lost_opportunities.rst:41
 #: ../../crm/organize_sales/multiple_sales_team.rst:45
 #: ../../crm/organize_sales/plan_activities.rst:25
+#, fuzzy
 msgid "|image1|"
-msgstr ""
+msgstr "|image1|"
 
 #: ../../crm/acquire_leads/convert_lead.rst:49
+#, fuzzy
 msgid ""
 "Define a good subject, include your product / service name into the [ ] "
 "square bracket, that make sure that your email will not go to the spam."
 msgstr ""
+"Defina um bom assunto, inclua seu nome de produto/serviço no [] suporte "
+"quadrado, que certifique-se de que seu email não vai ao spam."
 
 #: ../../crm/acquire_leads/convert_lead.rst:53
+#, fuzzy
 msgid ""
-"You can convert those leads into the opportunity, when your visitor reply"
-" to your email which was sent in mass mail."
+"You can convert those leads into the opportunity, when your visitor reply "
+"to your email which was sent in mass mail."
 msgstr ""
+"Você pode converter esses leads na oportunidade, quando a resposta do seu "
+"visitante para o seu e-mail que foi enviado em massa mail."
 
 #: ../../crm/acquire_leads/convert_lead.rst:57
+#, fuzzy
 msgid "Convert lead into an opportunity"
-msgstr ""
+msgstr "Converta uma vantagem em uma oportunidade"
 
 #: ../../crm/acquire_leads/convert_lead.rst:59
+#, fuzzy
 msgid ""
-"The leads can be converted to an opportunity either manually or automatic"
-" depending on the volume of leads you have."
+"The leads can be converted to an opportunity either manually or automatic "
+"depending on the volume of leads you have."
 msgstr ""
+"Os leads podem ser convertidos para uma oportunidade manual ou automática, "
+"dependendo do volume de leads que você tem."
 
 #: ../../crm/acquire_leads/convert_lead.rst:63
+#, fuzzy
 msgid "Manual conversion"
-msgstr ""
+msgstr "Conversão manual"
 
 #: ../../crm/acquire_leads/convert_lead.rst:65
+#, fuzzy
 msgid ""
 "Every day review your leads having reply from the prospects and convert "
 "all those leads into an opportunities. You can apply filter **Unread "
 "Messages**"
 msgstr ""
+"Todos os dias rever seus leads ter resposta das perspectivas e converter "
+"todos os leads em uma oportunidade. Você pode aplicar o filtro * * "
+"mensagens não lidas * *"
 
 #: ../../crm/acquire_leads/convert_lead.rst:69
 #: ../../crm/acquire_leads/generate_lead_from_webstie.rst:37
@@ -166,14 +215,19 @@ msgstr ""
 #: ../../crm/organize_sales/lost_opportunities.rst:48
 #: ../../crm/organize_sales/multiple_sales_team.rst:55
 #: ../../crm/organize_sales/plan_activities.rst:31
+#, fuzzy
 msgid "|image2|"
-msgstr ""
+msgstr "|image2|"
 
 #: ../../crm/acquire_leads/convert_lead.rst:71
+#, fuzzy
 msgid ""
-"Open the wizard Convert to Opportunity wizard form the Action menu and "
-"you are ready to convert selected leads into opportunities."
+"Open the wizard Convert to Opportunity wizard form the Action menu and you "
+"are ready to convert selected leads into opportunities."
 msgstr ""
+"Abra o assistente converter para oportunidade do assistente de formulário "
+"no menu Ação e você está pronto para converter leads selecionados em "
+"oportunidades."
 
 #: ../../crm/acquire_leads/convert_lead.rst:74
 #: ../../crm/acquire_leads/generate_lead_from_webstie.rst:50
@@ -184,8 +238,9 @@ msgstr ""
 #: ../../crm/organize_sales/lost_opportunities.rst:57
 #: ../../crm/organize_sales/multiple_sales_team.rst:61
 #: ../../crm/organize_sales/plan_activities.rst:39
+#, fuzzy
 msgid "|image3|"
-msgstr ""
+msgstr "|image3|"
 
 #: ../../crm/acquire_leads/convert_lead.rst:76
 msgid ""
@@ -193,83 +248,125 @@ msgid ""
 "detect the duplicate leads in the system based on the email or phone "
 "number, duplicated leads will be displayed below form."
 msgstr ""
+"**Aplicar duplicação** opção será selecionada automaticamente quando o "
+"sistema detectar os leads duplicados no sistema com base no e-mail ou "
+"número de telefone, leads duplicados será exibido abaixo do formulário."
 
 #: ../../crm/acquire_leads/convert_lead.rst:80
+#, fuzzy
 msgid ""
 "You can change the **Sales channel** if you would like to transfer the "
-"opportunity in other channel. You can choose either you would like to "
-"link the opportunity with customer by selecting existing or create a new "
-"or leave empty. You can create a customer later at the time of create a "
+"opportunity in other channel. You can choose either you would like to link "
+"the opportunity with customer by selecting existing or create a new or "
+"leave empty. You can create a customer later at the time of create a "
 "proposal for them."
 msgstr ""
+"Você pode alterar o * * canal de vendas * * se você gostaria de transferir "
+"a oportunidade em outro canal. Você pode escolher ou você gostaria de "
+"vincular a oportunidade com o cliente, selecionando existente ou criar um "
+"novo ou deixar vazio. Você pode criar um cliente mais tarde no momento de "
+"criar uma proposta para eles."
 
 #: ../../crm/acquire_leads/convert_lead.rst:86
+#, fuzzy
 msgid ""
 "The **Salesman** has to be assigned manually while converting leads into "
 "opportunity."
 msgstr ""
+"O **Salesman** tem que ser atribuído manualmente ao converter leads em "
+"oportunidade."
 
 #: ../../crm/acquire_leads/convert_lead.rst:90
+#, fuzzy
 msgid "Automatic conversion"
-msgstr ""
+msgstr "Conversão automática"
 
 #: ../../crm/acquire_leads/convert_lead.rst:92
+#, fuzzy
 msgid ""
 "The automatic conversion and assignation of the opportunity can be done "
-"with the help of Lead Score application. You have to install and "
-"configure the scoring rules and assignation rules in order to convert "
-"leads into opportunity and assign to the correct member in the team."
+"with the help of Lead Score application. You have to install and configure "
+"the scoring rules and assignation rules in order to convert leads into "
+"opportunity and assign to the correct member in the team."
 msgstr ""
+"A conversão automática e atribuição da oportunidade pode ser feito com a "
+"ajuda da aplicação Pontuação Lead. Você tem que instalar e configurar as "
+"regras de Pontuação e regras de atribuição, a fim de converter leads em "
+"oportunidade e atribuir ao membro correto na equipe."
 
 #: ../../crm/acquire_leads/convert_lead.rst:97
+#, fuzzy
 msgid ""
 "You can define domain on the sales channel which will fetch leads "
 "accordingly and convert it into the opportunity. The domain may include "
 "lead scores, page visited by visitor, and other information such as "
 "country, city, availability of the email or phone."
 msgstr ""
+"Você pode definir o domínio no canal de vendas que irá buscar leads em "
+"conformidade e convertê-lo para a oportunidade. O domínio pode incluir "
+"pontuações de leads, página visitada por visitante e outras informações, "
+"como país, cidade, disponibilidade do e-mail ou telefone."
 
 #: ../../crm/acquire_leads/convert_lead.rst:102
 #: ../../crm/marketing_activity/assign_leads_based_on_score.rst:58
+#, fuzzy
 msgid ""
-"Please go through **Automatic leads assignation to team members** topic "
-"in Customer Relationship Management section."
+"Please go through **Automatic leads assignation to team members** topic in "
+"Customer Relationship Management section."
 msgstr ""
+"Por favor, acesse * * atribuição automática de leads aos membros da equipe "
+"* * tópico na seção Gerenciamento de relacionamento com o cliente."
 
 #: ../../crm/acquire_leads/generate_from_email.rst:6
 #: ../../crm/marketing_activity/assign_leads_based_on_score.rst:28
+#, fuzzy
 msgid "Generate leads/opportunities from emails"
-msgstr ""
+msgstr "Gere leads/oportunidades de e-mails"
 
 #: ../../crm/acquire_leads/generate_from_email.rst:8
+#, fuzzy
 msgid ""
 "Every sales channel is capable create lead/opportunity form the incoming "
-"emails. You can define the email alias when that receive an email the "
-"lead/opportunity will be created in that sales channel."
+"emails. You can define the email alias when that receive an email the lead/"
+"opportunity will be created in that sales channel."
 msgstr ""
+"Cada canal de vendas é capaz de criar Lead/oportunidade forma os e-mails "
+"recebidos. Você pode definir o alias de e-mail quando receber um e-mail o "
+"Lead/oportunidade será criado nesse canal de vendas."
 
 #: ../../crm/acquire_leads/generate_from_email.rst:14
+#, fuzzy
 msgid ""
 "By default, any email sent to *sales@mycompany.com* will create an "
 "opportunity in the pipeline of the default sales channel."
 msgstr ""
+"Por padrão, qualquer email enviado para * sales@mycompany.com * criará uma "
+"oportunidade no pipeline do canal de vendas padrão."
 
 #: ../../crm/acquire_leads/generate_from_email.rst:18
+#, fuzzy
 msgid "Configure email aliases"
-msgstr ""
+msgstr "Configurar aliases de email"
 
 #: ../../crm/acquire_leads/generate_from_email.rst:20
+#, fuzzy
 msgid ""
-"Each sales channel can have its own email alias, to generate "
-"leads/opportunities automatically assigned to it. It is useful if you "
-"manage several sales teams with specific business processes."
+"Each sales channel can have its own email alias, to generate leads/"
+"opportunities automatically assigned to it. It is useful if you manage "
+"several sales teams with specific business processes."
 msgstr ""
+"Cada canal de vendas pode ter seu próprio alias de e-mail, para gerar "
+"leads/oportunidades automaticamente atribuídos a ele. É útil se você "
+"gerencia várias equipes de vendas com processos de negócios específicos."
 
 #: ../../crm/acquire_leads/generate_from_email.rst:24
+#, fuzzy
 msgid ""
-"You will find the configuration of sales channels under **Configuration /"
-" Sales Channels**."
+"You will find the configuration of sales channels under **Configuration / "
+"Sales Channels**."
 msgstr ""
+"Você vai encontrar a configuração de canais de vendas em **configuração/"
+"canais de vendas**."
 
 #: ../../crm/acquire_leads/generate_from_email.rst:30
 #: ../../crm/acquire_leads/generate_lead_from_webstie.rst:73
@@ -277,83 +374,119 @@ msgstr ""
 #: ../../crm/organize_sales/lost_opportunities.rst:66
 #: ../../crm/organize_sales/plan_activities.rst:64
 #: ../../crm/organize_sales/plan_activities.rst:74
+#, fuzzy
 msgid "Video"
-msgstr ""
+msgstr "Vídeo"
 
 #: ../../crm/acquire_leads/generate_from_email.rst:31
+#, fuzzy
 msgid "Access the video at https://www.youtube.com/watch?v=79OehLEHOYU"
-msgstr ""
+msgstr "Acesse o vídeo em https://www.youtube.com/watch?v=79OehLEHOYU"
 
 #: ../../crm/acquire_leads/generate_lead_from_webstie.rst:6
 #: ../../crm/marketing_activity/assign_leads_based_on_score.rst:30
+#, fuzzy
 msgid "Generate leads/opportunities from your website contact page"
-msgstr ""
+msgstr "Gere leads/oportunidades na página de contato do seu site"
 
 #: ../../crm/acquire_leads/generate_lead_from_webstie.rst:8
+#, fuzzy
 msgid ""
-"Automating the lead/opportunity generation will considerably improve your"
-" efficiency. Any visitor using the contact form on your website will "
-"create a lead/opportunity in the pipeline."
+"Automating the lead/opportunity generation will considerably improve your "
+"efficiency. Any visitor using the contact form on your website will create "
+"a lead/opportunity in the pipeline."
 msgstr ""
+"Automatizar a geração de leads/oportunidades melhorará consideravelmente "
+"sua eficiência. Qualquer visitante que utilize o formulário de contato em "
+"seu site criará um Lead/oportunidade no pipeline."
 
 #: ../../crm/acquire_leads/generate_lead_from_webstie.rst:15
+#, fuzzy
 msgid ""
 "To activate the contact us page on your website you have to install the "
 "Contact Form application form the Apps."
 msgstr ""
+"Para ativar o contato conosco página em seu site você tem que instalar o "
+"formulário de contato formulário do aplicativo os aplicativos."
 
 #: ../../crm/acquire_leads/generate_lead_from_webstie.rst:21
 #: ../../crm/acquire_leads/generate_lead_from_webstie.rst:45
+#, fuzzy
 msgid "Contact us page"
-msgstr ""
+msgstr "Contate-nos página"
 
 #: ../../crm/acquire_leads/generate_lead_from_webstie.rst:23
+#, fuzzy
 msgid ""
-"You benefit from ready-to-use contact form on your Odoo website that will"
-" generate leads/opportunities automatically."
+"You benefit from ready-to-use contact form on your Odoo website that will "
+"generate leads/opportunities automatically."
 msgstr ""
+"Você se beneficia do formulário de contato pronto para uso em seu site da "
+"Odoo que gerará leads/oportunidades automaticamente."
 
 #: ../../crm/acquire_leads/generate_lead_from_webstie.rst:29
+#, fuzzy
 msgid "Default sales team"
-msgstr ""
+msgstr "Equipe de vendas padrão"
 
 #: ../../crm/acquire_leads/generate_lead_from_webstie.rst:31
+#, fuzzy
 msgid ""
-"Contact form creates an lead/opportunity into the specific sales channel,"
-" to change that specific sales channel, go to **Website / Configuration /"
-" Settings** under **Communication** section you will find the **Contact "
+"Contact form creates an lead/opportunity into the specific sales channel, "
+"to change that specific sales channel, go to **Website / Configuration / "
+"Settings** under **Communication** section you will find the **Contact "
 "Form** info and where to change the default **Sales Channel** or "
 "**Salesperson**."
 msgstr ""
+"Formulário de contato cria um Lead/oportunidade para o canal de vendas "
+"específico, para alterar esse canal de vendas específico, vá para * * site/"
+"configuração/configurações * * em * * seção de comunicação * * você "
+"encontrará o * * formulário de contato * * informações e onde alterar o "
+"padrão * * Canal de vendas * * ou * * vendedor * *."
 
 #: ../../crm/acquire_leads/generate_lead_from_webstie.rst:39
+#, fuzzy
 msgid ""
 "If the same visitors uses the contact form twice, the second information "
 "will be added to the first lead/opportunity in the chatter."
 msgstr ""
+"Se os mesmos visitantes usam o formulário de contato duas vezes, a segunda "
+"informação será adicionada ao primeiro cliente potencial/oportunidade no "
+"Chatter."
 
 #: ../../crm/acquire_leads/generate_lead_from_webstie.rst:47
+#, fuzzy
 msgid ""
-"Let’s go and fill some information into the contact us page and submit "
-"the form."
+"Let’s go and fill some information into the contact us page and submit the "
+"form."
 msgstr ""
+"Vamos preencher algumas informações na página entre em contato conosco e "
+"enviar o formulário."
 
 #: ../../crm/acquire_leads/generate_lead_from_webstie.rst:52
+#, fuzzy
 msgid ""
 "Submit for form, visitor will get the **thank you** page having the "
 "emergency contact detail in case if they would like to connect quickly "
 "before sales people contact them."
 msgstr ""
+"Enviar para o formulário, o visitante receberá o * * Obrigado * * página "
+"com o detalhe de contato de emergência no caso, se eles gostariam de se "
+"conectar rapidamente antes de pessoas de vendas contatá-los."
 
 #: ../../crm/acquire_leads/generate_lead_from_webstie.rst:57
+#, fuzzy
 msgid "Opportunity in the sales pipe"
-msgstr ""
+msgstr "Oportunidade no tubo de vendas"
 
 #: ../../crm/acquire_leads/generate_lead_from_webstie.rst:59
+#, fuzzy
 msgid ""
 "The opportunity will be created in the default sales channel set on the "
 "configuration."
 msgstr ""
+"A oportunidade será criada no canal de vendas padrão definido na "
+"configuração."
 
 #: ../../crm/acquire_leads/generate_lead_from_webstie.rst:62
 #: ../../crm/marketing_activity/lead_score_based_on_page_visited.rst:83
@@ -362,289 +495,425 @@ msgstr ""
 #: ../../crm/organize_sales/lost_opportunities.rst:63
 #: ../../crm/organize_sales/multiple_sales_team.rst:68
 #: ../../crm/organize_sales/plan_activities.rst:51
+#, fuzzy
 msgid "|image4|"
-msgstr ""
+msgstr "|image4|"
 
 #: ../../crm/acquire_leads/generate_lead_from_webstie.rst:65
+#, fuzzy
 msgid "Formatting the phone or mobile numbers"
-msgstr ""
+msgstr "Formatar o telefone ou números de telemóvel"
 
 #: ../../crm/acquire_leads/generate_lead_from_webstie.rst:67
+#, fuzzy
 msgid ""
 "Validate contact (phone,mobile) numbers and normalize them on leads and "
 "contacts, use the national format for your company country."
 msgstr ""
+"Validar números de contato (telefone, celular) e normalizá-los em leads e "
+"contatos, use o formato nacional para o país da empresa."
 
 #: ../../crm/acquire_leads/generate_lead_from_webstie.rst:70
 #: ../../crm/marketing_activity/visitor_to_opportunitie_conversion.rst:100
 #: ../../crm/organize_sales/multiple_sales_team.rst:77
+#, fuzzy
 msgid "|image5|"
-msgstr ""
+msgstr "|image5|"
 
 #: ../../crm/acquire_leads/generate_lead_from_webstie.rst:74
+#, fuzzy
 msgid "Access the video at https://www.youtube.com/watch?v=Q4FujRKnUHM"
-msgstr ""
+msgstr "Acesse o vídeo em https://www.youtube.com/watch?v=Q4FujRKnUHM"
 
 #: ../../crm/index.rst:7
+#, fuzzy
 msgid "Customer Relationship Management"
-msgstr ""
+msgstr "Gestão de Relacionamento com Clientes"
 
 #: ../../crm/index.rst:10
+#, fuzzy
 msgid "Organize the pipeline"
-msgstr ""
+msgstr "Organize o pipeline"
 
 #: ../../crm/index.rst:17
+#, fuzzy
 msgid "Acquire leads"
-msgstr ""
+msgstr "Adquira leads"
 
 #: ../../crm/index.rst:24
+#, fuzzy
 msgid "Marketing Activity"
-msgstr ""
+msgstr "Atividade de marketing"
 
 #: ../../crm/marketing_activity/active_lost_leads.rst:6
+#, fuzzy
 msgid "Email marketing on the lost activity to reactive them"
-msgstr ""
+msgstr "E-mail marketing sobre a atividade perdida para reativo-los"
 
 #: ../../crm/marketing_activity/active_lost_leads.rst:8
+#, fuzzy
 msgid ""
 "Massmail is a great tool to send the bulk emails to your contacts. "
-"Reactive the old leads could bring your a business, nothing wrong to send"
-" them an email which could reactive opportunities from them lost once."
+"Reactive the old leads could bring your a business, nothing wrong to send "
+"them an email which could reactive opportunities from them lost once."
 msgstr ""
+"Massmail é uma ótima ferramenta para enviar os e-mails em massa para seus "
+"contatos. Reativa as ligações antigas poderia trazer você é um negócio, "
+"nada de errado para enviá-los um e-mail que poderia oportunidades "
+"reactivas a partir deles perdidos uma vez."
 
 #: ../../crm/marketing_activity/active_lost_leads.rst:13
+#, fuzzy
 msgid ""
 "The correct reason required on the old leads before you send email to "
 "them, like discount on the product/service to only those customers who "
 "lost actually because of the budget."
 msgstr ""
+"A razão correta exigida nas ligações velhas antes que você emita o email a "
+"eles, como o disconto no produto/serviço a somente aqueles clientes que "
+"perderam realmente por causa do orçamento."
 
 #: ../../crm/marketing_activity/active_lost_leads.rst:20
-#, python-format
+#, fuzzy, python-format
 msgid ""
 "Let’s send the offer to have 20% discount on the product/service, who "
 "actually lost because they did not have a budget."
 msgstr ""
+"Vamos enviar a oferta para ter 20% de desconto sobre o produto/serviço, "
+"que realmente perdeu porque eles não têm um orçamento."
 
 #: ../../crm/marketing_activity/active_lost_leads.rst:26
+#, fuzzy
 msgid ""
-"**Email Marketing** is a separate app required to be installed "
-"separately, this app is not limited to use with the CRM or Sales, It can "
-"be used to send the email in bulk for Recruitment, Mailing List, "
-"Participants of the Event, etc."
+"**Email Marketing** is a separate app required to be installed separately, "
+"this app is not limited to use with the CRM or Sales, It can be used to "
+"send the email in bulk for Recruitment, Mailing List, Participants of the "
+"Event, etc."
 msgstr ""
+"**Email marketing** é um aplicativo separado necessário para ser instalado "
+"separadamente, este aplicativo não está limitado a usar com o CRM ou "
+"vendas, ele pode ser usado para enviar o e-mail em massa para o "
+"recrutamento, lista de discussão, os participantes do evento, etc."
 
 #: ../../crm/marketing_activity/active_lost_leads.rst:34
+#, fuzzy
 msgid "Create mass mail"
-msgstr ""
+msgstr "Criar correio em massa"
 
 #: ../../crm/marketing_activity/active_lost_leads.rst:36
+#, fuzzy
 msgid ""
 "Create a mass mail from the Email Marketing / Mailings, you need an "
 "attractive subject, choose *Leads / Opportunity* in the **Recipients** "
 "field, below that you can actually defines the criteria to choose the "
-"leads / opportunities which will receive the email from this mass "
-"mailing."
+"leads / opportunities which will receive the email from this mass mailing."
 msgstr ""
+"Criar um correio em massa a partir do E-mail marketing/mailings, você "
+"precisa de um assunto atraente, escolha * leads/oportunidade * no * * "
+"destinatários * * campo, abaixo que você pode realmente define os "
+"critérios para escolher os leads/oportunidades que receberão o e-mail de "
+"Este mailing em massa."
 
 #: ../../crm/marketing_activity/active_lost_leads.rst:42
+#, fuzzy
 msgid ""
 "I choose all the leads which was Lost and the reason for mark as lost "
 "because, they do not have Not enough budget."
 msgstr ""
+"Eu escolho todas as pistas que foi perdida e a razão para a marca como "
+"perdida porque, eles não têm orçamento insuficiente."
 
 #: ../../crm/marketing_activity/active_lost_leads.rst:48
+#, fuzzy
 msgid "Send Emails"
-msgstr ""
+msgstr "Enviar Emails"
 
 #: ../../crm/marketing_activity/active_lost_leads.rst:50
+#, fuzzy
 msgid ""
-"The process of sending an email takes time based on the number of email "
-"to send and how fast your email service provider."
+"The process of sending an email takes time based on the number of email to "
+"send and how fast your email service provider."
 msgstr ""
+"O processo de envio de um e-mail leva tempo com base no número de e-mail "
+"para enviar e quão rápido o seu provedor de serviços de e-mail."
 
 #: ../../crm/marketing_activity/active_lost_leads.rst:54
+#, fuzzy
 msgid "Test before you send"
-msgstr ""
+msgstr "Teste antes de enviar"
 
 #: ../../crm/marketing_activity/active_lost_leads.rst:56
+#, fuzzy
 msgid ""
 "It is advisable to check how email looks in your mailbox before you send "
-"it to the prospects, you can check by sending a copy of the email to your"
-" own email account by clicking on **Test** button."
+"it to the prospects, you can check by sending a copy of the email to your "
+"own email account by clicking on **Test** button."
 msgstr ""
+"É aconselhável verificar como e-mail olha em sua caixa de correio antes de "
+"enviá-lo para os clientes potenciais, você pode verificar enviando uma "
+"cópia do e-mail para sua própria conta de e-mail, clicando em * * teste * "
+"* botão."
 
 #: ../../crm/marketing_activity/active_lost_leads.rst:63
+#, fuzzy
 msgid "Send to all"
-msgstr ""
+msgstr "Enviar para todos"
 
 #: ../../crm/marketing_activity/active_lost_leads.rst:65
+#, fuzzy
 msgid ""
 "If you found the email looks well on your mailbox, you can send email to "
 "all the leads/opportunities who are selected on the mailing."
 msgstr ""
+"Se você encontrou o e-mail parece bem em sua caixa de correio, você pode "
+"enviar e-mail para todos os leads/oportunidades que são selecionados no "
+"mailing."
 
 #: ../../crm/marketing_activity/active_lost_leads.rst:68
+#, fuzzy
 msgid ""
 "By default email marketing will be scheduled for the specific date and "
 "time and will be processed accordingly. Emails will be generated and "
 "queued in the system, automatic scheduler will process that email queue "
 "and send those emails."
 msgstr ""
+"Por padrão, o marketing de e-mail será agendado para a data e hora "
+"específicas e será processado de acordo. Os emails serão gerados e "
+"enfileirados no sistema, o Agendador automático processará essa fila de "
+"emails e enviará esses emails."
 
 #: ../../crm/marketing_activity/active_lost_leads.rst:73
+#, fuzzy
 msgid ""
 "Some mail marketing may take time to send the emails depending on the "
 "email providers, some email may go to spam if if your provider does not "
 "configure well or the subject and content of the email looks like a spam "
 "mail."
 msgstr ""
+"Algum marketing do correio pode tomar o tempo para emitir os email "
+"dependendo dos fornecedores do email, algum email pode ir ao spam se se "
+"seu fornecedor não configura bem ou o assunto e o índice do email Olha "
+"como um correio do spam."
 
 #: ../../crm/marketing_activity/active_lost_leads.rst:79
+#, fuzzy
 msgid "Statistics"
-msgstr ""
+msgstr "Estatísticas"
 
 #: ../../crm/marketing_activity/active_lost_leads.rst:81
+#, fuzzy
 msgid ""
-"Statistics will be enabled as soon as schedule start processing the "
-"email, you can actually see the number of email sent, bounced, opened by "
-"the receiver, replied on that email or number of user clicks on the link "
-"if you attached any links in the email."
+"Statistics will be enabled as soon as schedule start processing the email, "
+"you can actually see the number of email sent, bounced, opened by the "
+"receiver, replied on that email or number of user clicks on the link if "
+"you attached any links in the email."
 msgstr ""
+"As estatísticas serão ativadas assim que o cronograma começar a processar "
+"o e-mail, você pode realmente ver o número de e-mail enviado, devolvido, "
+"aberto pelo receptor, respondeu nesse e-mail ou número de cliques do "
+"usuário no link se você anexou quaisquer links no e-mail."
 
 #: ../../crm/marketing_activity/assign_leads_based_on_score.rst:6
+#, fuzzy
 msgid "Assign leads based on scoring"
-msgstr ""
+msgstr "Atribuir leads com base na Pontuação"
 
 #: ../../crm/marketing_activity/assign_leads_based_on_score.rst:8
+#, fuzzy
 msgid ""
-"With Leads Scoring you can automatically rank your leads based on "
-"selected criterias. See how you can *measure the score for an opportunity"
-" based on the user behaviour on website.*"
+"With Leads Scoring you can automatically rank your leads based on selected "
+"criterias. See how you can *measure the score for an opportunity based on "
+"the user behaviour on website.*"
 msgstr ""
+"Com a pontuação de leads, você pode classificar automaticamente seus leads "
+"com base em critérios selecionados. Veja como você pode * medir a "
+"pontuação para uma oportunidade com base no comportamento do usuário no "
+"site. *"
 
 #: ../../crm/marketing_activity/assign_leads_based_on_score.rst:12
+#, fuzzy
 msgid ""
-"For example you could score customers from your country higher or the "
-"ones that visited specific pages on your website."
+"For example you could score customers from your country higher or the ones "
+"that visited specific pages on your website."
 msgstr ""
+"Por exemplo, você pode marcar clientes de seu país mais alto ou aqueles "
+"que visitaram páginas específicas em seu site."
 
 #: ../../crm/marketing_activity/assign_leads_based_on_score.rst:18
 #: ../../crm/organize_sales/assign_opportunities_automatic.rst:25
+#, fuzzy
 msgid ""
 "Install a module **Lead Scoring** under your **Apps** page available in "
 "Odoo Enterprise only."
 msgstr ""
+"Instale um módulo * * Pontuação de leads * * em sua página de aplicativos "
+"* * disponível apenas no Odoo Enterprise."
 
 #: ../../crm/marketing_activity/assign_leads_based_on_score.rst:24
+#, fuzzy
 msgid "Generate Leads"
-msgstr ""
+msgstr "Gere leads"
 
 #: ../../crm/marketing_activity/assign_leads_based_on_score.rst:26
+#, fuzzy
 msgid "Leads/Opportunities can be generated through the below listed methods"
 msgstr ""
+"Leads/oportunidades podem ser gerados através dos métodos listados abaixo"
 
 #: ../../crm/marketing_activity/assign_leads_based_on_score.rst:33
 #: ../../crm/marketing_activity/lead_score_based_on_page_visited.rst:34
+#, fuzzy
 msgid "Create scoring rules"
-msgstr ""
+msgstr "Criar regras de Pontuação"
 
 #: ../../crm/marketing_activity/assign_leads_based_on_score.rst:35
 #: ../../crm/marketing_activity/lead_score_based_on_page_visited.rst:36
+#, fuzzy
 msgid ""
 "You now have a new menu in your **CRM** app called **Leads Management / "
-"Scoring Rules** where you can manage your scoring rules. Here's an "
-"example for a *Pricing Page Score*, you can modify for whatever criteria "
-"you wish to score your leads on. You can add as many criterias as you "
-"wish."
+"Scoring Rules** where you can manage your scoring rules. Here's an example "
+"for a *Pricing Page Score*, you can modify for whatever criteria you wish "
+"to score your leads on. You can add as many criterias as you wish."
 msgstr ""
+"Agora você tem um novo menu no seu aplicativo * * CRM * * chamado * * "
+"gerenciamento de leads/regras de Pontuação * * onde você pode gerenciar "
+"suas regras de pontuação. Aqui está um exemplo para uma * pontuação de "
+"página de preços *, você pode modificar para qualquer critério que você "
+"deseja marcar seus leads em. Você pode adicionar quantos critérios desejar."
 
 #: ../../crm/marketing_activity/assign_leads_based_on_score.rst:43
+#, fuzzy
 msgid ""
 "Every hour every lead without a score will be automatically scanned and "
 "assigned their right score according to your scoring rules."
 msgstr ""
+"Cada hora cada pista sem uma pontuação será automaticamente digitalizada e "
+"atribuída a sua pontuação certa de acordo com suas regras de pontuação."
 
 #: ../../crm/marketing_activity/assign_leads_based_on_score.rst:47
+#, fuzzy
 msgid "Assign leads"
-msgstr ""
+msgstr "Atribuir leads"
 
 #: ../../crm/marketing_activity/assign_leads_based_on_score.rst:49
+#, fuzzy
 msgid ""
 "Once the scores computed, leads can have enough information to classify "
-"that it is belongs to which sales team. Lead be assigned to specific "
-"teams using the same domain mechanism. To do so go to **CRM / Leads "
-"Management / Team Assignation** and apply a specific domain on each team."
+"that it is belongs to which sales team. Lead be assigned to specific teams "
+"using the same domain mechanism. To do so go to **CRM / Leads Management / "
+"Team Assignation** and apply a specific domain on each team."
 msgstr ""
+"Uma vez que as contagens computadas, os clientes potenciais podem ter "
+"bastante informação para classificar que é pertence a que equipe de "
+"vendas. Lead ser atribuído a equipes específicas usando o mesmo mecanismo "
+"de domínio. Para fazer isso, vá para * * CRM/leads Management/Team "
+"assignation * * e aplique um domínio específico em cada equipe."
 
 #: ../../crm/marketing_activity/assign_leads_based_on_score.rst:55
+#, fuzzy
 msgid ""
 "This domain may include lead scores, page visited by visitor, and other "
 "information such as country, city, availability of the email or phone."
 msgstr ""
+"Este domínio pode incluir pontuações de leads, página visitada por "
+"visitante e outras informações, como país, cidade, disponibilidade do e-"
+"mail ou telefone."
 
 #: ../../crm/marketing_activity/lead_score_based_on_page_visited.rst:6
+#, fuzzy
 msgid ""
 "Measure the score for an opportunity based on the user behavior on your "
 "website"
 msgstr ""
+"Meça a pontuação para uma oportunidade com base no comportamento do "
+"usuário em seu site"
 
 #: ../../crm/marketing_activity/lead_score_based_on_page_visited.rst:8
+#, fuzzy
 msgid ""
-"Tracking your website pages will give you much more information about the"
-" interests of your website visitors. Every tracked page they visit will "
-"be recorded on your lead/opportunity if they use the contact form on your"
-" website."
+"Tracking your website pages will give you much more information about the "
+"interests of your website visitors. Every tracked page they visit will be "
+"recorded on your lead/opportunity if they use the contact form on your "
+"website."
 msgstr ""
+"Rastrear suas páginas do site lhe dará muito mais informações sobre os "
+"interesses dos visitantes do seu site. Cada página rastreada que eles "
+"visitam será registrada em sua liderança/oportunidade se eles usarem o "
+"formulário de contato em seu site."
 
 #: ../../crm/marketing_activity/lead_score_based_on_page_visited.rst:16
+#, fuzzy
 msgid ""
 "To use this feature, install the module **Lead Scoring** under your Apps "
 "page available in Odoo Enterprise only."
 msgstr ""
+"Para usar esse recurso, instale o módulo **Pontuação de leads** em sua "
+"página de aplicativos disponível apenas no Odoo Enterprise."
 
 #: ../../crm/marketing_activity/lead_score_based_on_page_visited.rst:22
+#, fuzzy
 msgid "Track a webpage"
-msgstr ""
+msgstr "Rastrear uma página da Web"
 
 #: ../../crm/marketing_activity/lead_score_based_on_page_visited.rst:24
+#, fuzzy
 msgid ""
-"You can track any static page you want on your website under the "
-"**Promote tab** you will find **Optimize SEO**. There you will see a "
-"**Track Page** checkbox to track this page."
+"You can track any static page you want on your website under the **Promote "
+"tab** you will find **Optimize SEO**. There you will see a **Track Page** "
+"checkbox to track this page."
 msgstr ""
+"Você pode rastrear qualquer página estática que você quer em seu site o "
+"**Guia Promover** você vai encontrar **Otimizar SEO**. Lá você verá um "
+"**Track página** CheckBox para rastrear esta página."
 
 #: ../../crm/marketing_activity/lead_score_based_on_page_visited.rst:30
+#, fuzzy
 msgid ""
 "You have to visit all the pages and enabled this option for individual "
 "pages you want to track on your website."
 msgstr ""
+"Você tem que visitar todas as páginas e habilitado esta opção para páginas "
+"individuais que você deseja rastrear em seu site."
 
 #: ../../crm/marketing_activity/lead_score_based_on_page_visited.rst:44
+#, fuzzy
 msgid ""
 "Every hour a new leads without a score will be automatically scanned and "
 "assigned their right score according to your scoring rules."
 msgstr ""
+"A cada hora, uma nova pista sem uma pontuação será automaticamente "
+"digitalizada e atribuída a sua pontuação certa de acordo com suas regras "
+"de pontuação."
 
 #: ../../crm/marketing_activity/lead_score_based_on_page_visited.rst:47
+#, fuzzy
 msgid ""
 "You can select **Event-based rule** for new rule you are about to create "
 "if you want to apply on all the existing leads which was previously "
 "computed."
 msgstr ""
+"Você pode selecionar **regra baseada em eventos** para a nova regra que "
+"você está prestes a criar se você quiser aplicar em todos os leads "
+"existentes que foi calculado anteriormente."
 
 #: ../../crm/marketing_activity/lead_score_based_on_page_visited.rst:51
+#, fuzzy
 msgid ""
-"**Value** on the score rules will be count cumulative to compute the "
-"leads/opportunities score when more then one rule found applied for the "
-"lead/opportunity."
+"**Value** on the score rules will be count cumulative to compute the leads/"
+"opportunities score when more then one rule found applied for the lead/"
+"opportunity."
 msgstr ""
+"**Valor** nas regras de pontuação será contagem cumulativa para calcular a "
+"pontuação leads/oportunidades quando mais de uma regra encontrada aplicada "
+"para o Lead/oportunidade."
 
 #: ../../crm/marketing_activity/lead_score_based_on_page_visited.rst:56
+#, fuzzy
 msgid "See visited pages in opportunities"
-msgstr ""
+msgstr "Ver páginas visitadas em oportunidades"
 
 #: ../../crm/marketing_activity/lead_score_based_on_page_visited.rst:58
+#, fuzzy
 msgid ""
 "Now each time a lead is created from the contact page it will keep track "
 "of the pages visited by that visitor. You have two ways to see those "
@@ -652,622 +921,938 @@ msgid ""
 "**Page Views** button but also further down you will see them in the "
 "chatter too."
 msgstr ""
+"Agora, cada vez que um lead é criado a partir da página de contato que irá "
+"manter o controle das páginas visitadas por esse visitante. Você tem duas "
+"maneiras de ver essas páginas, no canto superior direito de sua liderança/"
+"oportunidade você pode ver um * * page views * * botão, mas também mais "
+"para baixo você vai vê-los na conversa também."
 
 #: ../../crm/marketing_activity/lead_score_based_on_page_visited.rst:64
+#, fuzzy
 msgid ""
-"Both will update if the viewers comes back to your website and visits "
-"more pages."
+"Both will update if the viewers comes back to your website and visits more "
+"pages."
 msgstr ""
+"Ambos atualizarão se os espectadores voltarem ao seu site e visitem mais "
+"páginas."
 
 #: ../../crm/marketing_activity/lead_score_based_on_page_visited.rst:69
+#, fuzzy
 msgid ""
 "The feature will not repeat multiple viewings of the same pages in the "
 "chatter. Your customers will no longer be able to keep any secrets from "
 "you!"
 msgstr ""
+"O recurso não repetirá várias visualizações das mesmas páginas no Chatter. "
+"Seus clientes não serão mais capazes de manter segredos de você!"
 
 #: ../../crm/marketing_activity/lead_score_based_on_page_visited.rst:74
+#, fuzzy
 msgid "Compute Score"
-msgstr ""
+msgstr "Calcular Pontuação"
 
 #: ../../crm/marketing_activity/lead_score_based_on_page_visited.rst:76
+#, fuzzy
 msgid ""
 "The scheduler executes every hours and compute the score for newly added "
 "lead/opportunity."
 msgstr ""
+"O Agendador executa todas as horas e calcula a pontuação para o Lead/"
+"oportunidade recém-adicionado."
 
 #: ../../crm/marketing_activity/lead_score_based_on_page_visited.rst:79
+#, fuzzy
 msgid ""
-"The **Scoring rules** will be applied those are matching with the "
-"lead/opportunities details and score will be the summation of values from"
-" all those rules."
+"The **Scoring rules** will be applied those are matching with the lead/"
+"opportunities details and score will be the summation of values from all "
+"those rules."
 msgstr ""
+"As **regras de pontuação** serão aplicadas aqueles que estão combinando "
+"com os detalhes de Lead/oportunidades e pontuação será a somatória dos "
+"valores de todas essas regras."
 
 #: ../../crm/marketing_activity/track_visitor.rst:6
+#, fuzzy
 msgid "Which marketing platform bring more visitors"
-msgstr ""
+msgstr "Qual plataforma de marketing traz mais visitantes"
 
 #: ../../crm/marketing_activity/track_visitor.rst:8
 #: ../../crm/marketing_activity/visitor_to_opportunitie_conversion.rst:8
+#, fuzzy
 msgid ""
 "The biggest challenge for every business is *how do I drive more traffic "
-"to my online store?*, If you able to get the visitor you can convert them"
-" into customers. There are many ways to increase the visitors, advertise "
-"on the social media marketing is one of the proven way to get attract "
-"move visitor."
+"to my online store?*, If you able to get the visitor you can convert them "
+"into customers. There are many ways to increase the visitors, advertise on "
+"the social media marketing is one of the proven way to get attract move "
+"visitor."
 msgstr ""
+"O maior desafio para cada negócio é *como faço para dirigir mais tráfego "
+"para a minha loja online?*, se você puder obter o visitante você pode "
+"convertê-los em clientes. Há muitas maneiras de aumentar os visitantes, "
+"anunciar no marketing de mídia social é uma das maneiras comprovadas para "
+"obter atrair visitante mover."
 
 #: ../../crm/marketing_activity/track_visitor.rst:14
+#, fuzzy
 msgid ""
-"But the questions is *which social media can bring more visitor and where"
-" to invest?*, depending on your product and consumer you should choose "
-"the social media platform to invest for the marketing, still it is worth "
-"to track which marketing platform bring how many users on your website."
+"But the questions is *which social media can bring more visitor and where "
+"to invest?*, depending on your product and consumer you should choose the "
+"social media platform to invest for the marketing, still it is worth to "
+"track which marketing platform bring how many users on your website."
 msgstr ""
+"Mas as perguntas são * quais as mídias sociais podem trazer mais "
+"visitantes e onde investir? *, dependendo do seu produto e consumidor você "
+"deve escolher a plataforma de mídia social para investir para o marketing, "
+"ainda vale a pena rastrear qual plataforma de marketing trazer quantos "
+"usuários em seu site."
 
 #: ../../crm/marketing_activity/track_visitor.rst:23
+#, fuzzy
 msgid ""
 "The *My Company* is running a electronic ecommerce store, they want to "
 "invest in the paid marketing on different social media platform such as "
 "Facebook, Pinterest, Instagram and Google."
 msgstr ""
+"A *minha empresa* está executando uma loja de eCommerce eletrônico, eles "
+"querem investir no marketing pago em diferentes plataformas de mídia "
+"social, como Facebook, Pinterest, Instagram e Google."
 
 #: ../../crm/marketing_activity/track_visitor.rst:27
+#, fuzzy
 msgid ""
-"The want to see which marketing platform drives how many new users so "
-"that they can focus more on the platform which brings more traffic."
+"The want to see which marketing platform drives how many new users so that "
+"they can focus more on the platform which brings more traffic."
 msgstr ""
+"O quer ver qual plataforma de marketing dirige quantos novos usuários para "
+"que eles possam se concentrar mais na plataforma que traz mais tráfego."
 
 #: ../../crm/marketing_activity/track_visitor.rst:33
 #: ../../crm/marketing_activity/visitor_to_opportunitie_conversion.rst:32
+#, fuzzy
 msgid ""
 "Assumed that the **Website Builder** and **eCommerce** applications are "
 "already installed. What we need is an Link tracker application which is "
 "supporting application to the website."
 msgstr ""
+"Presume-se que o * * Website Builder * * e * * eCommerce * * aplicativos "
+"já estão instalados. O que nós precisamos é uma aplicação do perseguidor "
+"da ligação que esteja suportando a aplicação ao Web site."
 
 #: ../../crm/marketing_activity/track_visitor.rst:39
+#, fuzzy
 msgid ""
 "Install the Website Link Tracker application if it is not installed "
 "automatically."
 msgstr ""
+"Instale o aplicativo website link Tracker se ele não for instalado "
+"automaticamente."
 
 #: ../../crm/marketing_activity/track_visitor.rst:43
 #: ../../crm/marketing_activity/visitor_to_opportunitie_conversion.rst:79
+#, fuzzy
 msgid "Create a link to share"
-msgstr ""
+msgstr "Criar um link para compartilhar"
 
 #: ../../crm/marketing_activity/track_visitor.rst:45
 #: ../../crm/marketing_activity/visitor_to_opportunitie_conversion.rst:81
+#, fuzzy
 msgid ""
-"You can share any website page from your website with the link tracker, "
-"It can be a Product, Shop, Home Page, Job Post or News from the Blogs. To"
-" create a sharable link that generates statistics, visit that page and go"
-" to **Promote / Track this Page**."
+"You can share any website page from your website with the link tracker, It "
+"can be a Product, Shop, Home Page, Job Post or News from the Blogs. To "
+"create a sharable link that generates statistics, visit that page and go "
+"to **Promote / Track this Page**."
 msgstr ""
+"Você pode compartilhar qualquer página do site do seu site com o "
+"rastreador de link, ele pode ser um produto, loja, Home Page, posto de "
+"trabalho ou notícias dos Blogs. Para criar um link compartilhável que gera "
+"estatísticas, visite essa página e vá para **promover/rastrear esta "
+"página**."
 
 #: ../../crm/marketing_activity/track_visitor.rst:52
 #: ../../crm/marketing_activity/visitor_to_opportunitie_conversion.rst:88
+#, fuzzy
 msgid ""
 "Click on the **Get tracked link** button will generate the link that can "
 "be share and that link generates the statistical analysis, such as how "
 "many people visited by date, and form which country."
 msgstr ""
+"Clique no botão * * obter link rastreado * * irá gerar o link que pode ser "
+"compartilhar e que o link gera a análise estatística, como quantas pessoas "
+"visitadas por data, e forma que país."
 
 #: ../../crm/marketing_activity/track_visitor.rst:56
+#, fuzzy
 msgid ""
 "To generate the correct statistics, you have to set up Odoo correctly on "
-"reverse proxy and GeoIP data on Nginx. If not configure correctly you may"
-" get the number of visits but not the country information."
+"reverse proxy and GeoIP data on Nginx. If not configure correctly you may "
+"get the number of visits but not the country information."
 msgstr ""
+"Para gerar as estatísticas corretas, você tem que configurar Odoo "
+"corretamente em proxy reverso e dados GeoIP no nginx. Se não configurar "
+"corretamente, você pode obter o número de visitas, mas não as informações "
+"do país."
 
 #: ../../crm/marketing_activity/track_visitor.rst:61
+#, fuzzy
 msgid "The statistics will be looks as below."
-msgstr ""
+msgstr "As estatísticas serão olhares como abaixo."
 
 #: ../../crm/marketing_activity/visitor_to_opportunitie_conversion.rst:6
+#, fuzzy
 msgid "Measure which marketing campaign creates more opportunities"
-msgstr ""
+msgstr "Meça qual campanha de marketing cria mais oportunidades"
 
 #: ../../crm/marketing_activity/visitor_to_opportunitie_conversion.rst:14
+#, fuzzy
 msgid ""
 "But the questions is *which social media can bring more opportunities to "
-"me?*, depending on your product and consumer you should choose the social"
-" media platform to invest for the marketing, still it is worth to track "
+"me?*, depending on your product and consumer you should choose the social "
+"media platform to invest for the marketing, still it is worth to track "
 "which marketing platform bring how many users on your website."
 msgstr ""
+"Mas as perguntas são * quais as mídias sociais podem trazer mais "
+"oportunidades para mim? *, dependendo do seu produto e consumidor você "
+"deve escolher a plataforma de mídia social para investir para o marketing, "
+"ainda vale a pena rastrear qual plataforma de marketing trazer quantos "
+"usuários em seu site."
 
 #: ../../crm/marketing_activity/visitor_to_opportunitie_conversion.rst:22
+#, fuzzy
 msgid ""
 "The *My Company* is running a electronic eCommerce store, they want to "
 "invest in the paid marketing on different social media platform such as "
 "Facebook, Pinterest, Instagram and Google."
 msgstr ""
+"A *minha empresa* está executando uma loja de eCommerce eletrônico, eles "
+"querem investir no marketing pago em diferentes plataformas de mídia "
+"social, como Facebook, Pinterest, Instagram e Google."
 
 #: ../../crm/marketing_activity/visitor_to_opportunitie_conversion.rst:26
+#, fuzzy
 msgid ""
-"The want to see *which marketing platform how many new opportunities?* so"
-" that they can focus more on the platform which brings more business."
+"The want to see *which marketing platform how many new opportunities?* so "
+"that they can focus more on the platform which brings more business."
 msgstr ""
+"O quer ver * qual plataforma de marketing quantas novas oportunidades? * "
+"para que eles possam se concentrar mais na plataforma que traz mais "
+"negócios."
 
 #: ../../crm/marketing_activity/visitor_to_opportunitie_conversion.rst:38
+#, fuzzy
 msgid ""
 "Install the **Website Link Tracker** application if it is not installed "
 "automatically."
 msgstr ""
+"Instale o aplicativo * * website link Tracker * * se ele não for instalado "
+"automaticamente."
 
 #: ../../crm/marketing_activity/visitor_to_opportunitie_conversion.rst:42
+#, fuzzy
 msgid "Contact us form"
-msgstr ""
+msgstr "Contacte-nos formulário"
 
 #: ../../crm/marketing_activity/visitor_to_opportunitie_conversion.rst:44
+#, fuzzy
 msgid ""
 "Install the contact us form on the website, so that when user fill the "
-"contact detail to get more information about the product, you can have an"
-" opportunity created in the CRM application."
+"contact detail to get more information about the product, you can have an "
+"opportunity created in the CRM application."
 msgstr ""
+"Instale o formulário de contato conosco no site, de modo que quando o "
+"usuário preencher o detalhe de contato para obter mais informações sobre o "
+"produto, você pode ter uma oportunidade criada no aplicativo CRM."
 
 #: ../../crm/marketing_activity/visitor_to_opportunitie_conversion.rst:48
+#, fuzzy
 msgid ""
-"Generate leads/opportunities from your website contact page - "
-"https://odoobooks.com/en/11.0/crm/generate_lead_from_webstie.html"
+"Generate leads/opportunities from your website contact page - https://"
+"odoobooks.com/en/11.0/crm/generate_lead_from_webstie.html"
 msgstr ""
+"Gere leads/oportunidades na página de contato do seu site-https://"
+"odoobooks.com/en/11.0/crm/generate_lead_from_webstie.html"
 
 #: ../../crm/marketing_activity/visitor_to_opportunitie_conversion.rst:52
+#, fuzzy
 msgid "Form Builder"
-msgstr ""
+msgstr "Construtor de Formulários"
 
 #: ../../crm/marketing_activity/visitor_to_opportunitie_conversion.rst:54
+#, fuzzy
 msgid ""
 "It would be great if you will be able to add the contact us form on any "
 "other webpages in your website, it will allows user to make a quick "
 "contact to you."
 msgstr ""
+"Seria ótimo se você vai ser capaz de adicionar o contato conosco "
+"formulário em quaisquer outras páginas da Web em seu site, ele permitirá "
+"que o usuário faça um contato rápido com você."
 
 #: ../../crm/marketing_activity/visitor_to_opportunitie_conversion.rst:60
+#, fuzzy
 msgid ""
 "As soon as the application installed you will see a new widget on the "
 "website called Form Builder."
 msgstr ""
+"Assim que o aplicativo instalado, você verá um novo widget no site chamado "
+"Form Builder."
 
 #: ../../crm/marketing_activity/visitor_to_opportunitie_conversion.rst:64
+#, fuzzy
 msgid "Add contact us form on product page"
-msgstr ""
+msgstr "Adicionar contato conosco formulário na página do produto"
 
 #: ../../crm/marketing_activity/visitor_to_opportunitie_conversion.rst:66
+#, fuzzy
 msgid ""
-"You can add the contact us page on the frequently sold product page, "
-"which help us to generate the leads. Drag and drop the **Form builder** "
-"widget, select the option Create a lead."
+"You can add the contact us page on the frequently sold product page, which "
+"help us to generate the leads. Drag and drop the **Form builder** widget, "
+"select the option Create a lead."
 msgstr ""
+"Você pode adicionar a página entre em contato conosco na página do produto "
+"freqüentemente vendida, que nos ajuda a gerar os leads. Arraste e solte o "
+"* * criador de formulários * * widget, selecione a opção criar um Lead."
 
 #: ../../crm/marketing_activity/visitor_to_opportunitie_conversion.rst:72
+#, fuzzy
 msgid ""
 "The default fields will be added to the screen, **Opportunity**, you can "
-"change the label to **Subject** and add additional fields from the widget"
-" customization option, such as Name, Email and Mobile."
+"change the label to **Subject** and add additional fields from the widget "
+"customization option, such as Name, Email and Mobile."
 msgstr ""
+"Os campos padrão serão adicionados à tela, * * Opportunity * *, você pode "
+"alterar o rótulo para * * Subject * * e adicionar campos adicionais da "
+"opção de personalização do widget, como nome, E-mail e celular."
 
 #: ../../crm/marketing_activity/visitor_to_opportunitie_conversion.rst:93
+#, fuzzy
 msgid "Creating an opportunities"
-msgstr ""
+msgstr "Criando oportunidades"
 
 #: ../../crm/marketing_activity/visitor_to_opportunitie_conversion.rst:95
+#, fuzzy
 msgid ""
 "Visitor visit the page through the link you shared on the **Google "
 "Searching**, the visitor will be tracked and same information will be "
 "attached to the **Campaign**, **Medium** and **Source**, when "
 "opportunities created."
 msgstr ""
+"Visitante visite a página através do link que você compartilhou no * * "
+"Google searching * *, o visitante será rastreado e as mesmas informações "
+"serão anexadas à * * campanha * *, * * Medium * * e * * Source * *, quando "
+"as oportunidades criadas."
 
 #: ../../crm/marketing_activity/visitor_to_opportunitie_conversion.rst:103
+#, fuzzy
 msgid "Campaign Analysis"
-msgstr ""
+msgstr "Análise de campanha"
 
 #: ../../crm/marketing_activity/visitor_to_opportunitie_conversion.rst:105
+#, fuzzy
 msgid ""
 "The number of opportunities can be grouped by the **Source** and "
 "**Medium** to check which platform bring how many opportunities coming "
 "from which marketing platform."
 msgstr ""
+"O número de oportunidades pode ser agrupado pelo * * Source * * e * * "
+"Medium * * para verificar qual plataforma traz Quantas oportunidades vêm "
+"de qual plataforma de marketing."
 
 #: ../../crm/marketing_activity/visitor_to_opportunitie_conversion.rst:109
 #: ../../crm/organize_sales/multiple_sales_team.rst:89
+#, fuzzy
 msgid "|image6|"
-msgstr ""
+msgstr "|image6|"
 
 #: ../../crm/marketing_activity/visitor_to_opportunitie_conversion.rst:111
+#, fuzzy
 msgid ""
 "Can be analysed in detail by applying group by **Source** and then "
 "**Medium**. It will give us more clear view on from where the "
 "opportunities coming from."
 msgstr ""
+"Pode ser analisado em pormenor, aplicando o grupo por * * fonte * * e, em "
+"seguida, * * médio * *. Ele vai nos dar uma visão mais clara sobre de onde "
+"as oportunidades provenientes."
 
 #: ../../crm/marketing_activity/visitor_to_opportunitie_conversion.rst:115
+#, fuzzy
 msgid "|image7|"
-msgstr ""
+msgstr "|image7|"
 
 #: ../../crm/organize_sales/assign_opportunities_automatic.rst:6
+#, fuzzy
 msgid "Automatic leads assignation to team members"
-msgstr ""
+msgstr "Atribuição automática de leads aos membros da equipe"
 
 #: ../../crm/organize_sales/assign_opportunities_automatic.rst:8
+#, fuzzy
 msgid ""
-"There are multiple sales people working within the sales team, the number"
-" of leads increased you have to increased the number of people to work "
-"on. The problem starts for the team manager to assign the leads to them "
-"when team grows, let’s see how you can make the team manager life easy "
-"with automatic leads assignation."
+"There are multiple sales people working within the sales team, the number "
+"of leads increased you have to increased the number of people to work on. "
+"The problem starts for the team manager to assign the leads to them when "
+"team grows, let’s see how you can make the team manager life easy with "
+"automatic leads assignation."
 msgstr ""
+"Há várias pessoas de vendas que trabalham dentro da equipe de vendas, o "
+"número de leads aumentou você tem que aumentar o número de pessoas para "
+"trabalhar. O problema começa para o gerente de equipe para atribuir os "
+"leads para eles quando a equipe cresce, vamos ver como você pode tornar a "
+"vida do gerente de equipe fácil com a atribuição de leads automáticos."
 
 #: ../../crm/organize_sales/assign_opportunities_automatic.rst:17
+#, fuzzy
 msgid ""
 "The company have a increased the team size to process the maximum leads "
 "per day as they start getting many new leads. They would like to first "
-"convert leads into opportunity and assign to the team members within "
-"team."
+"convert leads into opportunity and assign to the team members within team."
 msgstr ""
+"A empresa tem um aumento do tamanho da equipe para processar o máximo de "
+"leads por dia, como eles começam a receber muitos novos leads. Eles "
+"gostariam de primeiro converter leads em oportunidade e atribuir aos "
+"membros da equipe dentro da equipe."
 
 #: ../../crm/organize_sales/assign_opportunities_automatic.rst:31
+#, fuzzy
 msgid "Qualification step before creating an opportunity"
-msgstr ""
+msgstr "Etapa de qualificação antes de criar uma oportunidade"
 
 #: ../../crm/organize_sales/assign_opportunities_automatic.rst:33
+#, fuzzy
 msgid ""
 "The default sales activity is managed with the opportunity pipeline, you "
 "can change that to add the qualification stage before creating an "
 "opportunity."
 msgstr ""
+"A atividade de vendas padrão é gerenciada com o pipeline de oportunidades, "
+"você pode alterá-la para adicionar o estágio de qualificação antes de "
+"criar uma oportunidade."
 
 #: ../../crm/organize_sales/assign_opportunities_automatic.rst:39
+#, fuzzy
 msgid ""
 "Assumed that you start getting leads into the team, by default all those "
 "leads are unassigned."
 msgstr ""
+"Presumido que você começa a obter leads na equipe, por padrão, todos esses "
+"leads não são atribuídos."
 
 #: ../../crm/organize_sales/assign_opportunities_automatic.rst:43
 #: ../../crm/organize_sales/multiple_sales_team.rst:37
+#, fuzzy
 msgid "Add members to your sales channel"
-msgstr ""
+msgstr "Adicionar membros ao seu canal de vendas"
 
 #: ../../crm/organize_sales/assign_opportunities_automatic.rst:45
+#, fuzzy
 msgid ""
-"You can add members to the sales team; that way those members will see "
-"the pipeline structure of the sales team when opening it. Any "
-"lead/opportunity assigned to them will link to the sales team. Therefore,"
-" you can only be a member of one channel."
+"You can add members to the sales team; that way those members will see the "
+"pipeline structure of the sales team when opening it. Any lead/opportunity "
+"assigned to them will link to the sales team. Therefore, you can only be a "
+"member of one channel."
 msgstr ""
+"Você pode adicionar membros à equipe de vendas; dessa forma, esses membros "
+"verão a estrutura de pipeline da equipe de vendas ao abri-la. Qualquer "
+"Lead/oportunidade atribuída a eles será associado à equipe de vendas. "
+"Portanto, você só pode ser um membro de um canal."
 
 #: ../../crm/organize_sales/assign_opportunities_automatic.rst:50
+#, fuzzy
 msgid ""
-"You can define maximum leads that should be assigned to the member within"
-" 30 days, this will ease the process of assigning the leads to the member"
-" easily."
+"You can define maximum leads that should be assigned to the member within "
+"30 days, this will ease the process of assigning the leads to the member "
+"easily."
 msgstr ""
+"Você pode definir os leads máximos que devem ser atribuídos ao membro "
+"dentro de 30 dias, isso facilitará o processo de atribuir os leads para o "
+"membro facilmente."
 
 #: ../../crm/organize_sales/assign_opportunities_automatic.rst:56
+#, fuzzy
 msgid ""
 "You can also add the specific domain on each user to be sure that each "
 "user get the specific leads to work on based on their expertise or "
 "country, etc…"
 msgstr ""
+"Você também pode adicionar o domínio específico em cada usuário para ter "
+"certeza de que cada usuário obter os leads específicos para trabalhar com "
+"base em sua experiência ou país, etc..."
 
 #: ../../crm/organize_sales/assign_opportunities_automatic.rst:60
+#, fuzzy
 msgid ""
 "You can define the size of batch using system parameters "
-"*website_crm_score.bundle_size* that defines the number of leads going to"
-" be process on each lead assignation schedule."
+"*website_crm_score.bundle_size* that defines the number of leads going to "
+"be process on each lead assignation schedule."
 msgstr ""
+"Você pode definir o tamanho do lote usando os parâmetros do sistema * "
+"website_crm_score. bundle_size * que define o número de leads que vai ser "
+"processo em cada cronograma de atribuição de leads."
 
 #: ../../crm/organize_sales/assign_opportunities_automatic.rst:65
+#, fuzzy
 msgid "Activate the lead assignation scheduler"
-msgstr ""
+msgstr "Ative o Agendador de atribuição de leads"
 
 #: ../../crm/organize_sales/assign_opportunities_automatic.rst:67
+#, fuzzy
 msgid ""
-"Enable into the debug mode and goto Schedule Action form home screen, "
-"just type the word."
+"Enable into the debug mode and goto Schedule Action form home screen, just "
+"type the word."
 msgstr ""
+"Ative o modo de depuração e goto tela inicial do formulário de ação de "
+"agendamento, basta digitar a palavra."
 
 #: ../../crm/organize_sales/assign_opportunities_automatic.rst:72
+#, fuzzy
 msgid ""
 "Search for the *Crm Score: lead assignation* and **Switch On** the "
-"schedule action, it will automatically process 50 leads every day. If you"
-" want to assign frequent you can switch to Hours instead of Days."
+"schedule action, it will automatically process 50 leads every day. If you "
+"want to assign frequent you can switch to Hours instead of Days."
 msgstr ""
+"Pesquise o * CRM score: atribuição de leads * e * * ligar * * a ação de "
+"agendamento, ele processará automaticamente 50 leads todos os dias. Se "
+"você quiser atribuir freqüente você pode alternar para horas em vez de "
+"dias."
 
 #: ../../crm/organize_sales/assign_opportunities_automatic.rst:76
+#, fuzzy
 msgid ""
 "You can check leads assignation manually by clicking on the Run Manually "
 "button on the schedule action."
 msgstr ""
+"Você pode verificar a atribuição de leads manualmente clicando no botão "
+"executar manualmente na ação de agendamento."
 
 #: ../../crm/organize_sales/assign_opportunities_automatic.rst:79
+#, fuzzy
 msgid ""
-"As soon as the number of leads increase, on each schedule action you have"
-" to process more leads, you can do it by setting the system parameters. "
+"As soon as the number of leads increase, on each schedule action you have "
+"to process more leads, you can do it by setting the system parameters. "
 "Create a new system parameters with key *website_crm_score.bundle_size* "
 "and set the value."
 msgstr ""
+"Assim que o número de leads aumentar, em cada ação de agendamento você tem "
+"que processar mais leads, você pode fazê-lo definindo os parâmetros do "
+"sistema. Crie um novo parâmetros de sistema com a tecla * "
+"website_crm_score. bundle_size * e defina o valor."
 
 #: ../../crm/organize_sales/assign_opportunities_automatic.rst:88
+#, fuzzy
 msgid ""
-"Access the video at "
-"https://drive.google.com/file/d/1EJsfk3MtppcdyzhB_xCvHqC05ZNkPSRj/preview"
+"Access the video at https://drive.google.com/file/"
+"d/1EJsfk3MtppcdyzhB_xCvHqC05ZNkPSRj/preview"
 msgstr ""
+"Acesse o vídeo em https://drive.google.com/file/"
+"d/1EJsfk3MtppcdyzhB_xCvHqC05ZNkPSRj/preview"
 
 #: ../../crm/organize_sales/lost_opportunities.rst:6
+#, fuzzy
 msgid "Manage lost opportunities"
-msgstr ""
+msgstr "Gerencie oportunidades perdidas"
 
 #: ../../crm/organize_sales/lost_opportunities.rst:8
+#, fuzzy
 msgid ""
 "While working with your opportunities, you might lose some of them. You "
 "may want to keep track of those opportunities with the reasons you lost "
 "them and also the ways to recover them in the future."
 msgstr ""
+"Ao trabalhar com suas oportunidades, você pode perder alguns deles. Você "
+"pode querer manter o controle dessas oportunidades com as razões que você "
+"perdeu-los e também as maneiras de recuperá-los no futuro."
 
 #: ../../crm/organize_sales/lost_opportunities.rst:15
+#, fuzzy
 msgid ""
-"The company planning to revised the price of the product they are selling"
-" and they would like to make a test offer or announcement about the to "
-"the opportunity who lost because of the reason “\\ *Too Expensive*\\ ”."
+"The company planning to revised the price of the product they are selling "
+"and they would like to make a test offer or announcement about the to the "
+"opportunity who lost because of the reason “\\ *Too Expensive*\\ ”."
 msgstr ""
+"A empresa planeja rever o preço do produto que estão vendendo e eles "
+"gostariam de fazer uma oferta de teste ou anúncio sobre a oportunidade que "
+"perdeu por causa da razão \"\\ * Too caro * \\\"."
 
 #: ../../crm/organize_sales/lost_opportunities.rst:21
+#, fuzzy
 msgid "Mark an opportunity as lost"
-msgstr ""
+msgstr "Marque uma oportunidade como perdida"
 
 #: ../../crm/organize_sales/lost_opportunities.rst:23
+#, fuzzy
 msgid ""
 "While in your pipeline, select any opportunity you have to mark as lort, "
 "you will see a **Mark Lost** button, by clicking on that you have to "
 "select the lost reason, that can then select an existing **Lost Reason** "
 "or create a new one right there."
 msgstr ""
+"Enquanto estiver em seu pipeline, selecione qualquer oportunidade que você "
+"tem que marcar como lort, você verá um * * Mark Lost * * botão, clicando "
+"em que você tem que selecionar a razão perdida, que pode, em seguida, "
+"selecionar um existente * * razão perdida * * ou criar um novo direito lá."
 
 #: ../../crm/organize_sales/lost_opportunities.rst:30
+#, fuzzy
 msgid ""
 "You will find your **Lost Reasons** under **Configuration / Lost "
-"Reasons**. You can manage the reasons from if you want to better organize"
-" the lost reason."
+"Reasons**. You can manage the reasons from if you want to better organize "
+"the lost reason."
 msgstr ""
+"Você vai encontrar o seu * * razões perdidas * * * * configuração/razões "
+"perdidas * *. Você pode gerenciar as razões de se você quiser organizar "
+"melhor a razão perdida."
 
 #: ../../crm/organize_sales/lost_opportunities.rst:35
+#, fuzzy
 msgid "Retrieve lost opportunities"
-msgstr ""
+msgstr "Recupere oportunidades perdidas"
 
 #: ../../crm/organize_sales/lost_opportunities.rst:37
+#, fuzzy
 msgid ""
-"To retrieve lost opportunities and do actions on them (send an email, "
-"make a feedback call, etc.), select the **Lost** filter in the search "
-"bar."
+"To retrieve lost opportunities and do actions on them (send an email, make "
+"a feedback call, etc.), select the **Lost** filter in the search bar."
 msgstr ""
+"Para recuperar oportunidades perdidas e fazer ações neles (enviar um e-"
+"mail, fazer uma chamada de feedback, etc.), selecione o filtro * * Lost * "
+"* na barra de pesquisa."
 
 #: ../../crm/organize_sales/lost_opportunities.rst:43
+#, fuzzy
 msgid ""
-"You will then see all your lost opportunities. If you want to refine them"
-" further, you can add a filter on the **Lost Reason**."
+"You will then see all your lost opportunities. If you want to refine them "
+"further, you can add a filter on the **Lost Reason**."
 msgstr ""
+"Você verá todas as suas oportunidades perdidas. Se você quiser refiná-los "
+"ainda mais, você pode adicionar um filtro na * * razão perdida * *."
 
 #: ../../crm/organize_sales/lost_opportunities.rst:46
+#, fuzzy
 msgid "For Example, *Too Expensive*."
-msgstr ""
+msgstr "Por exemplo, * muito caro *."
 
 #: ../../crm/organize_sales/lost_opportunities.rst:51
+#, fuzzy
 msgid "Restore lost opportunities"
-msgstr ""
+msgstr "Restaurar oportunidades perdidas"
 
 #: ../../crm/organize_sales/lost_opportunities.rst:53
+#, fuzzy
 msgid ""
 "From the kanban view with the filter(s) in place, you can select any "
 "opportunity you wish and work on it as usual. You can also restore it by "
 "clicking on **Archived**."
 msgstr ""
+"Na visualização Kanban com o (s) filtro (es) no lugar, você pode "
+"selecionar qualquer oportunidade que desejar e trabalhar nela como de "
+"costume. Você também pode restaurá-lo clicando em * * arquivado * *."
 
 #: ../../crm/organize_sales/lost_opportunities.rst:59
+#, fuzzy
 msgid ""
 "You can switch to **List View** select the opportunities you want to "
-"restore, from Action click on Unarchive to restore multiple opportunities"
-" at once."
+"restore, from Action click on Unarchive to restore multiple opportunities "
+"at once."
 msgstr ""
+"Você pode alternar para * * lista de exibição * * selecione as "
+"oportunidades que você deseja restaurar, a partir de ação, clique em "
+"Unarchive para restaurar várias oportunidades de uma só vez."
 
 #: ../../crm/organize_sales/lost_opportunities.rst:67
+#, fuzzy
 msgid ""
-"Access the video at "
-"https://drive.google.com/file/d/1Q_3SkHgHap_a7zUXGTyjDaaYVzotqOxa/preview"
+"Access the video at https://drive.google.com/file/"
+"d/1Q_3SkHgHap_a7zUXGTyjDaaYVzotqOxa/preview"
 msgstr ""
+"Acesse o vídeo em https://drive.google.com/file/"
+"d/1Q_3SkHgHap_a7zUXGTyjDaaYVzotqOxa/preview"
 
 #: ../../crm/organize_sales/multiple_sales_team.rst:7
+#, fuzzy
 msgid "Manage multiple sales teams"
-msgstr ""
+msgstr "Gerencie várias equipes de vendas"
 
 #: ../../crm/organize_sales/multiple_sales_team.rst:9
+#, fuzzy
 msgid ""
 "You can spread your sales activities into the multiple sale teams "
 "depending on the product, service or region, the purpose of setting "
 "different sales team might also be to setup the different sales process "
 "too."
 msgstr ""
+"Você pode espalhar suas atividades das vendas nas equipes múltiplas da "
+"venda dependendo do produto, do serviço ou da região, a finalidade de "
+"ajustar a equipe de vendas diferente pôde igualmente ser setup o processo "
+"de vendas diferente demasiado."
 
 #: ../../crm/organize_sales/multiple_sales_team.rst:17
+#, fuzzy
 msgid ""
 "The company have a different customer segments **retailer** and "
-"**distributors** and they wants to manage through different set of people"
-" as the business rules are different along with the sales tactics."
+"**distributors** and they wants to manage through different set of people "
+"as the business rules are different along with the sales tactics."
 msgstr ""
+"A empresa tem um segmento de clientes diferentes * * varejista * * e * * "
+"distribuidores * * e eles querem gerenciar através de diferentes conjunto "
+"de pessoas como as regras de negócios são diferentes, juntamente com as "
+"táticas de vendas."
 
 #: ../../crm/organize_sales/multiple_sales_team.rst:24
+#, fuzzy
 msgid "Assumed that the **CRM** application is installed."
-msgstr ""
+msgstr "Presume-se que o aplicativo * * CRM * * está instalado."
 
 #: ../../crm/organize_sales/multiple_sales_team.rst:27
+#, fuzzy
 msgid "Create a new sales channel"
-msgstr ""
+msgstr "Criar um novo canal de vendas"
 
 #: ../../crm/organize_sales/multiple_sales_team.rst:29
+#, fuzzy
 msgid ""
-"To create a new **Sales Channel,** goto **Configuration / Sales "
-"Channels** under the **CRM** Application. There you can set an email "
-"alias to it, every message sent to that email address will create a "
-"lead/opportunity under that sale team."
+"To create a new **Sales Channel,** goto **Configuration / Sales Channels** "
+"under the **CRM** Application. There you can set an email alias to it, "
+"every message sent to that email address will create a lead/opportunity "
+"under that sale team."
 msgstr ""
+"Para criar um novo canal de vendas * *, * * goto * * configuração/canais "
+"de vendas * * o aplicativo * * CRM * *. Lá você pode definir um alias de e-"
+"mail para ele, cada mensagem enviada para esse endereço de e-mail irá "
+"criar um Lead/oportunidade essa equipe de venda."
 
 #: ../../crm/organize_sales/multiple_sales_team.rst:39
+#, fuzzy
 msgid ""
 "You can add members to any channel; that way those members will see the "
-"pipeline structure of the sales channel when opening it. Any "
-"lead/opportunity assigned to them will link to the sales channel. "
-"Therefore, you can only be a member of one channel. This will ease the "
-"process review of the team manager."
+"pipeline structure of the sales channel when opening it. Any lead/"
+"opportunity assigned to them will link to the sales channel. Therefore, "
+"you can only be a member of one channel. This will ease the process review "
+"of the team manager."
 msgstr ""
+"Você pode adicionar membros a qualquer canal; dessa forma, esses membros "
+"verão a estrutura do pipeline do canal de vendas ao abri-la. Qualquer Lead/"
+"oportunidade atribuída a eles vinculará ao canal de vendas. Portanto, você "
+"só pode ser um membro de um canal. Isso facilitará a revisão do processo "
+"do gerente de equipe."
 
 #: ../../crm/organize_sales/multiple_sales_team.rst:48
+#, fuzzy
 msgid "Channel specific sales stages"
-msgstr ""
+msgstr "Estágios específicos de vendas do canal"
 
 #: ../../crm/organize_sales/multiple_sales_team.rst:50
+#, fuzzy
 msgid ""
 "To jump to the stages for the specific sales challen goto **Reporting / "
 "Sales Channels** under the **CRM** Application, click on the Pipeline to "
-"see the sales process for the specific sales team. The default stages "
-"will be looking as below."
+"see the sales process for the specific sales team. The default stages will "
+"be looking as below."
 msgstr ""
+"Para saltar para os estágios para o Challen vendas específicas goto * * "
+"Reporting/canais de vendas * * o * * CRM * * aplicação, clique no pipeline "
+"para ver o processo de vendas para a equipe de vendas específicas. Os "
+"estágios padrão estarão procurando como abaixo."
 
 #: ../../crm/organize_sales/multiple_sales_team.rst:57
+#, fuzzy
 msgid ""
 "Click on the **Add new column** to create a new stage in the sales team, "
 "lets create **Qualified Sponsor** stage and drag and drop between the "
 "**Qualified** and **Proposition** stage."
 msgstr ""
+"Clique no botão * * Adicionar nova coluna * * para criar um novo estágio "
+"na equipe de vendas, vamos criar * * patrocinador qualificado * * estágio "
+"e arrastar e soltar entre o * * qualificado * * e * * proposição * * "
+"estágio."
 
 #: ../../crm/organize_sales/multiple_sales_team.rst:63
+#, fuzzy
 msgid ""
 "The stage can be set for the specific team by adding **Team** on the "
-"configuration of that stage. Click on the gear icon to **Edit Stage**, by"
-" default this stage will be available to all the sales channel, when no "
+"configuration of that stage. Click on the gear icon to **Edit Stage**, by "
+"default this stage will be available to all the sales channel, when no "
 "**Team** set on stage."
 msgstr ""
+"O palco pode ser definido para a equipe específica, acrescentando * * Team "
+"* * na configuração desse estágio. Clique no ícone de engrenagem para * * "
+"editar Stage * *, por padrão, esta etapa estará disponível para todo o "
+"canal de vendas, quando nenhuma equipe * * * * definido no palco."
 
 #: ../../crm/organize_sales/multiple_sales_team.rst:71
+#, fuzzy
 msgid "Sales channel dashboard"
-msgstr ""
+msgstr "Painel de canal de vendas"
 
 #: ../../crm/organize_sales/multiple_sales_team.rst:73
+#, fuzzy
 msgid ""
 "To see the operations and results of all the sales channel at a glance, "
 "the sales manager has an access to the **Sales Channel Dashboard** under "
 "**Reporting**."
 msgstr ""
+"Para ver as operações e os resultados de todo o canal de vendas em um "
+"piscar de olhos, o gerente de vendas tem um acesso ao * * painel de canais "
+"de vendas * * * * relatórios * *."
 
 #: ../../crm/organize_sales/multiple_sales_team.rst:79
+#, fuzzy
 msgid ""
-"It is shared with the whole ecosystem so every revenue stream is included"
-" in it: Sales, eCommerce, PoS, etc."
+"It is shared with the whole ecosystem so every revenue stream is included "
+"in it: Sales, eCommerce, PoS, etc."
 msgstr ""
+"Ele é compartilhado com todo o ecossistema para que cada fluxo de receita "
+"é incluído nele: vendas, eCommerce, PoS, etc."
 
 #: ../../crm/organize_sales/multiple_sales_team.rst:83
+#, fuzzy
 msgid "Sales pipe for specific channel"
-msgstr ""
+msgstr "Tubo de vendas para canal específico"
 
 #: ../../crm/organize_sales/multiple_sales_team.rst:85
+#, fuzzy
 msgid ""
 "Click on the **Pipeline** button on sales channel to see the sales pipe "
 "for any specific channel, you will find all of its opportunities related "
 "to that sales channel."
 msgstr ""
+"Clique no botão * * pipeline * * no canal de vendas para ver o pipe de "
+"vendas para qualquer canal específico, você vai encontrar todas as suas "
+"oportunidades relacionadas com esse canal de vendas."
 
 #: ../../crm/organize_sales/multiple_sales_team.rst:91
+#, fuzzy
 msgid ""
 "Lead score is an application which help you to assign the leads to the "
 "respective team members with in team."
 msgstr ""
+"A pontuação de leads é uma aplicação que ajuda você a atribuir os leads "
+"aos respectivos membros da equipe em equipe."
 
 #: ../../crm/organize_sales/plan_activities.rst:8
+#, fuzzy
 msgid "Get organized by planning activities"
-msgstr ""
+msgstr "Organize-se por atividades de planejamento"
 
 #: ../../crm/organize_sales/plan_activities.rst:10
+#, fuzzy
 msgid ""
-"Planning activities is the perfect way to keep on track of your work. Get"
-" reminded of what needs to be done and schedule the next activities to "
+"Planning activities is the perfect way to keep on track of your work. Get "
+"reminded of what needs to be done and schedule the next activities to "
 "undertake."
 msgstr ""
+"Atividades de planejamento é a maneira perfeita de manter o controle de "
+"seu trabalho. Seja lembrado do que precisa ser feito e agendar as próximas "
+"atividades a empreender."
 
 #: ../../crm/organize_sales/plan_activities.rst:14
+#, fuzzy
 msgid ""
 "Your activities are available wherever you are in Odoo. It is easy to "
 "manage the priorities of your work."
 msgstr ""
+"Suas atividades estão disponíveis onde quer que você esteja em Odoo. É "
+"fácil gerir as prioridades do seu trabalho."
 
 #: ../../crm/organize_sales/plan_activities.rst:20
+#, fuzzy
 msgid "Track activities"
-msgstr ""
+msgstr "Acompanhe as atividades"
 
 #: ../../crm/organize_sales/plan_activities.rst:22
+#, fuzzy
 msgid ""
-"Activities can be tracked on every single document, Here is an example "
-"for opportunities:"
+"Activities can be tracked on every single document, Here is an example for "
+"opportunities:"
 msgstr ""
+"As atividades podem ser rastreadas em cada documento, aqui está um exemplo "
+"de oportunidades:"
 
 #: ../../crm/organize_sales/plan_activities.rst:27
+#, fuzzy
 msgid ""
 "You can have a activities which are due, or to be performed today or in "
 "future, this can be tracked on two places, kanban card or below the form "
 "view."
 msgstr ""
+"Você pode ter atividades que são devidas, ou para ser realizada hoje ou no "
+"futuro, isso pode ser rastreado em dois lugares, cartão Kanban ou abaixo "
+"da vista de formulário."
 
 #: ../../crm/organize_sales/plan_activities.rst:34
+#, fuzzy
 msgid "Schedule next activity"
-msgstr ""
+msgstr "Agendar a próxima atividade"
 
 #: ../../crm/organize_sales/plan_activities.rst:36
+#, fuzzy
 msgid ""
-"Activities can be planned and managed from the chatters or from the "
-"kanban views on opportunity card."
+"Activities can be planned and managed from the chatters or from the kanban "
+"views on opportunity card."
 msgstr ""
+"As atividades podem ser planejadas e gerenciadas a partir dos vibra ou das "
+"visualizações Kanban no cartão de oportunidade."
 
 #: ../../crm/organize_sales/plan_activities.rst:41
+#, fuzzy
 msgid ""
 "The first activity can be schedule or new activity can be scheduled as "
 "soon as you complete the first one."
 msgstr ""
+"A primeira atividade pode ser cronograma ou nova atividade pode ser "
+"agendada assim que você concluir o primeiro."
 
 #: ../../crm/organize_sales/plan_activities.rst:45
+#, fuzzy
 msgid "Set your activity types"
-msgstr ""
+msgstr "Definir os tipos de atividade"
 
 #: ../../crm/organize_sales/plan_activities.rst:47
+#, fuzzy
 msgid ""
-"A number of generic activities types are available by default in Odoo "
-"(e.g. call, email, meeting, etc.). If you would like to set new ones, go "
-"to **Settings / General settings / Activity** types."
+"A number of generic activities types are available by default in Odoo (e."
+"g. call, email, meeting, etc.). If you would like to set new ones, go to "
+"**Settings / General settings / Activity** types."
 msgstr ""
+"Um número de tipos de atividades genéricas estão disponíveis por padrão no "
+"Odoo (por exemplo, chamada, e-mail, reunião, etc.). Se você gostaria de "
+"definir novos, vá para * * configurações/configurações gerais/atividade * "
+"* tipos."
 
 #: ../../crm/organize_sales/plan_activities.rst:53
+#, fuzzy
 msgid ""
-"The next activity “\\ *Call*\\ ” will be propose, when you fill finish "
-"the “\\ *Email*\\ ” activity."
+"The next activity “\\ *Call*\\ ” will be propose, when you fill finish the "
+"“\\ *Email*\\ ” activity."
 msgstr ""
+"A próxima atividade \"\\ *Call *\\ \" será propor, quando você preencher "
+"terminar o \"\\ *email*\\ \" atividade."
 
 #: ../../crm/organize_sales/plan_activities.rst:57
+#, fuzzy
 msgid "Schedule meetings"
-msgstr ""
+msgstr "Agendar reuniões"
 
 #: ../../crm/organize_sales/plan_activities.rst:59
+#, fuzzy
 msgid ""
 "Activities are planned for specific days. If you need to set hours, go "
 "with the Meeting activity type. When scheduling one, the calendar will "
 "simply open to let you select a time slot."
 msgstr ""
+"As atividades são planejadas para dias específicos. Se você precisar "
+"definir horas, vá com o tipo de atividade de reunião. Ao programar um, o "
+"calendário abrirá simplesmente para permitir que você selecione um slot de "
+"tempo."
 
 #: ../../crm/organize_sales/plan_activities.rst:65
+#, fuzzy
 msgid "Access the video at https://www.youtube.com/watch?v=zO5u0EjzlkY"
-msgstr ""
+msgstr "Acesse o vídeo em https://www.youtube.com/watch?v=zO5u0EjzlkY"
 
 #: ../../crm/organize_sales/plan_activities.rst:75
+#, fuzzy
 msgid ""
 "Access the video at https://drive.google.com/file/d/1RNEIbZ_Gn-"
 "jGGgWjBxFDbXrOTaGMszmY/preview"
 msgstr ""
-
+"Acesse o vídeo em https://drive.google.com/file/d/1RNEIbZ_Gn-"
+"jGGgWjBxFDbXrOTaGMszmY/preview"
