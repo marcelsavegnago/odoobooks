@@ -3,23 +3,25 @@
 # This file is distributed under the same license as the Odoo package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, 2018.
 #
-#, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: Odoo 12.0\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-11-30 11:27-0200\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
+"PO-Revision-Date: 2019-04-25 02:20-0300\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Generated-By: Babel 2.3.4\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: pt_BR\n"
+"X-Generator: Poedit 2.2.1\n"
 
 #: ../../manufacturing/bom_stock.rst:8
 msgid "Compute stock for the kit product based on the component stock"
 msgstr ""
+"Estoque computacional para o produto kit com base no estoque de componentes"
 
 #: ../../manufacturing/bom_stock.rst:11
 #: ../../manufacturing/factory_location.rst:12
@@ -29,108 +31,132 @@ msgstr ""
 #: ../../manufacturing/subcontractor.rst:182
 #: ../../manufacturing/wooden_mrp.rst:11
 msgid "Video"
-msgstr ""
+msgstr "Vídeo"
 
 #: ../../manufacturing/bom_stock.rst:12
 msgid "Access the video at https://www.youtube.com/watch?v=m7wjxc3Mbck"
-msgstr ""
+msgstr "Acesse o vídeo em https://www.youtube.com/watch?v=m7wjxc3Mbck"
 
 #: ../../manufacturing/factory_location.rst:9
 msgid "How to issue material to factory location to start manufacturing order?"
 msgstr ""
+"Como emitir o material à posição da fábrica para começar a ordem de "
+"fabricação?"
 
 #: ../../manufacturing/factory_location.rst:13
 msgid "Access the video at https://www.youtube.com/watch?v=3MuhLtDM7tM"
-msgstr ""
+msgstr "Acesse o vídeo em https://www.youtube.com/watch?v=3MuhLtDM7tM"
 
 #: ../../manufacturing/index.rst:9
 msgid "Manufacturing"
-msgstr ""
+msgstr "Fabricação"
 
 #: ../../manufacturing/index.rst:12
 msgid "Inventory"
-msgstr ""
+msgstr "Inventário"
 
 #: ../../manufacturing/index.rst:21
 msgid "By-Products"
-msgstr ""
+msgstr "Aplicar impostos padrão sobre produtos ou ordem de venda"
 
 #: ../../manufacturing/index.rst:28
 msgid "Subcontracting"
-msgstr ""
+msgstr "Subcontratação"
 
 #: ../../manufacturing/liquid_product_stock.rst:8
 msgid "Manage stock of liquid products in warehouse (unit vs ml)"
-msgstr ""
+msgstr "Gerenciar estoque de produtos líquidos no armazém (unidade vs ml)"
 
 #: ../../manufacturing/liquid_product_stock.rst:12
 msgid "Access the video at https://www.youtube.com/watch?v=4zIxKotfyw4"
-msgstr ""
+msgstr "Acesse o vídeo em https://www.youtube.com/watch?v=4zIxKotfyw4"
 
 #: ../../manufacturing/subcontracting.rst:8
 msgid "Setup subcontracting in manufacturing process"
-msgstr ""
+msgstr "Subcontratação de configuração no processo de fabricação"
 
 #: ../../manufacturing/subcontracting.rst:9
 #: ../../manufacturing/subcontracting_dropship.rst:9
 msgid ""
-"Most manufacturing companies outsource some part of the job contracting "
-"work to other manufacturing companies to get the best expertise "
-"methodology and resource to produce the world class product (i.e Most "
-"reputed companies smart phones are assembled in China is the best example"
-" of the subcontracting)"
+"Most manufacturing companies outsource some part of the job contracting work "
+"to other manufacturing companies to get the best expertise methodology and "
+"resource to produce the world class product (i.e Most reputed companies smart "
+"phones are assembled in China is the best example of the subcontracting)"
 msgstr ""
+"A maioria das empresas de manufatura terceirizar alguma parte do trabalho de "
+"contratação de trabalho para outras empresas de fabricação para obter a "
+"melhor metodologia de especialização e recursos para produzir o produto de "
+"classe mundial (ou seja, a maioria das empresas de renome telefones "
+"inteligentes são montados na China é o melhor exemplo da subcontratação)"
 
 #: ../../manufacturing/subcontracting.rst:14
 msgid ""
-"In this document we will show you steps to setup the subcontracting "
-"business flow, Issue the raw material to your contractor and get the "
-"semi-finished product which will be consumed later to prepare the final "
-"product in our factory."
+"In this document we will show you steps to setup the subcontracting business "
+"flow, Issue the raw material to your contractor and get the semi-finished "
+"product which will be consumed later to prepare the final product in our "
+"factory."
 msgstr ""
+"Neste documento, mostraremos as etapas para configurar o fluxo de negócios de "
+"subcontratação, emitir a matéria-prima para o seu empreiteiro e obter o "
+"produto semiacabado que será consumido posteriormente para preparar o produto "
+"final em nossa fábrica."
 
 #: ../../manufacturing/subcontracting.rst:18
 msgid ""
-"Let’s take an example of Table, to produce the table we need 1 table top "
-"and table frame, 4 lags and some consumable like bracket and bolt, "
-"assumed that table is laminated by third party contractor where we supply"
-" wood sheet and lamination sheet to prepare the laminated table top."
+"Let’s take an example of Table, to produce the table we need 1 table top and "
+"table frame, 4 lags and some consumable like bracket and bolt, assumed that "
+"table is laminated by third party contractor where we supply wood sheet and "
+"lamination sheet to prepare the laminated table top."
 msgstr ""
+"Vamos dar um exemplo de tabela, para produzir a tabela que precisamos 1 tampo "
+"da mesa e quadro de mesa, 4 GAL e alguns consumíveis como suporte e parafuso, "
+"assumiu que a tabela é laminada por terceiros contratante onde nós fornecemos "
+"folha de madeira e folha de laminação para preparar o laminado tampo da mesa."
 
 #: ../../manufacturing/subcontracting.rst:27
 #: ../../manufacturing/subcontracting_dropship.rst:30
 #: ../../manufacturing/subcontractor.rst:30
 msgid "Configuration"
-msgstr ""
+msgstr "Configuração"
 
 #: ../../manufacturing/subcontracting.rst:28
 #: ../../manufacturing/subcontracting_dropship.rst:31
 msgid ""
-"Install manufacturing, purchase, inventory applications in order to "
-"create the full subcontracting flow."
+"Install manufacturing, purchase, inventory applications in order to create "
+"the full subcontracting flow."
 msgstr ""
+"Instale a manufatura, compra, aplicações do inventário a fim criar o fluxo "
+"completo da subcontratação."
 
 #: ../../manufacturing/subcontracting.rst:32
 #: ../../manufacturing/subcontracting_dropship.rst:35
 msgid "Create location"
-msgstr ""
+msgstr "Criar local"
 
 #: ../../manufacturing/subcontracting.rst:33
 #: ../../manufacturing/subcontracting_dropship.rst:36
 msgid ""
 "By default production is the location where all the manufacturing order "
 "processed, all the material issued from stock location to Production "
-"location, and once production completed the final product pushed back to "
-"the stock location."
+"location, and once production completed the final product pushed back to the "
+"stock location."
 msgstr ""
+"Por padrão a produção é o local onde toda a ordem de produção processada, "
+"todo o material emitido a partir do local do estoque para o local de "
+"produção, e uma vez que a produção completou o produto final empurrado de "
+"volta para o local de ações."
 
 #: ../../manufacturing/subcontracting.rst:37
 #: ../../manufacturing/subcontracting_dropship.rst:40
 msgid ""
-"We need seperate location which is not part of our warehouse, we will "
-"called it subcontracting. It will be easy to track the material issued to"
-" the subcontractor, also we can define reorder level on that location."
+"We need seperate location which is not part of our warehouse, we will called "
+"it subcontracting. It will be easy to track the material issued to the "
+"subcontractor, also we can define reorder level on that location."
 msgstr ""
+"Nós precisamos a posição separada que não é parte de nosso armazém, nós "
+"chamaremos-lhe subcontratação. Será fácil controlar o material emitido ao "
+"subcontratante, igualmente nós podemos definir o nível do reordenar nesse "
+"lugar."
 
 #: ../../manufacturing/subcontracting.rst:41
 #: ../../manufacturing/subcontracting_dropship.rst:44
@@ -138,41 +164,53 @@ msgid ""
 "You can enable the multi location from ``Inventory / Configuration / "
 "Settings``, select Storage Locations and apply the setting."
 msgstr ""
+"Você pode ativar a localização múltipla a partir de ``inventário/configuração/"
+"configurações``, selecione locais de armazenamento e aplicar a configuração."
 
 #: ../../manufacturing/subcontracting.rst:44
 #: ../../manufacturing/subcontracting_dropship.rst:47
 msgid ""
-"To create the location go to ``Inventory / Configuration / Location``, "
-"create an internal location named as Contractor under the WH."
+"To create the location go to ``Inventory / Configuration / Location``, create "
+"an internal location named as Contractor under the WH."
 msgstr ""
+"Para criar o local vá para ``inventário/configuração/local``, crie um local "
+"interno nomeado como empreiteiro o WH."
 
 #: ../../manufacturing/subcontracting.rst:51
 #: ../../manufacturing/subcontracting_dropship.rst:54
 msgid "Enable routes"
-msgstr ""
+msgstr "Ativar rotas"
 
 #: ../../manufacturing/subcontracting.rst:52
 #: ../../manufacturing/subcontracting_dropship.rst:55
 msgid ""
-"Inventory route plays a key role to create the subcontracting flow, using"
-" routes we are able make the custom flow for the inventory, like Issue "
+"Inventory route plays a key role to create the subcontracting flow, using "
+"routes we are able make the custom flow for the inventory, like Issue "
 "material to contractor and receive finished material form contractor."
 msgstr ""
+"A rota do inventário joga um papel chave para criar o fluxo da "
+"subcontratação, usando rotas que nós podemos fazer o fluxo feito encomenda "
+"para o inventário, como o material da edição ao contratante e receber o "
+"contratante material terminado do formulário."
 
 #: ../../manufacturing/subcontracting.rst:56
 #: ../../manufacturing/subcontracting_dropship.rst:59
 msgid ""
-"To create the custom route go to ``Inventory / Configuration / Settings``"
-" and select Multi-Step Routes, Storage Locations will be selected "
-"automatically."
+"To create the custom route go to ``Inventory / Configuration / Settings`` and "
+"select Multi-Step Routes, Storage Locations will be selected automatically."
 msgstr ""
+"Para criar a rota personalizada, vá para ``inventário/configuração/"
+"configurações`` e selecione rotas de várias etapas, os locais de "
+"armazenamento serão selecionados automaticamente."
 
 #: ../../manufacturing/subcontracting.rst:62
 #: ../../manufacturing/subcontracting_dropship.rst:65
 msgid ""
-"Let’s create a two different routes, which can be selectable on the "
-"product routes"
+"Let’s create a two different routes, which can be selectable on the product "
+"routes"
 msgstr ""
+"Vamos criar duas rotas diferentes, que podem ser selecionáveis nas rotas do "
+"produto"
 
 #: ../../manufacturing/subcontracting.rst:64
 #: ../../manufacturing/subcontracting_dropship.rst:67
@@ -180,25 +218,30 @@ msgid ""
 "Material - select this route on the product which can be issued to the "
 "contractor"
 msgstr ""
+"Material-Selecione esta rota no produto que pode ser emitido ao contratante"
 
 #: ../../manufacturing/subcontracting.rst:65
 #: ../../manufacturing/subcontracting_dropship.rst:68
 msgid ""
-"Subcontracting - select this route when you want contractor to be product"
-" and send it to our warehouse (stock location)"
+"Subcontracting - select this route when you want contractor to be product and "
+"send it to our warehouse (stock location)"
 msgstr ""
+"Subcontratação-Selecione esta rota quando você quer que o contratante seja "
+"produto e emita-o a nosso Armazém (posição conservada em estoque)"
 
 #: ../../manufacturing/subcontracting.rst:69
 msgid "Material Route"
-msgstr ""
+msgstr "Rota material"
 
 #: ../../manufacturing/subcontracting.rst:70
 #: ../../manufacturing/subcontracting_dropship.rst:73
 #: ../../manufacturing/subcontracting_dropship.rst:89
 msgid ""
-"Material route, select Product and Product Category under the Applicable "
-"On options."
+"Material route, select Product and Product Category under the Applicable On "
+"options."
 msgstr ""
+"Rota de material, selecione produto e categoria de produto as opções "
+"aplicável em."
 
 #: ../../manufacturing/subcontracting.rst:75
 #: ../../manufacturing/subcontracting_dropship.rst:78
@@ -206,58 +249,76 @@ msgid ""
 "Create a Procurement that applied on the Contractor location and ask our "
 "Stock location to fulfill the requirement by stock transfer."
 msgstr ""
+"Crie um suprimento que seja aplicado no local do empreiteiro e solicite a "
+"nossa localização de estoque para cumprir a exigência por transferência de "
+"estoque."
 
 #: ../../manufacturing/subcontracting.rst:82
 #: ../../manufacturing/subcontracting_dropship.rst:104
 msgid "Subcontracting Route"
-msgstr ""
+msgstr "Rota de subcontratação"
 
 #: ../../manufacturing/subcontracting.rst:83
 #: ../../manufacturing/subcontracting_dropship.rst:105
 msgid ""
-"Same way create second route “Subcontracting” that create a manufacturing"
-" order at contractor location when we need that semi-finished material in"
-" our stock."
+"Same way create second route “Subcontracting” that create a manufacturing "
+"order at contractor location when we need that semi-finished material in our "
+"stock."
 msgstr ""
+"A mesma maneira cria a segunda rota \"subcontratação\" que criam uma ordem de "
+"fabricação na posição do contratante quando nós precisamos esse material "
+"semiacabado em nosso estoque."
 
 #: ../../manufacturing/subcontracting.rst:89
 #: ../../manufacturing/subcontracting_dropship.rst:111
 msgid ""
-"Create a procurement rules that applied on WH/Stock location and ask "
-"WH/Contractor location to fulfil by creating a manufacturing order. This "
-"configuration will create the manufacturing order at Contractor location "
-"and looking for the material at WH/Contractor location and once Tabletop "
-"produced it will be pushed to WH/Stock location."
+"Create a procurement rules that applied on WH/Stock location and ask WH/"
+"Contractor location to fulfil by creating a manufacturing order. This "
+"configuration will create the manufacturing order at Contractor location and "
+"looking for the material at WH/Contractor location and once Tabletop produced "
+"it will be pushed to WH/Stock location."
 msgstr ""
+"Crie uma regra de suprimento aplicada no local de WH/estoque e pergunte ao "
+"local de WH/empreiteiro para cumprir criando uma ordem de produção. Esta "
+"configuração criará a ordem de fabricação na posição do contratante e está "
+"procurando o material na posição do WH/contratante e uma vez que o tabletop o "
+"produziu será empurrado à posição do WH/estoque."
 
 #: ../../manufacturing/subcontracting.rst:98
 #: ../../manufacturing/subcontracting_dropship.rst:120
 msgid ""
 "To separate the contractor’s manufacturing orders form the normal "
-"manufacturing orders you should create a new operation type which will be"
-" appeared on the warehouse dashboard."
+"manufacturing orders you should create a new operation type which will be "
+"appeared on the warehouse dashboard."
 msgstr ""
+"Para separar as ordens de fabricação do empreiteiro formam as ordens de "
+"produção normais, você deve criar um novo tipo de operação que será exibido "
+"no painel do armazém."
 
 #: ../../manufacturing/subcontracting.rst:106
 #: ../../manufacturing/subcontracting_dropship.rst:128
 #: ../../manufacturing/subcontractor.rst:85
 msgid "Products"
-msgstr ""
+msgstr "Aplicar impostos padrão sobre produtos ou ordem de venda"
 
 #: ../../manufacturing/subcontracting.rst:107
 #: ../../manufacturing/subcontracting_dropship.rst:129
 msgid ""
 "Let's create the Tabletop product and select the correct route on this "
 "product, select Subcontracting as this product is manufactured but at "
-"contractor location, we just need to supply them wooden and lamination "
-"sheet."
+"contractor location, we just need to supply them wooden and lamination sheet."
 msgstr ""
+"Vamos criar o produto de mesa e selecione a rota correta sobre este produto, "
+"selecione subcontratação como este produto é fabricado, mas na localização do "
+"contratante, nós só precisamos fornecê-los de madeira e folha de laminação."
 
 #: ../../manufacturing/subcontracting.rst:114
 msgid ""
-"When you create a Wooden and Lamination sheet select the Material and Buy"
-" routs on those products."
+"When you create a Wooden and Lamination sheet select the Material and Buy "
+"routs on those products."
 msgstr ""
+"Quando você cria uma folha de madeira e laminação, selecione o material e "
+"comprar routs nesses produtos."
 
 #: ../../manufacturing/subcontracting.rst:120
 msgid ""
@@ -265,62 +326,80 @@ msgid ""
 "delivery order in our warehouse and when this product required in our "
 "warehouse we will buy it from the vendors."
 msgstr ""
+"Quando estes produtos exigidos na posição do contratante ele criará a ordem "
+"de entrega em nosso armazém e quando este produto exigido em nosso armazém "
+"nós o compraremos dos vendedores."
 
 #: ../../manufacturing/subcontracting.rst:124
 msgid ""
-"Define the vendor under the purchase tab and define the re-order level "
-"for both location WH/Stock and WH/Contractor depending on the needs."
+"Define the vendor under the purchase tab and define the re-order level for "
+"both location WH/Stock and WH/Contractor depending on the needs."
 msgstr ""
+"Defina o fornecedor a aba da compra e defina o nível do re-Order para a "
+"posição WH/Stock e o WH/contratante dependendo das necessidades."
 
 #: ../../manufacturing/subcontracting.rst:127
 #: ../../manufacturing/subcontracting_dropship.rst:153
 msgid ""
-"Define the other raw material such as lags, table frame, bracket and bolt"
-" as stockable and define respective vendors and re-order level for each "
-"products. The bolt can be defined as consumable with the minimum stock "
-"level."
+"Define the other raw material such as lags, table frame, bracket and bolt as "
+"stockable and define respective vendors and re-order level for each products. "
+"The bolt can be defined as consumable with the minimum stock level."
 msgstr ""
+"Definir a outra matéria-prima, como lags, quadro da tabela, suporte e "
+"parafuso como armazenável e definir os respectivos fornecedores e reordenar o "
+"nível para cada produto. O parafuso pode ser definido como consumível com o "
+"nível de estoque mínimo."
 
 #: ../../manufacturing/subcontracting.rst:132
 #: ../../manufacturing/subcontracting_dropship.rst:158
 #: ../../manufacturing/subcontractor.rst:108
 msgid "Bill of Material"
-msgstr ""
+msgstr "Lista de materiais"
 
 #: ../../manufacturing/subcontracting.rst:133
 #: ../../manufacturing/subcontracting_dropship.rst:159
 msgid ""
-"Define two different bill or material one for Tabletop and second for the"
-" Table (final product)."
+"Define two different bill or material one for Tabletop and second for the "
+"Table (final product)."
 msgstr ""
+"Definir duas contas diferentes ou um material para tabletop e segundo para a "
+"tabela (produto final)."
 
 #: ../../manufacturing/subcontracting.rst:139
 #: ../../manufacturing/subcontracting_dropship.rst:165
 msgid ""
-"Once you define the bill of material for Table it will be looking as "
-"below, print the BOM Structure form Print manu on the Table’s bill of "
-"material."
+"Once you define the bill of material for Table it will be looking as below, "
+"print the BOM Structure form Print manu on the Table’s bill of material."
 msgstr ""
+"Uma vez que você definir a lista de materiais para a tabela ele estará "
+"procurando como abaixo, imprimir o formulário de estrutura de BOM imprimir "
+"Manu na lista de materiais da tabela."
 
 #: ../../manufacturing/subcontracting.rst:146
 #: ../../manufacturing/subcontracting_dropship.rst:172
 msgid "Cost Structure"
-msgstr ""
+msgstr "Estrutura de custos"
 
 #: ../../manufacturing/subcontracting.rst:147
 #: ../../manufacturing/subcontracting_dropship.rst:173
 msgid ""
-"Make sure that you have configure the correct cost on each product to "
-"compute the cost of the finished and semi-finished raw material."
+"Make sure that you have configure the correct cost on each product to compute "
+"the cost of the finished and semi-finished raw material."
 msgstr ""
+"Certifique-se de que você configurou o custo correto em cada produto para "
+"calcular o custo da matéria-prima terminada e semiacabada."
 
 #: ../../manufacturing/subcontracting.rst:153
 #: ../../manufacturing/subcontracting_dropship.rst:179
 msgid ""
 "Let’s add a new consumable product on the Table top bill of material to "
-"include the cost of contractor, I have considered that to produce each "
-"table top contractor will charge us $5 as a service and delivery charges."
+"include the cost of contractor, I have considered that to produce each table "
+"top contractor will charge us $5 as a service and delivery charges."
 msgstr ""
+"Vamos adicionar um novo produto consumível na lista de cima da tabela de "
+"material para incluir o custo do contratante, eu considerei que para produzir "
+"cada contratante tabela Top vai cobrar-nos $5 como um serviço e taxas de "
+"entrega."
 
 #: ../../manufacturing/subcontracting.rst:157
 #: ../../manufacturing/subcontracting_dropship.rst:183
@@ -328,28 +407,35 @@ msgid ""
 "I have added that cost to the my Table top bill of material, and cost "
 "computed based on the components and service is not $80."
 msgstr ""
+"Eu adicionei esse custo para a minha lista de topo da tabela de material, e "
+"custo calculado com base nos componentes e serviço não é $80."
 
 #: ../../manufacturing/subcontracting.rst:163
 #: ../../manufacturing/subcontracting_dropship.rst:189
 msgid ""
-"You can also install the Product extension to track sales and purchases "
-"app to compute the cost of the product based on the cost of material "
-"consumed."
+"You can also install the Product extension to track sales and purchases app "
+"to compute the cost of the product based on the cost of material consumed."
 msgstr ""
+"Você também pode instalar a extensão do produto para rastrear vendas e "
+"compras aplicativo para calcular o custo do produto com base no custo do "
+"material consumido."
 
 #: ../../manufacturing/subcontracting.rst:170
 #: ../../manufacturing/subcontracting_dropship.rst:196
 #: ../../manufacturing/subcontractor.rst:121
 msgid "Reorder Rules"
-msgstr ""
+msgstr "Reordenar regras"
 
 #: ../../manufacturing/subcontracting.rst:171
 #: ../../manufacturing/subcontracting_dropship.rst:197
 msgid ""
-"Make sure that you defined the reorder rules for each product "
-"respectively to the locations. The reorder rules have to be defined for "
-"both WH/Stock and WH/Contractor location."
+"Make sure that you defined the reorder rules for each product respectively to "
+"the locations. The reorder rules have to be defined for both WH/Stock and WH/"
+"Contractor location."
 msgstr ""
+"Certifique-se de que você definiu as regras de reordenação para cada produto "
+"respectivamente para os locais. As réguas do reordenar têm que ser definidas "
+"para o WH/estoque e a posição do WH/contratante."
 
 #: ../../manufacturing/subcontracting.rst:178
 #: ../../manufacturing/subcontracting_dropship.rst:204
@@ -357,40 +443,51 @@ msgid ""
 "Run the Scheduler from Inventory application, you should get the first "
 "request for quotation under the Purchase application as below."
 msgstr ""
+"Execute o Agendador de aplicativo de inventário, você deve obter a primeira "
+"solicitação de cotação no aplicativo de compra como abaixo."
 
 #: ../../manufacturing/subcontracting.rst:184
 #: ../../manufacturing/subcontracting_dropship.rst:210
 msgid ""
-"Confirm the purchase and receive the raw material to have the seamless "
-"test for the subcontracting business flow."
+"Confirm the purchase and receive the raw material to have the seamless test "
+"for the subcontracting business flow."
 msgstr ""
+"Confirme a compra e receba a matéria-prima para ter o teste perfeito para o "
+"fluxo de negócios de subcontratação."
 
 #: ../../manufacturing/subcontracting.rst:188
 #: ../../manufacturing/subcontracting_dropship.rst:214
 msgid "Manufacturing order"
-msgstr ""
+msgstr "Ordem de fabricação"
 
 #: ../../manufacturing/subcontracting.rst:189
 #: ../../manufacturing/subcontracting_dropship.rst:215
 msgid ""
 "Everything is setup and now we are ready to test our first manufacturing "
-"order that triggers subcontracting flow. Create the manufacturing order "
-"for 1 Table, save and check on Check Availability button."
+"order that triggers subcontracting flow. Create the manufacturing order for 1 "
+"Table, save and check on Check Availability button."
 msgstr ""
+"Tudo está configurado e agora estamos prontos para testar nossa primeira "
+"ordem de fabricação que aciona o fluxo de subcontratação. Criar a ordem de "
+"produção para 1 tabela, salvar e verificar no botão Verificar disponibilidade."
 
 #: ../../manufacturing/subcontracting.rst:196
 #: ../../manufacturing/subcontracting_dropship.rst:222
 msgid "All the material except Tabletop will be marked as available."
-msgstr ""
+msgstr "Todo o material exceto tabletop será marcado como disponível."
 
 #: ../../manufacturing/subcontracting.rst:198
 #: ../../manufacturing/subcontracting_dropship.rst:224
 msgid ""
-"Go to Inventory application and run the scheduler 2 times, you will "
-"notice after each scheduler run you will see the updates on the "
-"dashboard. First time it will create the manufacturing order at "
-"Subcontracting options and then delivery order on the Delivery operation."
+"Go to Inventory application and run the scheduler 2 times, you will notice "
+"after each scheduler run you will see the updates on the dashboard. First "
+"time it will create the manufacturing order at Subcontracting options and "
+"then delivery order on the Delivery operation."
 msgstr ""
+"Vá para o aplicativo de inventário e executar o Agendador 2 vezes, você vai "
+"notar depois de cada programador executar você verá as atualizações no "
+"painel. Primeira vez que criará a ordem de fabricação em opções de "
+"subcontratação e, em seguida, ordem de entrega na operação de entrega."
 
 #: ../../manufacturing/subcontracting.rst:206
 #: ../../manufacturing/subcontracting_dropship.rst:232
@@ -398,15 +495,21 @@ msgid ""
 "Open the delivery order and process it, as soon as you process the "
 "manufacturing order at Contractor location will be ready to process."
 msgstr ""
+"Abra a ordem de entrega e processe-a, assim que você processa a ordem de "
+"fabricação no local do contratante estará pronto para processar."
 
 #: ../../manufacturing/subcontracting.rst:212
 #: ../../manufacturing/subcontracting_dropship.rst:238
 msgid ""
 "Process and manufacturing the set it mask as done. When contractor’s "
-"manufacturing order processed and mark as done, the Tabletop will be "
-"marked as received in our warehouse and we are ready to process the order"
-" for the Table in our factory."
+"manufacturing order processed and mark as done, the Tabletop will be marked "
+"as received in our warehouse and we are ready to process the order for the "
+"Table in our factory."
 msgstr ""
+"Processo e fabricação do conjunto de máscara como feito. Quando a ordem de "
+"fabricação do contratante processada e marca como feito, o tabletop será "
+"marcado como recebido em nosso armazém e nós estamos prontos para processar a "
+"ordem para a tabela em nossa fábrica."
 
 #: ../../manufacturing/subcontracting.rst:219
 #: ../../manufacturing/subcontracting_dropship.rst:245
@@ -415,163 +518,216 @@ msgid ""
 "clicking on the Mark as Done button. Check the inventory level it has be "
 "looking as below."
 msgstr ""
+"Finalmente produzir a tabela e definir esta ordem de produção como feito, "
+"clicando no botão marcar como feito. Verifique o nível de estoque que ele "
+"está olhando como abaixo."
 
 #: ../../manufacturing/subcontracting.rst:226
 #: ../../manufacturing/subcontracting_dropship.rst:252
 msgid "Contractor Bill"
-msgstr ""
+msgstr "Bill do contratante"
 
 #: ../../manufacturing/subcontracting.rst:227
 #: ../../manufacturing/subcontracting_dropship.rst:253
 msgid "Receive the vendor bill and create it manully."
-msgstr ""
+msgstr "Receber a fatura do fornecedor e criá-la manully."
 
 #: ../../manufacturing/subcontracting.rst:231
 msgid "Access the video at https://www.youtube.com/watch?v=mms3U_2T8Nc"
-msgstr ""
+msgstr "Acesse o vídeo em https://www.youtube.com/watch?v=mms3U_2T8Nc"
 
 #: ../../manufacturing/subcontracting_dropship.rst:8
 msgid "Setup subcontracting in manufacturing process (Dropship Material)"
 msgstr ""
+"Subcontratação de configuração no processo de fabricação (material dropship)"
 
 #: ../../manufacturing/subcontracting_dropship.rst:14
 msgid ""
-"In this document we will show you steps to setup the subcontracting "
-"business flow, Issue some raw material to your contractor from your "
-"warehouse and some raw material ask your vendor to make the direct "
-"delivery to contractor location."
+"In this document we will show you steps to setup the subcontracting business "
+"flow, Issue some raw material to your contractor from your warehouse and some "
+"raw material ask your vendor to make the direct delivery to contractor "
+"location."
 msgstr ""
+"Neste documento, vamos mostrar-lhe as etapas para configurar o fluxo de "
+"negócios de subcontratação, emitir alguma matéria-prima para o seu "
+"empreiteiro de seu armazém e alguma matéria-prima pedir ao seu fornecedor "
+"para fazer a entrega direta para a localização do contratante."
 
 #: ../../manufacturing/subcontracting_dropship.rst:18
 msgid ""
 "Contractor will produce the semi-finished product which will be consumed "
 "later to prepare the final product in our factory."
 msgstr ""
+"O contratante produzirá o produto semiacabado que será consumido mais tarde "
+"para preparar o produto final em nossa fábrica."
 
 #: ../../manufacturing/subcontracting_dropship.rst:21
 msgid ""
-"Let’s take an example of Table, to produce the table we need 1 table top "
-"and table frame, 4 lags and some consumable like bracket and bolt, "
-"assumed that table is laminated by third party contractor where we supply"
-" wood sheet and lamination sheet will be supplied by our vendor directly "
-"to prepare the laminated table top."
+"Let’s take an example of Table, to produce the table we need 1 table top and "
+"table frame, 4 lags and some consumable like bracket and bolt, assumed that "
+"table is laminated by third party contractor where we supply wood sheet and "
+"lamination sheet will be supplied by our vendor directly to prepare the "
+"laminated table top."
 msgstr ""
+"Vamos dar um exemplo de tabela, para produzir a tabela que precisamos 1 tampo "
+"da mesa e quadro de mesa, 4 GAL e alguns consumíveis como suporte e parafuso, "
+"assumiu que a tabela é laminada por terceiros contratante onde nós fornecemos "
+"folha de madeira e folha de laminação será fornecido pelo nosso vend ou "
+"diretamente para preparar o tampo laminado."
 
 #: ../../manufacturing/subcontracting_dropship.rst:72
 msgid "Material Route (Buy and Deliver)"
-msgstr ""
+msgstr "Rota material (compra e entrega)"
 
 #: ../../manufacturing/subcontracting_dropship.rst:84
 msgid ""
-"Material Route (Buy and Deliver) route first check the material at "
-"WH/Stock location and buy when enought stock is not availale."
+"Material Route (Buy and Deliver) route first check the material at WH/Stock "
+"location and buy when enought stock is not availale."
 msgstr ""
+"Rota material (compra e entrega) primeiro verifique o material em WH/Stock "
+"localização e comprar quando o estoque suficiente não é availale."
 
 #: ../../manufacturing/subcontracting_dropship.rst:88
 msgid "Material Route (Dropship)"
-msgstr ""
+msgstr "Rota de material (dropship)"
 
 #: ../../manufacturing/subcontracting_dropship.rst:94
 msgid ""
-"Create a Procurement that perform the Buy opertion when stock or product "
-"is not available at WH/Contractor location."
+"Create a Procurement that perform the Buy opertion when stock or product is "
+"not available at WH/Contractor location."
 msgstr ""
+"Crie um suprimento que realize a operação comprar quando o estoque ou o "
+"produto não estiver disponível no local do WH/empreiteiro."
 
 #: ../../manufacturing/subcontracting_dropship.rst:100
 msgid ""
-"Material Route (Dropship) route first check the material at WH/Stock "
-"location and buy when enought stock is not availale."
+"Material Route (Dropship) route first check the material at WH/Stock location "
+"and buy when enought stock is not availale."
 msgstr ""
+"Rota material (dropship) primeiro verifique o material em WH/Stock "
+"localização e comprar quando o estoque suficiente não é availale."
 
 #: ../../manufacturing/subcontracting_dropship.rst:136
 msgid ""
-"When you create a Wooden sheet select the Material (Buy -> Deliver) and "
-"Buy routes."
+"When you create a Wooden sheet select the Material (Buy -> Deliver) and Buy "
+"routes."
 msgstr ""
+"Quando você cria uma folha de madeira selecione o material (comprar-> "
+"entregar) e comprar rotas."
 
 #: ../../manufacturing/subcontracting_dropship.rst:141
 msgid "When you create a Lamination sheet select the Material (Dropship) route."
 msgstr ""
+"Quando você cria uma folha de laminação, selecione a rota material (dropship)."
 
 #: ../../manufacturing/subcontracting_dropship.rst:146
 msgid ""
-"Depanding on the product routes will be applied, delivery and purchase "
-"order will be create for the Wooden sheet while Lamination sheet will "
-"create the purchase order and direct delivery form vendor location."
+"Depanding on the product routes will be applied, delivery and purchase order "
+"will be create for the Wooden sheet while Lamination sheet will create the "
+"purchase order and direct delivery form vendor location."
 msgstr ""
+"Depanding sobre as rotas de produtos serão aplicados, entrega e ordem de "
+"compra será criar para a folha de madeira, enquanto folha de laminação irá "
+"criar a ordem de compra e entrega direta forma fornecedor local."
 
 #: ../../manufacturing/subcontracting_dropship.rst:150
 msgid ""
-"Define the vendor under the purchase tab and define the re-order level "
-"for location WH/Stock and WH/Contractor depending on the needs."
+"Define the vendor under the purchase tab and define the re-order level for "
+"location WH/Stock and WH/Contractor depending on the needs."
 msgstr ""
+"Defina o fornecedor a aba da compra e defina o nível do re-Order para a "
+"posição WH/Stock e o WH/contratante dependendo das necessidades."
 
 #: ../../manufacturing/subcontracting_dropship.rst:257
 msgid "Access the video at https://www.youtube.com/watch?v=esoHqzckMxI"
-msgstr ""
+msgstr "Acesse o vídeo em https://www.youtube.com/watch?v=esoHqzckMxI"
 
 #: ../../manufacturing/subcontractor.rst:10
 msgid "Subcontracting process for contractors"
-msgstr ""
+msgstr "Processo de subcontratação para empreiteiros"
 
 #: ../../manufacturing/subcontractor.rst:11
 msgid ""
 "Like the we :ref:`setup subcontracting in manufacturing process "
 "<subcontracting>` for companies who outsource the contracting work, the "
-"contractor need the setup at other side, he get the requirement form "
-"factory to perform the some part of the final product. The outsourcing "
-"company send the raw material to build the product and pay for the job "
-"work done."
+"contractor need the setup at other side, he get the requirement form factory "
+"to perform the some part of the final product. The outsourcing company send "
+"the raw material to build the product and pay for the job work done."
 msgstr ""
+"Como o nós: REF: \"subcontratação de instalação no processo de fabricação "
+"<subcontracting>\" para as empresas que terceirizar o trabalho de "
+"contratação, o empreiteiro precisa da configuração no outro lado, ele começa "
+"a fábrica de formulário de exigência para realizar a parte do produto final. "
+"A empresa de terceirização enviar a matéria-prima para construir o produto e "
+"pagar o trabalho feito."
 
 #: ../../manufacturing/subcontractor.rst:17
 msgid ""
-"In this document we will show you steps to setup the subcontracting "
-"business flow for the contractors, get the raw material to and produce "
-"the semi-finished product delivery the product get paid for the job work "
-"done."
+"In this document we will show you steps to setup the subcontracting business "
+"flow for the contractors, get the raw material to and produce the semi-"
+"finished product delivery the product get paid for the job work done."
 msgstr ""
+"Neste documento, vamos mostrar-lhe as etapas para configurar o fluxo de "
+"negócios subcontratação para os contratantes, obter a matéria-prima e "
+"produzir a entrega do produto semiacabado o produto é pago para o trabalho "
+"feito."
 
 #: ../../manufacturing/subcontractor.rst:21
 msgid ""
-"Let’s take an example of Table, to produce the table we need 1 table top "
-"and table frame, 4 lags and some consumable like bracket and bolt, "
-"assumed that tabletop is laminated by third party contractor by us, we "
-"get the wood sheet and lamination sheet to prepare the laminated table "
-"top."
+"Let’s take an example of Table, to produce the table we need 1 table top and "
+"table frame, 4 lags and some consumable like bracket and bolt, assumed that "
+"tabletop is laminated by third party contractor by us, we get the wood sheet "
+"and lamination sheet to prepare the laminated table top."
 msgstr ""
+"Deixe-nos tomar um exemplo da tabela, para produzir a tabela que nós "
+"precisamos 1 parte superior de tabela e quadro da tabela, 4 GAL e algum "
+"consumível como o suporte e o parafuso, supor que o tabletop está laminado "
+"pelo contratante de terceiros por nós, nós começ a folha de madeira e a chapa "
+"da laminação para preparar o laminado d tampo da mesa."
 
 #: ../../manufacturing/subcontractor.rst:31
 msgid ""
 "Install **Sales Management**, **Mathanufacturing** applications, the "
-"**Inventory Management** and **Invoicing** applications will be installed"
-" automatically."
+"**Inventory Management** and **Invoicing** applications will be installed "
+"automatically."
 msgstr ""
+"Instalar **gestão de vendas**, **Mathanufacturing** aplicativos, o "
+"**gerenciamento de estoques** e **os aplicativos de faturamento** serão "
+"instalados automaticamente."
 
 #: ../../manufacturing/subcontractor.rst:35
 msgid "Setup Inventory"
-msgstr ""
+msgstr "Inventário de configuração"
 
 #: ../../manufacturing/subcontractor.rst:36
 msgid ""
-"In order to setup the contractors workflow the multiple warehouse and "
-"some custom routes is required, lets enable them from the **Inventory** "
-"application. Go to ``Inventory / Configuration / Settings`` and activate "
-"the *Multi-Warehouses* and *Multi-Step Routes* the *Storage Locations* "
-"will be selected automatically."
+"In order to setup the contractors workflow the multiple warehouse and some "
+"custom routes is required, lets enable them from the **Inventory** "
+"application. Go to ``Inventory / Configuration / Settings`` and activate the "
+"*Multi-Warehouses* and *Multi-Step Routes* the *Storage Locations* will be "
+"selected automatically."
 msgstr ""
+"A fim setup o fluxo de trabalho dos contratantes o armazém múltiplo e algumas "
+"rotas feitas encomenda são exigidos, deixa-os permitir da aplicação do "
+"**Inventory**. Aceda a ``inventário/configuração/definições`` e ative os "
+"*multi-warehouses* e *multi-step Routes* os * locais de armazenamento * serão "
+"seleccionados automaticamente."
 
 #: ../../manufacturing/subcontractor.rst:45
 msgid "Create Warehouse"
-msgstr ""
+msgstr "Criar armazém"
 
 #: ../../manufacturing/subcontractor.rst:46
 msgid ""
-"In order to separate the internal and outsource manufacturing orders we "
-"need to setup the other warehouse, the default warehouse we will use as "
-"an internal and new warehouse we will setup as a **Factory** where we "
-"will process all the outsourcing orders."
+"In order to separate the internal and outsource manufacturing orders we need "
+"to setup the other warehouse, the default warehouse we will use as an "
+"internal and new warehouse we will setup as a **Factory** where we will "
+"process all the outsourcing orders."
 msgstr ""
+"Para separar as ordens de fabricação internas e terceirizadas, precisamos "
+"configurar o outro armazém, o armazém padrão que usaremos como um armazém "
+"interno e novo, configuraremos como uma **fábrica** onde processaremos todas "
+"as ordens de terceirização."
 
 #: ../../manufacturing/subcontractor.rst:54
 msgid ""
@@ -579,25 +735,35 @@ msgid ""
 "operations for each warehouse. i.e. *Receipts*, *Internal Transfer*, "
 "*Delivery Orders* and *Manufacturing*."
 msgstr ""
+"Você deve obter as operações de inventário 8 no painel de inventário, 4 "
+"operações para cada depósito. ou seja, *recibos*, *transferência interna*, "
+"*ordens de entrega* e *manufatura*."
 
 #: ../../manufacturing/subcontractor.rst:58
 msgid ""
-"Make sure that you keep selected for *Manufacture in this Warehouse* "
-"field on the warehouse."
+"Make sure that you keep selected for *Manufacture in this Warehouse* field on "
+"the warehouse."
 msgstr ""
+"Certifique-se de que você mantenha selecionado para * manufatura neste campo "
+"warehouse * no armazém."
 
 #: ../../manufacturing/subcontractor.rst:62
 msgid "Create Material Route"
-msgstr ""
+msgstr "Criar rota de material"
 
 #: ../../manufacturing/subcontractor.rst:63
 msgid ""
-"The contractor flow is same as the standard manufacturing process, where "
-"we create a manufacturing order and buy the material on demand through "
-"purchase process. In this process we have to ask customer who provide us "
-"the manufacturing job, the material we will get we do not have to pay for"
-" it as it does not come through purchase process."
+"The contractor flow is same as the standard manufacturing process, where we "
+"create a manufacturing order and buy the material on demand through purchase "
+"process. In this process we have to ask customer who provide us the "
+"manufacturing job, the material we will get we do not have to pay for it as "
+"it does not come through purchase process."
 msgstr ""
+"O fluxo do contratante é mesmo que o processo de manufactura padrão, onde nós "
+"criamos uma ordem de fabricação e compramos o material na demanda através do "
+"processo da compra. Neste processo, temos que perguntar ao cliente que nos "
+"fornecer o trabalho de fabricação, o material que vai ficar, não temos que "
+"pagar por isso, pois não vem através do processo de compra."
 
 #: ../../manufacturing/subcontractor.rst:69
 msgid ""
@@ -605,20 +771,26 @@ msgid ""
 "product, which is going to be supplied by the customer along with the "
 "contracting order."
 msgstr ""
+"Criaremos um novo roteiro *material* que deve ser selecionado no produto, que "
+"será fornecido pelo cliente junto com a ordem de contratação."
 
 #: ../../manufacturing/subcontractor.rst:72
 msgid ""
 "Go to ``Inventory / Configuration / Routes``, create a new route called "
 "*Material*"
 msgstr ""
+"Vá para ``inventário/configuração/rotas``, crie uma nova rota chamada "
+"*material*"
 
 #: ../../manufacturing/subcontractor.rst:77
 msgid ""
-"Create a *Procurement Rules* that moves the material from *Vendor "
-"Location* to *Factory Stock* location, select *Factory: Receipts* on "
-"**Operation Type** as an incoming shipment should be created under that "
-"operation."
+"Create a *Procurement Rules* that moves the material from *Vendor Location* "
+"to *Factory Stock* location, select *Factory: Receipts* on **Operation Type** "
+"as an incoming shipment should be created under that operation."
 msgstr ""
+"Criar um *regras de suprimento* que mova o material de *local do fornecedor* "
+"para *local de fábrica*, selecione *fábrica: recibos* em **tipo de operação** "
+"como uma remessa recebida deve ser criada essa operação."
 
 #: ../../manufacturing/subcontractor.rst:86
 msgid ""
@@ -626,96 +798,131 @@ msgid ""
 "select the *Manufacturing* and *Make to Order* routes. The manufacturing "
 "order for the tabletop will be created when we have a job order."
 msgstr ""
+"Vamos criar o produto *tabletop*, é produto *produto* Stockable, selecione as "
+"rotas *Manufacturing* e *Make to Order*. A ordem de fabricação para o "
+"tabletop será criada quando nós tivermos uma ordem do trabalho."
 
 #: ../../manufacturing/subcontractor.rst:93
 msgid ""
-"The **Sales Price** on the *Tabletop* product is actually the cost of the"
-" production and not the cost Tabletop. When we sell the *Tabletop* we "
-"actually sell the job work to produce the *Tabletop*."
+"The **Sales Price** on the *Tabletop* product is actually the cost of the "
+"production and not the cost Tabletop. When we sell the *Tabletop* we actually "
+"sell the job work to produce the *Tabletop*."
 msgstr ""
+"O **preço de venda** no *tabletop* produto é realmente o custo da produção e "
+"não o custo de mesa. Quando nós vendemos o *tabletop* nós vendemos realmente "
+"o trabalho trabalhar para produzir o *tabletop*."
 
 #: ../../manufacturing/subcontractor.rst:97
 msgid ""
-"Set the **Manufacturing Lead Time** to *5* and **Customer Lead Time** to "
-"7. This will used to compute the schedule dates for the manufacturing "
-"order, delivery order."
+"Set the **Manufacturing Lead Time** to *5* and **Customer Lead Time** to 7. "
+"This will used to compute the schedule dates for the manufacturing order, "
+"delivery order."
 msgstr ""
+"Defina o **lead time de produção**  para *5* e **tempo de execução do "
+"cliente** para 7. Isso será usado para calcular as datas de agendamento para "
+"a ordem de produção, ordem de entrega."
 
 #: ../../manufacturing/subcontractor.rst:101
 msgid ""
-"Create a Wooden and Lamination sheet and select the *Material* and *Make "
-"to Order* routes on those products."
+"Create a Wooden and Lamination sheet and select the *Material* and *Make to "
+"Order* routes on those products."
 msgstr ""
+"Crie uma folha de madeira e laminação e selecione as rotas *material* e *Make "
+"to Order* nesses produtos."
 
 #: ../../manufacturing/subcontractor.rst:109
 msgid ""
-"Define the bill or material for *Tabletop*, that consume *Wooden sheet* "
-"and *Laminated sheet* as a raw material."
+"Define the bill or material for *Tabletop*, that consume *Wooden sheet* and "
+"*Laminated sheet* as a raw material."
 msgstr ""
+"Definir o projeto de lei ou material para *tabletop*, que consomem *folha de "
+"madeira* e *laminado folha* como uma matéria-prima."
 
 #: ../../manufacturing/subcontractor.rst:115
 msgid ""
-"During the manufacturing, contractor cares about the cost of the service "
-"and resources such as electricity and manpower and machine. Set the cost "
-"of the material to 0 and add those cost as a consumable product on the "
-"bill of material. At the end of the manufacturing process you will get "
-"the exact cost of the job work."
+"During the manufacturing, contractor cares about the cost of the service and "
+"resources such as electricity and manpower and machine. Set the cost of the "
+"material to 0 and add those cost as a consumable product on the bill of "
+"material. At the end of the manufacturing process you will get the exact cost "
+"of the job work."
 msgstr ""
+"Durante a fabricação, o empreiteiro se preocupa com o custo do serviço e "
+"recursos como eletricidade e mão de obra e máquina. Defina o custo do "
+"material para 0 e adicione esses custos como um produto consumível na lista "
+"de materiais. No final do processo de fabricação você vai ter o custo exato "
+"do trabalho de trabalho."
 
 #: ../../manufacturing/subcontractor.rst:122
 msgid ""
 "We don't need any reorder rules as all the material will be procured on "
 "demand from the customer."
 msgstr ""
+"Nós não precisamos nenhumas réguas do reordenar porque todo o material será "
+"adquirido na demanda do cliente."
 
 #: ../../manufacturing/subcontractor.rst:126
 msgid "Sale Order"
-msgstr ""
+msgstr "Ordem de venda"
 
 #: ../../manufacturing/subcontractor.rst:127
 msgid ""
-"Let's assume that we receive the work order to prepare the 10 *Tabletop* "
-"form *China Export*."
+"Let's assume that we receive the work order to prepare the 10 *Tabletop* form "
+"*China Export*."
 msgstr ""
+"Vamos supor que nós recebemos a ordem de trabalho para preparar o 10 "
+"*tabletop* formulário *China Export*."
 
 #: ../../manufacturing/subcontractor.rst:133
 msgid ""
-"You will find two Delivery attached to the Sales order, one is the actual"
-" delivery order while second it the incoming shipment which ask for the "
+"You will find two Delivery attached to the Sales order, one is the actual "
+"delivery order while second it the incoming shipment which ask for the "
 "material to supply form the customer to build the Tabletop."
 msgstr ""
+"Você encontrará duas entregas anexadas à ordem de venda, uma é a ordem de "
+"entrega real enquanto segundo ele a expedição de entrada que pedem o material "
+"para fornecer o formulário do cliente para construir o tabletop."
 
 #: ../../manufacturing/subcontractor.rst:137
 msgid ""
-"The *Unit price* is the price for the job work to produce for each table."
-" Make sure that you change the **Warehouse** to *Factory* as we process "
-"all the outsourcing work in that warehouse."
+"The *Unit price* is the price for the job work to produce for each table. "
+"Make sure that you change the **Warehouse** to *Factory* as we process all "
+"the outsourcing work in that warehouse."
 msgstr ""
+"O *preço unitário* é o preço para o trabalho de trabalho para produzir para "
+"cada tabela. Certifique-se de que você mude o **warehouse** para *Factory* à "
+"medida que processamos todo o trabalho de terceirização nesse armazém."
 
 #: ../../manufacturing/subcontractor.rst:144
 msgid ""
-"Confirm the order, it creates the *Delivery Order* and *Manufacturing* "
-"order and *Receipts* in the Factory warehouse."
+"Confirm the order, it creates the *Delivery Order* and *Manufacturing* order "
+"and *Receipts* in the Factory warehouse."
 msgstr ""
+"Confirme a ordem, ele cria a *ordem de entrega* e *fabricação* ordem e "
+"*recibos* no armazém de fábrica."
 
 #: ../../manufacturing/subcontractor.rst:151
 msgid "Manufacturing Order"
-msgstr ""
+msgstr "Ordem de Fabricação"
 
 #: ../../manufacturing/subcontractor.rst:152
 msgid ""
-"The sales order creates the delivery order, that triggers manufacturing "
-"order and that triggers reception order. The complete flow is triggered "
-"through Make to order route so you have *SO001* in **Source Document** on"
-" delivery, manufacturing and incoming shipment."
+"The sales order creates the delivery order, that triggers manufacturing order "
+"and that triggers reception order. The complete flow is triggered through "
+"Make to order route so you have *SO001* in **Source Document** on delivery, "
+"manufacturing and incoming shipment."
 msgstr ""
+"A ordem de venda cria a ordem de entrega, que aciona a ordem de produção e "
+"que aciona a ordem de recepção. O fluxo completo é acionado através de make "
+"to Order Route para que você tenha *SO001* em **documento de origem** na "
+"entrega, fabricação e expedição recebida."
 
 #: ../../manufacturing/subcontractor.rst:160
 msgid ""
 "When you have a multiple orders from different customers, manufacturing "
-"orders will be ready to produce only for the customer who supply the "
-"material."
+"orders will be ready to produce only for the customer who supply the material."
 msgstr ""
+"Quando você tem várias ordens de clientes diferentes, as ordens de produção "
+"estarão prontas para produzir apenas para o cliente que fornecer o material."
 
 #: ../../manufacturing/subcontractor.rst:166
 msgid ""
@@ -723,10 +930,13 @@ msgid ""
 "manufacturing order. The delivery order will be ready when manufacturing "
 "order completed."
 msgstr ""
+"Vamos processar a remessa recebida na recepção e processar a ordem de "
+"produção. A ordem de entrega estará pronta quando a ordem de fabricação "
+"terminada."
 
 #: ../../manufacturing/subcontractor.rst:170
 msgid "Job work Invoice"
-msgstr ""
+msgstr "Fatura de trabalho de trabalho"
 
 #: ../../manufacturing/subcontractor.rst:171
 msgid ""
@@ -734,24 +944,29 @@ msgid ""
 "delivery done. Create an invoice and send it to customer, this is the an "
 "invoice for the job work and not for the selling of the Tabletop."
 msgstr ""
+"Você está pronto para preparar o envio da fatura para o trabalho de trabalho "
+"uma vez que a entrega feita. Criar uma fatura e enviá-lo para o cliente, esta "
+"é a factura para o trabalho de trabalho e não para a venda do tabletop."
 
 #: ../../manufacturing/subcontractor.rst:178
 msgid ""
-"You can set the Invoicing Policy on the Tabletop product that takes care "
-"for the invoicing process."
+"You can set the Invoicing Policy on the Tabletop product that takes care for "
+"the invoicing process."
 msgstr ""
+"Você pode definir a política de faturamento no produto tabletop que cuida do "
+"processo de faturamento."
 
 #: ../../manufacturing/subcontractor.rst:183
 msgid "Access the video at https://www.youtube.com/watch?v=JPHB5_DiZfI"
-msgstr ""
+msgstr "Acesse o vídeo em https://www.youtube.com/watch?v=JPHB5_DiZfI"
 
 #: ../../manufacturing/wooden_mrp.rst:8
 msgid ""
-"Wooden, Glass or Plastic sheet consumption during the manufacturing "
-"process"
+"Wooden, Glass or Plastic sheet consumption during the manufacturing process"
 msgstr ""
+"Consumo de madeira, vidro ou plástico da folha durante o processo de "
+"manufactura"
 
 #: ../../manufacturing/wooden_mrp.rst:12
 msgid "Access the video at https://www.youtube.com/watch?v=o-aQaXeQe6A"
-msgstr ""
-
+msgstr "Acesse o vídeo em https://www.youtube.com/watch?v=o-aQaXeQe6A"
