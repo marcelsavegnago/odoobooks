@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: Odoo 12.0\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-11-30 11:27-0200\n"
-"PO-Revision-Date: 2019-04-24 22:52-0300\n"
+"PO-Revision-Date: 2019-04-25 02:28-0300\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -100,7 +100,6 @@ msgstr "Calcule as taxas de envio com base no peso do produto"
 
 #: ../../sales/delivery/delivery_based_on_weight.rst:9
 #: ../../sales/delivery/free_delivery.rst:10
-#, fuzzy
 msgid ""
 "Odoo can handle various delivery methods, but it is not activated by default. "
 "Delivery methods can be used for normal sale of you can also use for your e-"
@@ -112,7 +111,6 @@ msgstr ""
 
 #: ../../sales/delivery/delivery_based_on_weight.rst:12
 #: ../../sales/delivery/free_delivery.rst:13
-#, fuzzy
 msgid ""
 "Delivery methods allow you to manage the transport company, the price and the "
 "destination."
@@ -215,7 +213,6 @@ msgstr "Adicionando o custo de entrega à cotação"
 
 #: ../../sales/delivery/delivery_based_on_weight.rst:54
 #: ../../sales/delivery/free_delivery.rst:50
-#, fuzzy
 msgid ""
 "You can now choose the Delivery Method on your sale order. If you want to "
 "invoice the price of the delivery charge on the sale order, click on Set price, "
@@ -251,7 +248,6 @@ msgstr ""
 "fixo**."
 
 #: ../../sales/delivery/free_delivery.rst:38
-#, fuzzy
 msgid ""
 "If you have a multiple delivery methods having a fixed price, please create a "
 "saparate Delivery Product for each method."
@@ -370,7 +366,6 @@ msgid "Access the video at https://www.youtube.com/watch?v=7bXoYgFEyxc"
 msgstr "Acesse o vídeo em https://www.youtube.com/watch?v=7bXoYgFEyxc"
 
 #: ../../sales/invoicing/pro-forma.rst:8
-#, fuzzy
 msgid "Send Pro-Forma Invoice to your customers"
 msgstr "Enviar fatura pró-forma para seus clientes"
 
@@ -427,7 +422,6 @@ msgid "Business case"
 msgstr "Caso de negócio"
 
 #: ../../sales/pricelist_discount/adapt_price_based_on_customer_location.rst:18
-#, fuzzy
 msgid ""
 "Odoo wants to apply pricing rules for the customer irrespective of the currency "
 "conversion based on the customer location. They divide whole world into three "
@@ -529,7 +523,6 @@ msgid "Pricelist"
 msgstr "Lista de Preço"
 
 #: ../../sales/pricelist_discount/adapt_price_based_on_customer_location.rst:56
-#, fuzzy
 msgid ""
 "To setup the price based on the customer segment or country, you have to enable "
 "the **Multiple Sales Prices per Product** feature available under the **Sales / "
@@ -560,7 +553,6 @@ msgid "|image1|"
 msgstr "|image1|"
 
 #: ../../sales/pricelist_discount/adapt_price_based_on_customer_location.rst:64
-#, fuzzy
 msgid ""
 "To create a new pricelist goto Sales / Catalog / Pricelist, create a three "
 "different pricelist, set the Currency field on each pricelist. Let’s create a "
@@ -593,7 +585,6 @@ msgstr ""
 "**Moeda** e adicione a *Europa* no campo **Grupo de Países**."
 
 #: ../../sales/pricelist_discount/adapt_price_based_on_customer_location.rst:74
-#, fuzzy
 msgid ""
 "The country group is used to assign pricelist automatically when customer is "
 "being created. So, even if your salesman forget to assign pricelist the system "
@@ -610,7 +601,6 @@ msgid "Product"
 msgstr "Produto"
 
 #: ../../sales/pricelist_discount/adapt_price_based_on_customer_location.rst:82
-#, fuzzy
 msgid ""
 "Let’s create the product *Laptop*, goto **Sales / Catalog / Products** to "
 "create the product, enter **Name**, set **Image** and **Sales Price**, the "
@@ -633,7 +623,6 @@ msgid "|image3|"
 msgstr "|image3|"
 
 #: ../../sales/pricelist_discount/adapt_price_based_on_customer_location.rst:89
-#, fuzzy
 msgid ""
 "Select the Pricelist and enter the Price, the price enter is respective of the "
 "currency defined on the pricelist (i.e. in this case we have defined 24 USD and "
@@ -644,7 +633,6 @@ msgstr ""
 "18 EUR)."
 
 #: ../../sales/pricelist_discount/adapt_price_based_on_customer_location.rst:93
-#, fuzzy
 msgid ""
 "You can create a multiple lines for the same pricelist, in case you want to "
 "offer a special price to customers, when they buy more than 1 quantity."
@@ -654,7 +642,6 @@ msgstr ""
 "1 quantidade."
 
 #: ../../sales/pricelist_discount/adapt_price_based_on_customer_location.rst:97
-#, fuzzy
 msgid ""
 "The **Start Date** and **End Date** is used to limit the offer for a specific "
 "dates, assume that you want to offer a special price for the *Christmas* (i.e. "
@@ -737,7 +724,6 @@ msgstr ""
 
 #: ../../sales/pricelist_discount/adapt_price_based_on_customer_location.rst:132
 #: ../../sales/pricelist_discount/adapt_price_based_on_customer_segment.rst:109
-#, fuzzy
 msgid ""
 "Now, a salesman can create quotations quickly regardless of the customer type "
 "and price offered to them, of course a correct pricelist have to be configured "
@@ -753,7 +739,6 @@ msgid "Price based on currency conversion"
 msgstr "Preço baseado na conversão de moeda"
 
 #: ../../sales/pricelist_discount/adapt_price_based_on_customer_location.rst:140
-#, fuzzy
 msgid ""
 "Remove all the lines on the product **Pricing** and set correct **Sales Price** "
 "on the product form."
@@ -766,7 +751,6 @@ msgid "|image6|"
 msgstr "|image6|"
 
 #: ../../sales/pricelist_discount/adapt_price_based_on_customer_location.rst:145
-#, fuzzy
 msgid ""
 "The price defined on the product is respective to the company currency (USD). "
 "Let’s create a quotation for the same customer and see what price will be "
@@ -792,7 +776,6 @@ msgstr ""
 "varejista ou distribuidor)"
 
 #: ../../sales/pricelist_discount/adapt_price_based_on_customer_segment.rst:8
-#, fuzzy
 msgid ""
 "Sales and distribution business works on the margin basics, the percentage of "
 "margin are fixed for the distributors based on their turnover. The MRP of the "
@@ -809,7 +792,6 @@ msgstr ""
 "(varejista e distribuidores)."
 
 #: ../../sales/pricelist_discount/adapt_price_based_on_customer_segment.rst:18
-#, fuzzy
 msgid ""
 "The *My Company* sells the electronic products such as *Computers*, *Laptops*, "
 "and *Printers*, they want to set up the pricing rules for their *Retailer* and "
@@ -900,7 +882,6 @@ msgstr ""
 "caso de negócios."
 
 #: ../../sales/pricelist_discount/adapt_price_based_on_customer_segment.rst:46
-#, fuzzy
 msgid ""
 "To setup the customer segment specific price you have to enable the feature "
 "called **Multiple Sales Prices per Product** available under the **Sales / "
@@ -941,7 +922,6 @@ msgstr ""
 "padrão, se você não quiser colocar o restrição na quantidade de ordem mínima."
 
 #: ../../sales/pricelist_discount/adapt_price_based_on_customer_segment.rst:71
-#, fuzzy
 msgid ""
 "You can create a multiple lines for the same pricelist (i.e. *Distributor "
 "Pricelist*) in case you want to offer a special price to the distributor, when "
@@ -955,7 +935,6 @@ msgstr ""
 "ou mais quantidades)"
 
 #: ../../sales/pricelist_discount/adapt_price_based_on_customer_segment.rst:77
-#, fuzzy
 msgid ""
 "The **Start Date** and **End Date** is used to limit the offer for a specific "
 "dates, assume that you want to offer a special price for the Christmas (i.e. "
@@ -967,7 +946,6 @@ msgstr ""
 "*31/12/2018*)"
 
 #: ../../sales/pricelist_discount/adapt_price_based_on_customer_segment.rst:85
-#, fuzzy
 msgid ""
 "The customers can be defined as a distributor or retailer by setting the "
 "specific pricelist on them. Pricelist can be set on the customer form under the "
@@ -1004,7 +982,6 @@ msgstr ""
 "para mais de *5* quantidade."
 
 #: ../../sales/pricelist_discount/adapt_price_based_on_customer_segment.rst:105
-#, fuzzy
 msgid ""
 "Pricelist can be changed on the quotation after selecting a customer. The "
 "pricelist selected on the quotation have the higher priority over the pricelist "
@@ -1067,7 +1044,6 @@ msgstr ""
 "Configurações**, abaixo da seção **Preço**."
 
 #: ../../sales/pricelist_discount/apply_manual_discount.rst:37
-#, fuzzy
 msgid ""
 "Quotation can be created from **Sales / Order / Quotations**, click on "
 "**CREATE** button to create a new quotation, select customer and add product "
@@ -1093,7 +1069,6 @@ msgstr ""
 "para iPad mini produto na linha de ordem de venda."
 
 #: ../../sales/pricelist_discount/apply_manual_discount.rst:49
-#, fuzzy
 msgid ""
 "The discount should be entered between 0 to 100, it computes discount in "
 "percentage. The price will change automatically when you enter the discount."
@@ -1106,7 +1081,6 @@ msgid "Printing quotation"
 msgstr "Imprimindo cotação"
 
 #: ../../sales/pricelist_discount/apply_manual_discount.rst:58
-#, fuzzy
 msgid ""
 "Discount column will be appeared on the quotation when you have applied "
 "discount on any of the product on quotation. Don’t be surprised if you don’t "
@@ -1152,7 +1126,6 @@ msgstr ""
 "ou clientes e aplicar o desconto manualmente em cada cotação."
 
 #: ../../sales/pricelist_discount/compute_and_apply_discount_from_pricelist.rst:20
-#, fuzzy
 msgid ""
 "The trading company “\\ *My Company*\\ ” manufactures the *Computer Desk* and "
 "selling to their distributors and to retail customers."
@@ -1218,7 +1191,6 @@ msgstr ""
 "opção selecionada por padrão."
 
 #: ../../sales/pricelist_discount/compute_and_apply_discount_from_pricelist.rst:53
-#, fuzzy
 msgid ""
 "Let’s create a *Distributor Pricelist,* the Public Pricelist available as a "
 "default, the pricelist can be accessed from **Sales / Catalog / Pricelists**. "
@@ -1232,7 +1204,6 @@ msgstr ""
 "preço e desconto público ao cliente *."
 
 #: ../../sales/pricelist_discount/compute_and_apply_discount_from_pricelist.rst:61
-#, fuzzy
 msgid ""
 "The discount policy decides, whether the discount will be computed based on the "
 "pricelist and will be visible to customer on quotation or not. When you choose "
@@ -1245,7 +1216,6 @@ msgstr ""
 "desconto (%) e o desconto não será visível ao cliente na citação."
 
 #: ../../sales/pricelist_discount/compute_and_apply_discount_from_pricelist.rst:67
-#, fuzzy
 msgid ""
 "The *Discount included in the price* option can be used to apply the price "
 "variation such as commodity price, it may decrease or increased."
@@ -1258,7 +1228,6 @@ msgid "Create a product"
 msgstr "Criar um produto"
 
 #: ../../sales/pricelist_discount/compute_and_apply_discount_from_pricelist.rst:74
-#, fuzzy
 msgid ""
 "Let’s create the product and define the pricing rules so depending on the "
 "customer the price will be applied automatically. The **Pricing** rules can be "
@@ -1293,7 +1262,6 @@ msgstr ""
 "*Computer Desk a eles a um preço especial."
 
 #: ../../sales/pricelist_discount/compute_and_apply_discount_from_pricelist.rst:93
-#, fuzzy
 msgid ""
 "To define this customer as a distributor, select the *Distributor Pricelist "
 "(USD)* in **Sales Pricelist** field available under the **Sales & Purchase** "
@@ -1314,15 +1282,12 @@ msgid ""
 msgstr ""
 
 #: ../../sales/pricelist_discount/compute_and_apply_discount_from_pricelist.rst:110
-#, fuzzy, python-format
+#, python-format
 msgid ""
 "The 30% is computed based on the difference between price offered to "
 "distributors and the product **Sales Price**. *I.e. 3200 - 2240 = 960 which is "
 "30% of the 3200 price*."
 msgstr ""
-"O 30% é calculado com base na diferença entre o preço oferecido aos "
-"distribuidores e o produto **Preço de venda**. *I.e. 3200-2240 = 960 que é de "
-"30% do preço 3200*."
 
 #: ../../sales/pricelist_discount/compute_and_apply_discount_from_pricelist.rst:116
 msgid "Access the video at https://www.youtube.com/watch?v=W1rD3cnD9lw"
@@ -1359,7 +1324,6 @@ msgid "Apply default taxes on products or sales order"
 msgstr "Aplicar impostos padrão sobre produtos ou ordem de venda"
 
 #: ../../sales/quotation/apply_default_tax.rst:9
-#, fuzzy
 msgid ""
 "Taxes applied in your country are installed automatically for most "
 "localizations. Default taxes set in orders and invoices come from each "
@@ -1391,7 +1355,6 @@ msgid "Create new product"
 msgstr "Criar um novo produto"
 
 #: ../../sales/quotation/apply_default_tax.rst:31
-#, fuzzy
 msgid ""
 "Let’s create a new product, the default tax which was applied should be applied "
 "on this product."
@@ -1404,7 +1367,6 @@ msgid "Create sales order"
 msgstr "Criar ordens de venda"
 
 #: ../../sales/quotation/apply_default_tax.rst:39
-#, fuzzy
 msgid ""
 "Let’s create a new order and select the same product on the order line, the tax "
 "which was set on the products should be applied on the sales order line tax "
@@ -1415,7 +1377,6 @@ msgstr ""
 "linha de ordem de venda."
 
 #: ../../sales/quotation/apply_default_tax.rst:45
-#, fuzzy
 msgid ""
 "Now, your salesman do not have to remember that what taxes to be applied on "
 "which product."
@@ -1451,7 +1412,6 @@ msgstr ""
 "legal será impresso com o mesmo layout."
 
 #: ../../sales/quotation/change_your_quotation_layout.rst:23
-#, fuzzy
 msgid ""
 "The quotation layout can be changed from the **Settings / General Settings** "
 "under the **Document Template** section you can change the document layout."
@@ -1499,7 +1459,6 @@ msgid "Compute margin on sale order"
 msgstr "Calcular margem na ordem de venda"
 
 #: ../../sales/quotation/compute_sales_margin.rst:9
-#, fuzzy
 msgid ""
 "Some business wants the realtime computation of the margins so that sales "
 "manager or person can propose the best price to the customer."
@@ -1520,7 +1479,6 @@ msgid "Install the **Sales Management** application."
 msgstr "Instale o aplicativo **Gerenciamento de Vendas**."
 
 #: ../../sales/quotation/compute_sales_margin.rst:23
-#, fuzzy
 msgid ""
 "If you want to check Margin feature for *Average Cost (AVCO)* install "
 "**Purchase Management**. Installation of sales and purchase will install other "
@@ -1590,7 +1548,6 @@ msgstr ""
 "base na diferença para cada linha na ordem de venda."
 
 #: ../../sales/quotation/compute_sales_margin.rst:63
-#, fuzzy
 msgid ""
 "Now, it will be easy for the sales manager to check what's the margin on "
 "quotation. For **SO004** it is 25%, its a good deal to go with, let's move "
@@ -1609,7 +1566,6 @@ msgid "Create your first quotation"
 msgstr "Crie sua primeira cotação"
 
 #: ../../sales/quotation/create_my_first_quotation.rst:8
-#, fuzzy
 msgid ""
 "Quotations are documents sent to prospects to offer an estimated price for a "
 "particular set of products or services. The prospects can accept the quotation, "
@@ -1678,7 +1634,6 @@ msgid "Create your quotation"
 msgstr "Criar sua cotação"
 
 #: ../../sales/quotation/create_my_first_quotation.rst:47
-#, fuzzy
 msgid ""
 "To create your first quotation, go to **Sales / Quotations** and click on "
 "**CREATE**. Then, complete your quotation as follows:"
@@ -1712,7 +1667,7 @@ msgstr ""
 "**Quantidade Ordenada** e o **Desconto** se aplicável."
 
 #: ../../sales/quotation/create_my_first_quotation.rst:64
-#, fuzzy, python-format
+#, python-format
 msgid ""
 "To apply 5% discount enter 5 in the **Discount (%)**. The discount should be "
 "entered between 0 to 100, it computes discount in percentage."
@@ -1721,7 +1676,6 @@ msgstr ""
 "inserido entre 0 a 100, ele calcula o desconto em porcentagem."
 
 #: ../../sales/quotation/create_my_first_quotation.rst:67
-#, fuzzy
 msgid ""
 "If you don’t have any customer or product created before on your Odoo instance "
 "yet, you can create them on the fly directly from your quotations:"
@@ -1730,7 +1684,6 @@ msgstr ""
 "do Odoo, poderá criá-los diretamente de suas cotações:"
 
 #: ../../sales/quotation/create_my_first_quotation.rst:74
-#, fuzzy
 msgid "To add a new customer, click on the **Customer** drop-down menu and"
 msgstr "Para adicionar um novo cliente, clique no menu suspenso **Cliente** e"
 
@@ -1745,7 +1698,6 @@ msgstr ""
 "pessoa de contato."
 
 #: ../../sales/quotation/create_my_first_quotation.rst:80
-#, fuzzy
 msgid "To add a new product, under **Order Line**, click on **Add an item**,"
 msgstr ""
 "Para adicionar um novo produto, em **Linha da Ordem**, clique em **Adicionar um "
@@ -1767,7 +1719,6 @@ msgid "Taxes"
 msgstr "Impostos"
 
 #: ../../sales/quotation/create_my_first_quotation.rst:85
-#, fuzzy
 msgid ""
 "To parameter taxes, simply go on the **Taxes** field of the order line and "
 "click on **Create and Edit**. Fill in the details (for example if you are "
@@ -1784,7 +1735,6 @@ msgid "Terms and conditions"
 msgstr "Termos e Condições"
 
 #: ../../sales/quotation/create_my_first_quotation.rst:95
-#, fuzzy
 msgid ""
 "You can select the expiration date of your quotation and add your company’s "
 "terms and conditions directly in your quotation (see picture below)."
@@ -1797,7 +1747,6 @@ msgid "Preview quotation"
 msgstr "Visualização da cotação"
 
 #: ../../sales/quotation/create_my_first_quotation.rst:102
-#, fuzzy
 msgid ""
 "You can check the quotation before you send to the customer by email, click on "
 "the **PRINT** button (upper left corner). You will see the popup window that "
@@ -1820,7 +1769,6 @@ msgstr ""
 "novamente, você receberá a versão em PDF imprimível de sua cotação."
 
 #: ../../sales/quotation/create_my_first_quotation.rst:114
-#, fuzzy
 msgid ""
 "Update your company’s details (address, website, logo, etc) can be changed "
 "later by clicking on the link **Change Document Template** under the "
@@ -1835,7 +1783,6 @@ msgid "Access the video at https://www.youtube.com/watch?v=OTfJhgRTPVw"
 msgstr "Acesse o vídeo em https://www.youtube.com/watch?v=OTfJhgRTPVw"
 
 #: ../../sales/quotation/sections_on_sales_orders.rst:6
-#, fuzzy
 msgid ""
 "Sections on sales orders, sort products in sections with subtotals and page-"
 "breaks"
@@ -1844,7 +1791,6 @@ msgstr ""
 "quebras de página"
 
 #: ../../sales/quotation/sections_on_sales_orders.rst:8
-#, fuzzy
 msgid ""
 "Some business who delivers products and services, they need to prepare a "
 "quotation that differentiate the products based on Service and Material part. "
@@ -1872,7 +1818,6 @@ msgstr ""
 "Presume-se que o aplicativo de **Gerenciamento de Vendas** está instalado."
 
 #: ../../sales/quotation/sections_on_sales_orders.rst:26
-#, fuzzy
 msgid "Sections on sales orders"
 msgstr "Seções sobre ordens de venda"
 
@@ -1891,7 +1836,6 @@ msgid "Configure the sections"
 msgstr "Configurar as secções"
 
 #: ../../sales/quotation/sections_on_sales_orders.rst:37
-#, fuzzy
 msgid ""
 "The two sections *Service* and *Material* are available by default, you can "
 "configure those sections from **Sales / Configuration / Report Layout "
@@ -1902,7 +1846,6 @@ msgstr ""
 "relatório**."
 
 #: ../../sales/quotation/sections_on_sales_orders.rst:43
-#, fuzzy
 msgid ""
 "There are 4 parameters available which can configure each section, that decided "
 "how section will be printed on reports."
@@ -1929,7 +1872,6 @@ msgstr ""
 "página, o"
 
 #: ../../sales/quotation/sections_on_sales_orders.rst:52
-#, fuzzy
 msgid ""
 "next section will be printed on the next page. Uncheck **Add pagebreak** in "
 "*Service* section, if you would like to see all the section on single page."
@@ -1965,7 +1907,6 @@ msgid "Print sales order"
 msgstr "Imprimir ordem de venda"
 
 #: ../../sales/quotation/sections_on_sales_orders.rst:71
-#, fuzzy
 msgid ""
 "You are ready to print your sales order by sections with subtotals for each "
 "sections."
@@ -1983,7 +1924,6 @@ msgid "Send quotation by email"
 msgstr "Enviar cotação por e-mail"
 
 #: ../../sales/quotation/send_quotation_by_email.rst:8
-#, fuzzy
 msgid ""
 "Quotations are documents sent to customers to offer an estimated price for a "
 "particular set of goods or services. The customer can accept the quotation, in "
@@ -2015,7 +1955,6 @@ msgstr ""
 "visualizar e iniciar a negociação na cotação."
 
 #: ../../sales/quotation/send_quotation_by_email.rst:27
-#, fuzzy
 msgid ""
 "You don’t need any configuration when you are using Odoo online. Email feature "
 "is already configure and working out-of-the-box on Odoo online platform."
@@ -2035,7 +1974,6 @@ msgstr ""
 "servidores de e-mail de entrada e saída."
 
 #: ../../sales/quotation/send_quotation_by_email.rst:37
-#, fuzzy
 msgid ""
 "Tip: If you configure only Outgoing Email Servers you will be able to send the "
 "quotation but not receive any feedback from prospects through email"
@@ -2129,7 +2067,6 @@ msgstr ""
 "termos e condições são aceitos pelo cliente no momento da aceitação da cotação."
 
 #: ../../sales/quotation/set_default_terms_and_conditions.rst:12
-#, fuzzy
 msgid ""
 "The most common terms and conditions includes the payment terms, delivery date, "
 "and tax clarification, there are many other points as below can be included in "
@@ -2236,7 +2173,6 @@ msgstr ""
 "que a cotação está vazia, mas os termos e condições padrão são definidos nele."
 
 #: ../../sales/quotation/set_default_terms_and_conditions.rst:78
-#, fuzzy
 msgid ""
 "The salesman can make the changes as per the requirement but you can be sure "
 "that salesman will never forget to add the default terms and conditions."
@@ -2246,7 +2182,6 @@ msgstr ""
 "defeito."
 
 #: ../../sales/quotation/set_default_terms_and_conditions.rst:82
-#, fuzzy
 msgid ""
 "The payment terms will be added automatically at the end of every quotation as "
 "a part of the terms and conditions in the printed quotation if any."
@@ -2263,7 +2198,6 @@ msgid "Increase your sales with suggested products"
 msgstr "Aumente suas vendas com produtos sugeridos"
 
 #: ../../sales/quotation_template/increase_your_sales_with_suggested_products.rst:8
-#, fuzzy
 msgid ""
 "The use of suggested products is an attempt to offer related and useful "
 "products to your client. For instance, a client purchasing a cell phone could "
@@ -2297,7 +2231,6 @@ msgid "Suggested products"
 msgstr "Produtos sugeridos"
 
 #: ../../sales/quotation_template/increase_your_sales_with_suggested_products.rst:29
-#, fuzzy
 msgid ""
 "Open the Offshore Project quotation template, add the product(s) under the "
 "**Suggested Product** tab on quotation template. In our case let’s add the "
@@ -2312,7 +2245,6 @@ msgid "Send the quotation"
 msgstr "Enviar a cotação"
 
 #: ../../sales/quotation_template/increase_your_sales_with_suggested_products.rst:38
-#, fuzzy
 msgid ""
 "Prepare and send the quotation to customer by email. Customer can see the "
 "quotation a full product or service detailed specification along with the "
@@ -2328,13 +2260,11 @@ msgstr ""
 "cotação on-line."
 
 #: ../../sales/quotation_template/online_customer_approval_and_payment_on_quotation.rst:6
-#, fuzzy
 msgid "Online customer approval and payment on quotation"
 msgstr "Aprovação de clientes on-line e pagamento por cotação"
 
 #: ../../sales/quotation_template/online_customer_approval_and_payment_on_quotation.rst:8
 #: ../../sales/quotation_template/online_customer_approval_on_quotation.rst:8
-#, fuzzy
 msgid ""
 "Sending an online quotation can speed up the negotiation process, customer can "
 "negotiate and approve the quotation online, this can boost up your sales "
@@ -2355,7 +2285,6 @@ msgstr ""
 "aprovação da cotação."
 
 #: ../../sales/quotation_template/online_customer_approval_and_payment_on_quotation.rst:19
-#, fuzzy
 msgid ""
 "The service company who is selling the *Support pack* which is service offered "
 "at fixed price. As soon as customer make the online payment, they can start "
@@ -2383,7 +2312,6 @@ msgid "Online payment"
 msgstr "Pagamento online"
 
 #: ../../sales/quotation_template/online_customer_approval_and_payment_on_quotation.rst:34
-#, fuzzy
 msgid ""
 "The **Confirmation Mode** on the quotation template available on the "
 "**Configuration** tab is set to *Online Signature* by default, change it to "
@@ -2457,7 +2385,6 @@ msgstr ""
 
 #: ../../sales/quotation_template/online_customer_approval_and_payment_on_quotation.rst:73
 #: ../../sales/quotation_template/online_customer_approval_on_quotation.rst:46
-#, fuzzy
 msgid ""
 "You can change the **Confirmation Mode** for each quotation regardless of the "
 "configuration on quotation template."
@@ -2470,7 +2397,6 @@ msgid "Accept and pay online"
 msgstr "Aceitar e pagar online"
 
 #: ../../sales/quotation_template/online_customer_approval_and_payment_on_quotation.rst:79
-#, fuzzy
 msgid ""
 "Customer can review the quotation online, once it suite their need that can "
 "accept the quotation by clicking on the **Accept Order** and make the online "
@@ -2481,7 +2407,6 @@ msgstr ""
 "line sobre a cotação."
 
 #: ../../sales/quotation_template/online_customer_approval_and_payment_on_quotation.rst:85
-#, fuzzy
 msgid ""
 "The quotation accepted and paid by the customer online will convert quotation "
 "to sales order in backend."
@@ -2513,7 +2438,6 @@ msgstr ""
 "a cotação por e-mail."
 
 #: ../../sales/quotation_template/online_customer_approval_and_payment_on_quotation.rst:98
-#, fuzzy
 msgid ""
 "The quotation converted to sales order and It will automatically triggers the "
 "next business process in backend such as creating a delivery order, "
@@ -2526,7 +2450,6 @@ msgstr ""
 "dependendo da sua configuração."
 
 #: ../../sales/quotation_template/online_customer_approval_and_payment_on_quotation.rst:105
-#, fuzzy
 msgid ""
 "The Transaction is attached to the confirmed sales order, you can click on the "
 "transaction and get the status and reference about the online payment made by "
@@ -2546,7 +2469,6 @@ msgstr "Rejeitar cotação"
 
 #: ../../sales/quotation_template/online_customer_approval_and_payment_on_quotation.rst:116
 #: ../../sales/quotation_template/online_customer_approval_on_quotation.rst:73
-#, fuzzy
 msgid ""
 "The quotation will be set to **Cancelled** state in the backend once it has "
 "been rejected by the customer online, however it can be reset to draft modified "
@@ -2566,7 +2488,6 @@ msgid "Online customer approval on quotation"
 msgstr "Aprovação on-line do cliente na cotação"
 
 #: ../../sales/quotation_template/online_customer_approval_on_quotation.rst:15
-#, fuzzy
 msgid ""
 "The service company who is selling the *Support pack* which is service offered "
 "at fixed price. As soon as customer accept the proposal, customer can start "
@@ -2585,7 +2506,6 @@ msgid "Online signature"
 msgstr "Assinatura online"
 
 #: ../../sales/quotation_template/online_customer_approval_on_quotation.rst:30
-#, fuzzy
 msgid ""
 "The **Confirmation Mode** on the quotation template available on the "
 "**Confirmation** tab is set to *Online Signature* by default. The customer can "
@@ -2613,7 +2533,6 @@ msgid "Accept quotation"
 msgstr "Aceitar cotação"
 
 #: ../../sales/quotation_template/online_customer_approval_on_quotation.rst:52
-#, fuzzy
 msgid ""
 "Customer can review the quotation online, once it suits his/her need than he/"
 "she can accept the quotation by clicking on the **Accept Order** and signing "
@@ -2624,7 +2543,6 @@ msgstr ""
 "assinando a cotação on-line."
 
 #: ../../sales/quotation_template/online_customer_approval_on_quotation.rst:58
-#, fuzzy
 msgid ""
 "The quotation accepted and signed by the customer will be confirmed and "
 "converted to sales order in backend. It will automatically triggers the next "
@@ -2639,7 +2557,6 @@ msgstr ""
 "configuração."
 
 #: ../../sales/quotation_template/online_customer_approval_on_quotation.rst:64
-#, fuzzy
 msgid ""
 "Customer can accept and sign online quotation which are not expired yet. The "
 "expiration date will be computed on quotation based on the number of days "
@@ -2662,7 +2579,6 @@ msgid "Create quick quotation using quotation template"
 msgstr "Criar cotação rápida usando o modelo de cotação"
 
 #: ../../sales/quotation_template/quick_create_quotation_using_quotation_template.rst:8
-#, fuzzy
 msgid ""
 "If you often sell the same products or services, you can save a lot of time by "
 "creating standard quotation templates. By using a quotation template you can "
@@ -2673,7 +2589,6 @@ msgstr ""
 "pode enviar uma cotação completa em nenhum momento."
 
 #: ../../sales/quotation_template/quick_create_quotation_using_quotation_template.rst:15
-#, fuzzy
 msgid ""
 "The service company who is selling the offshore projects to their customers "
 "with standard set of service products such as Project manager days, Developer "
@@ -2696,7 +2611,6 @@ msgid "Quotation template"
 msgstr "Modelo de cotação"
 
 #: ../../sales/quotation_template/quick_create_quotation_using_quotation_template.rst:29
-#, fuzzy
 msgid ""
 "Quotation template is a great feature that allows user to create offers with "
 "group of products those are sold together."
@@ -2733,7 +2647,6 @@ msgid "Create your quotation template"
 msgstr "Criar seu modelo de cotação"
 
 #: ../../sales/quotation_template/quick_create_quotation_using_quotation_template.rst:49
-#, fuzzy
 msgid ""
 "The quotation templates can be found under **Sales / Configuration / Quotation "
 "Template**, create or edit an existing template. Enter the appropriate name of "
@@ -2746,7 +2659,6 @@ msgstr ""
 "como o tempo de expiração para a cotação."
 
 #: ../../sales/quotation_template/quick_create_quotation_using_quotation_template.rst:56
-#, fuzzy
 msgid ""
 "You can also specify discount,if discount option is activated in the Sales "
 "settings."
@@ -2755,7 +2667,6 @@ msgstr ""
 "configurações de vendas."
 
 #: ../../sales/quotation_template/quick_create_quotation_using_quotation_template.rst:59
-#, fuzzy
 msgid ""
 "You can edit the customer interface of the template that they see to accept or "
 "pay the quotation. This lets you describe your company, services and products. "
@@ -2768,7 +2679,6 @@ msgstr ""
 "editor de modelo de cotação."
 
 #: ../../sales/quotation_template/quick_create_quotation_using_quotation_template.rst:66
-#, fuzzy
 msgid ""
 "The quotation template editor lets you edit the description content thanks to "
 "drag & drop of building blocks. To describe your products add a content block "
@@ -2779,7 +2689,6 @@ msgstr ""
 "produtos, adicione um bloco de conteúdo na zona dedicada a cada produto."
 
 #: ../../sales/quotation_template/quick_create_quotation_using_quotation_template.rst:70
-#, fuzzy
 msgid ""
 "The description set for the products will be used in all quotations templates "
 "containing those products."
@@ -2788,7 +2697,6 @@ msgstr ""
 "Cotações que contenham esses produtos."
 
 #: ../../sales/quotation_template/quick_create_quotation_using_quotation_template.rst:76
-#, fuzzy
 msgid ""
 "When creating a quotation, you have to select a template, product in that "
 "template will be added to your quotation."
@@ -2797,7 +2705,6 @@ msgstr ""
 "será adicionado à sua cotação."
 
 #: ../../sales/quotation_template/quick_create_quotation_using_quotation_template.rst:81
-#, fuzzy
 msgid ""
 "You can select a template to be suggested by default in the Sales settings."
 msgstr ""
@@ -2805,7 +2712,6 @@ msgstr ""
 "vendas."
 
 #: ../../sales/quotation_template/quick_create_quotation_using_quotation_template.rst:87
-#, fuzzy
 msgid ""
 "You have to send the quotation by email, so that the quotation can be viewed, "
 "accept or reject or paid online by the customer."
@@ -2830,7 +2736,6 @@ msgstr ""
 "cotação ajudam o vendedor a entender o interesse do cliente na cotação."
 
 #: ../../sales/quotation_template/quick_create_quotation_using_quotation_template.rst:101
-#, fuzzy
 msgid ""
 "Please remove the attached quotation (pdf file) at the time sending quotation "
 "by mail, if you want your customer should open the quotation preview."
@@ -2857,7 +2762,6 @@ msgid "Create an invoice at milestone completion for a project"
 msgstr "Criar uma fatura na conclusão do marco para um projeto"
 
 #: ../../sales/service/invoice_milestones.rst:10
-#, fuzzy
 msgid ""
 "There are different kind of service sales: prepaid volume of hours/days (e.g. "
 "support contract), billing based on time and material (e.g. billing consulting "
@@ -2869,7 +2773,6 @@ msgstr ""
 "(por exemplo, um projeto)."
 
 #: ../../sales/service/invoice_milestones.rst:14
-#, fuzzy
 msgid ""
 "Milestone invoicing can be used for expensive or large scale projects, with "
 "each milestone representing a clear sequence of work that will incrementally "
@@ -2912,7 +2815,7 @@ msgstr ""
 "pagar em várias vezes."
 
 #: ../../sales/service/invoice_milestones.rst:31
-#, fuzzy, python-format
+#, python-format
 msgid ""
 "You can also use milestones to invoice percentages of the entire project. For "
 "example, for a million euros project, your company might require a 15% upfront "
@@ -2933,7 +2836,6 @@ msgstr ""
 "Sales, no ícone aplicativos."
 
 #: ../../sales/service/invoice_milestones.rst:41
-#, fuzzy
 msgid ""
 "In Odoo, each milestone of your project is considered as a product. From the "
 "Sales application, use the menu Sales ‣ Products, create a new product with the "
@@ -2960,7 +2862,6 @@ msgstr ""
 "marco depois de ter sido entregue"
 
 #: ../../sales/service/invoice_milestones.rst:49
-#, fuzzy
 msgid ""
 "Track Service: Manually set quantities on order, as you complete each "
 "milestone, you will manually update their quantity from the Delivered tab on "
@@ -2979,7 +2880,6 @@ msgid "Quotations and sale orders"
 msgstr "Cotações e ordens de venda"
 
 #: ../../sales/service/invoice_milestones.rst:61
-#, fuzzy
 msgid ""
 "Now that your milestones (or products) are created, you can create a quotation "
 "or a sale order with each line corresponding to one milestone. For each line, "
@@ -3000,7 +2900,6 @@ msgid "Invoice milestones"
 msgstr "Marcos da fatura"
 
 #: ../../sales/service/invoice_milestones.rst:73
-#, fuzzy
 msgid ""
 "Let’s assume that your first milestone (the strategy audit) has been "
 "successfully delivered and you want to invoice it to your customer. On the sale "
@@ -3033,7 +2932,6 @@ msgstr ""
 "apenas o produto de auditoria de estratégia como faturável."
 
 #: ../../sales/service/invoice_milestones.rst:90
-#, fuzzy
 msgid ""
 "In order to be able to invoice a product, you need to set up the Accounting "
 "application and to configure an accounting journal and a chart of account. "
@@ -3062,7 +2960,6 @@ msgid "Access the video at https://www.youtube.com/watch?v=m7Fmq0H3qo8"
 msgstr "Acesse o vídeo em https://www.youtube.com/watch?v=m7Fmq0H3qo8"
 
 #: ../../sales/subscription/sell_subscription_through_ecommerce_platform.rst:9
-#, fuzzy
 msgid ""
 "Sell subscription through eCommerce platform, receive payment through card "
 "(auto-debit)"
@@ -3075,7 +2972,6 @@ msgid "Access the video at https://www.youtube.com/watch?v=P0O6rTA1kec"
 msgstr "Acesse o vídeo em https://www.youtube.com/watch?v=P0O6rTA1kec"
 
 #: ../../sales/subscription/sell_subscription_throught_sales_quotation.rst:7
-#, fuzzy
 msgid "Sell subscriptions through sales quotation"
 msgstr "Vender assinaturas por meio de cotação de venda"
 
@@ -3084,7 +2980,6 @@ msgid "Access the video at https://www.youtube.com/watch?v=r9kVUJo_k5E"
 msgstr "Acesse o vídeo em https://www.youtube.com/watch?v=r9kVUJo_k5E"
 
 #: ../../sales/subscription/setup_recurring_invoice.rst:7
-#, fuzzy
 msgid "Set up recurring invoice, that help you to invoice regularly"
 msgstr "Configurar faturas recorrentes, que ajudam a faturar regularmente"
 
@@ -3093,7 +2988,6 @@ msgid "Access the video at https://www.youtube.com/watch?v=iHardy2xBLU"
 msgstr "Acesse o vídeo em https://www.youtube.com/watch?v=iHardy2xBLU"
 
 #: ../../sales/unit_of_measure/pricelist_for_uom.rst:8
-#, fuzzy
 msgid ""
 "Sell and purchase products in different units of measure, and apply better "
 "pricing"
@@ -3106,7 +3000,6 @@ msgid "Access the video at https://www.youtube.com/watch?v=Ui6_-GInV9w"
 msgstr "Acesse o vídeo em https://www.youtube.com/watch?v=Ui6_-GInV9w"
 
 #: ../../sales/unit_of_measure/product_packaging.rst:6
-#, fuzzy
 msgid "Selling products by multiple of unit # per package"
 msgstr "Vendendo produtos por múltiplo de unidade # por pacote"
 
