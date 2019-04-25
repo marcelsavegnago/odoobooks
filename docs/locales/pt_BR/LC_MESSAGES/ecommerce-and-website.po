@@ -3,23 +3,24 @@
 # This file is distributed under the same license as the Odoo package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, 2018.
 #
-#, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: Odoo 12.0\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-11-30 11:27-0200\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
+"PO-Revision-Date: 2019-04-25 02:22-0300\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Generated-By: Babel 2.3.4\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: pt_BR\n"
+"X-Generator: Poedit 2.2.1\n"
 
 #: ../../ecommerce-and-website/choose_delivery_method_ecommerce.rst:7
 msgid "Allow your customer to choose Normal or Express delivery at checkout"
-msgstr ""
+msgstr "Permita que seu cliente escolha a entrega normal ou expressa na verificação geral"
 
 #: ../../ecommerce-and-website/choose_delivery_method_ecommerce.rst:10
 #: ../../ecommerce-and-website/order_product_and_variant.rst:11
@@ -27,57 +28,56 @@ msgstr ""
 #: ../../ecommerce-and-website/show_delivery_method_based_on_customer_address.rst:10
 #: ../../ecommerce-and-website/website/contactus_page.rst:12
 msgid "Video"
-msgstr ""
+msgstr "Vídeo"
 
 #: ../../ecommerce-and-website/choose_delivery_method_ecommerce.rst:11
 msgid "Access the video at https://www.youtube.com/watch?v=4mqUBAuqO18"
-msgstr ""
+msgstr "Acesse o vídeo em https://www.youtube.com/watch?v=4mqUBAuqO18"
 
 #: ../../ecommerce-and-website/index.rst:5
 msgid "Website and eCommerce"
-msgstr ""
+msgstr "Site e eCommerce"
 
 #: ../../ecommerce-and-website/index.rst:8
 msgid "Website"
-msgstr ""
+msgstr "Website"
 
 #: ../../ecommerce-and-website/index.rst:15
 msgid "Products"
-msgstr ""
+msgstr "Aplicar impostos padrão sobre produtos ou ordem de venda"
 
 #: ../../ecommerce-and-website/index.rst:23
 msgid "Delivery Cost"
-msgstr ""
+msgstr "Custo de entrega"
 
 #: ../../ecommerce-and-website/order_product_and_variant.rst:8
 msgid "Ordering products, variant attribute and values on the products page"
-msgstr ""
+msgstr "Encomendar produtos, atributos variantes e valores na página de produtos"
 
 #: ../../ecommerce-and-website/order_product_and_variant.rst:12
 msgid "Access the video at https://www.youtube.com/watch?v=0-QgV9HDU6M"
-msgstr ""
+msgstr "Acesse o vídeo em https://www.youtube.com/watch?v=0-QgV9HDU6M"
 
 #: ../../ecommerce-and-website/product_variant.rst:8
 msgid "How to configure product variants that looks perfect on eCommerce page?"
-msgstr ""
+msgstr "Como configurar variantes de produto que parece perfeito na página de comércio eletrônico?"
 
 #: ../../ecommerce-and-website/product_variant.rst:12
 msgid "Access the video at https://www.youtube.com/watch?v=6UkRfAu4xvE"
-msgstr ""
+msgstr "Acesse o vídeo em https://www.youtube.com/watch?v=6UkRfAu4xvE"
 
 #: ../../ecommerce-and-website/show_delivery_method_based_on_customer_address.rst:7
 msgid "Show delivery methods depending on the customer address"
-msgstr ""
+msgstr "Mostrar métodos de entrega dependendo do endereço do cliente"
 
 #: ../../ecommerce-and-website/show_delivery_method_based_on_customer_address.rst:11
 msgid "Access the video at https://www.youtube.com/watch?v=NlxgevrT9O4"
-msgstr ""
+msgstr "Acesse o vídeo em https://www.youtube.com/watch?v=NlxgevrT9O4"
 
 #: ../../ecommerce-and-website/website/contactus_page.rst:9
 msgid "How to generate leads or opportunities through website contact us page?"
-msgstr ""
+msgstr "Como gerar leads ou oportunidades através do site contacte-nos página?"
 
 #: ../../ecommerce-and-website/website/contactus_page.rst:13
 msgid "Access the video at https://www.youtube.com/watch?v=Q4FujRKnUHM"
-msgstr ""
-
+msgstr "Acesse o vídeo em https://www.youtube.com/watch?v=Q4FujRKnUHM"
