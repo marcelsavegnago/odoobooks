@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: Odoo 12.0\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-11-30 11:27-0200\n"
-"PO-Revision-Date: 2019-04-25 01:46-0300\n"
+"PO-Revision-Date: 2019-04-26 22:34-0300\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -22,8 +22,8 @@ msgstr ""
 msgid ""
 "Compute the profitability for trading company, bulk purchase and retail sales"
 msgstr ""
-"Calcule a rentabilidade para a empresa comercial, compra em massa e vendas a "
-"retalho"
+"Calcule a rentabilidade para empresa comercial, compra a granel e vendas no "
+"varejo"
 
 #: ../../accounting/analytic_accounting/profitability_bulk_purchase_retail_sale.rst:9
 #: ../../accounting/analytic_accounting/profitability_on_material.rst:9
@@ -87,7 +87,7 @@ msgstr "Acesse o vídeo em https://www.youtube.com/watch?v=eWg4tU--T7Y"
 
 #: ../../accounting/analytic_accounting/profitability_on_material.rst:6
 msgid "Compute the profitability for trading company"
-msgstr "Calcule a rentabilidade para a Trading Company"
+msgstr "Calcule a rentabilidade para empresa comercial"
 
 #: ../../accounting/analytic_accounting/profitability_on_material.rst:10
 msgid "Access the video at https://www.youtube.com/watch?v=xOo7v1ZBr_Q"
@@ -129,8 +129,8 @@ msgstr "Acesse o vídeo em https://www.youtube.com/watch?v=6-KYnZOTO9A"
 #: ../../accounting/automatic_inventory_valuation/cost_of_goods_sold_kit_product_enterprise.rst:7
 msgid "Compute cost of goods sold for a kit product using standard costing method"
 msgstr ""
-"Custo computacional de mercadorias vendidas para um produto de kit usando o "
-"método de custeio padrão"
+"Calcular o custo das mercadorias vendidas para um produto de kit usando o "
+"método de cálculo de custos padrão"
 
 #: ../../accounting/automatic_inventory_valuation/cost_of_goods_sold_kit_product_enterprise.rst:11
 #: ../../accounting/automatic_inventory_valuation/standard_costing.rst:11
@@ -166,8 +166,7 @@ msgstr "Acesse o vídeo em https://www.youtube.com/watch?v=yIlGdN00o2k"
 #: ../../accounting/bank_cash/cash_withdrawal.rst:8
 msgid "Transferring money from bank account to petty cash (Cash withdrawal)"
 msgstr ""
-"Transferência de dinheiro de conta bancária para dinheiro pequeno (saque de "
-"dinheiro)"
+"Transferência de dinheiro da conta bancária para caixa (retirada de dinheiro)"
 
 #: ../../accounting/bank_cash/cash_withdrawal.rst:12
 msgid "Access the video at https://www.youtube.com/watch?v=bNvWbWFNTP8"
@@ -176,7 +175,7 @@ msgstr "Acesse o vídeo em https://www.youtube.com/watch?v=bNvWbWFNTP8"
 #: ../../accounting/bank_cash/import_bank_statement_ofx.rst:9
 msgid "Import bank statement (ofx format) and quick bank reconciliation"
 msgstr ""
-"Extrato bancário de importação (formato OFX) e reconciliação bancária rápida"
+"Importação de extrato bancário (formato OFX) e reconciliação bancária rápida"
 
 #: ../../accounting/bank_cash/import_bank_statement_ofx.rst:13
 msgid "Access the video at https://www.youtube.com/watch?v=YdbPaP_8yO0"
@@ -184,11 +183,11 @@ msgstr "Acesse o vídeo em https://www.youtube.com/watch?v=YdbPaP_8yO0"
 
 #: ../../accounting/index.rst:7
 msgid "Accounting and Finance"
-msgstr "Contabilidade e finanças"
+msgstr "Contabilidade e Finanças"
 
 #: ../../accounting/index.rst:15
 msgid "Customer Invoice"
-msgstr "Factura do cliente"
+msgstr "Fatura do Cliente"
 
 #: ../../accounting/index.rst:22
 msgid "Payment Terms"
@@ -196,23 +195,23 @@ msgstr "Termos de Pagamento"
 
 #: ../../accounting/index.rst:29
 msgid "Payment and Followups"
-msgstr "Pagamento e followups"
+msgstr "Pagamento e Acompanhamento"
 
 #: ../../accounting/index.rst:36
 msgid "Setup Accounting"
-msgstr "Contabilidade de configuração"
+msgstr "Configuração da Contabilidade"
 
 #: ../../accounting/index.rst:43
 msgid "Taxes and Duties"
-msgstr "Impostos e deveres"
+msgstr "Taxas e Impostos"
 
 #: ../../accounting/index.rst:50
 msgid "Credit Notes"
-msgstr "Notas de crédito"
+msgstr "Notas de Crédito"
 
 #: ../../accounting/index.rst:57
 msgid "Bank and Cash"
-msgstr "Banco e dinheiro"
+msgstr "Banco e Dinheiro"
 
 #: ../../accounting/index.rst:64
 msgid "Multi Currency"
@@ -220,27 +219,27 @@ msgstr "Multi Moeda"
 
 #: ../../accounting/index.rst:71
 msgid "Vendor Bills and Payments"
-msgstr "Contas de fornecedor e pagamentos"
+msgstr "Contas de Fornecedor e Pagamentos"
 
 #: ../../accounting/index.rst:78
 msgid "Analytic Accounting (Cost center)"
-msgstr "Contabilidade analítica (centro de custo)"
+msgstr "Contabilidade Analítica (Centro de Custo)"
 
 #: ../../accounting/index.rst:85
 msgid "Manual Inventory Valuation (Anglo-Saxons)"
-msgstr "Avaliação de inventário manual (anglo-saxões)"
+msgstr "Avaliação de Inventário Manual (Anglo-Saxões)"
 
 #: ../../accounting/index.rst:92
 msgid "Automatic Inventory Valuation (Anglo-Saxons)"
-msgstr "Avaliação automática de estoques (anglo-saxões)"
+msgstr "Avaliação Automática de Estoques (anglo-saxões)"
 
 #: ../../accounting/index.rst:99
 msgid "Indian Localization"
-msgstr "Localização indiana"
+msgstr "Localização Indiana"
 
 #: ../../accounting/introduction.rst:4
 msgid "Odoo Accounting"
-msgstr "Contabilidade odoo"
+msgstr "Contabilidade Odoo"
 
 #: ../../accounting/introduction.rst:5
 msgid "Access the video at https://www.youtube.com/watch?v=6XgKPjgyoec"
@@ -282,7 +281,7 @@ msgstr "Odoo pode enviá-los para você por e-mail ou correio normal."
 #: ../../accounting/introduction.rst:23
 msgid "Your customers pay online, meaning you get your money right away."
 msgstr ""
-"Seus clientes pagam online, o que significa que você recebe seu dinheiro "
+"Seus clientes pagam online, o que significa que você receber seu dinheiro "
 "imediatamente."
 
 #: ../../accounting/introduction.rst:25
@@ -332,15 +331,15 @@ msgstr ""
 
 #: ../../accounting/introduction.rst:37
 msgid "Try Odoo now, and join 2 millions of happy users."
-msgstr "Experimente Odoo agora, e Junte-se a 2 milhões de usuários felizes."
+msgstr "Experimente Odoo agora, e junte-se a 2 milhões de usuários felizes."
 
 #: ../../accounting/inventory_valuation/manual_valuation_average_costing.rst:6
 msgid ""
 "Compute the inventory valuation and cost of goods sold using average costing "
 "method"
 msgstr ""
-"Calcular a avaliação de estoque e o custo dos produtos vendidos usando o método "
-"de cálculo de custos médio"
+"Calcular a avaliação do estoque e o custo das mercadorias vendidas usando o "
+"método de cálculo de custos médio"
 
 #: ../../accounting/inventory_valuation/manual_valuation_average_costing.rst:8
 #: ../../accounting/inventory_valuation/manual_valuation_fifo_costing.rst:8
@@ -351,11 +350,11 @@ msgid ""
 "journal entry has to be passed on regular internal so keep updated the "
 "valuation in balance sheet and cost of goods sold in profit and loss account."
 msgstr ""
-"O método de avaliação de estoque manual sugere que a avaliação de um inventário "
-"tenha que ser gerencio manualmente na contabilidade financeira. A entrada "
+"O método de avaliação manual de estoque sugere que a avaliação de um estoque "
+"deve ser administrada manualmente na contabilidade financeira. A entrada "
 "periódica do diário tem que ser passada no interno regular assim que mantenha "
-"actualizado a avaliação no balanço patrimonial e no custo dos bens vendidos na "
-"conta do lucro e da perda."
+"atualizado a avaliação no balanço patrimonial e no custo de mercadorias "
+"vendidas na conta de lucro e perda."
 
 #: ../../accounting/inventory_valuation/manual_valuation_average_costing.rst:14
 #: ../../accounting/inventory_valuation/manual_valuation_fifo_costing.rst:14
@@ -403,7 +402,7 @@ msgstr "**Crédito**"
 #: ../../accounting/inventory_valuation/manual_valuation_standard_costing.rst:64
 #: ../../accounting/odoo_accounting.rst:69
 msgid "Inventory Valuation"
-msgstr "Avaliação de estoque"
+msgstr "Avaliação de Estoque"
 
 #: ../../accounting/inventory_valuation/manual_valuation_average_costing.rst:19
 #: ../../accounting/inventory_valuation/manual_valuation_average_costing.rst:21
@@ -426,7 +425,7 @@ msgstr "800"
 #: ../../accounting/inventory_valuation/manual_valuation_fifo_costing.rst:21
 #: ../../accounting/inventory_valuation/manual_valuation_standard_costing.rst:21
 msgid "Cost of Goods Sold"
-msgstr "Custo de produtos vendidos"
+msgstr "Custo de Mercadorias Vendidas"
 
 #: ../../accounting/inventory_valuation/manual_valuation_average_costing.rst:24
 #: ../../accounting/inventory_valuation/manual_valuation_fifo_costing.rst:24
@@ -441,16 +440,17 @@ msgid ""
 "``COGS = Inventory Valuation as per Balance sheet - Inventory Valuation as per "
 "Inventory``"
 msgstr ""
-"``COGS = avaliação de estoque como por balanço-avaliação de estoque como por "
-"estoque``"
+"``COGS = Avaliação de Estoques por Balancete - Avaliação de Estoques por "
+"Inventário``"
 
 #: ../../accounting/inventory_valuation/manual_valuation_average_costing.rst:30
 #: ../../accounting/inventory_valuation/manual_valuation_fifo_costing.rst:30
 #: ../../accounting/inventory_valuation/manual_valuation_standard_costing.rst:30
 msgid "Product Cost price"
-msgstr "Preço de custo do produto"
+msgstr "Preço de Custo do Produto"
 
 #: ../../accounting/inventory_valuation/manual_valuation_average_costing.rst:32
+#, fuzzy
 msgid ""
 "As your inventory costing method is average, you are allowed to change the cost "
 "price of the product, assumed that you increase the cost price."
@@ -461,6 +461,7 @@ msgstr ""
 
 #: ../../accounting/inventory_valuation/manual_valuation_average_costing.rst:35
 #: ../../accounting/inventory_valuation/manual_valuation_standard_costing.rst:35
+#, fuzzy
 msgid ""
 "Make sure you change the cost price on the product once your valuation is equal "
 "for inventory and balance sheet, else you may have a wrong cost of goods sold "
@@ -472,6 +473,7 @@ msgstr ""
 
 #: ../../accounting/inventory_valuation/manual_valuation_average_costing.rst:39
 #: ../../accounting/inventory_valuation/manual_valuation_standard_costing.rst:39
+#, fuzzy
 msgid ""
 "When you see a COGS is having a negative value it means that your value of the "
 "inventory increased in warehouse this should be reflect in the balance sheet "
@@ -482,6 +484,7 @@ msgstr ""
 
 #: ../../accounting/inventory_valuation/manual_valuation_average_costing.rst:43
 #: ../../accounting/inventory_valuation/manual_valuation_standard_costing.rst:43
+#, fuzzy
 msgid ""
 "To increase the value in balance sheet you have to pass below journal entry"
 msgstr ""
@@ -492,11 +495,13 @@ msgstr ""
 #: ../../accounting/inventory_valuation/manual_valuation_average_costing.rst:66
 #: ../../accounting/inventory_valuation/manual_valuation_standard_costing.rst:51
 #: ../../accounting/inventory_valuation/manual_valuation_standard_costing.rst:66
+#, fuzzy
 msgid "Inventory Valuation Difference"
 msgstr "Diferença de avaliação de estoque"
 
 #: ../../accounting/inventory_valuation/manual_valuation_average_costing.rst:54
 #: ../../accounting/inventory_valuation/manual_valuation_standard_costing.rst:54
+#, fuzzy
 msgid ""
 "Or, when you see a COGS is having a positive value it means that your value of "
 "the inventory decreased in warehouse and this should be reflect in the balance "
@@ -508,6 +513,7 @@ msgstr ""
 
 #: ../../accounting/inventory_valuation/manual_valuation_average_costing.rst:58
 #: ../../accounting/inventory_valuation/manual_valuation_standard_costing.rst:58
+#, fuzzy
 msgid ""
 "To decrease the value in balance sheet you have to pass below journal entry"
 msgstr ""
@@ -515,20 +521,24 @@ msgstr ""
 "entrada do diário"
 
 #: ../../accounting/inventory_valuation/manual_valuation_average_costing.rst:71
+#, fuzzy
 msgid "Access the video at https://www.youtube.com/watch?v=aHa8jjJsEKA"
 msgstr "Acesse o vídeo em https://www.youtube.com/watch?v=aHa8jjJsEKA"
 
 #: ../../accounting/inventory_valuation/manual_valuation_average_costing.rst:81
 #: ../../accounting/inventory_valuation/manual_valuation_fifo_costing.rst:51
+#, fuzzy
 msgid ":doc:`../inventory_valuation/manual_valuation_standard_costing`"
 msgstr ":doc:`../inventory_valuation/manual_valuation_standard_costing`"
 
 #: ../../accounting/inventory_valuation/manual_valuation_average_costing.rst:82
 #: ../../accounting/inventory_valuation/manual_valuation_standard_costing.rst:81
+#, fuzzy
 msgid ":doc:`../inventory_valuation/manual_valuation_fifo_costing`"
 msgstr ":doc:`../inventory_valuation/manual_valuation_fifo_costing`"
 
 #: ../../accounting/inventory_valuation/manual_valuation_fifo_costing.rst:6
+#, fuzzy
 msgid ""
 "Compute the inventory valuation and cost of goods sold using fifo costing method"
 msgstr ""
@@ -536,6 +546,7 @@ msgstr ""
 "de custeio FIFO"
 
 #: ../../accounting/inventory_valuation/manual_valuation_fifo_costing.rst:32
+#, fuzzy
 msgid ""
 "The cost price on the product page always display the cost of last unit sold or "
 "consumed or scrapped from the stock. If you change that manually it will not "
@@ -546,6 +557,7 @@ msgstr ""
 "ele não fará quaisquer alterações no sistema."
 
 #: ../../accounting/inventory_valuation/manual_valuation_fifo_costing.rst:36
+#, fuzzy
 msgid ""
 "Hide the product cost field, if all of your products have FIFO as the inventory "
 "costing method, even-users will never get confused."
@@ -555,15 +567,18 @@ msgstr ""
 "confundidos."
 
 #: ../../accounting/inventory_valuation/manual_valuation_fifo_costing.rst:41
+#, fuzzy
 msgid "Access the video at https://www.youtube.com/watch?v=_TFhth_Uzc4"
 msgstr "Acesse o vídeo em https://www.youtube.com/watch?v=_TFhth_Uzc4"
 
 #: ../../accounting/inventory_valuation/manual_valuation_fifo_costing.rst:52
 #: ../../accounting/inventory_valuation/manual_valuation_standard_costing.rst:82
+#, fuzzy
 msgid ":doc:`../inventory_valuation/manual_valuation_average_costing`"
 msgstr ":doc:`../inventory_valuation/manual_valuation_average_costing`"
 
 #: ../../accounting/inventory_valuation/manual_valuation_standard_costing.rst:6
+#, fuzzy
 msgid ""
 "Compute the inventory valuation and cost of goods sold using standard costing"
 msgstr ""
@@ -571,6 +586,7 @@ msgstr ""
 "de custos padrão"
 
 #: ../../accounting/inventory_valuation/manual_valuation_standard_costing.rst:32
+#, fuzzy
 msgid ""
 "As your inventory costing method is standards, you are allowed to change the "
 "cost price of the product, assumed that you increase the cost price."
@@ -580,75 +596,92 @@ msgstr ""
 "custo."
 
 #: ../../accounting/inventory_valuation/manual_valuation_standard_costing.rst:71
+#, fuzzy
 msgid "Access the video at https://www.youtube.com/watch?v=pVsdiEl6OJw"
 msgstr "Acesse o vídeo em https://www.youtube.com/watch?v=pVsdiEl6OJw"
 
 #: ../../accounting/invoice/cash_discount.rst:6
 #: ../../accounting/invoice/cash_discount.rst:12
+#, fuzzy
 msgid "Setup cash discounts when customer pay before the due date"
 msgstr ""
 "Configurar descontos em dinheiro quando o cliente pagar antes da data de "
 "vencimento"
 
 #: ../../accounting/invoice/cash_discount.rst:6
+#, fuzzy
 msgid "Odoo 12.0, cash discount, discount, payment terms, bank reconciliation"
 msgstr ""
 "Odoo 12,0, desconto, desconto, termos de pagamento, reconciliação bancária"
 
 #: ../../accounting/invoice/cash_discount.rst:16
+#, fuzzy
 msgid "Access the video at https://www.youtube.com/watch?v=uNksgDgzKj8"
 msgstr "Acesse o vídeo em https://www.youtube.com/watch?v=uNksgDgzKj8"
 
 #: ../../accounting/invoice/first_invoice.rst:9
+#, fuzzy
 msgid "Create first customer invoice and register payment"
 msgstr "Crie a primeira fatura do cliente e registre o pagamento"
 
 #: ../../accounting/invoice/first_invoice.rst:13
+#, fuzzy
 msgid "Access the video at https://www.youtube.com/watch?v=rCOaO26xM68"
 msgstr "Acesse o vídeo em https://www.youtube.com/watch?v=rCOaO26xM68"
 
 #: ../../accounting/invoice/invoice_numbers_by_financial_year.rst:8
+#, fuzzy
 msgid "Reset invoice number for every new financial year or change every month"
 msgstr ""
 "Redefinir o número da fatura para cada novo ano financeiro ou alterar a cada mês"
 
 #: ../../accounting/invoice/invoice_numbers_by_financial_year.rst:12
+#, fuzzy
 msgid "Access the video at https://www.youtube.com/watch?v=kFJNthxZ_cA"
 msgstr "Acesse o vídeo em https://www.youtube.com/watch?v=kFJNthxZ_cA"
 
 #: ../../accounting/invoice/match_payment.rst:8
+#, fuzzy
 msgid "Match payment against an invoice"
 msgstr "Corresponder o pagamento contra uma fatura"
 
 #: ../../accounting/invoice/match_payment.rst:12
+#, fuzzy
 msgid "Access the video at https://www.youtube.com/watch?v=22ZCLf5gIUg"
 msgstr "Acesse o vídeo em https://www.youtube.com/watch?v=22ZCLf5gIUg"
 
 #: ../../accounting/invoice/set_invoice_due_date.rst:6
+#, fuzzy
 msgid "Set due date on the invoice"
 msgstr "Definir data de vencimento na fatura"
 
 #: ../../accounting/invoice/set_invoice_due_date.rst:10
+#, fuzzy
 msgid "Access the video at https://www.youtube.com/watch?v=bW4MimNYW5U"
 msgstr "Acesse o vídeo em https://www.youtube.com/watch?v=bW4MimNYW5U"
 
 #: ../../accounting/l10n_india/configure_gst_in_odoo.rst:9
+#, fuzzy
 msgid "Multiple tax included in price, i.e.Indian GST Tax"
 msgstr "Imposto múltiplo incluído no preço, isto é imposto indiano do GST"
 
 #: ../../accounting/l10n_india/configure_gst_in_odoo.rst:13
+#, fuzzy
 msgid "Access the video at https://www.youtube.com/watch?v=R2XP2t8-g14"
 msgstr "Acesse o vídeo em https://www.youtube.com/watch?v=R2XP2t8-g14"
 
 #: ../../accounting/l10n_india/tax_deduction_at_source.rst:8
+#, fuzzy
 msgid "Manage tax deduction at source (TDS) with accounting entries"
 msgstr "Gerenciar dedução de imposto na origem (TDS) com entradas contábeis"
 
 #: ../../accounting/l10n_india/tax_deduction_at_source.rst:12
+#, fuzzy
 msgid "Access the video at https://www.youtube.com/watch?v=DxJNSjAfJ20"
 msgstr "Acesse o vídeo em https://www.youtube.com/watch?v=DxJNSjAfJ20"
 
 #: ../../accounting/l10n_india/tax_deduction_at_source_customer_invoice.rst:7
+#, fuzzy
 msgid ""
 "Track tax deduction at source and certificate receivable, (customer invoice)"
 msgstr ""
@@ -657,6 +690,7 @@ msgstr ""
 
 #: ../../accounting/l10n_india/tax_deduction_at_source_customer_invoice.rst:8
 #: ../../accounting/l10n_india/tax_deduction_at_source_vendor_bill.rst:8
+#, fuzzy
 msgid ""
 "TDS stands for **Tax Deducted at Source**. It was introduced to collect tax at "
 "the source from where an individual's income is generated."
@@ -666,6 +700,7 @@ msgstr ""
 
 #: ../../accounting/l10n_india/tax_deduction_at_source_customer_invoice.rst:11
 #: ../../accounting/l10n_india/tax_deduction_at_source_vendor_bill.rst:11
+#, fuzzy
 msgid ""
 "The government uses TDS as a tool to collect tax in order to minimise tax e "
 "vasion by taxing the income (partially or wholly) at the time it is generated "
@@ -677,6 +712,7 @@ msgstr ""
 
 #: ../../accounting/l10n_india/tax_deduction_at_source_customer_invoice.rst:15
 #: ../../accounting/l10n_india/tax_deduction_at_source_vendor_bill.rst:15
+#, fuzzy
 msgid ""
 "TDS is applicable on the various incomes such as salaries, interest received, "
 "commission received, consulting or professional services, job-work, etc."
@@ -687,6 +723,7 @@ msgstr ""
 
 #: ../../accounting/l10n_india/tax_deduction_at_source_customer_invoice.rst:18
 #: ../../accounting/l10n_india/tax_deduction_at_source_vendor_bill.rst:18
+#, fuzzy
 msgid "Read more at: https://www.incometaxindia.gov.in/Pages/Deposit_TDS_TCS.aspx"
 msgstr ""
 "Leia mais em: https://www.incometaxindia.gov.in/Pages/Deposit_TDS_TCS.aspx"
@@ -695,6 +732,7 @@ msgstr ""
 #: ../../accounting/l10n_india/tax_deduction_at_source_vendor_bill.rst:21
 #: ../../accounting/taxes/apply_default_tax.rst:14
 #: ../../accounting/taxes/create_new_tax.rst:14
+#, fuzzy
 msgid "Business case"
 msgstr "Caso de negócio"
 
@@ -707,10 +745,12 @@ msgid ""
 msgstr ""
 
 #: ../../accounting/l10n_india/tax_deduction_at_source_customer_invoice.rst:28
+#, fuzzy
 msgid "Access the video at https://www.youtube.com/watch?v=d9Mx00lHxoU"
 msgstr "Acesse o vídeo em https://www.youtube.com/watch?v=d9Mx00lHxoU"
 
 #: ../../accounting/l10n_india/tax_deduction_at_source_vendor_bill.rst:7
+#, fuzzy
 msgid ""
 "Manage tax deduction at source, tax ledger, compute payable and pay through "
 "bank (vendor bill)"
@@ -719,6 +759,7 @@ msgstr ""
 "pague através do banco (fatura de fornecedor)"
 
 #: ../../accounting/l10n_india/tax_deduction_at_source_vendor_bill.rst:22
+#, fuzzy
 msgid ""
 "The *My Company* gets the prefessional consulting services form *Ajay "
 "Consulting Services* we have to deduct the TDS @ 10% and deposit to the "
@@ -729,10 +770,12 @@ msgstr ""
 "governo até o 7 º do próximo mês."
 
 #: ../../accounting/l10n_india/tax_deduction_at_source_vendor_bill.rst:28
+#, fuzzy
 msgid "Access the video at https://www.youtube.com/watch?v=wuhBfG2khys"
 msgstr "Acesse o vídeo em https://www.youtube.com/watch?v=wuhBfG2khys"
 
 #: ../../accounting/multi_currency/foreign_exchange_gain_loss_entry.rst:6
+#, fuzzy
 msgid ""
 "Foreign exchange gain or loss entry when invoice and payment in foreign currency"
 msgstr ""
@@ -740,40 +783,49 @@ msgstr ""
 "estrangeira"
 
 #: ../../accounting/multi_currency/foreign_exchange_gain_loss_entry.rst:10
+#, fuzzy
 msgid "Access the video at https://www.youtube.com/watch?v=VNwfB1rPZYc"
 msgstr "Acesse o vídeo em https://www.youtube.com/watch?v=VNwfB1rPZYc"
 
 #: ../../accounting/multi_currency/invoice_and_payment_in_foreign_currency.rst:6
+#, fuzzy
 msgid "Invoice and payment in foreign currency"
 msgstr "Fatura e pagamento em moeda estrangeira"
 
 #: ../../accounting/multi_currency/invoice_and_payment_in_foreign_currency.rst:10
+#, fuzzy
 msgid "Access the video at https://www.youtube.com/watch?v=TFmFfv5p1Rs"
 msgstr "Acesse o vídeo em https://www.youtube.com/watch?v=TFmFfv5p1Rs"
 
 #: ../../accounting/multi_currency/invoice_in_foreign_currency.rst:8
+#, fuzzy
 msgid "Prepare invoice in foreign currency"
 msgstr "Preparar fatura em moeda estrangeira"
 
 #: ../../accounting/multi_currency/invoice_in_foreign_currency.rst:12
+#, fuzzy
 msgid "Access the video at https://www.youtube.com/watch?v=70--MY4AFCU"
 msgstr "Acesse o vídeo em https://www.youtube.com/watch?v=70--MY4AFCU"
 
 #: ../../accounting/odoo_accounting.rst:4
+#, fuzzy
 msgid "The Accounting behind Odoo"
 msgstr "A contabilidade por trás Odoo"
 
 #: ../../accounting/odoo_accounting.rst:6
+#, fuzzy
 msgid ""
 "This page summarises the way Odoo deals with typical accounts and transactions."
 msgstr ""
 "Esta página resume a forma como o Odoo lida com contas e transacções típicas."
 
 #: ../../accounting/odoo_accounting.rst:9
+#, fuzzy
 msgid "Double-entry bookkeeping"
 msgstr "Escrituração de dupla entrada"
 
 #: ../../accounting/odoo_accounting.rst:10
+#, fuzzy
 msgid ""
 "Odoo automatically creates all the behind-the-scenes journal entries for each "
 "of your accounting transactions: customer invoices, point of sale order, "
@@ -784,6 +836,7 @@ msgstr ""
 "venda, despesas, movimentações de estoque, etc."
 
 #: ../../accounting/odoo_accounting.rst:12
+#, fuzzy
 msgid ""
 "Odoo uses the rules of double-entry bookkeeping system: all journal entries are "
 "automatically balanced (sum of debits = sum of credits)."
@@ -793,10 +846,12 @@ msgstr ""
 "créditos)."
 
 #: ../../accounting/odoo_accounting.rst:15
+#, fuzzy
 msgid "Accrual and Cash Basis Methods"
 msgstr "Métodos de acumulação e base de caixa"
 
 #: ../../accounting/odoo_accounting.rst:16
+#, fuzzy
 msgid ""
 "Odoo support both accrual and cash basis reporting. This allows you to report "
 "income / expense at the time transactions occur (i.e., accrual basis), or when "
@@ -808,10 +863,12 @@ msgstr ""
 "base de caixa)."
 
 #: ../../accounting/odoo_accounting.rst:19
+#, fuzzy
 msgid "Multi-companies"
 msgstr "Multi-empresas"
 
 #: ../../accounting/odoo_accounting.rst:20
+#, fuzzy
 msgid ""
 "Odoo allows to manage several companies within the same database. Each company "
 "has its own chart of accounts and rules. You can get consolidation reports "
@@ -822,6 +879,7 @@ msgstr ""
 "consolidação seguindo suas regras de consolidação."
 
 #: ../../accounting/odoo_accounting.rst:22
+#, fuzzy
 msgid ""
 "Users can access several companies but always work in one company at a time."
 msgstr ""
@@ -829,10 +887,12 @@ msgstr ""
 "de cada vez."
 
 #: ../../accounting/odoo_accounting.rst:25
+#, fuzzy
 msgid "Multi-currencies"
 msgstr "Multi-moedas"
 
 #: ../../accounting/odoo_accounting.rst:26
+#, fuzzy
 msgid ""
 "Every transaction is recorded in the default currency of the company. For "
 "transactions occurring in another currency, Odoo stores both the value in the "
@@ -846,6 +906,7 @@ msgstr ""
 "reconciliação dos itens da revista."
 
 #: ../../accounting/odoo_accounting.rst:28
+#, fuzzy
 msgid ""
 "Currency rates are updated once a day using a yahoo.com online web-service."
 msgstr ""
@@ -853,10 +914,12 @@ msgstr ""
 "com online."
 
 #: ../../accounting/odoo_accounting.rst:31
+#, fuzzy
 msgid "International Standards"
 msgstr "Normas internacionais"
 
 #: ../../accounting/odoo_accounting.rst:32
+#, fuzzy
 msgid ""
 "Odoo accounting support more than 50 countries. The Odoo core accounting "
 "implement accounting standards that is common to all countries and specific "
@@ -869,10 +932,12 @@ msgstr ""
 "contas, impostos ou interfaces bancárias."
 
 #: ../../accounting/odoo_accounting.rst:34
+#, fuzzy
 msgid "In particular, Odoo’s core accounting engine supports:"
 msgstr "Em particular, o motor de contabilidade principal da Odoo suporta:"
 
 #: ../../accounting/odoo_accounting.rst:36
+#, fuzzy
 msgid ""
 "Anglo-Saxon Accounting (U.S., U.K.,, and other English-speaking countries "
 "including Ireland, Canada, Australia, and New Zealand) where cost of good sold "
@@ -883,12 +948,14 @@ msgstr ""
 "mercadoria vendida é relatado quando os produtos são vendidos/entregues."
 
 #: ../../accounting/odoo_accounting.rst:37
+#, fuzzy
 msgid "European accounting where expenses are accounted at the supplier bill."
 msgstr ""
 "Contabilidade Europeia, onde as despesas são contabilizadas na fatura do "
 "fornecedor."
 
 #: ../../accounting/odoo_accounting.rst:38
+#, fuzzy
 msgid ""
 "Storno accounting (Italy) where refund invoices have negative credit/debit "
 "instead of a reverting the original journal items."
@@ -897,14 +964,17 @@ msgstr ""
 "débito negativo em vez de um revertendo os itens do diário original."
 
 #: ../../accounting/odoo_accounting.rst:39
+#, fuzzy
 msgid "Odoo also have modules to comply with IFRS rules."
 msgstr "Odoo também tem módulos para cumprir as regras IFRS."
 
 #: ../../accounting/odoo_accounting.rst:42
+#, fuzzy
 msgid "Accounts Receivable & Payable"
 msgstr "Contas a receber e a pagar"
 
 #: ../../accounting/odoo_accounting.rst:43
+#, fuzzy
 msgid ""
 "By default, Odoo uses a single account for all account receivable entries and "
 "one for all accounts payable entries. You can create separate accounts per "
@@ -922,10 +992,12 @@ msgid ""
 msgstr ""
 
 #: ../../accounting/odoo_accounting.rst:48
+#, fuzzy
 msgid "Wide range of financial reports"
 msgstr "Vasta gama de relatórios financeiros"
 
 #: ../../accounting/odoo_accounting.rst:49
+#, fuzzy
 msgid ""
 "In Odoo, you can generate financial reports in real time. Odoo’s reports range "
 "from basic accounting reports to advanced management reports. Odoo’s reports "
@@ -936,28 +1008,34 @@ msgstr ""
 "avançados. Os relatórios do odoo incluem:"
 
 #: ../../accounting/odoo_accounting.rst:51
+#, fuzzy
 msgid "Performance reports (such as Profit and Loss, Budget Variance)"
 msgstr "Relatórios de desempenho (como lucro e perda, variação de orçamento)"
 
 #: ../../accounting/odoo_accounting.rst:52
+#, fuzzy
 msgid "Position reports (such as Balance Sheet, Aged Payables, Aged Receivables)"
 msgstr ""
 "Relatórios de posição (como balanço patrimonial, contas a pagar idosas, contas "
 "a receber idosas)"
 
 #: ../../accounting/odoo_accounting.rst:53
+#, fuzzy
 msgid "Cash reports (such as Bank Summary)"
 msgstr "Relatórios de caixa (como resumo bancário)"
 
 #: ../../accounting/odoo_accounting.rst:54
+#, fuzzy
 msgid "Detail reports (such as Trial Balance and General Ledger)"
 msgstr "Relatórios detalhados (como balancete e contabilidade)"
 
 #: ../../accounting/odoo_accounting.rst:55
+#, fuzzy
 msgid "Management reports (such as Budgets, Executive Summary)"
 msgstr "Relatórios gerenciais (como orçamentos, sumário executivo)"
 
 #: ../../accounting/odoo_accounting.rst:56
+#, fuzzy
 msgid ""
 "Odoo’s report engine allows you to customize your own report based on your own "
 "formulae."
@@ -966,10 +1044,12 @@ msgstr ""
 "relatório com base em suas próprias fórmulas."
 
 #: ../../accounting/odoo_accounting.rst:59
+#, fuzzy
 msgid "Import bank feeds automatically"
 msgstr "Importar feeds bancários automaticamente"
 
 #: ../../accounting/odoo_accounting.rst:60
+#, fuzzy
 msgid ""
 "Bank reconciliation is a process that matches your bank statement lines, as "
 "supplied by the bank, to your accounting transactions in the general ledger. "
@@ -987,6 +1067,7 @@ msgstr ""
 "extratos bancários de papel."
 
 #: ../../accounting/odoo_accounting.rst:62
+#, fuzzy
 msgid ""
 "Odoo speeds up bank reconciliation by matching most of your imported bank "
 "statement lines to your accounting transactions. Odoo also remembers how you’ve "
@@ -999,10 +1080,12 @@ msgstr ""
 "transações sugeridas do razão geral."
 
 #: ../../accounting/odoo_accounting.rst:65
+#, fuzzy
 msgid "Calculates the tax you owe your tax authority"
 msgstr "Calcula o imposto que você deve a sua autoridade fiscal"
 
 #: ../../accounting/odoo_accounting.rst:66
+#, fuzzy
 msgid ""
 "Odoo totals all your accounting transactions for your tax period and uses these "
 "totals to calculate your tax obligation. You can then check your sales tax by "
@@ -1013,6 +1096,7 @@ msgstr ""
 "verificar o imposto sobre vendas executando o relatório de impostos do Odoo."
 
 #: ../../accounting/odoo_accounting.rst:70
+#, fuzzy
 msgid ""
 "Odoo support both periodic (manual) and perpetual (automated) inventory "
 "valuations. The available methods are standard price, average price, LIFO (for "
@@ -1023,10 +1107,12 @@ msgstr ""
 "médio, o LIFO (para países que o permitem) e o FIFO."
 
 #: ../../accounting/odoo_accounting.rst:73
+#, fuzzy
 msgid "Easy retained earnings"
 msgstr "Ganhos retidos fáceis"
 
 #: ../../accounting/odoo_accounting.rst:74
+#, fuzzy
 msgid ""
 "Retained earnings is the portion of income retained by your business. Odoo "
 "automatically calculates your current year earnings in real time so no year-end "
@@ -1039,97 +1125,120 @@ msgstr ""
 "saldo de lucros e perdas para seu relatório de balanço automaticamente."
 
 #: ../../accounting/opening/company_setup.rst:8
+#, fuzzy
 msgid "Setup Company Information, Bank Accounts and Fiscal Period"
 msgstr "Configurar informações da empresa, contas bancárias e período fiscal"
 
 #: ../../accounting/opening/company_setup.rst:12
+#, fuzzy
 msgid "Access the video at https://www.youtube.com/watch?v=mmPNI2TY_Jw"
 msgstr "Acesse o vídeo em https://www.youtube.com/watch?v=mmPNI2TY_Jw"
 
 #: ../../accounting/opening/import_opening.rst:8
+#, fuzzy
 msgid "Setup Odoo Accounting and Import opening balance"
 msgstr "Configuração Odoo contabilidade e importação saldo de abertura"
 
 #: ../../accounting/opening/import_opening.rst:12
+#, fuzzy
 msgid "Access the video at https://www.youtube.com/watch?v=ybnQN_ip0gQ"
 msgstr "Acesse o vídeo em https://www.youtube.com/watch?v=ybnQN_ip0gQ"
 
 #: ../../accounting/payment_followup/advance_payment_from_customer.rst:8
+#, fuzzy
 msgid "Receive advance payment from customer and match against invoice later"
 msgstr ""
 "Receber pagamento antecipado do cliente e corresponder à fatura mais tarde"
 
 #: ../../accounting/payment_followup/advance_payment_from_customer.rst:12
+#, fuzzy
 msgid "Access the video at https://www.youtube.com/watch?v=GMq-wCrDeDw"
 msgstr "Acesse o vídeo em https://www.youtube.com/watch?v=GMq-wCrDeDw"
 
 #: ../../accounting/payment_followup/customer_followups.rst:9
+#, fuzzy
 msgid "Automate customer follow-ups with plans"
 msgstr "Automatize follow-ups de clientes com planos"
 
 #: ../../accounting/payment_followup/customer_followups.rst:13
+#, fuzzy
 msgid "Access the video at https://www.youtube.com/watch?v=otuzF6CcUrA"
 msgstr "Acesse o vídeo em https://www.youtube.com/watch?v=otuzF6CcUrA"
 
 #: ../../accounting/payment_followup/partial_payment.rst:8
+#, fuzzy
 msgid "Create invoice, receive and register partial payment on invoice"
 msgstr "Criar fatura, receber e registrar pagamento parcial na fatura"
 
 #: ../../accounting/payment_followup/partial_payment.rst:12
+#, fuzzy
 msgid "Access the video at https://www.youtube.com/watch?v=yAkzrzE94c0"
 msgstr "Acesse o vídeo em https://www.youtube.com/watch?v=yAkzrzE94c0"
 
 #: ../../accounting/payment_followup/print_customer_ledger.rst:8
+#, fuzzy
 msgid "Print customer ledger"
 msgstr "Imprimir Ledger de clientes"
 
 #: ../../accounting/payment_followup/print_customer_ledger.rst:12
+#, fuzzy
 msgid "Access the video at https://www.youtube.com/watch?v=97IbK9zKYAQ"
 msgstr "Acesse o vídeo em https://www.youtube.com/watch?v=97IbK9zKYAQ"
 
 #: ../../accounting/payment_followup/reconcile_invoice_and_bills.rst:6
+#, fuzzy
 msgid "Reconcile customer invoice vs vendor bill"
 msgstr "Reconciliar fatura de cliente versus conta de fornecedor"
 
 #: ../../accounting/payment_followup/reconcile_invoice_and_bills.rst:10
+#, fuzzy
 msgid "Access the video at https://www.youtube.com/watch?v=gNTenxx4_GA"
 msgstr "Acesse o vídeo em https://www.youtube.com/watch?v=gNTenxx4_GA"
 
 #: ../../accounting/payment_followup/record_customer_payment.rst:8
+#, fuzzy
 msgid "Different ways to record a payment"
 msgstr "Diferentes maneiras de registrar um pagamento"
 
 #: ../../accounting/payment_followup/record_customer_payment.rst:12
+#, fuzzy
 msgid "Access the video at https://www.youtube.com/watch?v=0UGvSCXxCn0"
 msgstr "Acesse o vídeo em https://www.youtube.com/watch?v=0UGvSCXxCn0"
 
 #: ../../accounting/payment_followup/track_customer_check.rst:8
+#, fuzzy
 msgid "Track uncleared customer check in bank statement"
 msgstr "Rastrear verificação de cliente não desmarcada no extrato bancário"
 
 #: ../../accounting/payment_followup/track_customer_check.rst:12
+#, fuzzy
 msgid "Access the video at https://www.youtube.com/watch?v=EmCvqT8jiQs"
 msgstr "Acesse o vídeo em https://www.youtube.com/watch?v=EmCvqT8jiQs"
 
 #: ../../accounting/payment_terms/installment_plans.rst:8
+#, fuzzy
 msgid "Define an installment plan on customer invoices (Use Payment terms)"
 msgstr ""
 "Definir um plano de parcela em faturas de clientes (usar termos de pagamento)"
 
 #: ../../accounting/payment_terms/installment_plans.rst:12
+#, fuzzy
 msgid "Access the video at https://www.youtube.com/watch?v=VL56Qsv0mzY"
 msgstr "Acesse o vídeo em https://www.youtube.com/watch?v=VL56Qsv0mzY"
 
 #: ../../accounting/payment_terms/payment_terms.rst:8
+#, fuzzy
 msgid "Setup and use payment terms - 50% advance, balance in 30 days"
 msgstr ""
 "Configuração e uso de condições de pagamento-50% antecedência, saldo em 30 dias"
 
 #: ../../accounting/payment_terms/payment_terms.rst:12
+#, fuzzy
 msgid "Access the video at https://www.youtube.com/watch?v=lagIgJBW-r4"
 msgstr "Acesse o vídeo em https://www.youtube.com/watch?v=lagIgJBW-r4"
 
 #: ../../accounting/payment_terms/warning_on_credit_limit.rst:8
+#, fuzzy
 msgid ""
 "Warning message on credit limit reached and block further invoice when it cross "
 "limits"
@@ -1138,46 +1247,57 @@ msgstr ""
 "adicional quando ele cruzar limites"
 
 #: ../../accounting/payment_terms/warning_on_credit_limit.rst:12
+#, fuzzy
 msgid "Access the video at https://www.youtube.com/watch?v=CGMiClvEuuc"
 msgstr "Acesse o vídeo em https://www.youtube.com/watch?v=CGMiClvEuuc"
 
 #: ../../accounting/refund/modify_paid_invoice.rst:9
+#, fuzzy
 msgid "Modify the confirmed customer invoice"
 msgstr "Modificar a fatura de cliente confirmada"
 
 #: ../../accounting/refund/modify_paid_invoice.rst:13
+#, fuzzy
 msgid "Access the video at https://www.youtube.com/watch?v=SfNSZ5UL31E"
 msgstr "Acesse o vídeo em https://www.youtube.com/watch?v=SfNSZ5UL31E"
 
 #: ../../accounting/refund/refund_invoice.rst:9
+#, fuzzy
 msgid "Refund a fully paid customer invoice"
 msgstr "Reembolsar uma fatura de cliente totalmente paga"
 
 #: ../../accounting/refund/refund_invoice.rst:13
+#, fuzzy
 msgid "Access the video at https://www.youtube.com/watch?v=xibj9GBkHiE"
 msgstr "Acesse o vídeo em https://www.youtube.com/watch?v=xibj9GBkHiE"
 
 #: ../../accounting/refund/refund_partial_paid_invoice.rst:8
+#, fuzzy
 msgid "Refund the partially paid invoice"
 msgstr "Reembolsar a fatura parcialmente paga"
 
 #: ../../accounting/refund/refund_partial_paid_invoice.rst:12
+#, fuzzy
 msgid "Access the video at https://www.youtube.com/watch?v=mJCEtbbnyvc"
 msgstr "Acesse o vídeo em https://www.youtube.com/watch?v=mJCEtbbnyvc"
 
 #: ../../accounting/refund/reject_invoice.rst:8
+#, fuzzy
 msgid "Reject customer invoice, which is not issued to customer"
 msgstr "Rejeitar fatura de cliente, que não é emitida para o cliente"
 
 #: ../../accounting/refund/reject_invoice.rst:12
+#, fuzzy
 msgid "Access the video at https://www.youtube.com/watch?v=-kG0gjRa1SE"
 msgstr "Acesse o vídeo em https://www.youtube.com/watch?v=-kG0gjRa1SE"
 
 #: ../../accounting/taxes/apply_default_tax.rst:6
+#, fuzzy
 msgid "Apply default taxes on products or sales order"
 msgstr "Aplicar impostos padrão sobre produtos ou ordem de venda"
 
 #: ../../accounting/taxes/apply_default_tax.rst:8
+#, fuzzy
 msgid ""
 "Taxes applied in your country are installed automatically for most "
 "localizations. Default taxes set in orders and invoices come from each "
@@ -1190,16 +1310,19 @@ msgstr ""
 "quando você vende para empresas que estão no mesmo país/estado do que você."
 
 #: ../../accounting/taxes/apply_default_tax.rst:16
+#, fuzzy
 msgid "Let’s set the default sales and purchase tax to Tax 15.00%."
 msgstr "Vamos definir o imposto de compra e venda padrão para imposto 15, 0%."
 
 #: ../../accounting/taxes/apply_default_tax.rst:19
 #: ../../accounting/taxes/business_to_business_and_customer.rst:26
 #: ../../accounting/taxes/create_new_tax.rst:20
+#, fuzzy
 msgid "Configuration"
 msgstr "Configuração"
 
 #: ../../accounting/taxes/apply_default_tax.rst:21
+#, fuzzy
 msgid ""
 "All the new products created in the Odoo take the default tax set in the "
 "**Accounting/Invoicing** **Settings**. To change the default taxes set for any "
@@ -1214,14 +1337,17 @@ msgstr ""
 #: ../../accounting/taxes/business_to_business_and_customer.rst:38
 #: ../../accounting/taxes/create_new_tax.rst:32
 #: ../../accounting/taxes/tax_included_business_to_customer.rst:12
+#, fuzzy
 msgid "|image0|"
 msgstr "|image0|"
 
 #: ../../accounting/taxes/apply_default_tax.rst:29
+#, fuzzy
 msgid "Create new product"
 msgstr "Criar um novo produto"
 
 #: ../../accounting/taxes/apply_default_tax.rst:31
+#, fuzzy
 msgid ""
 "Let’s create a new product, the default tax which was applied should be applied "
 "on this product."
@@ -1232,14 +1358,17 @@ msgstr ""
 #: ../../accounting/taxes/apply_default_tax.rst:34
 #: ../../accounting/taxes/business_to_business_and_customer.rst:47
 #: ../../accounting/taxes/create_new_tax.rst:66
+#, fuzzy
 msgid "|image1|"
 msgstr "|image1|"
 
 #: ../../accounting/taxes/apply_default_tax.rst:37
+#, fuzzy
 msgid "Create sales order"
 msgstr "Criar ordens de venda"
 
 #: ../../accounting/taxes/apply_default_tax.rst:39
+#, fuzzy
 msgid ""
 "Let’s create a new order and select the same product on the order line, the tax "
 "which was set on the products should be applied on the sales order line tax "
@@ -1251,10 +1380,12 @@ msgstr ""
 
 #: ../../accounting/taxes/apply_default_tax.rst:43
 #: ../../accounting/taxes/business_to_business_and_customer.rst:56
+#, fuzzy
 msgid "|image2|"
 msgstr "|image2|"
 
 #: ../../accounting/taxes/apply_default_tax.rst:45
+#, fuzzy
 msgid ""
 "Now, your salesman do not have to remember that what taxes to be applied on "
 "which product."
@@ -1263,12 +1394,14 @@ msgstr ""
 "que produto."
 
 #: ../../accounting/taxes/business_to_business_and_customer.rst:7
+#, fuzzy
 msgid "Manage product prices for B2B (tax excluded) and B2C (tax included)"
 msgstr ""
 "Gerenciar os preços dos produtos para B2B (imposto excluído) e B2C (imposto "
 "incluso)"
 
 #: ../../accounting/taxes/business_to_business_and_customer.rst:9
+#, fuzzy
 msgid ""
 "When working with consumers, prices are usually expressed with taxes included "
 "in the price (e.g., in most eCommerce). But, when you work in a business "
@@ -1280,6 +1413,7 @@ msgstr ""
 "preços sem impostos."
 
 #: ../../accounting/taxes/business_to_business_and_customer.rst:13
+#, fuzzy
 msgid ""
 "You can manage both use cases easily, as long as you register your prices on "
 "the product with taxes excluded or included, but not both together. If you "
@@ -1294,6 +1428,7 @@ msgstr ""
 "com impostos excluídos (ou incluído): isso é fácil."
 
 #: ../../accounting/taxes/business_to_business_and_customer.rst:19
+#, fuzzy
 msgid ""
 "Let’s see how you can manage the product pricing for both customer at once. "
 "When you have a retailer customer on eCommerce store you can show the price and "
@@ -1308,6 +1443,7 @@ msgstr ""
 "vendas do escritório traseiro ao cliente do negócio."
 
 #: ../../accounting/taxes/business_to_business_and_customer.rst:28
+#, fuzzy
 msgid ""
 "The best way to simplify the price by setting the product price as tax excluded "
 "by default, so all the price defined on the product are always tax excluded. "
@@ -1318,10 +1454,12 @@ msgstr ""
 "sempre impostos excluídos. A outra maneira será calculada automaticamente."
 
 #: ../../accounting/taxes/business_to_business_and_customer.rst:33
+#, fuzzy
 msgid "Product Price"
 msgstr "Configure o preço do produto"
 
 #: ../../accounting/taxes/business_to_business_and_customer.rst:35
+#, fuzzy
 msgid ""
 "Make sure that when you define the product price it will always tax excluded, "
 "and apply the default tax on the product form."
@@ -1330,11 +1468,12 @@ msgstr ""
 "aplique o imposto padrão no formulário do produto."
 
 #: ../../accounting/taxes/business_to_business_and_customer.rst:41
+#, fuzzy
 msgid "Create taxes"
 msgstr "Criar impostos"
 
 #: ../../accounting/taxes/business_to_business_and_customer.rst:43
-#, python-format
+#, fuzzy, python-format
 msgid ""
 "Create a different taxes with the same percentage 15%, one define as **Included "
 "in Price** and for other one which is tax excluded rename the existing ‘Tax "
@@ -1345,11 +1484,12 @@ msgstr ""
 "‘imposto 15, 0%’ para 'imposto 15, 0% exe.’"
 
 #: ../../accounting/taxes/business_to_business_and_customer.rst:50
+#, fuzzy
 msgid "Price List"
 msgstr "Lista de preços"
 
 #: ../../accounting/taxes/business_to_business_and_customer.rst:52
-#, python-format
+#, fuzzy, python-format
 msgid ""
 "Create a pricelist that have the product price always tax included. So, If you "
 "define the product *Laptop* price $1250 and default tax is 15% define the "
@@ -1360,10 +1500,12 @@ msgstr ""
 "15% definem o preço do produto na lista de preços como $1437.05."
 
 #: ../../accounting/taxes/business_to_business_and_customer.rst:59
+#, fuzzy
 msgid "Create a Fiscal Position"
 msgstr "Criar uma posição fiscal"
 
 #: ../../accounting/taxes/business_to_business_and_customer.rst:61
+#, fuzzy
 msgid ""
 "Create a fiscal position that use to swap taxes. When you are selling to "
 "wholesale(b2b) customer, the default tax we have applied on the product is "
@@ -1377,14 +1519,17 @@ msgstr ""
 "imposto incluído."
 
 #: ../../accounting/taxes/business_to_business_and_customer.rst:67
+#, fuzzy
 msgid "|image3|"
 msgstr "|image3|"
 
 #: ../../accounting/taxes/business_to_business_and_customer.rst:70
+#, fuzzy
 msgid "Create a retail customer (b2c)"
 msgstr "Criar um cliente de varejo (B2C)"
 
 #: ../../accounting/taxes/business_to_business_and_customer.rst:72
+#, fuzzy
 msgid ""
 "There are two important fields has to be set correctly when you create a retail "
 "customer, **Sales** **Pricelist** has to be set to *Retail Pricelist (Tax. "
@@ -1396,6 +1541,7 @@ msgstr ""
 "image4|"
 
 #: ../../accounting/taxes/business_to_business_and_customer.rst:77
+#, fuzzy
 msgid ""
 "The **Fiscal Position** should be set to *Retail Customer* under the "
 "**Accounting** and tab."
@@ -1404,14 +1550,17 @@ msgstr ""
 "**Accounting** e guia."
 
 #: ../../accounting/taxes/business_to_business_and_customer.rst:80
+#, fuzzy
 msgid "|image5|"
 msgstr "|image5|"
 
 #: ../../accounting/taxes/business_to_business_and_customer.rst:83
+#, fuzzy
 msgid "Create a normal customer (b2b)"
 msgstr "Criar um cliente normal (B2B)"
 
 #: ../../accounting/taxes/business_to_business_and_customer.rst:85
+#, fuzzy
 msgid ""
 "By default all the customer are created are considered as business customers "
 "with the default pricelist and tax is applied which is always the tax excluded."
@@ -1420,10 +1569,12 @@ msgstr ""
 "lista de preços padrão e imposto é aplicado, que é sempre o imposto excluído."
 
 #: ../../accounting/taxes/business_to_business_and_customer.rst:90
+#, fuzzy
 msgid "Create a test quotation"
 msgstr "Criar uma cotação de teste"
 
 #: ../../accounting/taxes/business_to_business_and_customer.rst:92
+#, fuzzy
 msgid ""
 "Create a quotation from the Sale application, using the Sales / Quotations "
 "menu. Select the *Ajay Patel* as a customer, sell *Laptop* product, you should "
@@ -1434,10 +1585,12 @@ msgstr ""
 "ter o seguinte resultado: $1250 + $187.50 = $1437.50."
 
 #: ../../accounting/taxes/business_to_business_and_customer.rst:97
+#, fuzzy
 msgid "|image6|"
 msgstr "|image6|"
 
 #: ../../accounting/taxes/business_to_business_and_customer.rst:99
+#, fuzzy
 msgid ""
 "When you create a quotation for the normal customer which has tax excluded will "
 "be looking as below."
@@ -1446,10 +1599,12 @@ msgstr ""
 "será olhando como abaixo."
 
 #: ../../accounting/taxes/business_to_business_and_customer.rst:102
+#, fuzzy
 msgid "|image7|"
 msgstr "|image7|"
 
 #: ../../accounting/taxes/business_to_business_and_customer.rst:104
+#, fuzzy
 msgid ""
 "If you negotiate a contract with a customer, whether you negotiate tax included "
 "or tax excluded, you can set the pricelist and the fiscal position on the "
@@ -1462,10 +1617,12 @@ msgstr ""
 "deste cliente."
 
 #: ../../accounting/taxes/create_new_tax.rst:6
+#, fuzzy
 msgid "Create a new taxes"
 msgstr "Criar novos impostos"
 
 #: ../../accounting/taxes/create_new_tax.rst:8
+#, fuzzy
 msgid ""
 "Odoo's tax engine is very flexible and support many different type of taxes: "
 "value added taxes (VAT), eco-taxes, federal/states/city taxes, retention, "
@@ -1478,7 +1635,7 @@ msgstr ""
 "maioria dos países, seu sistema é pré-configurado com os impostos certos."
 
 #: ../../accounting/taxes/create_new_tax.rst:16
-#, python-format
+#, fuzzy, python-format
 msgid ""
 "Let’s create a service tax that computes the tax @ 21% of the service price."
 msgstr ""
@@ -1486,6 +1643,7 @@ msgstr ""
 "serviço."
 
 #: ../../accounting/taxes/create_new_tax.rst:22
+#, fuzzy
 msgid ""
 "Assumed that the you have already installed either **Invoicing** or **Financial "
 "Accounting** application."
@@ -1494,10 +1652,12 @@ msgstr ""
 "financeira** aplicação."
 
 #: ../../accounting/taxes/create_new_tax.rst:26
+#, fuzzy
 msgid "Create a tax"
 msgstr "Criar um imposto"
 
 #: ../../accounting/taxes/create_new_tax.rst:28
+#, fuzzy
 msgid ""
 "The new tax can be created from **Invoicing / Configuration / Taxes** or "
 "**Accounting / Configuration / Taxes**, create a new tax and enter Tax Name, "
@@ -1508,6 +1668,7 @@ msgstr ""
 "entrar nome do imposto, escopo fiscal, cálculo tributário."
 
 #: ../../accounting/taxes/create_new_tax.rst:34
+#, fuzzy
 msgid ""
 "**Tax Name** is a label to the tax that will be displayed on the sales or "
 "purchase order form during sales or purchase process, on the printed invoice "
@@ -1520,6 +1681,7 @@ msgstr ""
 "Avançadas** guia."
 
 #: ../../accounting/taxes/create_new_tax.rst:39
+#, fuzzy
 msgid ""
 "**Tax Scope** is used to define the tax application, it can be *Sales* or "
 "*Purchase* or *None*. You can set None when tax is deprecated or tax is used in "
@@ -1530,6 +1692,7 @@ msgstr ""
 "preterido ou imposto é usado em um grupo, mas não aplicável diretamente."
 
 #: ../../accounting/taxes/create_new_tax.rst:43
+#, fuzzy
 msgid ""
 "If you want to avoid using a tax, you can not delete it because the tax is "
 "probably used in several invoices. So, in order to avoid users to continue "
@@ -1541,6 +1704,7 @@ msgstr ""
 "imposto como nenhum."
 
 #: ../../accounting/taxes/create_new_tax.rst:48
+#, fuzzy
 msgid ""
 "**Tax Computation** is a type that can be selected according to the tax "
 "computation required"
@@ -1549,6 +1713,7 @@ msgstr ""
 "cálculo do imposto exigido"
 
 #: ../../accounting/taxes/create_new_tax.rst:51
+#, fuzzy
 msgid "Fixed: eco-taxes, etc."
 msgstr "Fixo: eco-impostos, etc."
 
@@ -1558,14 +1723,17 @@ msgid "Percentage of Price: most common (e.g. 15% sales tax)"
 msgstr ""
 
 #: ../../accounting/taxes/create_new_tax.rst:55
+#, fuzzy
 msgid "Percentage of Price Tax Included: used in Brazil."
 msgstr "Percentual de imposto de preço incluso: usado no Brasil."
 
 #: ../../accounting/taxes/create_new_tax.rst:57
+#, fuzzy
 msgid "Group of taxes: allows to have a compound tax"
 msgstr "Grupo de impostos: permite ter um imposto composto"
 
 #: ../../accounting/taxes/create_new_tax.rst:59
+#, fuzzy
 msgid ""
 "If you need more advanced tax mechanism, you can install the module "
 "\\`account_tax_python\\` and you will be able to define new taxes with Python "
@@ -1576,10 +1744,12 @@ msgstr ""
 "com código Python."
 
 #: ../../accounting/taxes/create_new_tax.rst:64
+#, fuzzy
 msgid "Advanced configuration"
 msgstr "Configuração avançada"
 
 #: ../../accounting/taxes/create_new_tax.rst:68
+#, fuzzy
 msgid ""
 "**Label on Invoices** is a short text on how you want this tax to be printed on "
 "invoice line. For example, a tax named \"*Service tax @ 21%*\" can have the "
@@ -1590,6 +1760,7 @@ msgstr ""
 "\"*imposto de serviço @ 21%*\" pode ter o seguinte rótulo na fatura \"*21%*\"."
 
 #: ../../accounting/taxes/create_new_tax.rst:72
+#, fuzzy
 msgid ""
 "**Tax Group** defines where this tax is summed in the invoice footer. All the "
 "tax belonging to the same tax group will be grouped on the invoice footer. "
@@ -1609,6 +1780,7 @@ msgid ""
 msgstr ""
 
 #: ../../accounting/taxes/create_new_tax.rst:81
+#, fuzzy
 msgid ""
 "**Tags**: are used for custom reports. Usually, you can keep this field empty."
 msgstr ""
@@ -1616,10 +1788,12 @@ msgstr ""
 "manter este campo vazio."
 
 #: ../../accounting/taxes/retention_tax.rst:6
+#, fuzzy
 msgid "Manage withholding taxes, ledger and payment to government"
 msgstr "Gerencie impostos retidos na fonte, contabilidade e pagamento ao governo"
 
 #: ../../accounting/taxes/retention_tax.rst:7
+#, fuzzy
 msgid ""
 "A withholding tax, also called a retention tax, it is a government requirement "
 "for the payer of a customer invoice to withhold or deduct tax from the payment, "
@@ -1632,6 +1806,7 @@ msgstr ""
 "das jurisdições, o imposto retido na fonte aplica-se ao rendimento laboral."
 
 #: ../../accounting/taxes/retention_tax.rst:12
+#, fuzzy
 msgid ""
 "With normal taxes, the tax is added to the subtotal to give you the total to "
 "pay. As opposed to normal taxes, withholding taxes are deducted from the amount "
@@ -1642,11 +1817,13 @@ msgstr ""
 "deduzidos do valor a pagar, uma vez que o imposto será pago pelo cliente."
 
 #: ../../accounting/taxes/retention_tax.rst:16
+#, fuzzy
 msgid "As, an example, in Colombia you may have the following vendor bills:"
 msgstr ""
 "Como exemplo, na Colômbia, você pode ter as seguintes faturas de fornecedor:"
 
 #: ../../accounting/taxes/retention_tax.rst:20
+#, fuzzy
 msgid ""
 "In this example, the company who sent the invoice was of 1000$ + 15% Tax the "
 "customer has to deduct the 10% tax and pay to the government."
@@ -1655,23 +1832,28 @@ msgstr ""
 "tem que deduzir o imposto de 10% e pagar ao governo."
 
 #: ../../accounting/taxes/retention_tax.rst:25
+#, fuzzy
 msgid "Access the video at https://www.youtube.com/watch?v=b23D98Vpf4w"
 msgstr "Acesse o vídeo em https://www.youtube.com/watch?v=b23D98Vpf4w"
 
 #: ../../accounting/taxes/tax_based_on_loal_or_export_sales.rst:7
+#, fuzzy
 msgid "Apply tax based on local or export sales"
 msgstr "Aplicar imposto baseado em vendas locais ou de exportação"
 
 #: ../../accounting/taxes/tax_based_on_loal_or_export_sales.rst:11
+#, fuzzy
 msgid "Access the video at https://www.youtube.com/watch?v=RUnVpurD6gQ"
 msgstr "Acesse o vídeo em https://www.youtube.com/watch?v=RUnVpurD6gQ"
 
 #: ../../accounting/taxes/tax_included_business_to_customer.rst:6
+#, fuzzy
 msgid "Define product prices for Business to Customer (tax included)"
 msgstr ""
 "Definir os preços dos produtos para o negócio para o cliente (imposto incluído)"
 
 #: ../../accounting/taxes/tax_included_business_to_customer.rst:8
+#, fuzzy
 msgid ""
 "In most countries, business to customers prices are tax-included. Check "
 "**Included in Price** for each of your sales taxes in **Accounting / "
@@ -1682,6 +1864,7 @@ msgstr ""
 "em **contabilidade/configuração/impostos**."
 
 #: ../../accounting/taxes/tax_included_business_to_customer.rst:14
+#, fuzzy
 msgid ""
 "This way the price set on the product form includes the tax. As an example, "
 "let's say you have a product with a sales tax of 10%. The sales price on the "
@@ -1692,112 +1875,138 @@ msgstr ""
 "preço de venda no formulário de produto é $100."
 
 #: ../../accounting/taxes/tax_included_business_to_customer.rst:18
+#, fuzzy
 msgid "If the tax is **not included** in the price, you will get:"
 msgstr "Se o imposto é **não incluído** no preço, você receberá:"
 
 #: ../../accounting/taxes/tax_included_business_to_customer.rst:21
 #: ../../accounting/taxes/tax_included_business_to_customer.rst:31
+#, fuzzy
 msgid "Price without tax"
 msgstr "Preço sem imposto"
 
 #: ../../accounting/taxes/tax_included_business_to_customer.rst:21
 #: ../../accounting/taxes/tax_included_business_to_customer.rst:35
+#, fuzzy
 msgid "$100"
 msgstr "$100"
 
 #: ../../accounting/taxes/tax_included_business_to_customer.rst:23
 #: ../../accounting/taxes/tax_included_business_to_customer.rst:33
+#, fuzzy
 msgid "Taxes"
 msgstr "Impostos"
 
 #: ../../accounting/taxes/tax_included_business_to_customer.rst:23
+#, fuzzy
 msgid "$15"
 msgstr "$15"
 
 #: ../../accounting/taxes/tax_included_business_to_customer.rst:25
 #: ../../accounting/taxes/tax_included_business_to_customer.rst:35
+#, fuzzy
 msgid "Total to pay"
 msgstr "Total a pagar"
 
 #: ../../accounting/taxes/tax_included_business_to_customer.rst:25
+#, fuzzy
 msgid "$115"
 msgstr "$115"
 
 #: ../../accounting/taxes/tax_included_business_to_customer.rst:28
+#, fuzzy
 msgid "If the tax is **included** in the price:"
 msgstr "Se o imposto for **incluído** no preço:"
 
 #: ../../accounting/taxes/tax_included_business_to_customer.rst:31
+#, fuzzy
 msgid "$86.96"
 msgstr "$86.96"
 
 #: ../../accounting/taxes/tax_included_business_to_customer.rst:33
+#, fuzzy
 msgid "$13.04"
 msgstr "$13.04"
 
 #: ../../accounting/vendor_bills/cash_expense.rst:8
+#, fuzzy
 msgid "Register cash sales and expense in account"
 msgstr "Registrar vendas em dinheiro e despesas em conta"
 
 #: ../../accounting/vendor_bills/cash_expense.rst:12
+#, fuzzy
 msgid "Access the video at https://www.youtube.com/watch?v=m7wjxc3Mbck"
 msgstr "Acesse o vídeo em https://www.youtube.com/watch?v=m7wjxc3Mbck"
 
 #: ../../accounting/vendor_bills/customer_aged_payable_report.rst:9
+#, fuzzy
 msgid "Forecast future vendor bills to pay"
 msgstr "Prever contas de fornecedor futuras para pagar"
 
 #: ../../accounting/vendor_bills/customer_aged_payable_report.rst:13
+#, fuzzy
 msgid "Access the video at https://www.youtube.com/watch?v=4bbIW506cM8"
 msgstr "Acesse o vídeo em https://www.youtube.com/watch?v=4bbIW506cM8"
 
 #: ../../accounting/vendor_bills/manage_employee_expense.rst:9
+#, fuzzy
 msgid "Manage advance payment, employee expenses and reconciliation"
 msgstr ""
 "Gerencie pagamentos antecipados, despesas com funcionários e reconciliação"
 
 #: ../../accounting/vendor_bills/manage_employee_expense.rst:13
+#, fuzzy
 msgid "Access the video at https://www.youtube.com/watch?v=t7PS7EOiPLM"
 msgstr "Acesse o vídeo em https://www.youtube.com/watch?v=t7PS7EOiPLM"
 
 #: ../../accounting/vendor_bills/partial_payment_on_multiple_bills.rst:8
+#, fuzzy
 msgid "Register partial payment while paying to multiple vendor bills"
 msgstr "Registre o pagamento parcial ao pagar a várias contas de fornecedor"
 
 #: ../../accounting/vendor_bills/partial_payment_on_multiple_bills.rst:12
+#, fuzzy
 msgid "Access the video at https://www.youtube.com/watch?v=O51ACPIaiOA"
 msgstr "Acesse o vídeo em https://www.youtube.com/watch?v=O51ACPIaiOA"
 
 #: ../../accounting/vendor_bills/print_check.rst:8
+#, fuzzy
 msgid "Pay vendor bills by check and print check from Odoo accounting"
 msgstr ""
 "Pagar contas de fornecedor por cheque e cheque de impressão da contabilidade "
 "Odoo"
 
 #: ../../accounting/vendor_bills/print_check.rst:12
+#, fuzzy
 msgid "Access the video at https://www.youtube.com/watch?v=Lw4vX1A8tNE"
 msgstr "Acesse o vídeo em https://www.youtube.com/watch?v=Lw4vX1A8tNE"
 
 #: ../../accounting/vendor_bills/single_bill_form_multiple_orders.rst:8
+#, fuzzy
 msgid "Create single vendor bill from multiple purchase orders"
 msgstr "Criar fatura de fornecedor único a partir de várias ordens de compra"
 
 #: ../../accounting/vendor_bills/single_bill_form_multiple_orders.rst:12
+#, fuzzy
 msgid "Access the video at https://www.youtube.com/watch?v=eVKzzkfZzE0"
 msgstr "Acesse o vídeo em https://www.youtube.com/watch?v=eVKzzkfZzE0"
 
 #: ../../accounting/vendor_bills/vendor_bill.rst:8
+#, fuzzy
 msgid "Purchase order to vendor bill, payment through check"
 msgstr "Ordem de compra à fatura do fornecedor, pagamento através da verificação"
 
 #: ../../accounting/vendor_bills/vendor_bill.rst:12
+#, fuzzy
 msgid "Access the video at https://www.youtube.com/watch?v=oAFcDFNBkCE"
 msgstr "Acesse o vídeo em https://www.youtube.com/watch?v=oAFcDFNBkCE"
 
 #: ../../accounting/vendor_bills/vendor_bill_payment.rst:8
+#, fuzzy
 msgid "Pay several vendor bills at once"
 msgstr "Pague várias contas de fornecedor ao mesmo tempo"
 
 #: ../../accounting/vendor_bills/vendor_bill_payment.rst:12
+#, fuzzy
 msgid "Access the video at https://www.youtube.com/watch?v=1TBV0gUSq84"
 msgstr "Acesse o vídeo em https://www.youtube.com/watch?v=1TBV0gUSq84"
