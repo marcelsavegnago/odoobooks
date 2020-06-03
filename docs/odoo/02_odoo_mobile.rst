@@ -15,6 +15,8 @@ The first Odoo mobile application was launched with the release on Odoo 10. Begi
 
 Odoo has also released an iOS mobile application along with the release of Odoo version 11. Today Odoo support mobile application for Android and iOS both mobile based operating systems. You can download the Odoo official mobile application from their respective apps stores for Android download it form Google Play store and for iOS download it form Apple apps store.
 
-.. warning:: Odoo mobile application is not support with the Odoo community version. Only Odoo Enterprise and Odoo Online versions are compatible with Android and iOS mobile applications. 
+.. warning:: Odoo mobile application is support with the Odoo community version trought the KMEE PlayStore App, a reactnative webview. It requires the Web_responsive module installed and a v11 or later to work.
+
+[Download the OCA Mobile App](https://play.google.com/store/apps/details?id=com.oca)
 
 Let’s see the installation of mobile application on Android based mobile, connect it with the Odoo online platform or locally hosted instance and get an access to all the Odoo applications on your mobile.
